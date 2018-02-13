@@ -1,0 +1,5168 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Indians vs. Clippers
+<2018-04-06 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       qGPJvO4YC6J_yCIKcRcWU2B7@stanza.co
+:LOCATION: Opening Night Fireworks & Bike to the Ballpark
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Celebrate the 2018 season opener with Bike to the Ballpark from Sun King's downtown brewery to Victory Field. A spectacular fireworks display follows the game. Gates open at 5 30 PM.
+
+The Tribe and our official weather partner, Fox 59, guarantee the outside temperature will be at least 60 degrees at first pitch or fans in attendance receive a ticket to another April game of their choice.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8t-2t
+
+Shop  https //stza.co/+vK8t-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180406T231500Z
+DTEND:20180407T021500Z
+UID:qGPJvO4YC6J_yCIKcRcWU2B7@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Celebrate the 2018 season opener with Bike to the Ballpark from Sun King's downtown brewery to Victory Field. A spectacular fireworks display follows the game. Gates open at 5:30 PM.\n\nThe Tribe and our official weather partner, Fox 59, guarantee the outside temperature will be at least 60 degrees at first pitch or fans in attendance receive a ticket to another April game of their choice.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8t-2t\n\nShop: https://stza.co/+vK8t-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Opening Night Fireworks & Bike to the Ballpark
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-04-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       v_58mDg22DNqrhm-74tMno30@stanza.co
+:LOCATION: Opening Weekend Continues
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Come celebrate the start of baseball season all weekend long at Victory Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8v-1T
+
+Shop  https //stza.co/+vK8v-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180407T230500Z
+DTEND:20180408T020500Z
+UID:v_58mDg22DNqrhm-74tMno30@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Come celebrate the start of baseball season all weekend long at Victory Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8v-1T\n\nShop: https://stza.co/+vK8v-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Opening Weekend Continues
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-04-08 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       XVOsRv9lCr0pHlavuBeJCzBi@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8w-2v
+
+Shop  https //stza.co/+vK8w-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180408T173500Z
+DTEND:20180408T203500Z
+UID:XVOsRv9lCr0pHlavuBeJCzBi@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8w-2v\n\nShop: https://stza.co/+vK8w-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-04-09 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       gQKdRDGQuV8iFw_47-Ps3QNE@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8y-B
+
+Shop  https //stza.co/+vK8y-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180409T230500Z
+DTEND:20180410T020500Z
+UID:gQKdRDGQuV8iFw_47-Ps3QNE@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8y-B\n\nShop: https://stza.co/+vK8y-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-04-10 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       l5JRUbrZ2-or3BSUqoSeJYCo@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8B-2x
+
+Shop  https //stza.co/+vK8B-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180410T230500Z
+DTEND:20180411T020500Z
+UID:l5JRUbrZ2-or3BSUqoSeJYCo@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8B-2x\n\nShop: https://stza.co/+vK8B-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-04-11 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       QZ-q2T2AO2XVWkV9TX3Cl0Zp@stanza.co
+:LOCATION: Baseball in Education
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9 30 AM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8C-3Z
+
+Shop  https //stza.co/+vK8C-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180411T150500Z
+DTEND:20180411T180500Z
+UID:QZ-q2T2AO2XVWkV9TX3Cl0Zp@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9:30 AM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8C-3Z\n\nShop: https://stza.co/+vK8C-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball in Education
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bisons
+<2018-04-12 Thu 13:05-16:05>
+:PROPERTIES:
+:ID:       yUC0jszGjrem0EBRFPGaXExY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bisons Indians @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vK7Z-3W
+
+Shop  https //stza.co/+vK7Z-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bisons
+END:VALARM
+DTSTART:20180412T180500Z
+DTEND:20180412T210500Z
+UID:yUC0jszGjrem0EBRFPGaXExY@stanza.co
+SUMMARY:Indians @ Bisons
+DESCRIPTION:Indians @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vK7Z-3W\n\nShop: https://stza.co/+vK7Z-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bisons
+<2018-04-13 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       0X3OyboviD1mhwYjhZjpbpQx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bisons Indians @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vK7_-k
+
+Shop  https //stza.co/+vK7_-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bisons
+END:VALARM
+DTSTART:20180413T220500Z
+DTEND:20180414T010500Z
+UID:0X3OyboviD1mhwYjhZjpbpQx@stanza.co
+SUMMARY:Indians @ Bisons
+DESCRIPTION:Indians @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vK7_-k\n\nShop: https://stza.co/+vK7_-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bisons
+<2018-04-14 Sat 12:05-15:05>
+:PROPERTIES:
+:ID:       FtwwkJ3AN0nh74cKogkAxTLX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bisons Indians @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vK7$-1c
+
+Shop  https //stza.co/+vK7$-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bisons
+END:VALARM
+DTSTART:20180414T170500Z
+DTEND:20180414T200500Z
+UID:FtwwkJ3AN0nh74cKogkAxTLX@stanza.co
+SUMMARY:Indians @ Bisons
+DESCRIPTION:Indians @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vK7$-1c\n\nShop: https://stza.co/+vK7$-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bisons
+<2018-04-15 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       WdiT85QI9y5_G3mHucufdj6D@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bisons Indians @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vK80-3y
+
+Shop  https //stza.co/+vK80-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bisons
+END:VALARM
+DTSTART:20180415T170500Z
+DTEND:20180415T200500Z
+UID:WdiT85QI9y5_G3mHucufdj6D@stanza.co
+SUMMARY:Indians @ Bisons
+DESCRIPTION:Indians @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vK80-3y\n\nShop: https://stza.co/+vK80-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Chiefs
+<2018-04-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       myudb4qN7vHibbZgqQoFJIqD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Chiefs Indians @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKaX-29
+
+Shop  https //stza.co/+vKaX-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Chiefs
+END:VALARM
+DTSTART:20180416T223500Z
+DTEND:20180417T013500Z
+UID:myudb4qN7vHibbZgqQoFJIqD@stanza.co
+SUMMARY:Indians @ Chiefs
+DESCRIPTION:Indians @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKaX-29\n\nShop: https://stza.co/+vKaX-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Chiefs
+<2018-04-17 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       0pTxbPQVhehJIW2inpyZsRan@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Chiefs Indians @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKaY-2H
+
+Shop  https //stza.co/+vKaY-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Chiefs
+END:VALARM
+DTSTART:20180417T223500Z
+DTEND:20180418T013500Z
+UID:0pTxbPQVhehJIW2inpyZsRan@stanza.co
+SUMMARY:Indians @ Chiefs
+DESCRIPTION:Indians @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKaY-2H\n\nShop: https://stza.co/+vKaY-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Chiefs
+<2018-04-18 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       5-4aOmfc57Jsi-lm0wcRSb_9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Chiefs Indians @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKaZ-c
+
+Shop  https //stza.co/+vKaZ-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Chiefs
+END:VALARM
+DTSTART:20180418T143000Z
+DTEND:20180418T173000Z
+UID:5-4aOmfc57Jsi-lm0wcRSb_9@stanza.co
+SUMMARY:Indians @ Chiefs
+DESCRIPTION:Indians @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKaZ-c\n\nShop: https://stza.co/+vKaZ-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Knights
+<2018-04-20 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       NGGrQJ270s9Cqv4gbMZa_U5i@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Knights Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8E-24
+
+Shop  https //stza.co/+vK8E-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Knights
+END:VALARM
+DTSTART:20180420T231500Z
+DTEND:20180421T021500Z
+UID:NGGrQJ270s9Cqv4gbMZa_U5i@stanza.co
+SUMMARY:Indians vs. Knights
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8E-24\n\nShop: https://stza.co/+vK8E-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Knights
+<2018-04-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       oZF_vjnbxcz_qcviJx4jkhTo@stanza.co
+:LOCATION: MARVEL Super Hero Night - Black Panther
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Knights Stop by PNC Plaza before and during the game to meet Black Panther. Gates open at 5 30 PM.
+
+The first 2,500 fans through the Victory Field gates will receive a Black Panther bobblehead. Plus, the Tribe will wear Black Panther jerseys, which will be auctioned off to raise money for Together We Rise.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8H-t
+
+Shop  https //stza.co/+vK8H-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Knights
+END:VALARM
+DTSTART:20180421T230500Z
+DTEND:20180422T020500Z
+UID:oZF_vjnbxcz_qcviJx4jkhTo@stanza.co
+SUMMARY:Indians vs. Knights
+DESCRIPTION:Stop by PNC Plaza before and during the game to meet Black Panther. Gates open at 5:30 PM.\n\nThe first 2,500 fans through the Victory Field gates will receive a Black Panther bobblehead. Plus, the Tribe will wear Black Panther jerseys, which will be auctioned off to raise money for Together We Rise.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8H-t\n\nShop: https://stza.co/+vK8H-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MARVEL Super Hero Night - Black Panther
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Knights
+<2018-04-22 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       4bUYT4ahvrStt1ekML7D4m3j@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Knights Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+Touch-a-truck with a fire truck from the Greenwood Fire Department, a police car from the Indiana Sheriff's Association and an ambulance from Franciscan Health. The first 1,500 kids 14 and under get a fire chief hat.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8J-2e
+
+Shop  https //stza.co/+vK8J-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Knights
+END:VALARM
+DTSTART:20180422T173500Z
+DTEND:20180422T203500Z
+UID:4bUYT4ahvrStt1ekML7D4m3j@stanza.co
+SUMMARY:Indians vs. Knights
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nTouch-a-truck with a fire truck from the Greenwood Fire Department, a police car from the Indiana Sheriff's Association and an ambulance from Franciscan Health. The first 1,500 kids 14 and under get a fire chief hat.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8J-2e\n\nShop: https://stza.co/+vK8J-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Chiefs
+<2018-04-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       5V1qA4oh-ERXug15htKgRYwl@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Chiefs Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Bring your four-legged fan to enjoy the game from the right field lawn. Packages must be purchased in advance by calling the Victory Field Box Office at 317-269-2282.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8K-1
+
+Shop  https //stza.co/+vK8K-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Chiefs
+END:VALARM
+DTSTART:20180423T230500Z
+DTEND:20180424T020500Z
+UID:5V1qA4oh-ERXug15htKgRYwl@stanza.co
+SUMMARY:Indians vs. Chiefs
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nBring your four-legged fan to enjoy the game from the right field lawn. Packages must be purchased in advance by calling the Victory Field Box Office at 317-269-2282.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8K-1\n\nShop: https://stza.co/+vK8K-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Chiefs
+<2018-04-24 Tue 10:05-13:05>
+:PROPERTIES:
+:ID:       UW2Skdct2Ml7ocCbYCHueYhi@stanza.co
+:LOCATION: Baseball in Education
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Chiefs Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9 30 AM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8N-20
+
+Shop  https //stza.co/+vK8N-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Chiefs
+END:VALARM
+DTSTART:20180424T150500Z
+DTEND:20180424T180500Z
+UID:UW2Skdct2Ml7ocCbYCHueYhi@stanza.co
+SUMMARY:Indians vs. Chiefs
+DESCRIPTION:Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9:30 AM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8N-20\n\nShop: https://stza.co/+vK8N-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball in Education
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Chiefs
+<2018-04-25 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       fw6s4Hx-CwNVReZq8CPTeV_N@stanza.co
+:LOCATION: Wednesday Day Game
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Chiefs Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8P-I
+
+Shop  https //stza.co/+vK8P-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Chiefs
+END:VALARM
+DTSTART:20180425T173500Z
+DTEND:20180425T203500Z
+UID:fw6s4Hx-CwNVReZq8CPTeV_N@stanza.co
+SUMMARY:Indians vs. Chiefs
+DESCRIPTION:Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8P-I\n\nShop: https://stza.co/+vK8P-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wednesday Day Game
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-04-27 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       49hUw-6xbp_W-uqYZbFMjS78@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK88
+
+Follow on MiLB First Pitch  https //stza.co/+vK88-2O
+
+Shop  https //stza.co/+vK88-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180427T231500Z
+DTEND:20180428T021500Z
+UID:49hUw-6xbp_W-uqYZbFMjS78@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK88\n\nFollow on MiLB First Pitch: https://stza.co/+vK88-2O\n\nShop: https://stza.co/+vK88-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-04-28 Sat 18:15-21:15>
+:PROPERTIES:
+:ID:       uH2cNwiPhdKhYDXLvApmQmn5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK89
+
+Follow on MiLB First Pitch  https //stza.co/+vK89-3c
+
+Shop  https //stza.co/+vK89-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180428T231500Z
+DTEND:20180429T021500Z
+UID:uH2cNwiPhdKhYDXLvApmQmn5@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK89\n\nFollow on MiLB First Pitch: https://stza.co/+vK89-3c\n\nShop: https://stza.co/+vK89-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-04-29 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       0UEkFH6qHVTbFz_e09tRHXxv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8a
+
+Follow on MiLB First Pitch  https //stza.co/+vK8a-A
+
+Shop  https //stza.co/+vK8a-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180429T180500Z
+DTEND:20180429T210500Z
+UID:0UEkFH6qHVTbFz_e09tRHXxv@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8a\n\nFollow on MiLB First Pitch: https://stza.co/+vK8a-A\n\nShop: https://stza.co/+vK8a-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-04-30 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       3gLPsfmVml7mz3Weih5ptDQO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKa_-3U
+
+Shop  https //stza.co/+vKa_-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180430T223500Z
+DTEND:20180501T013500Z
+UID:3gLPsfmVml7mz3Weih5ptDQO@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKa_-3U\n\nShop: https://stza.co/+vKa_-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-05-01 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       VfmgOY2YSzpken6vI8GhI99X@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKa$-3t
+
+Shop  https //stza.co/+vKa$-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180501T223500Z
+DTEND:20180502T013500Z
+UID:VfmgOY2YSzpken6vI8GhI99X@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKa$-3t\n\nShop: https://stza.co/+vKa$-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-05-02 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       Usp-MHBDJgQhVxvYcViw9ixA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb0-2K
+
+Shop  https //stza.co/+vKb0-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180502T143500Z
+DTEND:20180502T173500Z
+UID:Usp-MHBDJgQhVxvYcViw9ixA@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb0-2K\n\nShop: https://stza.co/+vKb0-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Stripers
+<2018-05-03 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       a9oI8XMIG3vyCzwr_v8lYxM4@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Stripers Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8Q-12
+
+Shop  https //stza.co/+vK8Q-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Stripers
+END:VALARM
+DTSTART:20180503T230500Z
+DTEND:20180504T020500Z
+UID:a9oI8XMIG3vyCzwr_v8lYxM4@stanza.co
+SUMMARY:Indians vs. Stripers
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8Q-12\n\nShop: https://stza.co/+vK8Q-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Stripers
+<2018-05-04 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       W6JIP6akbJi8eXuFrr7HG-Fj@stanza.co
+:LOCATION: May the force be with you! Come check out Stars Wars Night at the park
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Stripers Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Victory Field turns into a galaxy far, far away with Star Wars character appearances, music, in-game entertainment and more.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8S-1p
+
+Shop  https //stza.co/+vK8S-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Stripers
+END:VALARM
+DTSTART:20180504T231500Z
+DTEND:20180505T021500Z
+UID:W6JIP6akbJi8eXuFrr7HG-Fj@stanza.co
+SUMMARY:Indians vs. Stripers
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nVictory Field turns into a galaxy far, far away with Star Wars character appearances, music, in-game entertainment and more.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8S-1p\n\nShop: https://stza.co/+vK8S-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:May the force be with you! Come check out Stars Wars Night at the park
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Stripers
+<2018-05-05 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       yxma4kJ6_YR6L2TBSGJf_xDj@stanza.co
+:LOCATION: Team Autographs
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Stripers Arrive early for autographs from your 2018 Indians. Gates open at 5 00 PM, with autographs beginning at 5 15 PM and ending at 6 00 PM.
+
+The first 2,500 fans will receive a Steven Brault bobblehead.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8V-4
+
+Shop  https //stza.co/+vK8V-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Stripers
+END:VALARM
+DTSTART:20180505T230500Z
+DTEND:20180506T020500Z
+UID:yxma4kJ6_YR6L2TBSGJf_xDj@stanza.co
+SUMMARY:Indians vs. Stripers
+DESCRIPTION:Arrive early for autographs from your 2018 Indians. Gates open at 5:00 PM, with autographs beginning at 5:15 PM and ending at 6:00 PM.\n\nThe first 2,500 fans will receive a Steven Brault bobblehead.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8V-4\n\nShop: https://stza.co/+vK8V-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Team Autographs
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Stripers
+<2018-05-06 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       J00sUIgWtYC3QR0E205yD71D@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Stripers Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+The first 1,500 kids through the gates will receive an Indians bat and ball giveaway.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8W-1A
+
+Shop  https //stza.co/+vK8W-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Stripers
+END:VALARM
+DTSTART:20180506T173500Z
+DTEND:20180506T203500Z
+UID:J00sUIgWtYC3QR0E205yD71D@stanza.co
+SUMMARY:Indians vs. Stripers
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nThe first 1,500 kids through the gates will receive an Indians bat and ball giveaway.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8W-1A\n\nShop: https://stza.co/+vK8W-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-05-07 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       _lOUVav0emEUUEU8mzeH1KK2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~uXDJ
+
+Follow on MiLB First Pitch  https //stza.co/+uXDJ-2m
+
+Shop  https //stza.co/+uXDJ-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180507T223000Z
+DTEND:20180508T013000Z
+UID:_lOUVav0emEUUEU8mzeH1KK2@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~uXDJ\n\nFollow on MiLB First Pitch: https://stza.co/+uXDJ-2m\n\nShop: https://stza.co/+uXDJ-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-05-08 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       H2VKGiXhADENszlAit7HHFL2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~uXDS
+
+Follow on MiLB First Pitch  https //stza.co/+uXDS-1Y
+
+Shop  https //stza.co/+uXDS-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180508T223000Z
+DTEND:20180509T013000Z
+UID:H2VKGiXhADENszlAit7HHFL2@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~uXDS\n\nFollow on MiLB First Pitch: https://stza.co/+uXDS-1Y\n\nShop: https://stza.co/+uXDS-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-05-09 Wed 10:00-13:00>
+:PROPERTIES:
+:ID:       k7jV8Y0IFQseVZpq6qEFGtHa@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~uXDY
+
+Follow on MiLB First Pitch  https //stza.co/+uXDY-3l
+
+Shop  https //stza.co/+uXDY-28
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180509T150000Z
+DTEND:20180509T180000Z
+UID:k7jV8Y0IFQseVZpq6qEFGtHa@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~uXDY\n\nFollow on MiLB First Pitch: https://stza.co/+uXDY-3l\n\nShop: https://stza.co/+uXDY-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-05-10 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       mi-9ZjGoYznmGs_nMhx6crnt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~uXE5
+
+Follow on MiLB First Pitch  https //stza.co/+uXE5-1V
+
+Shop  https //stza.co/+uXE5-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180510T230000Z
+DTEND:20180511T020000Z
+UID:mi-9ZjGoYznmGs_nMhx6crnt@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~uXE5\n\nFollow on MiLB First Pitch: https://stza.co/+uXE5-1V\n\nShop: https://stza.co/+uXE5-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-05-11 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       PUs90a3x9IVOFvK0z68JWS1f@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+The sale of all products with ties to peanuts - peanuts, Cracker Jack and others - will be suspended for one night. Peanut products are also disallowed in the Toyota lawn area.
+
+Give your troop, den or pack an experience they will never forget with an overnight campout in the Victory Field outfield. Participants must be pre-registered to take part in the event. To secure a spot for your scout, call the Victory Field Box Office at 317-269-3545.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8Z-1N
+
+Shop  https //stza.co/+vK8Z-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180511T231500Z
+DTEND:20180512T021500Z
+UID:PUs90a3x9IVOFvK0z68JWS1f@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nThe sale of all products with ties to peanuts - peanuts, Cracker Jack and others - will be suspended for one night. Peanut products are also disallowed in the Toyota lawn area.\n\nGive your troop, den or pack an experience they will never forget with an overnight campout in the Victory Field outfield. Participants must be pre-registered to take part in the event. To secure a spot for your scout, call the Victory Field Box Office at 317-269-3545.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8Z-1N\n\nShop: https://stza.co/+vK8Z-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-05-12 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       NH7tU-oj3a4eZ1HOhqcPSTAp@stanza.co
+:LOCATION: DC Comics Super Hero Night - Superman & Wonder Woman
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Stop by PNC Plaza before and during the game to meet Superman and Wonder Woman. Gates open at 5 30 PM.
+
+The first 1,500 kids 14 and under will receive a TBD giveaway. Plus, the Tribe will wear specialty jerseys, which will be auctioned off to raise money for local charities.
+
+Follow on MiLB First Pitch  https //stza.co/+vK8$-s
+
+Shop  https //stza.co/+vK8$-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180512T230500Z
+DTEND:20180513T020500Z
+UID:NH7tU-oj3a4eZ1HOhqcPSTAp@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Stop by PNC Plaza before and during the game to meet Superman and Wonder Woman. Gates open at 5:30 PM.\n\nThe first 1,500 kids 14 and under will receive a TBD giveaway. Plus, the Tribe will wear specialty jerseys, which will be auctioned off to raise money for local charities.\n\nFollow on MiLB First Pitch: https://stza.co/+vK8$-s\n\nShop: https://stza.co/+vK8$-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:DC Comics Super Hero Night - Superman & Wonder Woman
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-05-13 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       Nw8NV0NwMj5vEVY7Lxt_fLRF@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+Join us on Mother's Day as we recognize all the amazing moms out there.
+
+Follow on MiLB First Pitch  https //stza.co/+vK91-g
+
+Shop  https //stza.co/+vK91-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180513T173500Z
+DTEND:20180513T203500Z
+UID:Nw8NV0NwMj5vEVY7Lxt_fLRF@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nJoin us on Mother's Day as we recognize all the amazing moms out there.\n\nFollow on MiLB First Pitch: https://stza.co/+vK91-g\n\nShop: https://stza.co/+vK91-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Tides
+<2018-05-15 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       S1Qac4QBiFNCJVx2aTl7HjjU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Tides Indians @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKaL-1B
+
+Shop  https //stza.co/+vKaL-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Tides
+END:VALARM
+DTSTART:20180515T223500Z
+DTEND:20180516T013500Z
+UID:S1Qac4QBiFNCJVx2aTl7HjjU@stanza.co
+SUMMARY:Indians @ Tides
+DESCRIPTION:Indians @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKaL-1B\n\nShop: https://stza.co/+vKaL-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Tides
+<2018-05-16 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       jeJrselSdvwSvGqwkCNyVtI-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Tides Indians @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKaM-1G
+
+Shop  https //stza.co/+vKaM-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Tides
+END:VALARM
+DTSTART:20180516T223500Z
+DTEND:20180517T013500Z
+UID:jeJrselSdvwSvGqwkCNyVtI-@stanza.co
+SUMMARY:Indians @ Tides
+DESCRIPTION:Indians @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKaM-1G\n\nShop: https://stza.co/+vKaM-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Tides
+<2018-05-17 Thu 11:05-14:05>
+:PROPERTIES:
+:ID:       tXgLzhY41uNlSPju1Nndsaqb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Tides Indians @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKaN-3
+
+Shop  https //stza.co/+vKaN-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Tides
+END:VALARM
+DTSTART:20180517T160500Z
+DTEND:20180517T190500Z
+UID:tXgLzhY41uNlSPju1Nndsaqb@stanza.co
+SUMMARY:Indians @ Tides
+DESCRIPTION:Indians @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKaN-3\n\nShop: https://stza.co/+vKaN-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bulls
+<2018-05-18 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       xu33LJ-EKORZH3YzNR8gZd4d@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bulls Indians @ Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vK8l-3W
+
+Shop  https //stza.co/+vK8l-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bulls
+END:VALARM
+DTSTART:20180518T230500Z
+DTEND:20180519T020500Z
+UID:xu33LJ-EKORZH3YzNR8gZd4d@stanza.co
+SUMMARY:Indians @ Bulls
+DESCRIPTION:Indians @ Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vK8l-3W\n\nShop: https://stza.co/+vK8l-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bulls
+<2018-05-19 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       3-U0FMDFwFamGm9-hot0B1iY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bulls Indians @ Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vK8m-1$
+
+Shop  https //stza.co/+vK8m-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bulls
+END:VALARM
+DTSTART:20180519T223500Z
+DTEND:20180520T013500Z
+UID:3-U0FMDFwFamGm9-hot0B1iY@stanza.co
+SUMMARY:Indians @ Bulls
+DESCRIPTION:Indians @ Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vK8m-1$\n\nShop: https://stza.co/+vK8m-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bulls
+<2018-05-20 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       4f0vDEpZLu0VmY8fit3DKCgo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bulls Indians @ Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vK8n-x
+
+Shop  https //stza.co/+vK8n-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bulls
+END:VALARM
+DTSTART:20180520T210500Z
+DTEND:20180521T000500Z
+UID:4f0vDEpZLu0VmY8fit3DKCgo@stanza.co
+SUMMARY:Indians @ Bulls
+DESCRIPTION:Indians @ Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vK8n-x\n\nShop: https://stza.co/+vK8n-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-05-21 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       EqJywimTM2xXuMZYCbAylX_H@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK92-2f
+
+Shop  https //stza.co/+vK92-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180521T230500Z
+DTEND:20180522T020500Z
+UID:EqJywimTM2xXuMZYCbAylX_H@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK92-2f\n\nShop: https://stza.co/+vK92-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-05-22 Tue 10:05-13:05>
+:PROPERTIES:
+:ID:       UngsXs81ceTlmvvDL9CBqyKO@stanza.co
+:LOCATION: Baseball in Education
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9 30 AM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK95-2y
+
+Shop  https //stza.co/+vK95-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180522T150500Z
+DTEND:20180522T180500Z
+UID:UngsXs81ceTlmvvDL9CBqyKO@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9:30 AM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK95-2y\n\nShop: https://stza.co/+vK95-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball in Education
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-05-23 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       zBkgTwPL1d8r7xztSZFTDW4I@stanza.co
+:LOCATION: Wednesday Day Game
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.
+
+Follow on MiLB First Pitch  https //stza.co/+vK96-3Q
+
+Shop  https //stza.co/+vK96-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180523T173500Z
+DTEND:20180523T203500Z
+UID:zBkgTwPL1d8r7xztSZFTDW4I@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.\n\nFollow on MiLB First Pitch: https://stza.co/+vK96-3Q\n\nShop: https://stza.co/+vK96-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wednesday Day Game
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-05-24 Thu 10:05-13:05>
+:PROPERTIES:
+:ID:       XrYbrPcFsHD8_VCGUwC5XRfF@stanza.co
+:LOCATION: Baseball in Education
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9 30 AM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK98-3A
+
+Shop  https //stza.co/+vK98-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180524T150500Z
+DTEND:20180524T180500Z
+UID:XrYbrPcFsHD8_VCGUwC5XRfF@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Students from across Central Indiana spend the afternoon at the ballpark. School groups are provided a special ticket discount when purchasing in advance. Contact the Victory Field Box Office at 317-269-3545. Gates open at 9:30 AM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK98-3A\n\nShop: https://stza.co/+vK98-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball in Education
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Knights
+<2018-05-25 Fri 18:04-21:04>
+:PROPERTIES:
+:ID:       9K3Z4JPuHLDEuu5_pw67KfJR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Knights Indians @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONj-q
+
+Shop  https //stza.co/+xONj-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Knights
+END:VALARM
+DTSTART:20180525T230400Z
+DTEND:20180526T020400Z
+UID:9K3Z4JPuHLDEuu5_pw67KfJR@stanza.co
+SUMMARY:Indians @ Knights
+DESCRIPTION:Indians @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONj-q\n\nShop: https://stza.co/+xONj-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Knights
+<2018-05-26 Sat 18:04-21:04>
+:PROPERTIES:
+:ID:       v-5cUnX0PC1uu6Vp73F81lg2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Knights Indians @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONk-30
+
+Shop  https //stza.co/+xONk-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Knights
+END:VALARM
+DTSTART:20180526T230400Z
+DTEND:20180527T020400Z
+UID:v-5cUnX0PC1uu6Vp73F81lg2@stanza.co
+SUMMARY:Indians @ Knights
+DESCRIPTION:Indians @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONk-30\n\nShop: https://stza.co/+xONk-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Knights
+<2018-05-27 Sun 18:04-21:04>
+:PROPERTIES:
+:ID:       rfmhwD7h4yJIHi4odW9g8Mta@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Knights Indians @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONl-u
+
+Shop  https //stza.co/+xONl-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Knights
+END:VALARM
+DTSTART:20180527T230400Z
+DTEND:20180528T020400Z
+UID:rfmhwD7h4yJIHi4odW9g8Mta@stanza.co
+SUMMARY:Indians @ Knights
+DESCRIPTION:Indians @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONl-u\n\nShop: https://stza.co/+xONl-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Knights
+<2018-05-28 Mon 13:05-16:05>
+:PROPERTIES:
+:ID:       VeL-H50LdbsC7Z7tFMiJJuI1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Knights Indians @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+vK84-3J
+
+Shop  https //stza.co/+vK84-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Knights
+END:VALARM
+DTSTART:20180528T180500Z
+DTEND:20180528T210500Z
+UID:VeL-H50LdbsC7Z7tFMiJJuI1@stanza.co
+SUMMARY:Indians @ Knights
+DESCRIPTION:Indians @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+vK84-3J\n\nShop: https://stza.co/+vK84-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Stripers
+<2018-05-29 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       XFFnlBAbN8-KiKfGX1SUh8Qo@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Stripers Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9a-L
+
+Shop  https //stza.co/+vK9a-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Stripers
+END:VALARM
+DTSTART:20180529T230500Z
+DTEND:20180530T020500Z
+UID:XFFnlBAbN8-KiKfGX1SUh8Qo@stanza.co
+SUMMARY:Indians vs. Stripers
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9a-L\n\nShop: https://stza.co/+vK9a-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Stripers
+<2018-05-30 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       KlqpoflBqQDHhPf6f6mutFv1@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Stripers Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Learn the fundamentals from the pros with a pregame clinic for kids 14 and younger. Gates open early at 5 00 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9d-1
+
+Shop  https //stza.co/+vK9d-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Stripers
+END:VALARM
+DTSTART:20180530T230500Z
+DTEND:20180531T020500Z
+UID:KlqpoflBqQDHhPf6f6mutFv1@stanza.co
+SUMMARY:Indians vs. Stripers
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nLearn the fundamentals from the pros with a pregame clinic for kids 14 and younger. Gates open early at 5:00 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9d-1\n\nShop: https://stza.co/+vK9d-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Stripers
+<2018-05-31 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       jsRZ6xcCO8kE-r880fIZ0NyY@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Stripers Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9f-t
+
+Shop  https //stza.co/+vK9f-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Stripers
+END:VALARM
+DTSTART:20180531T230500Z
+DTEND:20180601T020500Z
+UID:jsRZ6xcCO8kE-r880fIZ0NyY@stanza.co
+SUMMARY:Indians vs. Stripers
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9f-t\n\nShop: https://stza.co/+vK9f-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. RailRiders
+<2018-06-01 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       9lvzjZuwMO1a3ikqSY6QzyBY@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. RailRiders Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Give your troop, den or pack an experience they will never forget with an overnight campout in the Victory Field outfield. Participants must be pre-registered to take part in the event. To secure a spot for your scout, call the Victory Field Box Office at 317-269-3545.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9g-1a
+
+Shop  https //stza.co/+vK9g-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. RailRiders
+END:VALARM
+DTSTART:20180601T231500Z
+DTEND:20180602T021500Z
+UID:9lvzjZuwMO1a3ikqSY6QzyBY@stanza.co
+SUMMARY:Indians vs. RailRiders
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nGive your troop, den or pack an experience they will never forget with an overnight campout in the Victory Field outfield. Participants must be pre-registered to take part in the event. To secure a spot for your scout, call the Victory Field Box Office at 317-269-3545.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9g-1a\n\nShop: https://stza.co/+vK9g-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. RailRiders
+<2018-06-02 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       tmGW1qTUk_kAGrCsTWSqatkI@stanza.co
+:LOCATION: Team Autographs
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. RailRiders Arrive early for autographs from your 2018 Indians. Gates open at 5 00 PM, with autographs beginning at 5 15 PM and ending at 6 00 PM.
+
+The first 2,500 fans will receive a Josh Bell bobblehead.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9i-1G
+
+Shop  https //stza.co/+vK9i-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. RailRiders
+END:VALARM
+DTSTART:20180602T230500Z
+DTEND:20180603T020500Z
+UID:tmGW1qTUk_kAGrCsTWSqatkI@stanza.co
+SUMMARY:Indians vs. RailRiders
+DESCRIPTION:Arrive early for autographs from your 2018 Indians. Gates open at 5:00 PM, with autographs beginning at 5:15 PM and ending at 6:00 PM.\n\nThe first 2,500 fans will receive a Josh Bell bobblehead.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9i-1G\n\nShop: https://stza.co/+vK9i-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Team Autographs
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. RailRiders
+<2018-06-03 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       DIuxHFVR4sNAT1gWHtuocs4Z@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. RailRiders Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+Red, Bomb, Chuck and Hatchling visit with fans in PNC Plaza. Stop by for a photo before and during the game.
+
+Calling all TWEETers, Facebook Fans, Instagramers and Snapchat enthusiats, we'll be giving away lots of prizes all day long. Grab your phone and join us.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9k-1z
+
+Shop  https //stza.co/+vK9k-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. RailRiders
+END:VALARM
+DTSTART:20180603T173500Z
+DTEND:20180603T203500Z
+UID:DIuxHFVR4sNAT1gWHtuocs4Z@stanza.co
+SUMMARY:Indians vs. RailRiders
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nRed, Bomb, Chuck and Hatchling visit with fans in PNC Plaza. Stop by for a photo before and during the game.\n\nCalling all TWEETers, Facebook Fans, Instagramers and Snapchat enthusiats, we'll be giving away lots of prizes all day long. Grab your phone and join us.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9k-1z\n\nShop: https://stza.co/+vK9k-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Red Wings
+<2018-06-05 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       kL-yIS3XLvPjCookXD5kLRJt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Red Wings Indians @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKaR-M
+
+Shop  https //stza.co/+vKaR-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Red Wings
+END:VALARM
+DTSTART:20180605T230500Z
+DTEND:20180606T020500Z
+UID:kL-yIS3XLvPjCookXD5kLRJt@stanza.co
+SUMMARY:Indians @ Red Wings
+DESCRIPTION:Indians @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKaR-M\n\nShop: https://stza.co/+vKaR-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Red Wings
+<2018-06-06 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       uYwPtHsIUPgdyN_1yDgOH1Gs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Red Wings Indians @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKaS-3I
+
+Shop  https //stza.co/+vKaS-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Red Wings
+END:VALARM
+DTSTART:20180606T230500Z
+DTEND:20180607T020500Z
+UID:uYwPtHsIUPgdyN_1yDgOH1Gs@stanza.co
+SUMMARY:Indians @ Red Wings
+DESCRIPTION:Indians @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKaS-3I\n\nShop: https://stza.co/+vKaS-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Red Wings
+<2018-06-07 Thu 11:35-14:35>
+:PROPERTIES:
+:ID:       bEpnI76Us6oT-g826YqeKZAE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Red Wings Indians @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKaT-3x
+
+Shop  https //stza.co/+vKaT-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Red Wings
+END:VALARM
+DTSTART:20180607T163500Z
+DTEND:20180607T193500Z
+UID:bEpnI76Us6oT-g826YqeKZAE@stanza.co
+SUMMARY:Indians @ Red Wings
+DESCRIPTION:Indians @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKaT-3x\n\nShop: https://stza.co/+vKaT-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Red Sox
+<2018-06-08 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       FMglNHmfH9BKinswYnLJwiU7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Red Sox Indians @ Red Sox
+
+Buy tickets here  https //stza.co/~vKaO
+
+Follow on MiLB First Pitch  https //stza.co/+vKaO-33
+
+Shop  https //stza.co/+vKaO-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Red Sox
+END:VALARM
+DTSTART:20180608T230500Z
+DTEND:20180609T020500Z
+UID:FMglNHmfH9BKinswYnLJwiU7@stanza.co
+SUMMARY:Indians @ Red Sox
+DESCRIPTION:Indians @ Red Sox\n\nBuy tickets here: https://stza.co/~vKaO\n\nFollow on MiLB First Pitch: https://stza.co/+vKaO-33\n\nShop: https://stza.co/+vKaO-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Red Sox
+<2018-06-09 Sat 17:15-20:15>
+:PROPERTIES:
+:ID:       GlsfhJEgsKDCsg82yc9YycIO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Red Sox Indians @ Red Sox
+
+Buy tickets here  https //stza.co/~vKaP
+
+Follow on MiLB First Pitch  https //stza.co/+vKaP-c
+
+Shop  https //stza.co/+vKaP-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Red Sox
+END:VALARM
+DTSTART:20180609T221500Z
+DTEND:20180610T011500Z
+UID:GlsfhJEgsKDCsg82yc9YycIO@stanza.co
+SUMMARY:Indians @ Red Sox
+DESCRIPTION:Indians @ Red Sox\n\nBuy tickets here: https://stza.co/~vKaP\n\nFollow on MiLB First Pitch: https://stza.co/+vKaP-c\n\nShop: https://stza.co/+vKaP-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Red Sox
+<2018-06-10 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       fev2duzYPo-UP45DDrUeMKNG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Red Sox Indians @ Red Sox
+
+Buy tickets here  https //stza.co/~vKaQ
+
+Follow on MiLB First Pitch  https //stza.co/+vKaQ-38
+
+Shop  https //stza.co/+vKaQ-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Red Sox
+END:VALARM
+DTSTART:20180610T173500Z
+DTEND:20180610T203500Z
+UID:fev2duzYPo-UP45DDrUeMKNG@stanza.co
+SUMMARY:Indians @ Red Sox
+DESCRIPTION:Indians @ Red Sox\n\nBuy tickets here: https://stza.co/~vKaQ\n\nFollow on MiLB First Pitch: https://stza.co/+vKaQ-38\n\nShop: https://stza.co/+vKaQ-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-06-11 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       WPgJbYz6oNLQr1Bq4VGLlXQ1@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Kids in PNC's Grow Up Great program visit Victory Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9n-1L
+
+Shop  https //stza.co/+vK9n-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180611T230500Z
+DTEND:20180612T020500Z
+UID:WPgJbYz6oNLQr1Bq4VGLlXQ1@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nKids in PNC's Grow Up Great program visit Victory Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9n-1L\n\nShop: https://stza.co/+vK9n-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-06-12 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       nMyibSuTO9w9Xb7QUmnKZJNo@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9o-3D
+
+Shop  https //stza.co/+vK9o-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180612T230500Z
+DTEND:20180613T020500Z
+UID:nMyibSuTO9w9Xb7QUmnKZJNo@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9o-3D\n\nShop: https://stza.co/+vK9o-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-06-13 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       B58wDLzNywkKC18kUYFYCUhQ@stanza.co
+:LOCATION: Wednesday Day Game
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9q-b
+
+Shop  https //stza.co/+vK9q-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180613T173500Z
+DTEND:20180613T203500Z
+UID:B58wDLzNywkKC18kUYFYCUhQ@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9q-b\n\nShop: https://stza.co/+vK9q-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wednesday Day Game
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       1nnB4aafQ00AzGWTmHgvKVHP@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9t-9
+
+Shop  https //stza.co/+vK9t-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:1nnB4aafQ00AzGWTmHgvKVHP@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9t-9\n\nShop: https://stza.co/+vK9t-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-06-15 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       b4Rg3KAE1wi-CcCTAnKjt_re@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8b
+
+Follow on MiLB First Pitch  https //stza.co/+vK8b-3o
+
+Shop  https //stza.co/+vK8b-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180615T231500Z
+DTEND:20180616T021500Z
+UID:b4Rg3KAE1wi-CcCTAnKjt_re@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8b\n\nFollow on MiLB First Pitch: https://stza.co/+vK8b-3o\n\nShop: https://stza.co/+vK8b-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-06-16 Sat 18:15-21:15>
+:PROPERTIES:
+:ID:       7bcF7cCEOjcPK9HMxKMvrs3M@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8c
+
+Follow on MiLB First Pitch  https //stza.co/+vK8c-2B
+
+Shop  https //stza.co/+vK8c-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180616T231500Z
+DTEND:20180617T021500Z
+UID:7bcF7cCEOjcPK9HMxKMvrs3M@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8c\n\nFollow on MiLB First Pitch: https://stza.co/+vK8c-2B\n\nShop: https://stza.co/+vK8c-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-06-17 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       mzE4IkxL0sGvCMEpPD4SmlYS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8d
+
+Follow on MiLB First Pitch  https //stza.co/+vK8d-1x
+
+Shop  https //stza.co/+vK8d-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180617T180500Z
+DTEND:20180617T210500Z
+UID:mzE4IkxL0sGvCMEpPD4SmlYS@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8d\n\nFollow on MiLB First Pitch: https://stza.co/+vK8d-1x\n\nShop: https://stza.co/+vK8d-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Tides
+<2018-06-19 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       bNuweEhZeQ495l8cl9ktrQ0g@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Tides Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Visit myBMV.com for a promo code and purchase 2-for-1 tickets for tonight's game.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9u-1w
+
+Shop  https //stza.co/+vK9u-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Tides
+END:VALARM
+DTSTART:20180619T230500Z
+DTEND:20180620T020500Z
+UID:bNuweEhZeQ495l8cl9ktrQ0g@stanza.co
+SUMMARY:Indians vs. Tides
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nVisit myBMV.com for a promo code and purchase 2-for-1 tickets for tonight's game.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9u-1w\n\nShop: https://stza.co/+vK9u-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Tides
+<2018-06-20 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       4LBUxnNRryLgQee9tjRf-Bhw@stanza.co
+:LOCATION: Wednesday Day Game
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Tides Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9w-3y
+
+Shop  https //stza.co/+vK9w-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Tides
+END:VALARM
+DTSTART:20180620T173500Z
+DTEND:20180620T203500Z
+UID:4LBUxnNRryLgQee9tjRf-Bhw@stanza.co
+SUMMARY:Indians vs. Tides
+DESCRIPTION:Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9w-3y\n\nShop: https://stza.co/+vK9w-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wednesday Day Game
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Tides
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       YteCnCYXWJotXJ65wu8aZBkr@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Tides Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9y-1w
+
+Shop  https //stza.co/+vK9y-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Tides
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:YteCnCYXWJotXJ65wu8aZBkr@stanza.co
+SUMMARY:Indians vs. Tides
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9y-1w\n\nShop: https://stza.co/+vK9y-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bulls
+<2018-06-22 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       x4hzhYZutJ4cTBmut5nhl3iW@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bulls Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9B-Q
+
+Shop  https //stza.co/+vK9B-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bulls
+END:VALARM
+DTSTART:20180622T231500Z
+DTEND:20180623T021500Z
+UID:x4hzhYZutJ4cTBmut5nhl3iW@stanza.co
+SUMMARY:Indians vs. Bulls
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9B-Q\n\nShop: https://stza.co/+vK9B-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bulls
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       1JNY_eVH94gmqvmXUtVLReNz@stanza.co
+:LOCATION: MARVEL Super Hero Night - Ant-Man
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bulls Stop by PNC Plaza before and during the game to meet Ant-Man. Gates open at 5 30 PM.
+
+The first 2,500 fans through the Victory Field gates will receive an Ant-Man bobblehead. Plus, the Tribe will wear Ant-Man jerseys, which will be auctioned off to raise money for Big Brothers Big Sisters.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9C-3q
+
+Shop  https //stza.co/+vK9C-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bulls
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:1JNY_eVH94gmqvmXUtVLReNz@stanza.co
+SUMMARY:Indians vs. Bulls
+DESCRIPTION:Stop by PNC Plaza before and during the game to meet Ant-Man. Gates open at 5:30 PM.\n\nThe first 2,500 fans through the Victory Field gates will receive an Ant-Man bobblehead. Plus, the Tribe will wear Ant-Man jerseys, which will be auctioned off to raise money for Big Brothers Big Sisters.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9C-3q\n\nShop: https://stza.co/+vK9C-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MARVEL Super Hero Night - Ant-Man
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bulls
+<2018-06-24 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       H67lId945QBRaoEateU7itTY@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bulls Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+The official mascot of the Chicago Cubs stops by Victory Field. Find him in PNC Plaza before and during the game for photos and meet-and-greets.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9F-24
+
+Shop  https //stza.co/+vK9F-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bulls
+END:VALARM
+DTSTART:20180624T173500Z
+DTEND:20180624T203500Z
+UID:H67lId945QBRaoEateU7itTY@stanza.co
+SUMMARY:Indians vs. Bulls
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nThe official mascot of the Chicago Cubs stops by Victory Field. Find him in PNC Plaza before and during the game for photos and meet-and-greets.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9F-24\n\nShop: https://stza.co/+vK9F-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       HhtOnMSCrzaKR2v14QSxz9Ri@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb1-T
+
+Shop  https //stza.co/+vKb1-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:HhtOnMSCrzaKR2v14QSxz9Ri@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb1-T\n\nShop: https://stza.co/+vKb1-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-06-26 Tue 11:05-14:05>
+:PROPERTIES:
+:ID:       74Ext5oAa1xVoPY3YjUsbcf-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb2-3
+
+Shop  https //stza.co/+vKb2-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180626T160500Z
+DTEND:20180626T190500Z
+UID:74Ext5oAa1xVoPY3YjUsbcf-@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb2-3\n\nShop: https://stza.co/+vKb2-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-06-27 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       6k6WqrDx6OHiWjjwbxlcUTOx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb3-2G
+
+Shop  https //stza.co/+vKb3-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180627T230500Z
+DTEND:20180628T020500Z
+UID:6k6WqrDx6OHiWjjwbxlcUTOx@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb3-2G\n\nShop: https://stza.co/+vKb3-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       T7MrvKIwfQN5Q1vmeMTgVpIw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8e
+
+Follow on MiLB First Pitch  https //stza.co/+vK8e-3k
+
+Shop  https //stza.co/+vK8e-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:T7MrvKIwfQN5Q1vmeMTgVpIw@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8e\n\nFollow on MiLB First Pitch: https://stza.co/+vK8e-3k\n\nShop: https://stza.co/+vK8e-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-06-29 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       C35lfphg3UoAfi_VJcogAv_z@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8f
+
+Follow on MiLB First Pitch  https //stza.co/+vK8f-2P
+
+Shop  https //stza.co/+vK8f-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180629T231500Z
+DTEND:20180630T021500Z
+UID:C35lfphg3UoAfi_VJcogAv_z@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8f\n\nFollow on MiLB First Pitch: https://stza.co/+vK8f-2P\n\nShop: https://stza.co/+vK8f-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-06-30 Sat 18:15-21:15>
+:PROPERTIES:
+:ID:       xvNRl7QYStDxAbWVxlR1zzby@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8g
+
+Follow on MiLB First Pitch  https //stza.co/+vK8g-31
+
+Shop  https //stza.co/+vK8g-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180630T231500Z
+DTEND:20180701T021500Z
+UID:xvNRl7QYStDxAbWVxlR1zzby@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8g\n\nFollow on MiLB First Pitch: https://stza.co/+vK8g-31\n\nShop: https://stza.co/+vK8g-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-07-01 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       3Ro_9qp-rK5oASE4cwOeDNJC@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8h
+
+Follow on MiLB First Pitch  https //stza.co/+vK8h-F
+
+Shop  https //stza.co/+vK8h-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180701T180500Z
+DTEND:20180701T210500Z
+UID:3Ro_9qp-rK5oASE4cwOeDNJC@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8h\n\nFollow on MiLB First Pitch: https://stza.co/+vK8h-F\n\nShop: https://stza.co/+vK8h-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-07-02 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       orUC-H3ZdqumkXZJdgP6aurY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~uXEf
+
+Follow on MiLB First Pitch  https //stza.co/+uXEf-3G
+
+Shop  https //stza.co/+uXEf-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180702T230000Z
+DTEND:20180703T020000Z
+UID:orUC-H3ZdqumkXZJdgP6aurY@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~uXEf\n\nFollow on MiLB First Pitch: https://stza.co/+uXEf-3G\n\nShop: https://stza.co/+uXEf-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-07-03 Tue 17:45-20:45>
+:PROPERTIES:
+:ID:       xdrNjG9SQ4rEK1ChOcxttkZ3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~uXEn
+
+Follow on MiLB First Pitch  https //stza.co/+uXEn-2g
+
+Shop  https //stza.co/+uXEn-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180703T224500Z
+DTEND:20180704T014500Z
+UID:xdrNjG9SQ4rEK1ChOcxttkZ3@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~uXEn\n\nFollow on MiLB First Pitch: https://stza.co/+uXEn-2g\n\nShop: https://stza.co/+uXEn-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-07-04 Wed 17:15-20:15>
+:PROPERTIES:
+:ID:       zOTSiIk0kyT9UNhdpnH4yl7k@stanza.co
+:LOCATION: Independence Day Celebration
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Celebrate the Fourth with two fireworks shows from your seats at Victory Field. Catch the Indians' on-field display after the game, then stick around for the city's annual Freedom Blast. Gates open at 4 30 PM.
+
+Tribe players and coaches wear special Stars & Stripes jerseys to be auctioned off to benefit the Indiana National Guard Relief Fund. The first 12,500 fans also receive an Indianapolis Indians rally towel.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9H-3E
+
+Shop  https //stza.co/+vK9H-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180704T221500Z
+DTEND:20180705T011500Z
+UID:zOTSiIk0kyT9UNhdpnH4yl7k@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Celebrate the Fourth with two fireworks shows from your seats at Victory Field. Catch the Indians' on-field display after the game, then stick around for the city's annual Freedom Blast. Gates open at 4:30 PM.\n\nTribe players and coaches wear special Stars & Stripes jerseys to be auctioned off to benefit the Indiana National Guard Relief Fund. The first 12,500 fans also receive an Indianapolis Indians rally towel.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9H-3E\n\nShop: https://stza.co/+vK9H-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Independence Day Celebration
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       w2ZzEJOzKbIlZNrDouXsA3Me@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9J-11
+
+Shop  https //stza.co/+vK9J-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:w2ZzEJOzKbIlZNrDouXsA3Me@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9J-11\n\nShop: https://stza.co/+vK9J-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-07-06 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       z9mBl5bRWD9QYBE0ORSmvpYf@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9L-2E
+
+Shop  https //stza.co/+vK9L-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180706T231500Z
+DTEND:20180707T021500Z
+UID:z9mBl5bRWD9QYBE0ORSmvpYf@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9L-2E\n\nShop: https://stza.co/+vK9L-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-07-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       8JaK8GVAOMUXTyLgcUn4wzwg@stanza.co
+:LOCATION: MARVEL Super Hero Night - Iron Man & Spider-Man
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Stop by PNC Plaza before and during the game to meet Iron Man. Gates open at 5 30 PM.
+
+The first 2,500 fans through the Victory Field gates will receive an Iron Man bobblehead. Plus, the Tribe will wear Iron Man jerseys, which will be auctioned off to raise money for Make-A-Wish.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9M-3v
+
+Shop  https //stza.co/+vK9M-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180707T230500Z
+DTEND:20180708T020500Z
+UID:8JaK8GVAOMUXTyLgcUn4wzwg@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Stop by PNC Plaza before and during the game to meet Iron Man. Gates open at 5:30 PM.\n\nThe first 2,500 fans through the Victory Field gates will receive an Iron Man bobblehead. Plus, the Tribe will wear Iron Man jerseys, which will be auctioned off to raise money for Make-A-Wish.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9M-3v\n\nShop: https://stza.co/+vK9M-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MARVEL Super Hero Night - Iron Man & Spider-Man
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-07-08 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       t0xsWfLywfQ6i6XFviizTvnf@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+The first 1,500 kids ages 14 and under will receive a Rowdie kids jersey.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9O-28
+
+Shop  https //stza.co/+vK9O-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180708T173500Z
+DTEND:20180708T203500Z
+UID:t0xsWfLywfQ6i6XFviizTvnf@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nThe first 1,500 kids ages 14 and under will receive a Rowdie kids jersey.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9O-28\n\nShop: https://stza.co/+vK9O-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-07-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       ytU9Ja7WhBLOLbs-bUgIN9BN@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9Q-29
+
+Shop  https //stza.co/+vK9Q-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180712T230500Z
+DTEND:20180713T020500Z
+UID:ytU9Ja7WhBLOLbs-bUgIN9BN@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9Q-29\n\nShop: https://stza.co/+vK9Q-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-07-13 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       3q-1fRCI0cKXWIcA-YC1BYU-@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+The LEGO Let's Play Tour stops at Victory Field. Stop by PNC Plaza to check out LEGO models, race ramps, build tables, display cases, family challenges and more.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9T-m
+
+Shop  https //stza.co/+vK9T-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180713T231500Z
+DTEND:20180714T021500Z
+UID:3q-1fRCI0cKXWIcA-YC1BYU-@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nThe LEGO Let's Play Tour stops at Victory Field. Stop by PNC Plaza to check out LEGO models, race ramps, build tables, display cases, family challenges and more.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9T-m\n\nShop: https://stza.co/+vK9T-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-07-14 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       3DTjnNc2iKsPvoje3-2VKUgN@stanza.co
+:LOCATION: LEGO Let's Play Tour
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens The LEGO Let's Play Tour stops at Victory Field. Stop by PNC Plaza to check out LEGO models, race ramps, build tables, display cases, family challenges and more.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9V-2
+
+Shop  https //stza.co/+vK9V-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180714T230500Z
+DTEND:20180715T020500Z
+UID:3DTjnNc2iKsPvoje3-2VKUgN@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:The LEGO Let's Play Tour stops at Victory Field. Stop by PNC Plaza to check out LEGO models, race ramps, build tables, display cases, family challenges and more.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9V-2\n\nShop: https://stza.co/+vK9V-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LEGO Let's Play Tour
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-07-15 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       FYUKYJJKAUQmMQiCDs0A8CWb@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+The LEGO Let's Play Tour stops at Victory Field. Stop by PNC Plaza to check out LEGO models, race ramps, build tables, display cases, family challenges and more.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9X-1j
+
+Shop  https //stza.co/+vK9X-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180715T173500Z
+DTEND:20180715T203500Z
+UID:FYUKYJJKAUQmMQiCDs0A8CWb@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nThe LEGO Let's Play Tour stops at Victory Field. Stop by PNC Plaza to check out LEGO models, race ramps, build tables, display cases, family challenges and more.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9X-1j\n\nShop: https://stza.co/+vK9X-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Stripers
+<2018-07-16 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       iiOBK5S1Uek2S1uozpESxz-c@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Stripers Indians @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vK8o-3r
+
+Shop  https //stza.co/+vK8o-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Stripers
+END:VALARM
+DTSTART:20180716T230500Z
+DTEND:20180717T020500Z
+UID:iiOBK5S1Uek2S1uozpESxz-c@stanza.co
+SUMMARY:Indians @ Stripers
+DESCRIPTION:Indians @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vK8o-3r\n\nShop: https://stza.co/+vK8o-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Stripers
+<2018-07-17 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       olLkc-wqOL_Tr_jqOxKuMgFm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Stripers Indians @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vK8p-1x
+
+Shop  https //stza.co/+vK8p-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Stripers
+END:VALARM
+DTSTART:20180717T230500Z
+DTEND:20180718T020500Z
+UID:olLkc-wqOL_Tr_jqOxKuMgFm@stanza.co
+SUMMARY:Indians @ Stripers
+DESCRIPTION:Indians @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vK8p-1x\n\nShop: https://stza.co/+vK8p-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Stripers
+<2018-07-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       jl7MlFF_LVKxEGVMUYJOLxR3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Stripers Indians @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vK8q-2W
+
+Shop  https //stza.co/+vK8q-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Stripers
+END:VALARM
+DTSTART:20180718T230500Z
+DTEND:20180719T020500Z
+UID:jl7MlFF_LVKxEGVMUYJOLxR3@stanza.co
+SUMMARY:Indians @ Stripers
+DESCRIPTION:Indians @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vK8q-2W\n\nShop: https://stza.co/+vK8q-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Stripers
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       rbaO5nz0CXwCG1OVyZpSrdDj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Stripers Indians @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vK8r-6
+
+Shop  https //stza.co/+vK8r-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Stripers
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:rbaO5nz0CXwCG1OVyZpSrdDj@stanza.co
+SUMMARY:Indians @ Stripers
+DESCRIPTION:Indians @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vK8r-6\n\nShop: https://stza.co/+vK8r-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Knights
+<2018-07-20 Fri 18:04-21:04>
+:PROPERTIES:
+:ID:       zV-RrZG8dDVKeDf93xZ4-JCF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Knights Indians @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONm-1O
+
+Shop  https //stza.co/+xONm-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Knights
+END:VALARM
+DTSTART:20180720T230400Z
+DTEND:20180721T020400Z
+UID:zV-RrZG8dDVKeDf93xZ4-JCF@stanza.co
+SUMMARY:Indians @ Knights
+DESCRIPTION:Indians @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONm-1O\n\nShop: https://stza.co/+xONm-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Knights
+<2018-07-21 Sat 18:04-21:04>
+:PROPERTIES:
+:ID:       sA-pChrB_u0BrXRVyLyJCl2B@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Knights Indians @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONn-3W
+
+Shop  https //stza.co/+xONn-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Knights
+END:VALARM
+DTSTART:20180721T230400Z
+DTEND:20180722T020400Z
+UID:sA-pChrB_u0BrXRVyLyJCl2B@stanza.co
+SUMMARY:Indians @ Knights
+DESCRIPTION:Indians @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONn-3W\n\nShop: https://stza.co/+xONn-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Knights
+<2018-07-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       WZ4fMXHaeNsGxDZkpsA2EJ8j@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Knights Indians @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+vK87-3T
+
+Shop  https //stza.co/+vK87-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Knights
+END:VALARM
+DTSTART:20180722T210500Z
+DTEND:20180723T000500Z
+UID:WZ4fMXHaeNsGxDZkpsA2EJ8j@stanza.co
+SUMMARY:Indians @ Knights
+DESCRIPTION:Indians @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+vK87-3T\n\nShop: https://stza.co/+vK87-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Red Wings
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       WtPhS_GHre6YVAFOrUGbjwsy@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Red Wings Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9Z-D
+
+Shop  https //stza.co/+vK9Z-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Red Wings
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:WtPhS_GHre6YVAFOrUGbjwsy@stanza.co
+SUMMARY:Indians vs. Red Wings
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9Z-D\n\nShop: https://stza.co/+vK9Z-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Red Wings
+<2018-07-25 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       5-vvLawsuYDZdiJooymxniCT@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Red Wings Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vK9$-3_
+
+Shop  https //stza.co/+vK9$-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Red Wings
+END:VALARM
+DTSTART:20180725T230500Z
+DTEND:20180726T020500Z
+UID:5-vvLawsuYDZdiJooymxniCT@stanza.co
+SUMMARY:Indians vs. Red Wings
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vK9$-3_\n\nShop: https://stza.co/+vK9$-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Red Wings
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       4xfaDazT2eisq7eOkMCgkhn9@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Red Wings Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKa0-3B
+
+Shop  https //stza.co/+vKa0-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Red Wings
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:4xfaDazT2eisq7eOkMCgkhn9@stanza.co
+SUMMARY:Indians vs. Red Wings
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKa0-3B\n\nShop: https://stza.co/+vKa0-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bisons
+<2018-07-27 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       r-SQWtSRHwtcnOnKZLZX_nkm@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bisons Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKa2-3n
+
+Shop  https //stza.co/+vKa2-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bisons
+END:VALARM
+DTSTART:20180727T231500Z
+DTEND:20180728T021500Z
+UID:r-SQWtSRHwtcnOnKZLZX_nkm@stanza.co
+SUMMARY:Indians vs. Bisons
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKa2-3n\n\nShop: https://stza.co/+vKa2-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bisons
+<2018-07-28 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       yIvCiPXnbcL69gotFcBYeLno@stanza.co
+:LOCATION: Team Autographs
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bisons Arrive early for autographs from your 2018 Indians. Gates open at 5 00 PM, with autographs beginning at 5 15 PM and ending at 6 00 PM.
+
+The first 2,500 fans will receive a Gift Ngoepe bobblehead.
+
+Follow on MiLB First Pitch  https //stza.co/+vKa5-3b
+
+Shop  https //stza.co/+vKa5-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bisons
+END:VALARM
+DTSTART:20180728T230500Z
+DTEND:20180729T020500Z
+UID:yIvCiPXnbcL69gotFcBYeLno@stanza.co
+SUMMARY:Indians vs. Bisons
+DESCRIPTION:Arrive early for autographs from your 2018 Indians. Gates open at 5:00 PM, with autographs beginning at 5:15 PM and ending at 6:00 PM.\n\nThe first 2,500 fans will receive a Gift Ngoepe bobblehead.\n\nFollow on MiLB First Pitch: https://stza.co/+vKa5-3b\n\nShop: https://stza.co/+vKa5-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Team Autographs
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bisons
+<2018-07-29 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       RXCjoDZVHgiViNPfQBxmCi1-@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bisons Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+Daniel Tiger and Katarina Kittycat greet fans in PNC Plaza before and during the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKa6-2b
+
+Shop  https //stza.co/+vKa6-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bisons
+END:VALARM
+DTSTART:20180729T173500Z
+DTEND:20180729T203500Z
+UID:RXCjoDZVHgiViNPfQBxmCi1-@stanza.co
+SUMMARY:Indians vs. Bisons
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nDaniel Tiger and Katarina Kittycat greet fans in PNC Plaza before and during the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKa6-2b\n\nShop: https://stza.co/+vKa6-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-07-30 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       bpe33BzQHHhZj-vbrY9wFCRN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8i
+
+Follow on MiLB First Pitch  https //stza.co/+vK8i-2w
+
+Shop  https //stza.co/+vK8i-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180730T230500Z
+DTEND:20180731T020500Z
+UID:bpe33BzQHHhZj-vbrY9wFCRN@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8i\n\nFollow on MiLB First Pitch: https://stza.co/+vK8i-2w\n\nShop: https://stza.co/+vK8i-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-07-31 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       f1vUmepuxXk7dYIM87HVaM-o@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8j
+
+Follow on MiLB First Pitch  https //stza.co/+vK8j-2P
+
+Shop  https //stza.co/+vK8j-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180731T230500Z
+DTEND:20180801T020500Z
+UID:f1vUmepuxXk7dYIM87HVaM-o@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8j\n\nFollow on MiLB First Pitch: https://stza.co/+vK8j-2P\n\nShop: https://stza.co/+vK8j-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Clippers
+<2018-08-01 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       za1V6-9fCAoGCWgEW8azkcxg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Clippers Indians @ Clippers
+
+Buy tickets here  https //stza.co/~vK8k
+
+Follow on MiLB First Pitch  https //stza.co/+vK8k-2o
+
+Shop  https //stza.co/+vK8k-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Clippers
+END:VALARM
+DTSTART:20180801T230500Z
+DTEND:20180802T020500Z
+UID:za1V6-9fCAoGCWgEW8azkcxg@stanza.co
+SUMMARY:Indians @ Clippers
+DESCRIPTION:Indians @ Clippers\n\nBuy tickets here: https://stza.co/~vK8k\n\nFollow on MiLB First Pitch: https://stza.co/+vK8k-2o\n\nShop: https://stza.co/+vK8k-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       qKWZwipNnhafXK6w1jHtq4FR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb4-
+
+Shop  https //stza.co/+vKb4-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:qKWZwipNnhafXK6w1jHtq4FR@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb4-\n\nShop: https://stza.co/+vKb4-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       gIFEbIIhukcepCHk-2xRqpMh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb5-V
+
+Shop  https //stza.co/+vKb5-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:gIFEbIIhukcepCHk-2xRqpMh@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb5-V\n\nShop: https://stza.co/+vKb5-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-08-04 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       071bIF8kxCZOFELFO1IsqwbQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb6-1y
+
+Shop  https //stza.co/+vKb6-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180804T230500Z
+DTEND:20180805T020500Z
+UID:071bIF8kxCZOFELFO1IsqwbQ@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb6-1y\n\nShop: https://stza.co/+vKb6-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Mud Hens
+<2018-08-05 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       MC8jSupFZhKn47sWe6vJhP2y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Mud Hens Indians @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKb7-n
+
+Shop  https //stza.co/+vKb7-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Mud Hens
+END:VALARM
+DTSTART:20180805T220500Z
+DTEND:20180806T010500Z
+UID:MC8jSupFZhKn47sWe6vJhP2y@stanza.co
+SUMMARY:Indians @ Mud Hens
+DESCRIPTION:Indians @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKb7-n\n\nShop: https://stza.co/+vKb7-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. IronPigs
+<2018-08-07 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       qM3yOsmt7hqkC_zVtKKbuNTE@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. IronPigs Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKa9-c
+
+Shop  https //stza.co/+vKa9-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. IronPigs
+END:VALARM
+DTSTART:20180807T230500Z
+DTEND:20180808T020500Z
+UID:qM3yOsmt7hqkC_zVtKKbuNTE@stanza.co
+SUMMARY:Indians vs. IronPigs
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKa9-c\n\nShop: https://stza.co/+vKa9-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. IronPigs
+<2018-08-08 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       ncWqGQbPyNw9fdf22Qzc6f_T@stanza.co
+:LOCATION: Wednesday Day Game
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. IronPigs Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.
+
+Follow on MiLB First Pitch  https //stza.co/+vKaa-8
+
+Shop  https //stza.co/+vKaa-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. IronPigs
+END:VALARM
+DTSTART:20180808T173500Z
+DTEND:20180808T203500Z
+UID:ncWqGQbPyNw9fdf22Qzc6f_T@stanza.co
+SUMMARY:Indians vs. IronPigs
+DESCRIPTION:Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.\n\nFollow on MiLB First Pitch: https://stza.co/+vKaa-8\n\nShop: https://stza.co/+vKaa-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wednesday Day Game
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. IronPigs
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       3H8g6tqN9WE8C6Wfyml69FFJ@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. IronPigs Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKad-L
+
+Shop  https //stza.co/+vKad-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. IronPigs
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:3H8g6tqN9WE8C6Wfyml69FFJ@stanza.co
+SUMMARY:Indians vs. IronPigs
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKad-L\n\nShop: https://stza.co/+vKad-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Red Sox
+<2018-08-10 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       -UGTehDglS70CihSuRpdziup@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Red Sox Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Enjoy a pregame concert in PNC Plaza followed by an inspiring faith-based speech from a Tribe player.
+
+Follow on MiLB First Pitch  https //stza.co/+vKae-2g
+
+Shop  https //stza.co/+vKae-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Red Sox
+END:VALARM
+DTSTART:20180810T231500Z
+DTEND:20180811T021500Z
+UID:-UGTehDglS70CihSuRpdziup@stanza.co
+SUMMARY:Indians vs. Red Sox
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nEnjoy a pregame concert in PNC Plaza followed by an inspiring faith-based speech from a Tribe player.\n\nFollow on MiLB First Pitch: https://stza.co/+vKae-2g\n\nShop: https://stza.co/+vKae-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Red Sox
+<2018-08-11 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       N-wX3mX80X7eoMpHIj2v4nUn@stanza.co
+:LOCATION: DC Comics Super Hero Night - Batman & The Joker
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Red Sox Stop by PNC Plaza before and during the game to meet Batman and The Joker. Gates open at 5 30 PM.
+
+The first 1,500 kids 14 and under will receive a TBD giveaway. Plus, the Tribe will wear specialty jerseys, which will be auctioned off to raise money for local charities.
+
+Follow on MiLB First Pitch  https //stza.co/+vKah-3r
+
+Shop  https //stza.co/+vKah-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Red Sox
+END:VALARM
+DTSTART:20180811T230500Z
+DTEND:20180812T020500Z
+UID:N-wX3mX80X7eoMpHIj2v4nUn@stanza.co
+SUMMARY:Indians vs. Red Sox
+DESCRIPTION:Stop by PNC Plaza before and during the game to meet Batman and The Joker. Gates open at 5:30 PM.\n\nThe first 1,500 kids 14 and under will receive a TBD giveaway. Plus, the Tribe will wear specialty jerseys, which will be auctioned off to raise money for local charities.\n\nFollow on MiLB First Pitch: https://stza.co/+vKah-3r\n\nShop: https://stza.co/+vKah-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:DC Comics Super Hero Night - Batman & The Joker
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Red Sox
+<2018-08-12 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       H6m2F9dNrcE1ZEPuIFsDrFtN@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Red Sox Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+Stop by PNC Plaza before and during the game for meet-and-greets and photos with Catboy, Owlette and Gekko.
+
+Find your Zen in the outfield grass overlooking downtown Indy. Admission is included with a ticket to the game. Gates open at 11 30 AM, with yoga starting soon after.
+
+Follow on MiLB First Pitch  https //stza.co/+vKaj-P
+
+Shop  https //stza.co/+vKaj-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Red Sox
+END:VALARM
+DTSTART:20180812T173500Z
+DTEND:20180812T203500Z
+UID:H6m2F9dNrcE1ZEPuIFsDrFtN@stanza.co
+SUMMARY:Indians vs. Red Sox
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nStop by PNC Plaza before and during the game for meet-and-greets and photos with Catboy, Owlette and Gekko.\n\nFind your Zen in the outfield grass overlooking downtown Indy. Admission is included with a ticket to the game. Gates open at 11:30 AM, with yoga starting soon after.\n\nFollow on MiLB First Pitch: https://stza.co/+vKaj-P\n\nShop: https://stza.co/+vKaj-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ RailRiders
+<2018-08-13 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       7eNXuwkY-y0zBvkabX4Zt1ZH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ RailRiders Indians @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKaU-2e
+
+Shop  https //stza.co/+vKaU-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ RailRiders
+END:VALARM
+DTSTART:20180813T230500Z
+DTEND:20180814T020500Z
+UID:7eNXuwkY-y0zBvkabX4Zt1ZH@stanza.co
+SUMMARY:Indians @ RailRiders
+DESCRIPTION:Indians @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKaU-2e\n\nShop: https://stza.co/+vKaU-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ RailRiders
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       mL6Wgul5bo0aHYl_zQ16i7eP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ RailRiders Indians @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKaV-3H
+
+Shop  https //stza.co/+vKaV-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ RailRiders
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:mL6Wgul5bo0aHYl_zQ16i7eP@stanza.co
+SUMMARY:Indians @ RailRiders
+DESCRIPTION:Indians @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKaV-3H\n\nShop: https://stza.co/+vKaV-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ RailRiders
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       ci_Ha_W358-4VseXubMTDaCl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ RailRiders Indians @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKaW-2y
+
+Shop  https //stza.co/+vKaW-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ RailRiders
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:ci_Ha_W358-4VseXubMTDaCl@stanza.co
+SUMMARY:Indians @ RailRiders
+DESCRIPTION:Indians @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKaW-2y\n\nShop: https://stza.co/+vKaW-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ IronPigs
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       kIW57WIWRU4MycystkSVfnqf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ IronPigs Indians @ IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+vKaE-U
+
+Shop  https //stza.co/+vKaE-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ IronPigs
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:kIW57WIWRU4MycystkSVfnqf@stanza.co
+SUMMARY:Indians @ IronPigs
+DESCRIPTION:Indians @ IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+vKaE-U\n\nShop: https://stza.co/+vKaE-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ IronPigs
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Ts8LWCyIeX15_bsvxW38sOnq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ IronPigs Indians @ IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+vKaF-2v
+
+Shop  https //stza.co/+vKaF-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ IronPigs
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:Ts8LWCyIeX15_bsvxW38sOnq@stanza.co
+SUMMARY:Indians @ IronPigs
+DESCRIPTION:Indians @ IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+vKaF-2v\n\nShop: https://stza.co/+vKaF-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ IronPigs
+<2018-08-18 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       1hH1j053e28NFgYpJA6s9gEW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ IronPigs Indians @ IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+vKaG-3a
+
+Shop  https //stza.co/+vKaG-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ IronPigs
+END:VALARM
+DTSTART:20180818T223500Z
+DTEND:20180819T013500Z
+UID:1hH1j053e28NFgYpJA6s9gEW@stanza.co
+SUMMARY:Indians @ IronPigs
+DESCRIPTION:Indians @ IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+vKaG-3a\n\nShop: https://stza.co/+vKaG-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ IronPigs
+<2018-08-19 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       GSY72NAKXkbKOeWMFZGV9UyG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ IronPigs Indians @ IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+uXDy-N
+
+Shop  https //stza.co/+uXDy-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ IronPigs
+END:VALARM
+DTSTART:20180819T173500Z
+DTEND:20180819T203500Z
+UID:GSY72NAKXkbKOeWMFZGV9UyG@stanza.co
+SUMMARY:Indians @ IronPigs
+DESCRIPTION:Indians @ IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+uXDy-N\n\nShop: https://stza.co/+uXDy-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       13oFSzZ0lZ1w3vtDNTsPWjDa@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKak-2
+
+Shop  https //stza.co/+vKak-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:13oFSzZ0lZ1w3vtDNTsPWjDa@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKak-2\n\nShop: https://stza.co/+vKak-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       d7MU5s2fLAeDdynABwtcOH4P@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKan-2k
+
+Shop  https //stza.co/+vKan-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:d7MU5s2fLAeDdynABwtcOH4P@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKan-2k\n\nShop: https://stza.co/+vKan-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Clippers
+<2018-08-23 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       LKswhj8Vorq7Sm0VV5N6qd4t@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Clippers Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Bring your four-legged fan to enjoy the game from the right field lawn. Packages must be purchased in advance by calling the Victory Field Box Office at 317-269-2282.
+
+Follow on MiLB First Pitch  https //stza.co/+vKap-2y
+
+Shop  https //stza.co/+vKap-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Clippers
+END:VALARM
+DTSTART:20180823T230500Z
+DTEND:20180824T020500Z
+UID:LKswhj8Vorq7Sm0VV5N6qd4t@stanza.co
+SUMMARY:Indians vs. Clippers
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nBring your four-legged fan to enjoy the game from the right field lawn. Packages must be purchased in advance by calling the Victory Field Box Office at 317-269-2282.\n\nFollow on MiLB First Pitch: https://stza.co/+vKap-2y\n\nShop: https://stza.co/+vKap-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-08-24 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       TVAZ-II24u2JJETd9lKV6SF1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~vKaH
+
+Follow on MiLB First Pitch  https //stza.co/+vKaH-2n
+
+Shop  https //stza.co/+vKaH-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180824T230000Z
+DTEND:20180825T020000Z
+UID:TVAZ-II24u2JJETd9lKV6SF1@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~vKaH\n\nFollow on MiLB First Pitch: https://stza.co/+vKaH-2n\n\nShop: https://stza.co/+vKaH-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-08-25 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       DPSZBikzYT_7_LLAHy5qQ2b8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~vKaI
+
+Follow on MiLB First Pitch  https //stza.co/+vKaI-k
+
+Shop  https //stza.co/+vKaI-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180825T223000Z
+DTEND:20180826T013000Z
+UID:DPSZBikzYT_7_LLAHy5qQ2b8@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~vKaI\n\nFollow on MiLB First Pitch: https://stza.co/+vKaI-k\n\nShop: https://stza.co/+vKaI-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-08-26 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       v-Vv4xOqKuCLNQQP7W2N8SqU@stanza.co
+:LOCATION: Kids Eat Free Sunday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.
+
+Visit with Chase, Marshall, Skye & Rubble in PNC Plaza before and during the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKar-2Z
+
+Shop  https //stza.co/+vKar-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180826T173500Z
+DTEND:20180826T203500Z
+UID:v-Vv4xOqKuCLNQQP7W2N8SqU@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Children 14 and under receive a voucher good for a hot dog, bag of chips and bottle of water with the price of admission. Gates open at Noon.\n\nVisit with Chase, Marshall, Skye & Rubble in PNC Plaza before and during the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKar-2Z\n\nShop: https://stza.co/+vKar-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Kids Eat Free Sunday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-08-27 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       yp_5R2ngyZ6QUwtG7VqhYKtz@stanza.co
+:LOCATION: Dollar Menu Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKat-3m
+
+Shop  https //stza.co/+vKat-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180827T230500Z
+DTEND:20180828T020500Z
+UID:yp_5R2ngyZ6QUwtG7VqhYKtz@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Bring your appetite as hot dogs, peanuts, potato chips, Cracker Jack and popcorn are all available for just $1 each. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKat-3m\n\nShop: https://stza.co/+vKat-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Menu Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-08-28 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       T2ApMOs8h09iBWlv_n2Vv0OV@stanza.co
+:LOCATION: 2-for-1 Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKau-r
+
+Shop  https //stza.co/+vKau-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180828T230500Z
+DTEND:20180829T020500Z
+UID:T2ApMOs8h09iBWlv_n2Vv0OV@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Visit any Central Indiana McAlister's Deli location to pick up a voucher good for two-for-one admission at any Tuesday home game. When purchasing online, enter the promo code on the voucher during Step 3 of your purchase. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKau-r\n\nShop: https://stza.co/+vKau-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:2-for-1 Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-08-29 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       9SYiNGVCg3KLXsw2eZKFZycu@stanza.co
+:LOCATION: Wednesday Day Game
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.
+
+Follow on MiLB First Pitch  https //stza.co/+vKax-1V
+
+Shop  https //stza.co/+vKax-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180829T173500Z
+DTEND:20180829T203500Z
+UID:9SYiNGVCg3KLXsw2eZKFZycu@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Take your lunch at the ballpark or cut out of the office early. Gates open at Noon.\n\nFollow on MiLB First Pitch: https://stza.co/+vKax-1V\n\nShop: https://stza.co/+vKax-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wednesday Day Game
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Mud Hens
+<2018-08-30 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       fDHap-MagHE0xjGOpkaxllBB@stanza.co
+:LOCATION: Thursday Craft Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Mud Hens Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKay-37
+
+Shop  https //stza.co/+vKay-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Mud Hens
+END:VALARM
+DTSTART:20180830T230500Z
+DTEND:20180831T020500Z
+UID:fDHap-MagHE0xjGOpkaxllBB@stanza.co
+SUMMARY:Indians vs. Mud Hens
+DESCRIPTION:Sun King brings two other Indiana breweries for tapping seasonal brews in PNC Plaza. The craft beer ticket package gets fans two beers and a lawn ticket for $20. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKay-37\n\nShop: https://stza.co/+vKay-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Thursday Craft Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-08-31 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       0vJry46o-3X3WhpjSkf0r_Y7@stanza.co
+:LOCATION: Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKaB-f
+
+Shop  https //stza.co/+vKaB-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180831T231500Z
+DTEND:20180901T021500Z
+UID:0vJry46o-3X3WhpjSkf0r_Y7@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:Stick around after the final out to enjoy spectacular fireworks immediately following the game. Gates open at 5:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKaB-f\n\nShop: https://stza.co/+vKaB-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians vs. Bats
+<2018-09-01 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       xNOc2YIC8nCmCSeHbs7xMmx-@stanza.co
+:LOCATION: Season Finale Fireworks & Scratch-off Prize Giveaway
+:STATUS:   CONFIRMED
+:END:
+
+Indians vs. Bats The Tribe caps off the regular season with a postgame fireworks display and scratch-off prizes featuring special giveaways and contests. Gates open at 4 30 PM.
+
+Follow on MiLB First Pitch  https //stza.co/+vKaD-2s
+
+Shop  https //stza.co/+vKaD-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Indians vs. Bats
+END:VALARM
+DTSTART:20180901T220500Z
+DTEND:20180902T010500Z
+UID:xNOc2YIC8nCmCSeHbs7xMmx-@stanza.co
+SUMMARY:Indians vs. Bats
+DESCRIPTION:The Tribe caps off the regular season with a postgame fireworks display and scratch-off prizes featuring special giveaways and contests. Gates open at 4:30 PM.\n\nFollow on MiLB First Pitch: https://stza.co/+vKaD-2s\n\nShop: https://stza.co/+vKaD-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Season Finale Fireworks & Scratch-off Prize Giveaway
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-09-02 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       xxBfsMPCYlFN9tAEk8CIwRxe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~vKaJ
+
+Follow on MiLB First Pitch  https //stza.co/+vKaJ-3H
+
+Shop  https //stza.co/+vKaJ-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180902T220000Z
+DTEND:20180903T010000Z
+UID:xxBfsMPCYlFN9tAEk8CIwRxe@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~vKaJ\n\nFollow on MiLB First Pitch: https://stza.co/+vKaJ-3H\n\nShop: https://stza.co/+vKaJ-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT
+* Indians @ Bats
+<2018-09-03 Mon 12:00-15:00>
+:PROPERTIES:
+:ID:       lsH3FRR8i9VGPw9FBpdKcaiQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Indians @ Bats Indians @ Bats
+
+Buy tickets here  https //stza.co/~vKaK
+
+Follow on MiLB First Pitch  https //stza.co/+vKaK-15
+
+Shop  https //stza.co/+vKaK-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Indians @ Bats
+END:VALARM
+DTSTART:20180903T170000Z
+DTEND:20180903T200000Z
+UID:lsH3FRR8i9VGPw9FBpdKcaiQ@stanza.co
+SUMMARY:Indians @ Bats
+DESCRIPTION:Indians @ Bats\n\nBuy tickets here: https://stza.co/~vKaK\n\nFollow on MiLB First Pitch: https://stza.co/+vKaK-15\n\nShop: https://stza.co/+vKaK-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144534Z
+LAST-MODIFIED:20180213T144534Z
+TRANSP:OPAQUE
+END:VEVENT

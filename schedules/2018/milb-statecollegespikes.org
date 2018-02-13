@@ -1,0 +1,2746 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Spikes @ Crosscutters
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       3LG8dYIKxYqgS883c5wcC7zZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6h-1a
+
+Shop  https //stza.co/+x$6h-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:3LG8dYIKxYqgS883c5wcC7zZ@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6h-1a\n\nShop: https://stza.co/+x$6h-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Crosscutters
+<2018-06-16 Sat>--<2018-06-15 Fri>
+:PROPERTIES:
+:ID:       4RXaK-9E1GhBueQHjTcOKzoM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Crosscutters Spikes vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMsl-m
+
+Shop  https //stza.co/+xMsl-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180616
+DTEND;VALUE=DATE:20180616
+UID:4RXaK-9E1GhBueQHjTcOKzoM@stanza.co
+SUMMARY:Spikes vs. Crosscutters
+DESCRIPTION:Spikes vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMsl-m\n\nShop: https://stza.co/+xMsl-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-06-17 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       5CJyJsylQOT6U67qAnk2j0DS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6i-1r
+
+Shop  https //stza.co/+x$6i-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180617T210500Z
+DTEND:20180618T000500Z
+UID:5CJyJsylQOT6U67qAnk2j0DS@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6i-1r\n\nShop: https://stza.co/+x$6i-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Scrappers
+<2018-06-18 Mon>--<2018-06-17 Sun>
+:PROPERTIES:
+:ID:       frSxoD4CUGpWbEscOONZ-EU-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Scrappers Spikes vs. Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsn-3W
+
+Shop  https //stza.co/+xMsn-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180618
+UID:frSxoD4CUGpWbEscOONZ-EU-@stanza.co
+SUMMARY:Spikes vs. Scrappers
+DESCRIPTION:Spikes vs. Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsn-3W\n\nShop: https://stza.co/+xMsn-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Scrappers
+<2018-06-19 Tue>--<2018-06-18 Mon>
+:PROPERTIES:
+:ID:       d8qwN-14rWZagWVB7rLuN1an@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Scrappers Spikes vs. Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsp-3Y
+
+Shop  https //stza.co/+xMsp-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180619
+UID:d8qwN-14rWZagWVB7rLuN1an@stanza.co
+SUMMARY:Spikes vs. Scrappers
+DESCRIPTION:Spikes vs. Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsp-3Y\n\nShop: https://stza.co/+xMsp-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Scrappers
+<2018-06-20 Wed>--<2018-06-19 Tue>
+:PROPERTIES:
+:ID:       8ZWYZ-JMgEU8Q5VHNLDWHVfU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Scrappers Spikes vs. Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsr-i
+
+Shop  https //stza.co/+xMsr-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180620
+UID:8ZWYZ-JMgEU8Q5VHNLDWHVfU@stanza.co
+SUMMARY:Spikes vs. Scrappers
+DESCRIPTION:Spikes vs. Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsr-i\n\nShop: https://stza.co/+xMsr-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Black Bears
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       EAt4q0DcKdtk0nFJngXJlT-C@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Black Bears Spikes @ Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xW0f-3X
+
+Shop  https //stza.co/+xW0f-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Black Bears
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:EAt4q0DcKdtk0nFJngXJlT-C@stanza.co
+SUMMARY:Spikes @ Black Bears
+DESCRIPTION:Spikes @ Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xW0f-3X\n\nShop: https://stza.co/+xW0f-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Black Bears
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       nm-10aT_u7u0aTS-cP6rHSy7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Black Bears Spikes @ Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xW0g-2c
+
+Shop  https //stza.co/+xW0g-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Black Bears
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:nm-10aT_u7u0aTS-cP6rHSy7@stanza.co
+SUMMARY:Spikes @ Black Bears
+DESCRIPTION:Spikes @ Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xW0g-2c\n\nShop: https://stza.co/+xW0g-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Black Bears
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       7bWMDiTk5Ku1RIr_3Hz0P3cu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Black Bears Spikes @ Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xW0h-1I
+
+Shop  https //stza.co/+xW0h-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Black Bears
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:7bWMDiTk5Ku1RIr_3Hz0P3cu@stanza.co
+SUMMARY:Spikes @ Black Bears
+DESCRIPTION:Spikes @ Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xW0h-1I\n\nShop: https://stza.co/+xW0h-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Muckdogs
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       VVTtM9qPd-VlmJ-_L_nkwtVv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Muckdogs Spikes vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMsu-1q
+
+Shop  https //stza.co/+xMsu-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:VVTtM9qPd-VlmJ-_L_nkwtVv@stanza.co
+SUMMARY:Spikes vs. Muckdogs
+DESCRIPTION:Spikes vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMsu-1q\n\nShop: https://stza.co/+xMsu-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Muckdogs
+<2018-06-25 Mon>--<2018-06-24 Sun>
+:PROPERTIES:
+:ID:       yJt-i4xogmU7KSiDwektbExD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Muckdogs Spikes vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMsw-18
+
+Shop  https //stza.co/+xMsw-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180625
+DTEND;VALUE=DATE:20180625
+UID:yJt-i4xogmU7KSiDwektbExD@stanza.co
+SUMMARY:Spikes vs. Muckdogs
+DESCRIPTION:Spikes vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMsw-18\n\nShop: https://stza.co/+xMsw-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Muckdogs
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       09QzlGCamoUwKKD_4Fc79Faf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Muckdogs Spikes vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMsx-P
+
+Shop  https //stza.co/+xMsx-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:09QzlGCamoUwKKD_4Fc79Faf@stanza.co
+SUMMARY:Spikes vs. Muckdogs
+DESCRIPTION:Spikes vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMsx-P\n\nShop: https://stza.co/+xMsx-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       he-bpJ5OcCUhz1uCK2vjsBLP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6j-23
+
+Shop  https //stza.co/+x$6j-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:he-bpJ5OcCUhz1uCK2vjsBLP@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6j-23\n\nShop: https://stza.co/+x$6j-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Crosscutters
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       KtaG_XRryThKwRI93QCunytg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Crosscutters Spikes vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMsz-3m
+
+Shop  https //stza.co/+xMsz-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:KtaG_XRryThKwRI93QCunytg@stanza.co
+SUMMARY:Spikes vs. Crosscutters
+DESCRIPTION:Spikes vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMsz-3m\n\nShop: https://stza.co/+xMsz-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-06-30 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       VXNM66P-YBPfcSLOAbKOSvtU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6k-r
+
+Shop  https //stza.co/+x$6k-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180630T230500Z
+DTEND:20180701T020500Z
+UID:VXNM66P-YBPfcSLOAbKOSvtU@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6k-r\n\nShop: https://stza.co/+x$6k-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Scrappers
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       EckqB6CDeP-QqlQIoDNFd-ye@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Scrappers Spikes vs. Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsB-1R
+
+Shop  https //stza.co/+xMsB-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:EckqB6CDeP-QqlQIoDNFd-ye@stanza.co
+SUMMARY:Spikes vs. Scrappers
+DESCRIPTION:Spikes vs. Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsB-1R\n\nShop: https://stza.co/+xMsB-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Scrappers
+<2018-07-02 Mon>--<2018-07-01 Sun>
+:PROPERTIES:
+:ID:       OQOqfs3XQIalghbu6Sevl50A@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Scrappers Spikes vs. Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsD-35
+
+Shop  https //stza.co/+xMsD-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180702
+UID:OQOqfs3XQIalghbu6Sevl50A@stanza.co
+SUMMARY:Spikes vs. Scrappers
+DESCRIPTION:Spikes vs. Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsD-35\n\nShop: https://stza.co/+xMsD-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Scrappers
+<2018-07-03 Tue>--<2018-07-02 Mon>
+:PROPERTIES:
+:ID:       9TV3iKpc3RSv8mhW1Q4QIeDZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Scrappers Spikes vs. Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsF-17
+
+Shop  https //stza.co/+xMsF-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180703
+DTEND;VALUE=DATE:20180703
+UID:9TV3iKpc3RSv8mhW1Q4QIeDZ@stanza.co
+SUMMARY:Spikes vs. Scrappers
+DESCRIPTION:Spikes vs. Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsF-17\n\nShop: https://stza.co/+xMsF-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Doubledays
+<2018-07-04 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       xCua7XKFqZTmDPIdYn32Hu9R@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Doubledays Spikes @ Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xW0a-3F
+
+Shop  https //stza.co/+xW0a-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Doubledays
+END:VALARM
+DTSTART:20180704T223000Z
+DTEND:20180705T013000Z
+UID:xCua7XKFqZTmDPIdYn32Hu9R@stanza.co
+SUMMARY:Spikes @ Doubledays
+DESCRIPTION:Spikes @ Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xW0a-3F\n\nShop: https://stza.co/+xW0a-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Doubledays
+<2018-07-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       FOq0GSUOongMFVGYGRrq7-cG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Doubledays Spikes @ Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xW0b-2c
+
+Shop  https //stza.co/+xW0b-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Doubledays
+END:VALARM
+DTSTART:20180705T223000Z
+DTEND:20180706T013000Z
+UID:FOq0GSUOongMFVGYGRrq7-cG@stanza.co
+SUMMARY:Spikes @ Doubledays
+DESCRIPTION:Spikes @ Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xW0b-2c\n\nShop: https://stza.co/+xW0b-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Doubledays
+<2018-07-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       NBVdbbd3EF97I0ch9vmIYdwr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Doubledays Spikes @ Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xW0c-R
+
+Shop  https //stza.co/+xW0c-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Doubledays
+END:VALARM
+DTSTART:20180706T223000Z
+DTEND:20180707T013000Z
+UID:NBVdbbd3EF97I0ch9vmIYdwr@stanza.co
+SUMMARY:Spikes @ Doubledays
+DESCRIPTION:Spikes @ Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xW0c-R\n\nShop: https://stza.co/+xW0c-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Muckdogs
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       MLXVXr_pPZ7DO0FOgZX9L-lA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Muckdogs Spikes @ Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMs3-7
+
+Shop  https //stza.co/+xMs3-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:MLXVXr_pPZ7DO0FOgZX9L-lA@stanza.co
+SUMMARY:Spikes @ Muckdogs
+DESCRIPTION:Spikes @ Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMs3-7\n\nShop: https://stza.co/+xMs3-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Muckdogs
+<2018-07-08 Sun>--<2018-07-07 Sat>
+:PROPERTIES:
+:ID:       csv5AL5rlOEfuk_lNKjVggSc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Muckdogs Spikes @ Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMs4-2x
+
+Shop  https //stza.co/+xMs4-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180708
+DTEND;VALUE=DATE:20180708
+UID:csv5AL5rlOEfuk_lNKjVggSc@stanza.co
+SUMMARY:Spikes @ Muckdogs
+DESCRIPTION:Spikes @ Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMs4-2x\n\nShop: https://stza.co/+xMs4-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Muckdogs
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       jH_tkYBFGzwNzdMfe20lBJcM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Muckdogs Spikes @ Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMs5-3w
+
+Shop  https //stza.co/+xMs5-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:jH_tkYBFGzwNzdMfe20lBJcM@stanza.co
+SUMMARY:Spikes @ Muckdogs
+DESCRIPTION:Spikes @ Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMs5-3w\n\nShop: https://stza.co/+xMs5-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Lake Monsters
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       CL0sKacxA1dQNPWvn3rp1NLR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Lake Monsters Spikes vs. Lake Monsters
+
+Follow on MiLB First Pitch  https //stza.co/+xMsH-2x
+
+Shop  https //stza.co/+xMsH-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Lake Monsters
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:CL0sKacxA1dQNPWvn3rp1NLR@stanza.co
+SUMMARY:Spikes vs. Lake Monsters
+DESCRIPTION:Spikes vs. Lake Monsters\n\nFollow on MiLB First Pitch: https://stza.co/+xMsH-2x\n\nShop: https://stza.co/+xMsH-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Lake Monsters
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       ENibmsCYZy4YjFIkUrABy5oB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Lake Monsters Spikes vs. Lake Monsters
+
+Follow on MiLB First Pitch  https //stza.co/+xMsK-2r
+
+Shop  https //stza.co/+xMsK-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Lake Monsters
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:ENibmsCYZy4YjFIkUrABy5oB@stanza.co
+SUMMARY:Spikes vs. Lake Monsters
+DESCRIPTION:Spikes vs. Lake Monsters\n\nFollow on MiLB First Pitch: https://stza.co/+xMsK-2r\n\nShop: https://stza.co/+xMsK-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Lake Monsters
+<2018-07-13 Fri>--<2018-07-12 Thu>
+:PROPERTIES:
+:ID:       ajP0Yuk7rCAUn9ZTGaQkVCCq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Lake Monsters Spikes vs. Lake Monsters
+
+Follow on MiLB First Pitch  https //stza.co/+xMsL-1T
+
+Shop  https //stza.co/+xMsL-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Lake Monsters
+END:VALARM
+DTSTART;VALUE=DATE:20180713
+DTEND;VALUE=DATE:20180713
+UID:ajP0Yuk7rCAUn9ZTGaQkVCCq@stanza.co
+SUMMARY:Spikes vs. Lake Monsters
+DESCRIPTION:Spikes vs. Lake Monsters\n\nFollow on MiLB First Pitch: https://stza.co/+xMsL-1T\n\nShop: https://stza.co/+xMsL-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. ValleyCats
+<2018-07-14 Sat>--<2018-07-13 Fri>
+:PROPERTIES:
+:ID:       lxPP8sCFZTN3Fr-vrGioJDoM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. ValleyCats Spikes vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMsN-2s
+
+Shop  https //stza.co/+xMsN-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180714
+DTEND;VALUE=DATE:20180714
+UID:lxPP8sCFZTN3Fr-vrGioJDoM@stanza.co
+SUMMARY:Spikes vs. ValleyCats
+DESCRIPTION:Spikes vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMsN-2s\n\nShop: https://stza.co/+xMsN-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. ValleyCats
+<2018-07-15 Sun>--<2018-07-14 Sat>
+:PROPERTIES:
+:ID:       ac1fjUMgEW1YAwmGoTps2NuD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. ValleyCats Spikes vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMsQ-E
+
+Shop  https //stza.co/+xMsQ-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180715
+UID:ac1fjUMgEW1YAwmGoTps2NuD@stanza.co
+SUMMARY:Spikes vs. ValleyCats
+DESCRIPTION:Spikes vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMsQ-E\n\nShop: https://stza.co/+xMsQ-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. ValleyCats
+<2018-07-16 Mon>--<2018-07-15 Sun>
+:PROPERTIES:
+:ID:       owQx4L-A29QOQFF8LYrtUBz9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. ValleyCats Spikes vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMsR-1_
+
+Shop  https //stza.co/+xMsR-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180716
+UID:owQx4L-A29QOQFF8LYrtUBz9@stanza.co
+SUMMARY:Spikes vs. ValleyCats
+DESCRIPTION:Spikes vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMsR-1_\n\nShop: https://stza.co/+xMsR-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Black Bears
+<2018-07-17 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       VSfTWxhAaSkC3_cso6_keqBe@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Black Bears Spikes @ Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xW0i-3f
+
+Shop  https //stza.co/+xW0i-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Black Bears
+END:VALARM
+DTSTART:20180717T230500Z
+DTEND:20180718T020500Z
+UID:VSfTWxhAaSkC3_cso6_keqBe@stanza.co
+SUMMARY:Spikes @ Black Bears
+DESCRIPTION:Spikes @ Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xW0i-3f\n\nShop: https://stza.co/+xW0i-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Black Bears
+<2018-07-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       UIDs0NuSDPvw6UIj_FRkfGQZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Black Bears Spikes @ Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xW0j-11
+
+Shop  https //stza.co/+xW0j-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Black Bears
+END:VALARM
+DTSTART:20180718T230500Z
+DTEND:20180719T020500Z
+UID:UIDs0NuSDPvw6UIj_FRkfGQZ@stanza.co
+SUMMARY:Spikes @ Black Bears
+DESCRIPTION:Spikes @ Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xW0j-11\n\nShop: https://stza.co/+xW0j-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Black Bears
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       bjyFbi6qnuPVWu66eTedi1r1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Black Bears Spikes @ Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xW0k-1o
+
+Shop  https //stza.co/+xW0k-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Black Bears
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:bjyFbi6qnuPVWu66eTedi1r1@stanza.co
+SUMMARY:Spikes @ Black Bears
+DESCRIPTION:Spikes @ Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xW0k-1o\n\nShop: https://stza.co/+xW0k-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-07-20 Fri>--<2018-07-19 Thu>
+:PROPERTIES:
+:ID:       rRLfMgrU74e2EEv9jsFuS-O3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMsU-3r
+
+Shop  https //stza.co/+xMsU-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180720
+DTEND;VALUE=DATE:20180720
+UID:rRLfMgrU74e2EEv9jsFuS-O3@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMsU-3r\n\nShop: https://stza.co/+xMsU-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       Vwc_pAB0eEasXYFW1-RFxY0L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMsV-21
+
+Shop  https //stza.co/+xMsV-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:Vwc_pAB0eEasXYFW1-RFxY0L@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMsV-21\n\nShop: https://stza.co/+xMsV-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-07-22 Sun>--<2018-07-21 Sat>
+:PROPERTIES:
+:ID:       4GX0r7LW0xF96fIGwrtH-UPN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMsY-2S
+
+Shop  https //stza.co/+xMsY-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180722
+DTEND;VALUE=DATE:20180722
+UID:4GX0r7LW0xF96fIGwrtH-UPN@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMsY-2S\n\nShop: https://stza.co/+xMsY-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Tigers
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       8w-gJSLaFLX1keWVhpdVAH1N@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Tigers Spikes @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMs9-a
+
+Shop  https //stza.co/+xMs9-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:8w-gJSLaFLX1keWVhpdVAH1N@stanza.co
+SUMMARY:Spikes @ Tigers
+DESCRIPTION:Spikes @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMs9-a\n\nShop: https://stza.co/+xMs9-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Tigers
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       ujo1-F1gXvZJxTno244xeNhs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Tigers Spikes @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsa-1I
+
+Shop  https //stza.co/+xMsa-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:ujo1-F1gXvZJxTno244xeNhs@stanza.co
+SUMMARY:Spikes @ Tigers
+DESCRIPTION:Spikes @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsa-1I\n\nShop: https://stza.co/+xMsa-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Tigers
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       C21iff0qyNTLGTq56FGXuWUC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Tigers Spikes @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsb-2o
+
+Shop  https //stza.co/+xMsb-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:C21iff0qyNTLGTq56FGXuWUC@stanza.co
+SUMMARY:Spikes @ Tigers
+DESCRIPTION:Spikes @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsb-2o\n\nShop: https://stza.co/+xMsb-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Spinners
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       IoXWW-lEjivu0AQHZ1bJ3dWD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Spinners Spikes @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMsc-15
+
+Shop  https //stza.co/+xMsc-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:IoXWW-lEjivu0AQHZ1bJ3dWD@stanza.co
+SUMMARY:Spikes @ Spinners
+DESCRIPTION:Spikes @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMsc-15\n\nShop: https://stza.co/+xMsc-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Spinners
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       PwSj0X6IMho8fCjk2EkmrjTS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Spinners Spikes @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMsd-H
+
+Shop  https //stza.co/+xMsd-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:PwSj0X6IMho8fCjk2EkmrjTS@stanza.co
+SUMMARY:Spikes @ Spinners
+DESCRIPTION:Spikes @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMsd-H\n\nShop: https://stza.co/+xMsd-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Spinners
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       Ka97dp0S0JNjQpGRglMN3l5Q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Spinners Spikes @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMse-C
+
+Shop  https //stza.co/+xMse-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:Ka97dp0S0JNjQpGRglMN3l5Q@stanza.co
+SUMMARY:Spikes @ Spinners
+DESCRIPTION:Spikes @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMse-C\n\nShop: https://stza.co/+xMse-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Muckdogs
+<2018-07-30 Mon>--<2018-07-29 Sun>
+:PROPERTIES:
+:ID:       q-iLRcros2oHvTgv67u5_c2J@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Muckdogs Spikes vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMs_-G
+
+Shop  https //stza.co/+xMs_-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180730
+DTEND;VALUE=DATE:20180730
+UID:q-iLRcros2oHvTgv67u5_c2J@stanza.co
+SUMMARY:Spikes vs. Muckdogs
+DESCRIPTION:Spikes vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMs_-G\n\nShop: https://stza.co/+xMs_-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Muckdogs
+<2018-07-31 Tue>--<2018-07-30 Mon>
+:PROPERTIES:
+:ID:       WcYsRMygQcUx4hc6L21grHyG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Muckdogs Spikes vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMt0-2z
+
+Shop  https //stza.co/+xMt0-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180731
+DTEND;VALUE=DATE:20180731
+UID:WcYsRMygQcUx4hc6L21grHyG@stanza.co
+SUMMARY:Spikes vs. Muckdogs
+DESCRIPTION:Spikes vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMt0-2z\n\nShop: https://stza.co/+xMt0-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Muckdogs
+<2018-08-01 Wed>--<2018-07-31 Tue>
+:PROPERTIES:
+:ID:       WGW_ixAVgKW7qXdzicp5Cn2-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Muckdogs Spikes vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMt1-1E
+
+Shop  https //stza.co/+xMt1-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180801
+UID:WGW_ixAVgKW7qXdzicp5Cn2-@stanza.co
+SUMMARY:Spikes vs. Muckdogs
+DESCRIPTION:Spikes vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMt1-1E\n\nShop: https://stza.co/+xMt1-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-08-02 Thu>--<2018-08-01 Wed>
+:PROPERTIES:
+:ID:       _RVKEWNfV0HRQmrrznQsa8T8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMt3-18
+
+Shop  https //stza.co/+xMt3-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180802
+UID:_RVKEWNfV0HRQmrrznQsa8T8@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMt3-18\n\nShop: https://stza.co/+xMt3-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       8THkdPu3i3S7F9q2t4qBlmkE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMt6-2o
+
+Shop  https //stza.co/+xMt6-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:8THkdPu3i3S7F9q2t4qBlmkE@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMt6-2o\n\nShop: https://stza.co/+xMt6-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       gRTienviFBX_9JtF-se1TMBa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMt7-3B
+
+Shop  https //stza.co/+xMt7-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:gRTienviFBX_9JtF-se1TMBa@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMt7-3B\n\nShop: https://stza.co/+xMt7-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Scrappers
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       AQDGZiU8xxW7kI-7dEFyJxY0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Scrappers Spikes @ Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsf-1D
+
+Shop  https //stza.co/+xMsf-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:AQDGZiU8xxW7kI-7dEFyJxY0@stanza.co
+SUMMARY:Spikes @ Scrappers
+DESCRIPTION:Spikes @ Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsf-1D\n\nShop: https://stza.co/+xMsf-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Scrappers
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       621IwysO5nXiGlr3J0SsuEgo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Scrappers Spikes @ Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsg-3c
+
+Shop  https //stza.co/+xMsg-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:621IwysO5nXiGlr3J0SsuEgo@stanza.co
+SUMMARY:Spikes @ Scrappers
+DESCRIPTION:Spikes @ Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsg-3c\n\nShop: https://stza.co/+xMsg-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Scrappers
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       DxM5Oz4dOzZ72uUKvvum_YEY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Scrappers Spikes @ Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsh-p
+
+Shop  https //stza.co/+xMsh-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:DxM5Oz4dOzZ72uUKvvum_YEY@stanza.co
+SUMMARY:Spikes @ Scrappers
+DESCRIPTION:Spikes @ Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsh-p\n\nShop: https://stza.co/+xMsh-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Black Bears
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       pa84yMCtFeubHtf7VDUmB8-C@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Black Bears Spikes vs. Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xMta-25
+
+Shop  https //stza.co/+xMta-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Black Bears
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:pa84yMCtFeubHtf7VDUmB8-C@stanza.co
+SUMMARY:Spikes vs. Black Bears
+DESCRIPTION:Spikes vs. Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xMta-25\n\nShop: https://stza.co/+xMta-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Black Bears
+<2018-08-09 Thu>--<2018-08-08 Wed>
+:PROPERTIES:
+:ID:       jOJ-ieDktZjXsND1gmRihgsQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Black Bears Spikes vs. Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xMtc-H
+
+Shop  https //stza.co/+xMtc-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Black Bears
+END:VALARM
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+UID:jOJ-ieDktZjXsND1gmRihgsQ@stanza.co
+SUMMARY:Spikes vs. Black Bears
+DESCRIPTION:Spikes vs. Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xMtc-H\n\nShop: https://stza.co/+xMtc-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Black Bears
+<2018-08-10 Fri>--<2018-08-09 Thu>
+:PROPERTIES:
+:ID:       9JpJzNZxe4G9enzM6SI3BDCU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Black Bears Spikes vs. Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xMtd-37
+
+Shop  https //stza.co/+xMtd-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Black Bears
+END:VALARM
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+UID:9JpJzNZxe4G9enzM6SI3BDCU@stanza.co
+SUMMARY:Spikes vs. Black Bears
+DESCRIPTION:Spikes vs. Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xMtd-37\n\nShop: https://stza.co/+xMtd-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Doubledays
+<2018-08-11 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       6WfsNaifJP2Lt_iAHtWzjiHB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Doubledays Spikes @ Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xW0d-3H
+
+Shop  https //stza.co/+xW0d-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Doubledays
+END:VALARM
+DTSTART:20180811T223000Z
+DTEND:20180812T013000Z
+UID:6WfsNaifJP2Lt_iAHtWzjiHB@stanza.co
+SUMMARY:Spikes @ Doubledays
+DESCRIPTION:Spikes @ Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xW0d-3H\n\nShop: https://stza.co/+xW0d-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Doubledays
+<2018-08-12 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       UVpL1-c6fJBMeFqVM0zWyyCR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Doubledays Spikes @ Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xW0e-2v
+
+Shop  https //stza.co/+xW0e-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Doubledays
+END:VALARM
+DTSTART:20180812T200000Z
+DTEND:20180812T230000Z
+UID:UVpL1-c6fJBMeFqVM0zWyyCR@stanza.co
+SUMMARY:Spikes @ Doubledays
+DESCRIPTION:Spikes @ Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xW0e-2v\n\nShop: https://stza.co/+xW0e-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Crosscutters
+<2018-08-15 Wed>--<2018-08-14 Tue>
+:PROPERTIES:
+:ID:       6080aM-p9hnSsqVTVQAnX8t7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Crosscutters Spikes vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMtf-s
+
+Shop  https //stza.co/+xMtf-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180815
+DTEND;VALUE=DATE:20180815
+UID:6080aM-p9hnSsqVTVQAnX8t7@stanza.co
+SUMMARY:Spikes vs. Crosscutters
+DESCRIPTION:Spikes vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMtf-s\n\nShop: https://stza.co/+xMtf-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Crosscutters
+<2018-08-16 Thu>--<2018-08-15 Wed>
+:PROPERTIES:
+:ID:       PXwbbEZprk_FQKtNSusXt6jY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Crosscutters Spikes vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMth-w
+
+Shop  https //stza.co/+xMth-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180816
+UID:PXwbbEZprk_FQKtNSusXt6jY@stanza.co
+SUMMARY:Spikes vs. Crosscutters
+DESCRIPTION:Spikes vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMth-w\n\nShop: https://stza.co/+xMth-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Scrappers
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       KccCAHmWkekxrGp4Lwx8iL-u@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Scrappers Spikes @ Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsi-2I
+
+Shop  https //stza.co/+xMsi-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:KccCAHmWkekxrGp4Lwx8iL-u@stanza.co
+SUMMARY:Spikes @ Scrappers
+DESCRIPTION:Spikes @ Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsi-2I\n\nShop: https://stza.co/+xMsi-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Scrappers
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       5pmCdWhZEmHc2beX9nDth9YV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Scrappers Spikes @ Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsj-12
+
+Shop  https //stza.co/+xMsj-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:5pmCdWhZEmHc2beX9nDth9YV@stanza.co
+SUMMARY:Spikes @ Scrappers
+DESCRIPTION:Spikes @ Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsj-12\n\nShop: https://stza.co/+xMsj-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Scrappers
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       Kt1v4sfs4-O9a8rNRD7swzBv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Scrappers Spikes @ Scrappers
+
+Follow on MiLB First Pitch  https //stza.co/+xMsk-3Q
+
+Shop  https //stza.co/+xMsk-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Scrappers
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:Kt1v4sfs4-O9a8rNRD7swzBv@stanza.co
+SUMMARY:Spikes @ Scrappers
+DESCRIPTION:Spikes @ Scrappers\n\nFollow on MiLB First Pitch: https://stza.co/+xMsk-3Q\n\nShop: https://stza.co/+xMsk-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Crosscutters
+<2018-08-20 Mon>--<2018-08-19 Sun>
+:PROPERTIES:
+:ID:       sqzkOzvJEgJH4h3qvJmpBDNd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Crosscutters Spikes vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMtj-3C
+
+Shop  https //stza.co/+xMtj-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180820
+DTEND;VALUE=DATE:20180820
+UID:sqzkOzvJEgJH4h3qvJmpBDNd@stanza.co
+SUMMARY:Spikes vs. Crosscutters
+DESCRIPTION:Spikes vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMtj-3C\n\nShop: https://stza.co/+xMtj-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       Vc2hLp1o8cKWW6MRGkTWt0oZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6l-9
+
+Shop  https //stza.co/+x$6l-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:Vc2hLp1o8cKWW6MRGkTWt0oZ@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6l-9\n\nShop: https://stza.co/+x$6l-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       naf7suijjj_Wg-Lz447O6b4y@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6m-1i
+
+Shop  https //stza.co/+x$6m-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:naf7suijjj_Wg-Lz447O6b4y@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6m-1i\n\nShop: https://stza.co/+x$6m-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-08-23 Thu>--<2018-08-22 Wed>
+:PROPERTIES:
+:ID:       qEJcWoMN9f7BUELBdzq5Clnf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMtl-Q
+
+Shop  https //stza.co/+xMtl-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180823
+UID:qEJcWoMN9f7BUELBdzq5Clnf@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMtl-Q\n\nShop: https://stza.co/+xMtl-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-08-24 Fri>--<2018-08-23 Thu>
+:PROPERTIES:
+:ID:       lBws8we28d-3rdQR6LjKvhYa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMto-u
+
+Shop  https //stza.co/+xMto-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180824
+UID:lBws8we28d-3rdQR6LjKvhYa@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMto-u\n\nShop: https://stza.co/+xMto-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Doubledays
+<2018-08-25 Sat>--<2018-08-24 Fri>
+:PROPERTIES:
+:ID:       xH6Ec0zZxAEX52cefcjoRJS0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Doubledays Spikes vs. Doubledays
+
+Follow on MiLB First Pitch  https //stza.co/+xMtq-3L
+
+Shop  https //stza.co/+xMtq-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Doubledays
+END:VALARM
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180825
+UID:xH6Ec0zZxAEX52cefcjoRJS0@stanza.co
+SUMMARY:Spikes vs. Doubledays
+DESCRIPTION:Spikes vs. Doubledays\n\nFollow on MiLB First Pitch: https://stza.co/+xMtq-3L\n\nShop: https://stza.co/+xMtq-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Muckdogs
+<2018-08-26 Sun>--<2018-08-25 Sat>
+:PROPERTIES:
+:ID:       nIKsuEppbxuO200x-8w6xaTK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Muckdogs Spikes @ Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMs6-39
+
+Shop  https //stza.co/+xMs6-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180826
+UID:nIKsuEppbxuO200x-8w6xaTK@stanza.co
+SUMMARY:Spikes @ Muckdogs
+DESCRIPTION:Spikes @ Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMs6-39\n\nShop: https://stza.co/+xMs6-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Muckdogs
+<2018-08-27 Mon>--<2018-08-26 Sun>
+:PROPERTIES:
+:ID:       AUqU6m2IHdMtw1xWECSDklvR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Muckdogs Spikes @ Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMs7-1X
+
+Shop  https //stza.co/+xMs7-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180827
+DTEND;VALUE=DATE:20180827
+UID:AUqU6m2IHdMtw1xWECSDklvR@stanza.co
+SUMMARY:Spikes @ Muckdogs
+DESCRIPTION:Spikes @ Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMs7-1X\n\nShop: https://stza.co/+xMs7-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Muckdogs
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       hC_Dsgk3TWNr-TTNEiXeZhkP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Muckdogs Spikes @ Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMs8-2c
+
+Shop  https //stza.co/+xMs8-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:hC_Dsgk3TWNr-TTNEiXeZhkP@stanza.co
+SUMMARY:Spikes @ Muckdogs
+DESCRIPTION:Spikes @ Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMs8-2c\n\nShop: https://stza.co/+xMs8-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Black Bears
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       n6O4kHUQ3OdYdWHpTFHdW-oc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Black Bears Spikes vs. Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xMts-2h
+
+Shop  https //stza.co/+xMts-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Black Bears
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:n6O4kHUQ3OdYdWHpTFHdW-oc@stanza.co
+SUMMARY:Spikes vs. Black Bears
+DESCRIPTION:Spikes vs. Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xMts-2h\n\nShop: https://stza.co/+xMts-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Black Bears
+<2018-08-30 Thu>--<2018-08-29 Wed>
+:PROPERTIES:
+:ID:       sS_WBH7vL9YdyglYszLPryoE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Black Bears Spikes vs. Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xMtu-2e
+
+Shop  https //stza.co/+xMtu-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Black Bears
+END:VALARM
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180830
+UID:sS_WBH7vL9YdyglYszLPryoE@stanza.co
+SUMMARY:Spikes vs. Black Bears
+DESCRIPTION:Spikes vs. Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xMtu-2e\n\nShop: https://stza.co/+xMtu-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes vs. Black Bears
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       r92otpqtHGpZ2weTGeuhc39r@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes vs. Black Bears Spikes vs. Black Bears
+
+Follow on MiLB First Pitch  https //stza.co/+xMtw-3C
+
+Shop  https //stza.co/+xMtw-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Spikes vs. Black Bears
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:r92otpqtHGpZ2weTGeuhc39r@stanza.co
+SUMMARY:Spikes vs. Black Bears
+DESCRIPTION:Spikes vs. Black Bears\n\nFollow on MiLB First Pitch: https://stza.co/+xMtw-3C\n\nShop: https://stza.co/+xMtw-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-09-01 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       qO4xrhE8fPozX8LKBnwaid9A@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6n-s
+
+Shop  https //stza.co/+x$6n-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180901T230500Z
+DTEND:20180902T020500Z
+UID:qO4xrhE8fPozX8LKBnwaid9A@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6n-s\n\nShop: https://stza.co/+x$6n-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-09-02 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       LtT7OdhPz48rE8JTpnoxlGDz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6o-3E
+
+Shop  https //stza.co/+x$6o-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180902T210500Z
+DTEND:20180903T000500Z
+UID:LtT7OdhPz48rE8JTpnoxlGDz@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6o-3E\n\nShop: https://stza.co/+x$6o-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Spikes @ Crosscutters
+<2018-09-03 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       T_Qk9gUXClBIw9pHypRP29wG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Spikes @ Crosscutters Spikes @ Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+x$6p-16
+
+Shop  https //stza.co/+x$6p-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Spikes @ Crosscutters
+END:VALARM
+DTSTART:20180903T170500Z
+DTEND:20180903T200500Z
+UID:T_Qk9gUXClBIw9pHypRP29wG@stanza.co
+SUMMARY:Spikes @ Crosscutters
+DESCRIPTION:Spikes @ Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+x$6p-16\n\nShop: https://stza.co/+x$6p-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT

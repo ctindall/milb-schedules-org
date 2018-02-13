@@ -1,0 +1,5092 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Red Sox vs. Astros
+<2018-04-05 Thu>--<2018-04-04 Wed>
+:PROPERTIES:
+:ID:       7afXjyz1RDHC9OncWu4IJJSg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Astros Red Sox vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+w0EC-3L
+
+Shop  https //stza.co/+w0EC-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180405
+DTEND;VALUE=DATE:20180405
+UID:7afXjyz1RDHC9OncWu4IJJSg@stanza.co
+SUMMARY:Red Sox vs. Astros
+DESCRIPTION:Red Sox vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+w0EC-3L\n\nShop: https://stza.co/+w0EC-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Astros
+<2018-04-06 Fri>--<2018-04-05 Thu>
+:PROPERTIES:
+:ID:       o6fYswq3_eJ6HmZ-gWqZZ1_U@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Astros Red Sox vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+w0EF-1O
+
+Shop  https //stza.co/+w0EF-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180406
+UID:o6fYswq3_eJ6HmZ-gWqZZ1_U@stanza.co
+SUMMARY:Red Sox vs. Astros
+DESCRIPTION:Red Sox vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+w0EF-1O\n\nShop: https://stza.co/+w0EF-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Astros
+<2018-04-07 Sat>--<2018-04-06 Fri>
+:PROPERTIES:
+:ID:       Uz8pSH1A1LVKeEQEzu4RvPOB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Astros Red Sox vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+w0EH-3s
+
+Shop  https //stza.co/+w0EH-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180407
+UID:Uz8pSH1A1LVKeEQEzu4RvPOB@stanza.co
+SUMMARY:Red Sox vs. Astros
+DESCRIPTION:Red Sox vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+w0EH-3s\n\nShop: https://stza.co/+w0EH-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Astros
+<2018-04-08 Sun>--<2018-04-07 Sat>
+:PROPERTIES:
+:ID:       QKyywlsROcf2kVYMXp2jlOSE@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Astros Red Sox vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+w0EI-k
+
+Shop  https //stza.co/+w0EI-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180408
+UID:QKyywlsROcf2kVYMXp2jlOSE@stanza.co
+SUMMARY:Red Sox vs. Astros
+DESCRIPTION:Red Sox vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+w0EI-k\n\nShop: https://stza.co/+w0EI-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-04-09 Mon>--<2018-04-08 Sun>
+:PROPERTIES:
+:ID:       vwF5PA3mz5w7XNj0scClwL4D@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0EL-z
+
+Shop  https //stza.co/+w0EL-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180409
+DTEND;VALUE=DATE:20180409
+UID:vwF5PA3mz5w7XNj0scClwL4D@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0EL-z\n\nShop: https://stza.co/+w0EL-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-04-10 Tue>--<2018-04-09 Mon>
+:PROPERTIES:
+:ID:       o0tRMLk2X1XccwSDj4rkgCy0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0EM-r
+
+Shop  https //stza.co/+w0EM-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180410
+DTEND;VALUE=DATE:20180410
+UID:o0tRMLk2X1XccwSDj4rkgCy0@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0EM-r\n\nShop: https://stza.co/+w0EM-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-04-11 Wed>--<2018-04-10 Tue>
+:PROPERTIES:
+:ID:       cHq_hpD63IggQ1defyHnuB_c@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0EO-H
+
+Shop  https //stza.co/+w0EO-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180411
+DTEND;VALUE=DATE:20180411
+UID:cHq_hpD63IggQ1defyHnuB_c@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0EO-H\n\nShop: https://stza.co/+w0EO-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Astros
+<2018-04-12 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       AgkELp0lCDTL0u0VVV-o0Frb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Astros Red Sox @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9C-3W
+
+Shop  https //stza.co/+xM9C-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Astros
+END:VALARM
+DTSTART:20180412T230000Z
+DTEND:20180413T020000Z
+UID:AgkELp0lCDTL0u0VVV-o0Frb@stanza.co
+SUMMARY:Red Sox @ Astros
+DESCRIPTION:Red Sox @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9C-3W\n\nShop: https://stza.co/+xM9C-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Astros
+<2018-04-13 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       unHQtDpy-0lggedQ65-GnAOG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Astros Red Sox @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9D-21
+
+Shop  https //stza.co/+xM9D-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Astros
+END:VALARM
+DTSTART:20180413T230000Z
+DTEND:20180414T020000Z
+UID:unHQtDpy-0lggedQ65-GnAOG@stanza.co
+SUMMARY:Red Sox @ Astros
+DESCRIPTION:Red Sox @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9D-21\n\nShop: https://stza.co/+xM9D-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Astros
+<2018-04-14 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       pOWohVyaGN6KV1cu4h7PfP0j@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Astros Red Sox @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9E-3M
+
+Shop  https //stza.co/+xM9E-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Astros
+END:VALARM
+DTSTART:20180414T220000Z
+DTEND:20180415T010000Z
+UID:pOWohVyaGN6KV1cu4h7PfP0j@stanza.co
+SUMMARY:Red Sox @ Astros
+DESCRIPTION:Red Sox @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9E-3M\n\nShop: https://stza.co/+xM9E-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Astros
+<2018-04-15 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       SWjO4yglbWiQdUfUQY2ZTTph@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Astros Red Sox @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9F-10
+
+Shop  https //stza.co/+xM9F-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Astros
+END:VALARM
+DTSTART:20180415T180000Z
+DTEND:20180415T210000Z
+UID:SWjO4yglbWiQdUfUQY2ZTTph@stanza.co
+SUMMARY:Red Sox @ Astros
+DESCRIPTION:Red Sox @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9F-10\n\nShop: https://stza.co/+xM9F-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-04-16 Mon>--<2018-04-15 Sun>
+:PROPERTIES:
+:ID:       AL40Agy3J5JhO-PiiKsTkhEm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0ER-L
+
+Shop  https //stza.co/+w0ER-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180416
+DTEND;VALUE=DATE:20180416
+UID:AL40Agy3J5JhO-PiiKsTkhEm@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0ER-L\n\nShop: https://stza.co/+w0ER-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-04-17 Tue>--<2018-04-16 Mon>
+:PROPERTIES:
+:ID:       GK6Q1s_wpMff8Y1ejWq6fxYY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0ES-1D
+
+Shop  https //stza.co/+w0ES-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180417
+DTEND;VALUE=DATE:20180417
+UID:GK6Q1s_wpMff8Y1ejWq6fxYY@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0ES-1D\n\nShop: https://stza.co/+w0ES-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-04-18 Wed>--<2018-04-17 Tue>
+:PROPERTIES:
+:ID:       k3EJfXhZ9fLZ3IFjuW3T_j6K@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0EV-N
+
+Shop  https //stza.co/+w0EV-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180418
+DTEND;VALUE=DATE:20180418
+UID:k3EJfXhZ9fLZ3IFjuW3T_j6K@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0EV-N\n\nShop: https://stza.co/+w0EV-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-04-19 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       DOcqZKOhMEhdQyN4bw4Aivwd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H0
+
+Follow on MiLB First Pitch  https //stza.co/+w0H0-2R
+
+Shop  https //stza.co/+w0H0-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180419T230000Z
+DTEND:20180420T020000Z
+UID:DOcqZKOhMEhdQyN4bw4Aivwd@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H0\n\nFollow on MiLB First Pitch: https://stza.co/+w0H0-2R\n\nShop: https://stza.co/+w0H0-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-04-20 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       _gBeuKxqlYJggHmZDEy_SAWo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H1
+
+Follow on MiLB First Pitch  https //stza.co/+w0H1-1Z
+
+Shop  https //stza.co/+w0H1-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180420T230000Z
+DTEND:20180421T020000Z
+UID:_gBeuKxqlYJggHmZDEy_SAWo@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H1\n\nFollow on MiLB First Pitch: https://stza.co/+w0H1-1Z\n\nShop: https://stza.co/+w0H1-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-04-21 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       w-7byrx6pmA0Sy1BkiqSvqKQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H2
+
+Follow on MiLB First Pitch  https //stza.co/+w0H2-3x
+
+Shop  https //stza.co/+w0H2-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180421T220000Z
+DTEND:20180422T010000Z
+UID:w-7byrx6pmA0Sy1BkiqSvqKQ@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H2\n\nFollow on MiLB First Pitch: https://stza.co/+w0H2-3x\n\nShop: https://stza.co/+w0H2-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-04-22 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       nS8kXpCD4K1tJZ71rVPEduXd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H3
+
+Follow on MiLB First Pitch  https //stza.co/+w0H3-2L
+
+Shop  https //stza.co/+w0H3-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180422T180000Z
+DTEND:20180422T210000Z
+UID:nS8kXpCD4K1tJZ71rVPEduXd@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H3\n\nFollow on MiLB First Pitch: https://stza.co/+w0H3-2L\n\nShop: https://stza.co/+w0H3-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-04-24 Tue>--<2018-04-23 Mon>
+:PROPERTIES:
+:ID:       jBm49ANbj16CZ7NMNLUbwkZs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0EX-1P
+
+Shop  https //stza.co/+w0EX-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180424
+UID:jBm49ANbj16CZ7NMNLUbwkZs@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0EX-1P\n\nShop: https://stza.co/+w0EX-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-04-25 Wed>--<2018-04-24 Tue>
+:PROPERTIES:
+:ID:       rtw5c_2JWdX_meLtClu7KlXV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0EZ-23
+
+Shop  https //stza.co/+w0EZ-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180425
+DTEND;VALUE=DATE:20180425
+UID:rtw5c_2JWdX_meLtClu7KlXV@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0EZ-23\n\nShop: https://stza.co/+w0EZ-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-04-26 Thu>--<2018-04-25 Wed>
+:PROPERTIES:
+:ID:       eZ-IqYjYU5jqWbk8KqKLiU8N@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0E$-n
+
+Shop  https //stza.co/+w0E$-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180426
+UID:eZ-IqYjYU5jqWbk8KqKLiU8N@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0E$-n\n\nShop: https://stza.co/+w0E$-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Pelicans
+<2018-04-27 Fri>--<2018-04-26 Thu>
+:PROPERTIES:
+:ID:       drruqTNVrbCxCkF9BzCzNQ6H@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Pelicans Red Sox vs. Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0F0-9
+
+Shop  https //stza.co/+w0F0-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180427
+UID:drruqTNVrbCxCkF9BzCzNQ6H@stanza.co
+SUMMARY:Red Sox vs. Pelicans
+DESCRIPTION:Red Sox vs. Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0F0-9\n\nShop: https://stza.co/+w0F0-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Pelicans
+<2018-04-28 Sat>--<2018-04-27 Fri>
+:PROPERTIES:
+:ID:       qHyjbKtwidl8VIm6p6yN72cc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Pelicans Red Sox vs. Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0F2-32
+
+Shop  https //stza.co/+w0F2-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180428
+UID:qHyjbKtwidl8VIm6p6yN72cc@stanza.co
+SUMMARY:Red Sox vs. Pelicans
+DESCRIPTION:Red Sox vs. Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0F2-32\n\nShop: https://stza.co/+w0F2-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Pelicans
+<2018-04-29 Sun>--<2018-04-28 Sat>
+:PROPERTIES:
+:ID:       jcoMxRUMHXbDRcPzrH8h8ZB8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Pelicans Red Sox vs. Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0F4-a
+
+Shop  https //stza.co/+w0F4-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180429
+UID:jcoMxRUMHXbDRcPzrH8h8ZB8@stanza.co
+SUMMARY:Red Sox vs. Pelicans
+DESCRIPTION:Red Sox vs. Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0F4-a\n\nShop: https://stza.co/+w0F4-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-05-01 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       Z7xjBp8zHQab1YiwgVJM2yKo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wiaZ-2G
+
+Shop  https //stza.co/+wiaZ-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180501T230000Z
+DTEND:20180502T020000Z
+UID:Z7xjBp8zHQab1YiwgVJM2yKo@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wiaZ-2G\n\nShop: https://stza.co/+wiaZ-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-05-02 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       7DjO4DotLtAhxm-EpVl58Npc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wia_-2z
+
+Shop  https //stza.co/+wia_-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180502T230000Z
+DTEND:20180503T020000Z
+UID:7DjO4DotLtAhxm-EpVl58Npc@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wia_-2z\n\nShop: https://stza.co/+wia_-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-05-03 Thu 10:00-13:00>
+:PROPERTIES:
+:ID:       hnyJTI07Ip7xHHKay2DxFHB9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wia$-1n
+
+Shop  https //stza.co/+wia$-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180503T150000Z
+DTEND:20180503T180000Z
+UID:hnyJTI07Ip7xHHKay2DxFHB9@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wia$-1n\n\nShop: https://stza.co/+wia$-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       rrWnFZBYK_vYzR7Ku3gfPDL3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA84-17
+
+Shop  https //stza.co/+xA84-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:rrWnFZBYK_vYzR7Ku3gfPDL3@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA84-17\n\nShop: https://stza.co/+xA84-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-05-05 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       ThZcD6H5H-PPzrq9p9MD0ovo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA85-5
+
+Shop  https //stza.co/+xA85-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180505T223500Z
+DTEND:20180506T013500Z
+UID:ThZcD6H5H-PPzrq9p9MD0ovo@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA85-5\n\nShop: https://stza.co/+xA85-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-05-06 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       Zgkst4WQpFwAc_Y0hC6YNVmE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA86-x
+
+Shop  https //stza.co/+xA86-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180506T170500Z
+DTEND:20180506T200500Z
+UID:Zgkst4WQpFwAc_Y0hC6YNVmE@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA86-x\n\nShop: https://stza.co/+xA86-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-05-07 Mon>--<2018-05-06 Sun>
+:PROPERTIES:
+:ID:       02na2gc_HQ247sYOZ9gFOGqR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0F7-2j
+
+Shop  https //stza.co/+w0F7-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180507
+DTEND;VALUE=DATE:20180507
+UID:02na2gc_HQ247sYOZ9gFOGqR@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0F7-2j\n\nShop: https://stza.co/+w0F7-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-05-08 Tue>--<2018-05-07 Mon>
+:PROPERTIES:
+:ID:       9NvsLbVHw-_jpXYoW8qOs-uy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0F9-3R
+
+Shop  https //stza.co/+w0F9-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180508
+DTEND;VALUE=DATE:20180508
+UID:9NvsLbVHw-_jpXYoW8qOs-uy@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0F9-3R\n\nShop: https://stza.co/+w0F9-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-05-09 Wed>--<2018-05-08 Tue>
+:PROPERTIES:
+:ID:       SDx0g3NXqnX1g4NKoL4G8GDW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fb-3n
+
+Shop  https //stza.co/+w0Fb-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180509
+DTEND;VALUE=DATE:20180509
+UID:SDx0g3NXqnX1g4NKoL4G8GDW@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fb-3n\n\nShop: https://stza.co/+w0Fb-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-05-10 Thu>--<2018-05-09 Wed>
+:PROPERTIES:
+:ID:       lougFkZndpb2TeRX0bUZSMRp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fd-_
+
+Shop  https //stza.co/+w0Fd-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180510
+DTEND;VALUE=DATE:20180510
+UID:lougFkZndpb2TeRX0bUZSMRp@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fd-_\n\nShop: https://stza.co/+w0Fd-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-05-11 Fri>--<2018-05-10 Thu>
+:PROPERTIES:
+:ID:       3Gw9WYqish-SczGC1IYV3qmt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fe-2B
+
+Shop  https //stza.co/+w0Fe-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180511
+DTEND;VALUE=DATE:20180511
+UID:3Gw9WYqish-SczGC1IYV3qmt@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fe-2B\n\nShop: https://stza.co/+w0Fe-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-05-12 Sat>--<2018-05-11 Fri>
+:PROPERTIES:
+:ID:       Oeb-yVvsrdKXWIS8-LLT7GeT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fg-n
+
+Shop  https //stza.co/+w0Fg-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180512
+DTEND;VALUE=DATE:20180512
+UID:Oeb-yVvsrdKXWIS8-LLT7GeT@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fg-n\n\nShop: https://stza.co/+w0Fg-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-05-13 Sun>--<2018-05-12 Sat>
+:PROPERTIES:
+:ID:       -YkFUNLFKPI1P3U3sNCfiVH8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fj-3H
+
+Shop  https //stza.co/+w0Fj-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180513
+DTEND;VALUE=DATE:20180513
+UID:-YkFUNLFKPI1P3U3sNCfiVH8@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fj-3H\n\nShop: https://stza.co/+w0Fj-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-05-15 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       6J4yDKtdSjWwtRXRquvnbS0p@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA87-2o
+
+Shop  https //stza.co/+xA87-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180515T230500Z
+DTEND:20180516T020500Z
+UID:6J4yDKtdSjWwtRXRquvnbS0p@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA87-2o\n\nShop: https://stza.co/+xA87-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-05-16 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       Y1KRS_KaZVHgv0KT1Jqyyams@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA8a-X
+
+Shop  https //stza.co/+xA8a-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180516T230500Z
+DTEND:20180517T020500Z
+UID:Y1KRS_KaZVHgv0KT1Jqyyams@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA8a-X\n\nShop: https://stza.co/+xA8a-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-05-17 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       4jTsog20-nN8ie0_CEOBB9-g@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA8b-q
+
+Shop  https //stza.co/+xA8b-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180517T230500Z
+DTEND:20180518T020500Z
+UID:4jTsog20-nN8ie0_CEOBB9-g@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA8b-q\n\nShop: https://stza.co/+xA8b-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-05-18 Fri>--<2018-05-17 Thu>
+:PROPERTIES:
+:ID:       Bl5Rs0qj1xbpzi5mEULkmb1f@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fl-F
+
+Shop  https //stza.co/+w0Fl-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180518
+DTEND;VALUE=DATE:20180518
+UID:Bl5Rs0qj1xbpzi5mEULkmb1f@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fl-F\n\nShop: https://stza.co/+w0Fl-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-05-19 Sat>--<2018-05-18 Fri>
+:PROPERTIES:
+:ID:       G1ccjjrrtNdT9zfKHfqMSsoD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fm-z
+
+Shop  https //stza.co/+w0Fm-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180519
+DTEND;VALUE=DATE:20180519
+UID:G1ccjjrrtNdT9zfKHfqMSsoD@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fm-z\n\nShop: https://stza.co/+w0Fm-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-05-20 Sun>--<2018-05-19 Sat>
+:PROPERTIES:
+:ID:       8PzSU4BpmxRwUXZZF2PHgcDN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fp-3t
+
+Shop  https //stza.co/+w0Fp-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180520
+DTEND;VALUE=DATE:20180520
+UID:8PzSU4BpmxRwUXZZF2PHgcDN@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fp-3t\n\nShop: https://stza.co/+w0Fp-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-05-21 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       YGSs5kpBQZwr4Lh-m6U-Yff8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wib0-1v
+
+Shop  https //stza.co/+wib0-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180521T230000Z
+DTEND:20180522T020000Z
+UID:YGSs5kpBQZwr4Lh-m6U-Yff8@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wib0-1v\n\nShop: https://stza.co/+wib0-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-05-22 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       hq4auRO4uO03tkUqIFbp45N6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wib1-1S
+
+Shop  https //stza.co/+wib1-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180522T230000Z
+DTEND:20180523T020000Z
+UID:hq4auRO4uO03tkUqIFbp45N6@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wib1-1S\n\nShop: https://stza.co/+wib1-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-05-23 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       aMLfWiu0XOgf0C0_HCiKrzcj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wib2-V
+
+Shop  https //stza.co/+wib2-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180523T230000Z
+DTEND:20180524T020000Z
+UID:aMLfWiu0XOgf0C0_HCiKrzcj@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wib2-V\n\nShop: https://stza.co/+wib2-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-05-24 Thu 10:00-13:00>
+:PROPERTIES:
+:ID:       XSuiv3q2IFMsWUCemsklYIIf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wib3-39
+
+Shop  https //stza.co/+wib3-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180524T150000Z
+DTEND:20180524T180000Z
+UID:XSuiv3q2IFMsWUCemsklYIIf@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wib3-39\n\nShop: https://stza.co/+wib3-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-05-25 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       tb-JksNd3-LQr_4KlmsVRtc7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9I-13
+
+Shop  https //stza.co/+wX9I-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180525T230500Z
+DTEND:20180526T020500Z
+UID:tb-JksNd3-LQr_4KlmsVRtc7@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9I-13\n\nShop: https://stza.co/+wX9I-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-05-26 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       ZR1oBPcHniX7KRRVMmDMTutN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9J-2v
+
+Shop  https //stza.co/+wX9J-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180526T220500Z
+DTEND:20180527T010500Z
+UID:ZR1oBPcHniX7KRRVMmDMTutN@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9J-2v\n\nShop: https://stza.co/+wX9J-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-05-27 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       -ohXbrDk7vu4uxRjEZJ2yag4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9K-1b
+
+Shop  https //stza.co/+wX9K-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180527T173500Z
+DTEND:20180527T203500Z
+UID:-ohXbrDk7vu4uxRjEZJ2yag4@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9K-1b\n\nShop: https://stza.co/+wX9K-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-05-28 Mon 11:05-14:05>
+:PROPERTIES:
+:ID:       22ctFB8sRQEa90v0zsLYA0WJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9L-1U
+
+Shop  https //stza.co/+wX9L-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180528T160500Z
+DTEND:20180528T190500Z
+UID:22ctFB8sRQEa90v0zsLYA0WJ@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9L-1U\n\nShop: https://stza.co/+wX9L-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-05-29 Tue>--<2018-05-28 Mon>
+:PROPERTIES:
+:ID:       nP3E8JLDx23_p-kVrPo3Vzye@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fq-3x
+
+Shop  https //stza.co/+w0Fq-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180529
+DTEND;VALUE=DATE:20180529
+UID:nP3E8JLDx23_p-kVrPo3Vzye@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fq-3x\n\nShop: https://stza.co/+w0Fq-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-05-30 Wed>--<2018-05-29 Tue>
+:PROPERTIES:
+:ID:       1bREGa5I1GW6xd_3fgSwrU3A@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ft-2_
+
+Shop  https //stza.co/+w0Ft-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180530
+DTEND;VALUE=DATE:20180530
+UID:1bREGa5I1GW6xd_3fgSwrU3A@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ft-2_\n\nShop: https://stza.co/+w0Ft-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-05-31 Thu>--<2018-05-30 Wed>
+:PROPERTIES:
+:ID:       8YoQYdPf0_nfMYA1TN8nJPLU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fv-2Y
+
+Shop  https //stza.co/+w0Fv-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180531
+UID:8YoQYdPf0_nfMYA1TN8nJPLU@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fv-2Y\n\nShop: https://stza.co/+w0Fv-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-06-01 Fri>--<2018-05-31 Thu>
+:PROPERTIES:
+:ID:       Fr1ZZCLetv9JRTpsSYhai1KF@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fx-2E
+
+Shop  https //stza.co/+w0Fx-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180601
+DTEND;VALUE=DATE:20180601
+UID:Fr1ZZCLetv9JRTpsSYhai1KF@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fx-2E\n\nShop: https://stza.co/+w0Fx-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-06-02 Sat>--<2018-06-01 Fri>
+:PROPERTIES:
+:ID:       ewWZNCWAmBmToryfo0YeTFG6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Fz-3u
+
+Shop  https //stza.co/+w0Fz-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180602
+DTEND;VALUE=DATE:20180602
+UID:ewWZNCWAmBmToryfo0YeTFG6@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Fz-3u\n\nShop: https://stza.co/+w0Fz-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-06-03 Sun>--<2018-06-02 Sat>
+:PROPERTIES:
+:ID:       D27a1c_VGYQPl7-2p20FEcR4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0FB-2N
+
+Shop  https //stza.co/+w0FB-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180603
+DTEND;VALUE=DATE:20180603
+UID:D27a1c_VGYQPl7-2p20FEcR4@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0FB-2N\n\nShop: https://stza.co/+w0FB-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-06-05 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       huSaJcKuFk2tbtzxZBCHQAE8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H4
+
+Follow on MiLB First Pitch  https //stza.co/+w0H4-2f
+
+Shop  https //stza.co/+w0H4-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180605T230000Z
+DTEND:20180606T020000Z
+UID:huSaJcKuFk2tbtzxZBCHQAE8@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H4\n\nFollow on MiLB First Pitch: https://stza.co/+w0H4-2f\n\nShop: https://stza.co/+w0H4-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-06-06 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       7tb32crk9CvmwiuGUeI5hagb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H5
+
+Follow on MiLB First Pitch  https //stza.co/+w0H5-2M
+
+Shop  https //stza.co/+w0H5-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180606T230000Z
+DTEND:20180607T020000Z
+UID:7tb32crk9CvmwiuGUeI5hagb@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H5\n\nFollow on MiLB First Pitch: https://stza.co/+w0H5-2M\n\nShop: https://stza.co/+w0H5-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-06-07 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       KYTpLEKtBNxHKfn-wklP7-bu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H6
+
+Follow on MiLB First Pitch  https //stza.co/+w0H6-g
+
+Shop  https //stza.co/+w0H6-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180607T230000Z
+DTEND:20180608T020000Z
+UID:KYTpLEKtBNxHKfn-wklP7-bu@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H6\n\nFollow on MiLB First Pitch: https://stza.co/+w0H6-g\n\nShop: https://stza.co/+w0H6-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Pelicans
+<2018-06-08 Fri>--<2018-06-07 Thu>
+:PROPERTIES:
+:ID:       4Dy5OZINxIqZfBDOts8eQq3e@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Pelicans Red Sox @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0Eo-3x
+
+Shop  https //stza.co/+w0Eo-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180608
+DTEND;VALUE=DATE:20180608
+UID:4Dy5OZINxIqZfBDOts8eQq3e@stanza.co
+SUMMARY:Red Sox @ Pelicans
+DESCRIPTION:Red Sox @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0Eo-3x\n\nShop: https://stza.co/+w0Eo-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Pelicans
+<2018-06-09 Sat>--<2018-06-08 Fri>
+:PROPERTIES:
+:ID:       V-TlJtSUrckhJ_YaBiI1uf0o@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Pelicans Red Sox @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ep-1U
+
+Shop  https //stza.co/+w0Ep-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180609
+DTEND;VALUE=DATE:20180609
+UID:V-TlJtSUrckhJ_YaBiI1uf0o@stanza.co
+SUMMARY:Red Sox @ Pelicans
+DESCRIPTION:Red Sox @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ep-1U\n\nShop: https://stza.co/+w0Ep-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Pelicans
+<2018-06-10 Sun>--<2018-06-09 Sat>
+:PROPERTIES:
+:ID:       nTygfi1m3xwHKRnnTs5PHRfb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Pelicans Red Sox @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0Eq-2G
+
+Shop  https //stza.co/+w0Eq-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180610
+DTEND;VALUE=DATE:20180610
+UID:nTygfi1m3xwHKRnnTs5PHRfb@stanza.co
+SUMMARY:Red Sox @ Pelicans
+DESCRIPTION:Red Sox @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0Eq-2G\n\nShop: https://stza.co/+w0Eq-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-06-11 Mon>--<2018-06-10 Sun>
+:PROPERTIES:
+:ID:       HcRmKNaP06XZxWMSUYcxs-BW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0FC-32
+
+Shop  https //stza.co/+w0FC-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180611
+DTEND;VALUE=DATE:20180611
+UID:HcRmKNaP06XZxWMSUYcxs-BW@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0FC-32\n\nShop: https://stza.co/+w0FC-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-06-12 Tue>--<2018-06-11 Mon>
+:PROPERTIES:
+:ID:       2-ZZkj_0xO5W2YCLndjecSZr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0FF-38
+
+Shop  https //stza.co/+w0FF-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180612
+DTEND;VALUE=DATE:20180612
+UID:2-ZZkj_0xO5W2YCLndjecSZr@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0FF-38\n\nShop: https://stza.co/+w0FF-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-06-13 Wed>--<2018-06-12 Tue>
+:PROPERTIES:
+:ID:       bUnVLFmatT8jkdE0veHQ7Xz4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0FH-2k
+
+Shop  https //stza.co/+w0FH-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180613
+DTEND;VALUE=DATE:20180613
+UID:bUnVLFmatT8jkdE0veHQ7Xz4@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0FH-2k\n\nShop: https://stza.co/+w0FH-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Hillcats
+<2018-06-14 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       uZ1bU9nYyDJmflCftZ-jMwZh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Hillcats Red Sox @ Hillcats
+
+Buy tickets here  https //stza.co/~y3Wa
+
+Follow on MiLB First Pitch  https //stza.co/+y3Wa-4
+
+Shop  https //stza.co/+y3Wa-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Hillcats
+END:VALARM
+DTSTART:20180614T223000Z
+DTEND:20180615T013000Z
+UID:uZ1bU9nYyDJmflCftZ-jMwZh@stanza.co
+SUMMARY:Red Sox @ Hillcats
+DESCRIPTION:Red Sox @ Hillcats\n\nBuy tickets here: https://stza.co/~y3Wa\n\nFollow on MiLB First Pitch: https://stza.co/+y3Wa-4\n\nShop: https://stza.co/+y3Wa-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Hillcats
+<2018-06-15 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       KwvWrbeuAzXPDYmxriTNkmtJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Hillcats Red Sox @ Hillcats
+
+Buy tickets here  https //stza.co/~y3Wb
+
+Follow on MiLB First Pitch  https //stza.co/+y3Wb-s
+
+Shop  https //stza.co/+y3Wb-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Hillcats
+END:VALARM
+DTSTART:20180615T223000Z
+DTEND:20180616T013000Z
+UID:KwvWrbeuAzXPDYmxriTNkmtJ@stanza.co
+SUMMARY:Red Sox @ Hillcats
+DESCRIPTION:Red Sox @ Hillcats\n\nBuy tickets here: https://stza.co/~y3Wb\n\nFollow on MiLB First Pitch: https://stza.co/+y3Wb-s\n\nShop: https://stza.co/+y3Wb-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Hillcats
+<2018-06-16 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       TQ_lHJFOzriGoSvRROAr5U0k@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Hillcats Red Sox @ Hillcats
+
+Buy tickets here  https //stza.co/~y3Wc
+
+Follow on MiLB First Pitch  https //stza.co/+y3Wc-n
+
+Shop  https //stza.co/+y3Wc-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Hillcats
+END:VALARM
+DTSTART:20180616T220000Z
+DTEND:20180617T010000Z
+UID:TQ_lHJFOzriGoSvRROAr5U0k@stanza.co
+SUMMARY:Red Sox @ Hillcats
+DESCRIPTION:Red Sox @ Hillcats\n\nBuy tickets here: https://stza.co/~y3Wc\n\nFollow on MiLB First Pitch: https://stza.co/+y3Wc-n\n\nShop: https://stza.co/+y3Wc-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Hillcats
+<2018-06-17 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       leuo3QOgo64c2b1qZh_zG5Kt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Hillcats Red Sox @ Hillcats
+
+Buy tickets here  https //stza.co/~y3Wd
+
+Follow on MiLB First Pitch  https //stza.co/+y3Wd-3R
+
+Shop  https //stza.co/+y3Wd-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Hillcats
+END:VALARM
+DTSTART:20180617T180000Z
+DTEND:20180617T210000Z
+UID:leuo3QOgo64c2b1qZh_zG5Kt@stanza.co
+SUMMARY:Red Sox @ Hillcats
+DESCRIPTION:Red Sox @ Hillcats\n\nBuy tickets here: https://stza.co/~y3Wd\n\nFollow on MiLB First Pitch: https://stza.co/+y3Wd-3R\n\nShop: https://stza.co/+y3Wd-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-06-21 Thu>--<2018-06-20 Wed>
+:PROPERTIES:
+:ID:       SMtiheta21cdyAGz-GszmVoO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0FJ-24
+
+Shop  https //stza.co/+w0FJ-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180621
+UID:SMtiheta21cdyAGz-GszmVoO@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0FJ-24\n\nShop: https://stza.co/+w0FJ-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       lq8SIxJea5ShnhsN3zz1j3sr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0FL-37
+
+Shop  https //stza.co/+w0FL-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:lq8SIxJea5ShnhsN3zz1j3sr@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0FL-37\n\nShop: https://stza.co/+w0FL-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       BqTNy6csz_FuW-PFNsoIeY4_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0FN-1d
+
+Shop  https //stza.co/+w0FN-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:BqTNy6csz_FuW-PFNsoIeY4_@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0FN-1d\n\nShop: https://stza.co/+w0FN-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       FZluxSHbNdFeyiHiwGBmbidh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0FO-3o
+
+Shop  https //stza.co/+w0FO-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:FZluxSHbNdFeyiHiwGBmbidh@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0FO-3o\n\nShop: https://stza.co/+w0FO-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       L9Fj9FuSJ-uKCz790tEx19gJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0FR-3I
+
+Shop  https //stza.co/+w0FR-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:L9Fj9FuSJ-uKCz790tEx19gJ@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0FR-3I\n\nShop: https://stza.co/+w0FR-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-06-27 Wed>--<2018-06-26 Tue>
+:PROPERTIES:
+:ID:       YpfnGiTzI-NxdBrwgpBZPOe3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0FT-2q
+
+Shop  https //stza.co/+w0FT-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180627
+UID:YpfnGiTzI-NxdBrwgpBZPOe3@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0FT-2q\n\nShop: https://stza.co/+w0FT-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       2NmD4L4KqKWix2zFgcV8O-wC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0FV-2g
+
+Shop  https //stza.co/+w0FV-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:2NmD4L4KqKWix2zFgcV8O-wC@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0FV-2g\n\nShop: https://stza.co/+w0FV-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       NnHJrT6Q7enPV9epvuLBizak@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0FX-a
+
+Shop  https //stza.co/+w0FX-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:NnHJrT6Q7enPV9epvuLBizak@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0FX-a\n\nShop: https://stza.co/+w0FX-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Wood Ducks
+<2018-06-30 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       irV0qvoyFUkf6ZYtN0bIcOuV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Wood Ducks Red Sox @ Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0E3-3Y
+
+Shop  https //stza.co/+w0E3-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Wood Ducks
+END:VALARM
+DTSTART:20180630T220000Z
+DTEND:20180701T010000Z
+UID:irV0qvoyFUkf6ZYtN0bIcOuV@stanza.co
+SUMMARY:Red Sox @ Wood Ducks
+DESCRIPTION:Red Sox @ Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0E3-3Y\n\nShop: https://stza.co/+w0E3-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Wood Ducks
+<2018-07-01 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       2b_k8AawojDGhOpTX0j-LIHh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Wood Ducks Red Sox @ Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0E4-33
+
+Shop  https //stza.co/+w0E4-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Wood Ducks
+END:VALARM
+DTSTART:20180701T200000Z
+DTEND:20180701T230000Z
+UID:2b_k8AawojDGhOpTX0j-LIHh@stanza.co
+SUMMARY:Red Sox @ Wood Ducks
+DESCRIPTION:Red Sox @ Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0E4-33\n\nShop: https://stza.co/+w0E4-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Wood Ducks
+<2018-07-02 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       5xv9nDJhzQFta1EUHX3fmbAS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Wood Ducks Red Sox @ Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0E5-1h
+
+Shop  https //stza.co/+w0E5-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Wood Ducks
+END:VALARM
+DTSTART:20180702T230000Z
+DTEND:20180703T020000Z
+UID:5xv9nDJhzQFta1EUHX3fmbAS@stanza.co
+SUMMARY:Red Sox @ Wood Ducks
+DESCRIPTION:Red Sox @ Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0E5-1h\n\nShop: https://stza.co/+w0E5-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Wood Ducks
+<2018-07-03 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       iOLFFB8qzZ3vuNumliIm__06@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Wood Ducks Red Sox @ Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0E6-E
+
+Shop  https //stza.co/+w0E6-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Wood Ducks
+END:VALARM
+DTSTART:20180703T230000Z
+DTEND:20180704T020000Z
+UID:iOLFFB8qzZ3vuNumliIm__06@stanza.co
+SUMMARY:Red Sox @ Wood Ducks
+DESCRIPTION:Red Sox @ Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0E6-E\n\nShop: https://stza.co/+w0E6-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-07-04 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       PK1rmj4-IQaXVsDQVymk7z0P@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA8c-3b
+
+Shop  https //stza.co/+xA8c-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180704T223500Z
+DTEND:20180705T013500Z
+UID:PK1rmj4-IQaXVsDQVymk7z0P@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA8c-3b\n\nShop: https://stza.co/+xA8c-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       VL38AfXLAA3neA51EoJ9Lr0n@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA8d-M
+
+Shop  https //stza.co/+xA8d-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:VL38AfXLAA3neA51EoJ9Lr0n@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA8d-M\n\nShop: https://stza.co/+xA8d-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       EkZ5mRxTvbFfDquKj87Tn8LY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA8e-D
+
+Shop  https //stza.co/+xA8e-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:EkZ5mRxTvbFfDquKj87Tn8LY@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA8e-D\n\nShop: https://stza.co/+xA8e-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-07-07 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       jD47PC-UYh7gkztyCWEGvIBg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA8f-y
+
+Shop  https //stza.co/+xA8f-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180707T223500Z
+DTEND:20180708T013500Z
+UID:jD47PC-UYh7gkztyCWEGvIBg@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA8f-y\n\nShop: https://stza.co/+xA8f-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Nationals
+<2018-07-08 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       PDL4OIuCaVeJ378EPiiHPwDy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Nationals Red Sox @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA8g-1l
+
+Shop  https //stza.co/+xA8g-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Nationals
+END:VALARM
+DTSTART:20180708T170500Z
+DTEND:20180708T200500Z
+UID:PDL4OIuCaVeJ378EPiiHPwDy@stanza.co
+SUMMARY:Red Sox @ Nationals
+DESCRIPTION:Red Sox @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA8g-1l\n\nShop: https://stza.co/+xA8g-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       QgX95wYti0kx2mF9Qu0ZhMKH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0FY-13
+
+Shop  https //stza.co/+w0FY-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:QgX95wYti0kx2mF9Qu0ZhMKH@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0FY-13\n\nShop: https://stza.co/+w0FY-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-07-10 Tue>--<2018-07-09 Mon>
+:PROPERTIES:
+:ID:       sQjMTSS_yoivR1N9jbaKUBC1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0F_-2f
+
+Shop  https //stza.co/+w0F_-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180710
+UID:sQjMTSS_yoivR1N9jbaKUBC1@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0F_-2f\n\nShop: https://stza.co/+w0F_-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       IIUDLu0NIts9KpqprQVYFCQI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0G0-F
+
+Shop  https //stza.co/+w0G0-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:IIUDLu0NIts9KpqprQVYFCQI@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0G0-F\n\nShop: https://stza.co/+w0G0-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       0V7b1Z4sJ_sFPTG6UhIaTaAy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0G3-1j
+
+Shop  https //stza.co/+w0G3-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:0V7b1Z4sJ_sFPTG6UhIaTaAy@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0G3-1j\n\nShop: https://stza.co/+w0G3-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       8ONcfqSqS5_Rk0yzlbV5ouKB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9M-3j
+
+Shop  https //stza.co/+wX9M-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:8ONcfqSqS5_Rk0yzlbV5ouKB@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9M-3j\n\nShop: https://stza.co/+wX9M-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-07-14 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       FQ7aI6KQRnZz4Mi6i1qi-JUU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9N-q
+
+Shop  https //stza.co/+wX9N-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180714T220500Z
+DTEND:20180715T010500Z
+UID:FQ7aI6KQRnZz4Mi6i1qi-JUU@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9N-q\n\nShop: https://stza.co/+wX9N-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-07-15 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       nXuy82rO9Q2k0ArAbmGmmGgS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9O-3H
+
+Shop  https //stza.co/+wX9O-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180715T173500Z
+DTEND:20180715T203500Z
+UID:nXuy82rO9Q2k0ArAbmGmmGgS@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9O-3H\n\nShop: https://stza.co/+wX9O-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-07-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       0IOvasdsRquPEt30thkGyukZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9Q-2
+
+Shop  https //stza.co/+wX9Q-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180716T223500Z
+DTEND:20180717T013500Z
+UID:0IOvasdsRquPEt30thkGyukZ@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9Q-2\n\nShop: https://stza.co/+wX9Q-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Astros
+<2018-07-18 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       3fnTVOUSOGyT0yPpprJ-m4Ur@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Astros Red Sox @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9G-$
+
+Shop  https //stza.co/+xM9G-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Astros
+END:VALARM
+DTSTART:20180718T230000Z
+DTEND:20180719T020000Z
+UID:3fnTVOUSOGyT0yPpprJ-m4Ur@stanza.co
+SUMMARY:Red Sox @ Astros
+DESCRIPTION:Red Sox @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9G-$\n\nShop: https://stza.co/+xM9G-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Astros
+<2018-07-19 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       pgEyZkI32LzywhuerO8Oq0d1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Astros Red Sox @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9H-l
+
+Shop  https //stza.co/+xM9H-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Astros
+END:VALARM
+DTSTART:20180719T230000Z
+DTEND:20180720T020000Z
+UID:pgEyZkI32LzywhuerO8Oq0d1@stanza.co
+SUMMARY:Red Sox @ Astros
+DESCRIPTION:Red Sox @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9H-l\n\nShop: https://stza.co/+xM9H-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Astros
+<2018-07-20 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       FSMtrubaxz4PbDfCVPWucY-I@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Astros Red Sox @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9I-2y
+
+Shop  https //stza.co/+xM9I-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Astros
+END:VALARM
+DTSTART:20180720T230000Z
+DTEND:20180721T020000Z
+UID:FSMtrubaxz4PbDfCVPWucY-I@stanza.co
+SUMMARY:Red Sox @ Astros
+DESCRIPTION:Red Sox @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9I-2y\n\nShop: https://stza.co/+xM9I-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       khIV5kKvDnBIrrk3YGoMWizC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0G5-P
+
+Shop  https //stza.co/+w0G5-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:khIV5kKvDnBIrrk3YGoMWizC@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0G5-P\n\nShop: https://stza.co/+w0G5-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-07-22 Sun>--<2018-07-21 Sat>
+:PROPERTIES:
+:ID:       IOqPgCMgoypSSgh7G36x81W7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0G6-2w
+
+Shop  https //stza.co/+w0G6-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180722
+DTEND;VALUE=DATE:20180722
+UID:IOqPgCMgoypSSgh7G36x81W7@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0G6-2w\n\nShop: https://stza.co/+w0G6-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Nationals
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       Jizdg7iWObuayS9XhoLDRJpb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Nationals Red Sox vs. Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+w0G8-2S
+
+Shop  https //stza.co/+w0G8-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Nationals
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:Jizdg7iWObuayS9XhoLDRJpb@stanza.co
+SUMMARY:Red Sox vs. Nationals
+DESCRIPTION:Red Sox vs. Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+w0G8-2S\n\nShop: https://stza.co/+w0G8-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-07-24 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       aXhtXLuaJ9R0xSylSbUFLvbx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9S-3J
+
+Shop  https //stza.co/+wX9S-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180724T223500Z
+DTEND:20180725T013500Z
+UID:aXhtXLuaJ9R0xSylSbUFLvbx@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9S-3J\n\nShop: https://stza.co/+wX9S-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-07-25 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       LTGfQEOb7tGEv__4GWxKiEfG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9T-2a
+
+Shop  https //stza.co/+wX9T-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180725T150500Z
+DTEND:20180725T180500Z
+UID:LTGfQEOb7tGEv__4GWxKiEfG@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9T-2a\n\nShop: https://stza.co/+wX9T-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-07-26 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       jqSgifjbm_vfD6GMm5NpIwQh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9U-3L
+
+Shop  https //stza.co/+wX9U-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180726T223500Z
+DTEND:20180727T013500Z
+UID:jqSgifjbm_vfD6GMm5NpIwQh@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9U-3L\n\nShop: https://stza.co/+wX9U-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       FMRHOE7kxF55FDTcmJo2pjmv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gb-35
+
+Shop  https //stza.co/+w0Gb-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:FMRHOE7kxF55FDTcmJo2pjmv@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gb-35\n\nShop: https://stza.co/+w0Gb-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       uARt1K1n_9PEE7aMtZjoajmR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gc-p
+
+Shop  https //stza.co/+w0Gc-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:uARt1K1n_9PEE7aMtZjoajmR@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gc-p\n\nShop: https://stza.co/+w0Gc-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Dash
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       eDanCLM7fzIygeMk45EKsgcj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Dash Red Sox vs. Dash
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ge-1A
+
+Shop  https //stza.co/+w0Ge-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Dash
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:eDanCLM7fzIygeMk45EKsgcj@stanza.co
+SUMMARY:Red Sox vs. Dash
+DESCRIPTION:Red Sox vs. Dash\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ge-1A\n\nShop: https://stza.co/+w0Ge-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Hillcats
+<2018-07-31 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       Z6b5o2RBJTPT_VwRWp-nhTfk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Hillcats Red Sox @ Hillcats
+
+Buy tickets here  https //stza.co/~y3We
+
+Follow on MiLB First Pitch  https //stza.co/+y3We-2I
+
+Shop  https //stza.co/+y3We-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Hillcats
+END:VALARM
+DTSTART:20180731T223000Z
+DTEND:20180801T013000Z
+UID:Z6b5o2RBJTPT_VwRWp-nhTfk@stanza.co
+SUMMARY:Red Sox @ Hillcats
+DESCRIPTION:Red Sox @ Hillcats\n\nBuy tickets here: https://stza.co/~y3We\n\nFollow on MiLB First Pitch: https://stza.co/+y3We-2I\n\nShop: https://stza.co/+y3We-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Hillcats
+<2018-08-01 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       aJ160EJlbcy2mq96WyFMoucz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Hillcats Red Sox @ Hillcats
+
+Buy tickets here  https //stza.co/~y3Wf
+
+Follow on MiLB First Pitch  https //stza.co/+y3Wf-2r
+
+Shop  https //stza.co/+y3Wf-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Hillcats
+END:VALARM
+DTSTART:20180801T223000Z
+DTEND:20180802T013000Z
+UID:aJ160EJlbcy2mq96WyFMoucz@stanza.co
+SUMMARY:Red Sox @ Hillcats
+DESCRIPTION:Red Sox @ Hillcats\n\nBuy tickets here: https://stza.co/~y3Wf\n\nFollow on MiLB First Pitch: https://stza.co/+y3Wf-2r\n\nShop: https://stza.co/+y3Wf-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Hillcats
+<2018-08-02 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       SJeiPyFgJwi9Nx6H71hZD232@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Hillcats Red Sox @ Hillcats
+
+Buy tickets here  https //stza.co/~y3Wg
+
+Follow on MiLB First Pitch  https //stza.co/+y3Wg-1X
+
+Shop  https //stza.co/+y3Wg-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Hillcats
+END:VALARM
+DTSTART:20180802T223000Z
+DTEND:20180803T013000Z
+UID:SJeiPyFgJwi9Nx6H71hZD232@stanza.co
+SUMMARY:Red Sox @ Hillcats
+DESCRIPTION:Red Sox @ Hillcats\n\nBuy tickets here: https://stza.co/~y3Wg\n\nFollow on MiLB First Pitch: https://stza.co/+y3Wg-1X\n\nShop: https://stza.co/+y3Wg-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Mudcats
+<2018-08-03 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       E2V_GFcZ84jcq6nQm0N3lgC7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Mudcats Red Sox @ Mudcats
+
+Buy tickets here  https //stza.co/~w0E0
+
+Follow on MiLB First Pitch  https //stza.co/+w0E0-16
+
+Shop  https //stza.co/+w0E0-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Mudcats
+END:VALARM
+DTSTART:20180803T230000Z
+DTEND:20180804T020000Z
+UID:E2V_GFcZ84jcq6nQm0N3lgC7@stanza.co
+SUMMARY:Red Sox @ Mudcats
+DESCRIPTION:Red Sox @ Mudcats\n\nBuy tickets here: https://stza.co/~w0E0\n\nFollow on MiLB First Pitch: https://stza.co/+w0E0-16\n\nShop: https://stza.co/+w0E0-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Mudcats
+<2018-08-04 Sat 16:00-19:00>
+:PROPERTIES:
+:ID:       L_R7kO3EaF86g7upkzgztxUe@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Mudcats Red Sox @ Mudcats
+
+Buy tickets here  https //stza.co/~w0E1
+
+Follow on MiLB First Pitch  https //stza.co/+w0E1-S
+
+Shop  https //stza.co/+w0E1-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Mudcats
+END:VALARM
+DTSTART:20180804T210000Z
+DTEND:20180805T000000Z
+UID:L_R7kO3EaF86g7upkzgztxUe@stanza.co
+SUMMARY:Red Sox @ Mudcats
+DESCRIPTION:Red Sox @ Mudcats\n\nBuy tickets here: https://stza.co/~w0E1\n\nFollow on MiLB First Pitch: https://stza.co/+w0E1-S\n\nShop: https://stza.co/+w0E1-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Mudcats
+<2018-08-05 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       oJzKyPQTDhnIRwHqOs7afvVj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Mudcats Red Sox @ Mudcats
+
+Buy tickets here  https //stza.co/~w0E2
+
+Follow on MiLB First Pitch  https //stza.co/+w0E2-m
+
+Shop  https //stza.co/+w0E2-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Mudcats
+END:VALARM
+DTSTART:20180805T180000Z
+DTEND:20180805T210000Z
+UID:oJzKyPQTDhnIRwHqOs7afvVj@stanza.co
+SUMMARY:Red Sox @ Mudcats
+DESCRIPTION:Red Sox @ Mudcats\n\nBuy tickets here: https://stza.co/~w0E2\n\nFollow on MiLB First Pitch: https://stza.co/+w0E2-m\n\nShop: https://stza.co/+w0E2-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       NqlziT6VKpJmTZnKXqwUcGQ_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gh-1_
+
+Shop  https //stza.co/+w0Gh-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:NqlziT6VKpJmTZnKXqwUcGQ_@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gh-1_\n\nShop: https://stza.co/+w0Gh-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       pVkJQsdIljP8lCnwT9AG8JgR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gj-2B
+
+Shop  https //stza.co/+w0Gj-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:pVkJQsdIljP8lCnwT9AG8JgR@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gj-2B\n\nShop: https://stza.co/+w0Gj-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Blue Rocks
+<2018-08-09 Thu>--<2018-08-08 Wed>
+:PROPERTIES:
+:ID:       kDh_RdVu7K9tyZc5NRgW115j@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Blue Rocks Red Sox vs. Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gl-3A
+
+Shop  https //stza.co/+w0Gl-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Blue Rocks
+END:VALARM
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+UID:kDh_RdVu7K9tyZc5NRgW115j@stanza.co
+SUMMARY:Red Sox vs. Blue Rocks
+DESCRIPTION:Red Sox vs. Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gl-3A\n\nShop: https://stza.co/+w0Gl-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-08-10 Fri>--<2018-08-09 Thu>
+:PROPERTIES:
+:ID:       5KPxN-uJ0DKgDcdyHaOOYYMm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gn-19
+
+Shop  https //stza.co/+w0Gn-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+UID:5KPxN-uJ0DKgDcdyHaOOYYMm@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gn-19\n\nShop: https://stza.co/+w0Gn-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-08-11 Sat>--<2018-08-10 Fri>
+:PROPERTIES:
+:ID:       sfJ4MWxKoo-hxX9FgCkxtQE4@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gp-2O
+
+Shop  https //stza.co/+w0Gp-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180811
+UID:sfJ4MWxKoo-hxX9FgCkxtQE4@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gp-2O\n\nShop: https://stza.co/+w0Gp-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-08-12 Sun>--<2018-08-11 Sat>
+:PROPERTIES:
+:ID:       BR1FJ256BaLERZl3xlpxQZHG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gr-13
+
+Shop  https //stza.co/+w0Gr-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180812
+UID:BR1FJ256BaLERZl3xlpxQZHG@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gr-13\n\nShop: https://stza.co/+w0Gr-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Mudcats
+<2018-08-13 Mon>--<2018-08-12 Sun>
+:PROPERTIES:
+:ID:       kWclI1L2b0wvi12cun6hf-0W@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Mudcats Red Sox vs. Mudcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gt-3F
+
+Shop  https //stza.co/+w0Gt-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Mudcats
+END:VALARM
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180813
+UID:kWclI1L2b0wvi12cun6hf-0W@stanza.co
+SUMMARY:Red Sox vs. Mudcats
+DESCRIPTION:Red Sox vs. Mudcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gt-3F\n\nShop: https://stza.co/+w0Gt-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-08-14 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       dOgdY-0ZUPkQP9-VvtMANFSi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wib4-1x
+
+Shop  https //stza.co/+wib4-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180814T230000Z
+DTEND:20180815T020000Z
+UID:dOgdY-0ZUPkQP9-VvtMANFSi@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wib4-1x\n\nShop: https://stza.co/+wib4-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-08-15 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       diyuSNcoRnuYWsx6L1oF7rzX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wib5-2j
+
+Shop  https //stza.co/+wib5-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180815T230000Z
+DTEND:20180816T020000Z
+UID:diyuSNcoRnuYWsx6L1oF7rzX@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wib5-2j\n\nShop: https://stza.co/+wib5-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Keys
+<2018-08-16 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       yjGJIeGVmfy06C841jCSASW7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Keys Red Sox @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wib6-1G
+
+Shop  https //stza.co/+wib6-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Keys
+END:VALARM
+DTSTART:20180816T230000Z
+DTEND:20180817T020000Z
+UID:yjGJIeGVmfy06C841jCSASW7@stanza.co
+SUMMARY:Red Sox @ Keys
+DESCRIPTION:Red Sox @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wib6-1G\n\nShop: https://stza.co/+wib6-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Wood Ducks
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       qKgWwI2rEzEB9tLwhQGkQRSq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Wood Ducks Red Sox vs. Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gu-3I
+
+Shop  https //stza.co/+w0Gu-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Wood Ducks
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:qKgWwI2rEzEB9tLwhQGkQRSq@stanza.co
+SUMMARY:Red Sox vs. Wood Ducks
+DESCRIPTION:Red Sox vs. Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gu-3I\n\nShop: https://stza.co/+w0Gu-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Wood Ducks
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       boVKIxJBmUM_Ecwm-kKaLpJc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Wood Ducks Red Sox vs. Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gx-2Q
+
+Shop  https //stza.co/+w0Gx-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Wood Ducks
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:boVKIxJBmUM_Ecwm-kKaLpJc@stanza.co
+SUMMARY:Red Sox vs. Wood Ducks
+DESCRIPTION:Red Sox vs. Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gx-2Q\n\nShop: https://stza.co/+w0Gx-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Wood Ducks
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       SyzXk188rahNE4yUJBsqOFIg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Wood Ducks Red Sox vs. Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0Gy-3v
+
+Shop  https //stza.co/+w0Gy-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Wood Ducks
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:SyzXk188rahNE4yUJBsqOFIg@stanza.co
+SUMMARY:Red Sox vs. Wood Ducks
+DESCRIPTION:Red Sox vs. Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0Gy-3v\n\nShop: https://stza.co/+w0Gy-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-08-21 Tue>--<2018-08-20 Mon>
+:PROPERTIES:
+:ID:       aV8vebRUKNEKgkXs64Vi8c7-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0GA-i
+
+Shop  https //stza.co/+w0GA-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180821
+UID:aV8vebRUKNEKgkXs64Vi8c7-@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0GA-i\n\nShop: https://stza.co/+w0GA-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-08-22 Wed>--<2018-08-21 Tue>
+:PROPERTIES:
+:ID:       AMr3TKwjCWf7FxQcApC-jWrX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0GC-1m
+
+Shop  https //stza.co/+w0GC-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180822
+DTEND;VALUE=DATE:20180822
+UID:AMr3TKwjCWf7FxQcApC-jWrX@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0GC-1m\n\nShop: https://stza.co/+w0GC-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Keys
+<2018-08-23 Thu>--<2018-08-22 Wed>
+:PROPERTIES:
+:ID:       7AB18CoNV4N1bPrsNx0g65eD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Keys Red Sox vs. Keys
+
+Follow on MiLB First Pitch  https //stza.co/+w0GE-1Z
+
+Shop  https //stza.co/+w0GE-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Keys
+END:VALARM
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180823
+UID:7AB18CoNV4N1bPrsNx0g65eD@stanza.co
+SUMMARY:Red Sox vs. Keys
+DESCRIPTION:Red Sox vs. Keys\n\nFollow on MiLB First Pitch: https://stza.co/+w0GE-1Z\n\nShop: https://stza.co/+w0GE-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       1Qmrp4CgHB4rAHgYm6Ihyc5G@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9V-V
+
+Shop  https //stza.co/+wX9V-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:1Qmrp4CgHB4rAHgYm6Ihyc5G@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9V-V\n\nShop: https://stza.co/+wX9V-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-08-25 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       owHaG0RdazHLc437HTNRFJK8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9W-1L
+
+Shop  https //stza.co/+wX9W-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180825T220500Z
+DTEND:20180826T010500Z
+UID:owHaG0RdazHLc437HTNRFJK8@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9W-1L\n\nShop: https://stza.co/+wX9W-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Blue Rocks
+<2018-08-26 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       XbAQzRSlln6rkSPt63hs8uh1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Blue Rocks Red Sox @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX9X-1A
+
+Shop  https //stza.co/+wX9X-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Blue Rocks
+END:VALARM
+DTSTART:20180826T173500Z
+DTEND:20180826T203500Z
+UID:XbAQzRSlln6rkSPt63hs8uh1@stanza.co
+SUMMARY:Red Sox @ Blue Rocks
+DESCRIPTION:Red Sox @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX9X-1A\n\nShop: https://stza.co/+wX9X-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-08-27 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       171t5Whlv32hc9LTWdMNTZSK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H7
+
+Follow on MiLB First Pitch  https //stza.co/+w0H7-30
+
+Shop  https //stza.co/+w0H7-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180827T230000Z
+DTEND:20180828T020000Z
+UID:171t5Whlv32hc9LTWdMNTZSK@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H7\n\nFollow on MiLB First Pitch: https://stza.co/+w0H7-30\n\nShop: https://stza.co/+w0H7-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-08-28 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       Uz8ysA3zFF_r3kCNoM_hDIR8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H8
+
+Follow on MiLB First Pitch  https //stza.co/+w0H8-Z
+
+Shop  https //stza.co/+w0H8-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180828T230000Z
+DTEND:20180829T020000Z
+UID:Uz8ysA3zFF_r3kCNoM_hDIR8@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H8\n\nFollow on MiLB First Pitch: https://stza.co/+w0H8-Z\n\nShop: https://stza.co/+w0H8-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-08-29 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       BgEmgWFR03vVXgUOeh7KX6CA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0H9
+
+Follow on MiLB First Pitch  https //stza.co/+w0H9-N
+
+Shop  https //stza.co/+w0H9-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180829T230000Z
+DTEND:20180830T020000Z
+UID:BgEmgWFR03vVXgUOeh7KX6CA@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0H9\n\nFollow on MiLB First Pitch: https://stza.co/+w0H9-N\n\nShop: https://stza.co/+w0H9-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox @ Dash
+<2018-08-30 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       ytwtdb3Myg2mPoL_hOQaBjTJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox @ Dash Red Sox @ Dash
+
+Buy tickets here  https //stza.co/~w0Ha
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ha-2W
+
+Shop  https //stza.co/+w0Ha-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox @ Dash
+END:VALARM
+DTSTART:20180830T230000Z
+DTEND:20180831T020000Z
+UID:ytwtdb3Myg2mPoL_hOQaBjTJ@stanza.co
+SUMMARY:Red Sox @ Dash
+DESCRIPTION:Red Sox @ Dash\n\nBuy tickets here: https://stza.co/~w0Ha\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ha-2W\n\nShop: https://stza.co/+w0Ha-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       uyvg3HvwPbsHf7PuneK8bWrb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0GG-B
+
+Shop  https //stza.co/+w0GG-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:uyvg3HvwPbsHf7PuneK8bWrb@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0GG-B\n\nShop: https://stza.co/+w0GG-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       MwoQPL_wKL3ArQQ2mt7IPtQ3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0GI-12
+
+Shop  https //stza.co/+w0GI-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:MwoQPL_wKL3ArQQ2mt7IPtQ3@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0GI-12\n\nShop: https://stza.co/+w0GI-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       ZnkATS0vDTbmItGAFiy4aAGw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0GK-1G
+
+Shop  https //stza.co/+w0GK-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:ZnkATS0vDTbmItGAFiy4aAGw@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0GK-1G\n\nShop: https://stza.co/+w0GK-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT
+* Red Sox vs. Hillcats
+<2018-09-03 Mon>--<2018-09-02 Sun>
+:PROPERTIES:
+:ID:       eINS3lTz5GGbaZQ876XGT3h4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Red Sox vs. Hillcats Red Sox vs. Hillcats
+
+Follow on MiLB First Pitch  https //stza.co/+w0GN-2c
+
+Shop  https //stza.co/+w0GN-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Red Sox vs. Hillcats
+END:VALARM
+DTSTART;VALUE=DATE:20180903
+DTEND;VALUE=DATE:20180903
+UID:eINS3lTz5GGbaZQ876XGT3h4@stanza.co
+SUMMARY:Red Sox vs. Hillcats
+DESCRIPTION:Red Sox vs. Hillcats\n\nFollow on MiLB First Pitch: https://stza.co/+w0GN-2c\n\nShop: https://stza.co/+w0GN-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144556Z
+LAST-MODIFIED:20180213T144556Z
+TRANSP:OPAQUE
+END:VEVENT

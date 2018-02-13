@@ -1,0 +1,5210 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Hillcats vs. Wood Ducks
+<2018-04-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       cEJDkeLeDGgSoYJ8Oz8sUR3t@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Wood Ducks Hillcats vs. Wood Ducks
+
+Buy tickets here  https //stza.co/~y3TE
+
+Follow on MiLB First Pitch  https //stza.co/+y3TE-3A
+
+Shop  https //stza.co/+y3TE-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Wood Ducks
+END:VALARM
+DTSTART:20180405T223000Z
+DTEND:20180406T013000Z
+UID:cEJDkeLeDGgSoYJ8Oz8sUR3t@stanza.co
+SUMMARY:Hillcats vs. Wood Ducks
+DESCRIPTION:Hillcats vs. Wood Ducks\n\nBuy tickets here: https://stza.co/~y3TE\n\nFollow on MiLB First Pitch: https://stza.co/+y3TE-3A\n\nShop: https://stza.co/+y3TE-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Wood Ducks
+<2018-04-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       brFTbsuAIqCp9xDdUCfkJpZ2@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Wood Ducks Hillcats vs. Wood Ducks
+
+Buy tickets here  https //stza.co/~y3TF
+
+Follow on MiLB First Pitch  https //stza.co/+y3TF-2Q
+
+Shop  https //stza.co/+y3TF-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Wood Ducks
+END:VALARM
+DTSTART:20180406T223000Z
+DTEND:20180407T013000Z
+UID:brFTbsuAIqCp9xDdUCfkJpZ2@stanza.co
+SUMMARY:Hillcats vs. Wood Ducks
+DESCRIPTION:Hillcats vs. Wood Ducks\n\nBuy tickets here: https://stza.co/~y3TF\n\nFollow on MiLB First Pitch: https://stza.co/+y3TF-2Q\n\nShop: https://stza.co/+y3TF-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Wood Ducks
+<2018-04-07 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       uwBnFC_diU7eGiqHRqczpDVx@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Wood Ducks Hillcats vs. Wood Ducks
+
+Buy tickets here  https //stza.co/~y3TI
+
+Follow on MiLB First Pitch  https //stza.co/+y3TI-4
+
+Shop  https //stza.co/+y3TI-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Wood Ducks
+END:VALARM
+DTSTART:20180407T220000Z
+DTEND:20180408T010000Z
+UID:uwBnFC_diU7eGiqHRqczpDVx@stanza.co
+SUMMARY:Hillcats vs. Wood Ducks
+DESCRIPTION:Hillcats vs. Wood Ducks\n\nBuy tickets here: https://stza.co/~y3TI\n\nFollow on MiLB First Pitch: https://stza.co/+y3TI-4\n\nShop: https://stza.co/+y3TI-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Wood Ducks
+<2018-04-08 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       lN7UMxOU4GlUBVZZ3CVWoIlO@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Wood Ducks Hillcats vs. Wood Ducks
+
+Buy tickets here  https //stza.co/~y3TK
+
+Follow on MiLB First Pitch  https //stza.co/+y3TK-3T
+
+Shop  https //stza.co/+y3TK-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Wood Ducks
+END:VALARM
+DTSTART:20180408T180000Z
+DTEND:20180408T210000Z
+UID:lN7UMxOU4GlUBVZZ3CVWoIlO@stanza.co
+SUMMARY:Hillcats vs. Wood Ducks
+DESCRIPTION:Hillcats vs. Wood Ducks\n\nBuy tickets here: https://stza.co/~y3TK\n\nFollow on MiLB First Pitch: https://stza.co/+y3TK-3T\n\nShop: https://stza.co/+y3TK-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Astros
+<2018-04-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       1PDrDJLEujWIFVz7yNcuys8C@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Astros Hillcats vs. Astros
+
+Buy tickets here  https //stza.co/~y3TM
+
+Follow on MiLB First Pitch  https //stza.co/+y3TM-1y
+
+Shop  https //stza.co/+y3TM-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Astros
+END:VALARM
+DTSTART:20180409T223000Z
+DTEND:20180410T013000Z
+UID:1PDrDJLEujWIFVz7yNcuys8C@stanza.co
+SUMMARY:Hillcats vs. Astros
+DESCRIPTION:Hillcats vs. Astros\n\nBuy tickets here: https://stza.co/~y3TM\n\nFollow on MiLB First Pitch: https://stza.co/+y3TM-1y\n\nShop: https://stza.co/+y3TM-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Astros
+<2018-04-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       wQ698rojrRtjj2hX3aUU3oMs@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Astros Hillcats vs. Astros
+
+Buy tickets here  https //stza.co/~y3TO
+
+Follow on MiLB First Pitch  https //stza.co/+y3TO-a
+
+Shop  https //stza.co/+y3TO-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Astros
+END:VALARM
+DTSTART:20180410T223000Z
+DTEND:20180411T013000Z
+UID:wQ698rojrRtjj2hX3aUU3oMs@stanza.co
+SUMMARY:Hillcats vs. Astros
+DESCRIPTION:Hillcats vs. Astros\n\nBuy tickets here: https://stza.co/~y3TO\n\nFollow on MiLB First Pitch: https://stza.co/+y3TO-a\n\nShop: https://stza.co/+y3TO-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Astros
+<2018-04-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       zn3C23uuo31o2o-jC4c8HwOr@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Astros Hillcats vs. Astros
+
+Buy tickets here  https //stza.co/~y3TQ
+
+Follow on MiLB First Pitch  https //stza.co/+y3TQ-1m
+
+Shop  https //stza.co/+y3TQ-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Astros
+END:VALARM
+DTSTART:20180411T223000Z
+DTEND:20180412T013000Z
+UID:zn3C23uuo31o2o-jC4c8HwOr@stanza.co
+SUMMARY:Hillcats vs. Astros
+DESCRIPTION:Hillcats vs. Astros\n\nBuy tickets here: https://stza.co/~y3TQ\n\nFollow on MiLB First Pitch: https://stza.co/+y3TQ-1m\n\nShop: https://stza.co/+y3TQ-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-04-12 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       BiPLN5h08YwfgjHYrS6uQoEs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8H-1u
+
+Shop  https //stza.co/+wX8H-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180412T223500Z
+DTEND:20180413T013500Z
+UID:BiPLN5h08YwfgjHYrS6uQoEs@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8H-1u\n\nShop: https://stza.co/+wX8H-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-04-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       mJGRIY5WhgLeuqgjtuVZ1RBO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8I-25
+
+Shop  https //stza.co/+wX8I-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180413T230500Z
+DTEND:20180414T020500Z
+UID:mJGRIY5WhgLeuqgjtuVZ1RBO@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8I-25\n\nShop: https://stza.co/+wX8I-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-04-14 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       fBGWROK5Fpit0IeL8Q26v6DD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8J-2w
+
+Shop  https //stza.co/+wX8J-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180414T220500Z
+DTEND:20180415T010500Z
+UID:fBGWROK5Fpit0IeL8Q26v6DD@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8J-2w\n\nShop: https://stza.co/+wX8J-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-04-15 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       XIUtFjrB3x7wnO77I-DkEnCh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8K-1t
+
+Shop  https //stza.co/+wX8K-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180415T173500Z
+DTEND:20180415T203500Z
+UID:XIUtFjrB3x7wnO77I-DkEnCh@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8K-1t\n\nShop: https://stza.co/+wX8K-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-04-16 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       pbqsvPgOKmgVuwMjvlx3ABB6@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3TR
+
+Follow on MiLB First Pitch  https //stza.co/+y3TR-9
+
+Shop  https //stza.co/+y3TR-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180416T223000Z
+DTEND:20180417T013000Z
+UID:pbqsvPgOKmgVuwMjvlx3ABB6@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3TR\n\nFollow on MiLB First Pitch: https://stza.co/+y3TR-9\n\nShop: https://stza.co/+y3TR-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-04-17 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       UKzm1XyCHSOTlmWZG_UNRkN-@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3TU
+
+Follow on MiLB First Pitch  https //stza.co/+y3TU-s
+
+Shop  https //stza.co/+y3TU-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180417T223000Z
+DTEND:20180418T013000Z
+UID:UKzm1XyCHSOTlmWZG_UNRkN-@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3TU\n\nFollow on MiLB First Pitch: https://stza.co/+y3TU-s\n\nShop: https://stza.co/+y3TU-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-04-18 Wed 10:00-13:00>
+:PROPERTIES:
+:ID:       Lc8BytjWBbdvOHrcVBuZASIJ@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3TW
+
+Follow on MiLB First Pitch  https //stza.co/+y3TW-3i
+
+Shop  https //stza.co/+y3TW-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180418T150000Z
+DTEND:20180418T180000Z
+UID:Lc8BytjWBbdvOHrcVBuZASIJ@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3TW\n\nFollow on MiLB First Pitch: https://stza.co/+y3TW-3i\n\nShop: https://stza.co/+y3TW-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Nationals
+<2018-04-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       89zBtTUwLD4GQkakRWoPMe66@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Nationals Hillcats @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA39-1m
+
+Shop  https //stza.co/+xA39-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Nationals
+END:VALARM
+DTSTART:20180419T230500Z
+DTEND:20180420T020500Z
+UID:89zBtTUwLD4GQkakRWoPMe66@stanza.co
+SUMMARY:Hillcats @ Nationals
+DESCRIPTION:Hillcats @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA39-1m\n\nShop: https://stza.co/+xA39-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Nationals
+<2018-04-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Qcpa3vCCUaPk4dl_azLitDDR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Nationals Hillcats @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA3b-2p
+
+Shop  https //stza.co/+xA3b-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Nationals
+END:VALARM
+DTSTART:20180420T230500Z
+DTEND:20180421T020500Z
+UID:Qcpa3vCCUaPk4dl_azLitDDR@stanza.co
+SUMMARY:Hillcats @ Nationals
+DESCRIPTION:Hillcats @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA3b-2p\n\nShop: https://stza.co/+xA3b-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Nationals
+<2018-04-21 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       UUAyLkPrS_e7irNEHp7EyyBO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Nationals Hillcats @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA3c-1P
+
+Shop  https //stza.co/+xA3c-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Nationals
+END:VALARM
+DTSTART:20180421T223500Z
+DTEND:20180422T013500Z
+UID:UUAyLkPrS_e7irNEHp7EyyBO@stanza.co
+SUMMARY:Hillcats @ Nationals
+DESCRIPTION:Hillcats @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA3c-1P\n\nShop: https://stza.co/+xA3c-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Nationals
+<2018-04-22 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       3QrflDgMrjE461S5STBPqquJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Nationals Hillcats @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA3d-3U
+
+Shop  https //stza.co/+xA3d-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Nationals
+END:VALARM
+DTSTART:20180422T170500Z
+DTEND:20180422T200500Z
+UID:3QrflDgMrjE461S5STBPqquJ@stanza.co
+SUMMARY:Hillcats @ Nationals
+DESCRIPTION:Hillcats @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA3d-3U\n\nShop: https://stza.co/+xA3d-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Dash
+<2018-04-24 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       JkvvE5S5Eu3by5B_92kq-DjL@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Dash Hillcats vs. Dash
+
+Buy tickets here  https //stza.co/~y3TX
+
+Follow on MiLB First Pitch  https //stza.co/+y3TX-3v
+
+Shop  https //stza.co/+y3TX-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Dash
+END:VALARM
+DTSTART:20180424T223000Z
+DTEND:20180425T013000Z
+UID:JkvvE5S5Eu3by5B_92kq-DjL@stanza.co
+SUMMARY:Hillcats vs. Dash
+DESCRIPTION:Hillcats vs. Dash\n\nBuy tickets here: https://stza.co/~y3TX\n\nFollow on MiLB First Pitch: https://stza.co/+y3TX-3v\n\nShop: https://stza.co/+y3TX-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Dash
+<2018-04-25 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       sCpd2MHPUiNdDRLdIZec75JA@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Dash Hillcats vs. Dash
+
+Buy tickets here  https //stza.co/~y3T_
+
+Follow on MiLB First Pitch  https //stza.co/+y3T_-2X
+
+Shop  https //stza.co/+y3T_-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Dash
+END:VALARM
+DTSTART:20180425T223000Z
+DTEND:20180426T013000Z
+UID:sCpd2MHPUiNdDRLdIZec75JA@stanza.co
+SUMMARY:Hillcats vs. Dash
+DESCRIPTION:Hillcats vs. Dash\n\nBuy tickets here: https://stza.co/~y3T_\n\nFollow on MiLB First Pitch: https://stza.co/+y3T_-2X\n\nShop: https://stza.co/+y3T_-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Dash
+<2018-04-26 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       PHVeSlg8r0jhLJQhpHyo-swT@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Dash Hillcats vs. Dash
+
+Buy tickets here  https //stza.co/~y3U0
+
+Follow on MiLB First Pitch  https //stza.co/+y3U0-1G
+
+Shop  https //stza.co/+y3U0-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Dash
+END:VALARM
+DTSTART:20180426T223000Z
+DTEND:20180427T013000Z
+UID:PHVeSlg8r0jhLJQhpHyo-swT@stanza.co
+SUMMARY:Hillcats vs. Dash
+DESCRIPTION:Hillcats vs. Dash\n\nBuy tickets here: https://stza.co/~y3U0\n\nFollow on MiLB First Pitch: https://stza.co/+y3U0-1G\n\nShop: https://stza.co/+y3U0-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-04-27 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       jrkfBetwV3Ph6upjjjCoO-ia@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3U1
+
+Follow on MiLB First Pitch  https //stza.co/+y3U1-34
+
+Shop  https //stza.co/+y3U1-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180427T223000Z
+DTEND:20180428T013000Z
+UID:jrkfBetwV3Ph6upjjjCoO-ia@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3U1\n\nFollow on MiLB First Pitch: https://stza.co/+y3U1-34\n\nShop: https://stza.co/+y3U1-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-04-28 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       gyMjyOCGDEkRxd9JqDHj1wSB@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3U4
+
+Follow on MiLB First Pitch  https //stza.co/+y3U4-3b
+
+Shop  https //stza.co/+y3U4-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180428T220000Z
+DTEND:20180429T010000Z
+UID:gyMjyOCGDEkRxd9JqDHj1wSB@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3U4\n\nFollow on MiLB First Pitch: https://stza.co/+y3U4-3b\n\nShop: https://stza.co/+y3U4-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-04-29 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       Tr6JDLudv9-Rg9pbhL2IIh4k@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3U6
+
+Follow on MiLB First Pitch  https //stza.co/+y3U6-2Y
+
+Shop  https //stza.co/+y3U6-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180429T180000Z
+DTEND:20180429T210000Z
+UID:Tr6JDLudv9-Rg9pbhL2IIh4k@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3U6\n\nFollow on MiLB First Pitch: https://stza.co/+y3U6-2Y\n\nShop: https://stza.co/+y3U6-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Dash
+<2018-05-01 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       JpZbW3JM4qjk5w3ApXkrcL9h@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Dash Hillcats @ Dash
+
+Buy tickets here  https //stza.co/~w0xi
+
+Follow on MiLB First Pitch  https //stza.co/+w0xi-3C
+
+Shop  https //stza.co/+w0xi-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Dash
+END:VALARM
+DTSTART:20180501T230000Z
+DTEND:20180502T020000Z
+UID:JpZbW3JM4qjk5w3ApXkrcL9h@stanza.co
+SUMMARY:Hillcats @ Dash
+DESCRIPTION:Hillcats @ Dash\n\nBuy tickets here: https://stza.co/~w0xi\n\nFollow on MiLB First Pitch: https://stza.co/+w0xi-3C\n\nShop: https://stza.co/+w0xi-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Dash
+<2018-05-02 Wed 10:00-13:00>
+:PROPERTIES:
+:ID:       rmnEgd2DAUCYNj6NarMYue2w@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Dash Hillcats @ Dash
+
+Buy tickets here  https //stza.co/~w0xj
+
+Follow on MiLB First Pitch  https //stza.co/+w0xj-1u
+
+Shop  https //stza.co/+w0xj-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Dash
+END:VALARM
+DTSTART:20180502T150000Z
+DTEND:20180502T180000Z
+UID:rmnEgd2DAUCYNj6NarMYue2w@stanza.co
+SUMMARY:Hillcats @ Dash
+DESCRIPTION:Hillcats @ Dash\n\nBuy tickets here: https://stza.co/~w0xj\n\nFollow on MiLB First Pitch: https://stza.co/+w0xj-1u\n\nShop: https://stza.co/+w0xj-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Dash
+<2018-05-03 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       38ta7yen46U_y_Ot4kwp94du@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Dash Hillcats @ Dash
+
+Buy tickets here  https //stza.co/~w0xk
+
+Follow on MiLB First Pitch  https //stza.co/+w0xk-1t
+
+Shop  https //stza.co/+w0xk-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Dash
+END:VALARM
+DTSTART:20180503T230000Z
+DTEND:20180504T020000Z
+UID:38ta7yen46U_y_Ot4kwp94du@stanza.co
+SUMMARY:Hillcats @ Dash
+DESCRIPTION:Hillcats @ Dash\n\nBuy tickets here: https://stza.co/~w0xk\n\nFollow on MiLB First Pitch: https://stza.co/+w0xk-1t\n\nShop: https://stza.co/+w0xk-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Pelicans
+<2018-05-04 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       SUb_bKR5asKsvT3lyxB_4QH5@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Pelicans Hillcats vs. Pelicans
+
+Buy tickets here  https //stza.co/~y3U8
+
+Follow on MiLB First Pitch  https //stza.co/+y3U8-3i
+
+Shop  https //stza.co/+y3U8-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Pelicans
+END:VALARM
+DTSTART:20180504T223000Z
+DTEND:20180505T013000Z
+UID:SUb_bKR5asKsvT3lyxB_4QH5@stanza.co
+SUMMARY:Hillcats vs. Pelicans
+DESCRIPTION:Hillcats vs. Pelicans\n\nBuy tickets here: https://stza.co/~y3U8\n\nFollow on MiLB First Pitch: https://stza.co/+y3U8-3i\n\nShop: https://stza.co/+y3U8-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Pelicans
+<2018-05-05 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       gdQ1Uh95Y5MRCIFgh6MLyvJF@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Pelicans Hillcats vs. Pelicans
+
+Buy tickets here  https //stza.co/~y3U9
+
+Follow on MiLB First Pitch  https //stza.co/+y3U9-23
+
+Shop  https //stza.co/+y3U9-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Pelicans
+END:VALARM
+DTSTART:20180505T220000Z
+DTEND:20180506T010000Z
+UID:gdQ1Uh95Y5MRCIFgh6MLyvJF@stanza.co
+SUMMARY:Hillcats vs. Pelicans
+DESCRIPTION:Hillcats vs. Pelicans\n\nBuy tickets here: https://stza.co/~y3U9\n\nFollow on MiLB First Pitch: https://stza.co/+y3U9-23\n\nShop: https://stza.co/+y3U9-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Pelicans
+<2018-05-06 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       znrQOn_eLIn-D--p_LBQE-5M@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Pelicans Hillcats vs. Pelicans
+
+Buy tickets here  https //stza.co/~y3Ub
+
+Follow on MiLB First Pitch  https //stza.co/+y3Ub-3x
+
+Shop  https //stza.co/+y3Ub-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Pelicans
+END:VALARM
+DTSTART:20180506T180000Z
+DTEND:20180506T210000Z
+UID:znrQOn_eLIn-D--p_LBQE-5M@stanza.co
+SUMMARY:Hillcats vs. Pelicans
+DESCRIPTION:Hillcats vs. Pelicans\n\nBuy tickets here: https://stza.co/~y3Ub\n\nFollow on MiLB First Pitch: https://stza.co/+y3Ub-3x\n\nShop: https://stza.co/+y3Ub-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-05-07 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       HJxNZobCcew3jL96VPXzDnOO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9R-3n
+
+Shop  https //stza.co/+wi9R-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180507T230000Z
+DTEND:20180508T020000Z
+UID:HJxNZobCcew3jL96VPXzDnOO@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9R-3n\n\nShop: https://stza.co/+wi9R-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-05-08 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       s1KLW3M7ORanuy0iDebqFkLP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9S-H
+
+Shop  https //stza.co/+wi9S-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180508T230000Z
+DTEND:20180509T020000Z
+UID:s1KLW3M7ORanuy0iDebqFkLP@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9S-H\n\nShop: https://stza.co/+wi9S-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-05-09 Wed 10:00-13:00>
+:PROPERTIES:
+:ID:       l1uKP4bt4AnLlwhbQQYs78Yl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9T-B
+
+Shop  https //stza.co/+wi9T-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180509T150000Z
+DTEND:20180509T180000Z
+UID:l1uKP4bt4AnLlwhbQQYs78Yl@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9T-B\n\nShop: https://stza.co/+wi9T-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-05-10 Thu>--<2018-05-09 Wed>
+:PROPERTIES:
+:ID:       KXm93_HShykYu2o4uXaSgZwh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0wX-2K
+
+Shop  https //stza.co/+w0wX-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180510
+DTEND;VALUE=DATE:20180510
+UID:KXm93_HShykYu2o4uXaSgZwh@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0wX-2K\n\nShop: https://stza.co/+w0wX-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-05-11 Fri>--<2018-05-10 Thu>
+:PROPERTIES:
+:ID:       fKQplLKvV-xX2I8liOu_3gFm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0wY-2b
+
+Shop  https //stza.co/+w0wY-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180511
+DTEND;VALUE=DATE:20180511
+UID:fKQplLKvV-xX2I8liOu_3gFm@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0wY-2b\n\nShop: https://stza.co/+w0wY-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-05-12 Sat>--<2018-05-11 Fri>
+:PROPERTIES:
+:ID:       pmifhIHxGZWfAP8ezht85nAb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0wZ-3u
+
+Shop  https //stza.co/+w0wZ-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180512
+DTEND;VALUE=DATE:20180512
+UID:pmifhIHxGZWfAP8ezht85nAb@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0wZ-3u\n\nShop: https://stza.co/+w0wZ-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-05-13 Sun>--<2018-05-12 Sat>
+:PROPERTIES:
+:ID:       7j5M5cXvrNXSYDjYOuCD11mo@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0w_-22
+
+Shop  https //stza.co/+w0w_-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180513
+DTEND;VALUE=DATE:20180513
+UID:7j5M5cXvrNXSYDjYOuCD11mo@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0w_-22\n\nShop: https://stza.co/+w0w_-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-05-15 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       4fFnmbRXUr51UKYjq2ItsTas@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3Ud
+
+Follow on MiLB First Pitch  https //stza.co/+y3Ud-x
+
+Shop  https //stza.co/+y3Ud-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180515T223000Z
+DTEND:20180516T013000Z
+UID:4fFnmbRXUr51UKYjq2ItsTas@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3Ud\n\nFollow on MiLB First Pitch: https://stza.co/+y3Ud-x\n\nShop: https://stza.co/+y3Ud-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-05-16 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       XFerhbkP2pA8KfEXkstQU7v2@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3Ug
+
+Follow on MiLB First Pitch  https //stza.co/+y3Ug-2y
+
+Shop  https //stza.co/+y3Ug-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180516T223000Z
+DTEND:20180517T013000Z
+UID:XFerhbkP2pA8KfEXkstQU7v2@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3Ug\n\nFollow on MiLB First Pitch: https://stza.co/+y3Ug-2y\n\nShop: https://stza.co/+y3Ug-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-05-17 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       rVSxqNlugYelo1S1_-0zQi50@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3Uh
+
+Follow on MiLB First Pitch  https //stza.co/+y3Uh-2h
+
+Shop  https //stza.co/+y3Uh-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180517T223000Z
+DTEND:20180518T013000Z
+UID:rVSxqNlugYelo1S1_-0zQi50@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3Uh\n\nFollow on MiLB First Pitch: https://stza.co/+y3Uh-2h\n\nShop: https://stza.co/+y3Uh-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-05-18 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       YZpXm5yXS4C_Sqbtm0M70Dg-@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3Uj
+
+Follow on MiLB First Pitch  https //stza.co/+y3Uj-G
+
+Shop  https //stza.co/+y3Uj-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180518T223000Z
+DTEND:20180519T013000Z
+UID:YZpXm5yXS4C_Sqbtm0M70Dg-@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3Uj\n\nFollow on MiLB First Pitch: https://stza.co/+y3Uj-G\n\nShop: https://stza.co/+y3Uj-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-05-19 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       hmy1Alx5oKNqZfw-dkI69xN5@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3Ul
+
+Follow on MiLB First Pitch  https //stza.co/+y3Ul-2J
+
+Shop  https //stza.co/+y3Ul-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180519T220000Z
+DTEND:20180520T010000Z
+UID:hmy1Alx5oKNqZfw-dkI69xN5@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3Ul\n\nFollow on MiLB First Pitch: https://stza.co/+y3Ul-2J\n\nShop: https://stza.co/+y3Ul-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-05-20 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       NyFoZS-fVMoGUkIEQW2NljPN@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3Un
+
+Follow on MiLB First Pitch  https //stza.co/+y3Un-3R
+
+Shop  https //stza.co/+y3Un-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180520T180000Z
+DTEND:20180520T210000Z
+UID:NyFoZS-fVMoGUkIEQW2NljPN@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3Un\n\nFollow on MiLB First Pitch: https://stza.co/+y3Un-3R\n\nShop: https://stza.co/+y3Un-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Pelicans
+<2018-05-21 Mon>--<2018-05-20 Sun>
+:PROPERTIES:
+:ID:       WC4AKXHVWziVOHVHEKHGQl2v@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Pelicans Hillcats @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0wJ-2S
+
+Shop  https //stza.co/+w0wJ-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180521
+DTEND;VALUE=DATE:20180521
+UID:WC4AKXHVWziVOHVHEKHGQl2v@stanza.co
+SUMMARY:Hillcats @ Pelicans
+DESCRIPTION:Hillcats @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0wJ-2S\n\nShop: https://stza.co/+w0wJ-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Pelicans
+<2018-05-22 Tue>--<2018-05-21 Mon>
+:PROPERTIES:
+:ID:       t_P1-xXnsY0EIJYSARoZ1bX4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Pelicans Hillcats @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0wK-1W
+
+Shop  https //stza.co/+w0wK-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180522
+DTEND;VALUE=DATE:20180522
+UID:t_P1-xXnsY0EIJYSARoZ1bX4@stanza.co
+SUMMARY:Hillcats @ Pelicans
+DESCRIPTION:Hillcats @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0wK-1W\n\nShop: https://stza.co/+w0wK-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Pelicans
+<2018-05-23 Wed>--<2018-05-22 Tue>
+:PROPERTIES:
+:ID:       8mS8xGRDhJhCxR0YrvgdMfYB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Pelicans Hillcats @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0wL-2y
+
+Shop  https //stza.co/+w0wL-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180523
+DTEND;VALUE=DATE:20180523
+UID:8mS8xGRDhJhCxR0YrvgdMfYB@stanza.co
+SUMMARY:Hillcats @ Pelicans
+DESCRIPTION:Hillcats @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0wL-2y\n\nShop: https://stza.co/+w0wL-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Pelicans
+<2018-05-24 Thu>--<2018-05-23 Wed>
+:PROPERTIES:
+:ID:       0mHNrRNQiriIu4_-bxEsaMK3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Pelicans Hillcats @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0wM-1$
+
+Shop  https //stza.co/+w0wM-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180524
+DTEND;VALUE=DATE:20180524
+UID:0mHNrRNQiriIu4_-bxEsaMK3@stanza.co
+SUMMARY:Hillcats @ Pelicans
+DESCRIPTION:Hillcats @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0wM-1$\n\nShop: https://stza.co/+w0wM-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Astros
+<2018-05-25 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       zKcNqogycTo1wgYdTQC-n5jg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Astros Hillcats @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM99-1s
+
+Shop  https //stza.co/+xM99-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Astros
+END:VALARM
+DTSTART:20180525T230000Z
+DTEND:20180526T020000Z
+UID:zKcNqogycTo1wgYdTQC-n5jg@stanza.co
+SUMMARY:Hillcats @ Astros
+DESCRIPTION:Hillcats @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM99-1s\n\nShop: https://stza.co/+xM99-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Astros
+<2018-05-26 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       66Cogb7M3Rji3iFd9zdRIQau@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Astros Hillcats @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9a-2R
+
+Shop  https //stza.co/+xM9a-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Astros
+END:VALARM
+DTSTART:20180526T220000Z
+DTEND:20180527T010000Z
+UID:66Cogb7M3Rji3iFd9zdRIQau@stanza.co
+SUMMARY:Hillcats @ Astros
+DESCRIPTION:Hillcats @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9a-2R\n\nShop: https://stza.co/+xM9a-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Astros
+<2018-05-27 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       b348n0B0NKr75vnGFEDII-6o@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Astros Hillcats @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9b-3r
+
+Shop  https //stza.co/+xM9b-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Astros
+END:VALARM
+DTSTART:20180527T180000Z
+DTEND:20180527T210000Z
+UID:b348n0B0NKr75vnGFEDII-6o@stanza.co
+SUMMARY:Hillcats @ Astros
+DESCRIPTION:Hillcats @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9b-3r\n\nShop: https://stza.co/+xM9b-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Astros
+<2018-05-28 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       1cjeeUiiBRBkbv2TesebjM4e@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Astros Hillcats @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9c-t
+
+Shop  https //stza.co/+xM9c-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Astros
+END:VALARM
+DTSTART:20180528T230000Z
+DTEND:20180529T020000Z
+UID:1cjeeUiiBRBkbv2TesebjM4e@stanza.co
+SUMMARY:Hillcats @ Astros
+DESCRIPTION:Hillcats @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9c-t\n\nShop: https://stza.co/+xM9c-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Mudcats
+<2018-05-29 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       thaFeJs4fOA8R6AvB9pUsxHZ@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Mudcats Hillcats vs. Mudcats
+
+Buy tickets here  https //stza.co/~y3Up
+
+Follow on MiLB First Pitch  https //stza.co/+y3Up-36
+
+Shop  https //stza.co/+y3Up-1_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Mudcats
+END:VALARM
+DTSTART:20180529T223000Z
+DTEND:20180530T013000Z
+UID:thaFeJs4fOA8R6AvB9pUsxHZ@stanza.co
+SUMMARY:Hillcats vs. Mudcats
+DESCRIPTION:Hillcats vs. Mudcats\n\nBuy tickets here: https://stza.co/~y3Up\n\nFollow on MiLB First Pitch: https://stza.co/+y3Up-36\n\nShop: https://stza.co/+y3Up-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Mudcats
+<2018-05-30 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       E7rHpdMRYPOdpY5EaEn90fEj@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Mudcats Hillcats vs. Mudcats
+
+Buy tickets here  https //stza.co/~y3Us
+
+Follow on MiLB First Pitch  https //stza.co/+y3Us-j
+
+Shop  https //stza.co/+y3Us-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Mudcats
+END:VALARM
+DTSTART:20180530T223000Z
+DTEND:20180531T013000Z
+UID:E7rHpdMRYPOdpY5EaEn90fEj@stanza.co
+SUMMARY:Hillcats vs. Mudcats
+DESCRIPTION:Hillcats vs. Mudcats\n\nBuy tickets here: https://stza.co/~y3Us\n\nFollow on MiLB First Pitch: https://stza.co/+y3Us-j\n\nShop: https://stza.co/+y3Us-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Mudcats
+<2018-05-31 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       Mr6tuxJotFNqLZZKb9VHHGk9@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Mudcats Hillcats vs. Mudcats
+
+Buy tickets here  https //stza.co/~y3Uu
+
+Follow on MiLB First Pitch  https //stza.co/+y3Uu-1G
+
+Shop  https //stza.co/+y3Uu-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Mudcats
+END:VALARM
+DTSTART:20180531T223000Z
+DTEND:20180601T013000Z
+UID:Mr6tuxJotFNqLZZKb9VHHGk9@stanza.co
+SUMMARY:Hillcats vs. Mudcats
+DESCRIPTION:Hillcats vs. Mudcats\n\nBuy tickets here: https://stza.co/~y3Uu\n\nFollow on MiLB First Pitch: https://stza.co/+y3Uu-1G\n\nShop: https://stza.co/+y3Uu-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-06-01 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       HIBlqPbYNPiPAOwGzt_2GVlE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9U-_
+
+Shop  https //stza.co/+wi9U-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180601T230000Z
+DTEND:20180602T020000Z
+UID:HIBlqPbYNPiPAOwGzt_2GVlE@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9U-_\n\nShop: https://stza.co/+wi9U-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-06-02 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       Fpxa1BaZP33Ca6sur0_usr5q@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9V-5
+
+Shop  https //stza.co/+wi9V-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180602T220000Z
+DTEND:20180603T010000Z
+UID:Fpxa1BaZP33Ca6sur0_usr5q@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9V-5\n\nShop: https://stza.co/+wi9V-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-06-03 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       U9yZKUYDy0S1RxHykb6SWzYN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9X-F
+
+Shop  https //stza.co/+wi9X-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180603T180000Z
+DTEND:20180603T210000Z
+UID:U9yZKUYDy0S1RxHykb6SWzYN@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9X-F\n\nShop: https://stza.co/+wi9X-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-05 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       HnspN-MUrZUN6100FmRy3dv4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8L-2_
+
+Shop  https //stza.co/+wX8L-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180605T223500Z
+DTEND:20180606T013500Z
+UID:HnspN-MUrZUN6100FmRy3dv4@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8L-2_\n\nShop: https://stza.co/+wX8L-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-06 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       8ipYsoytMRUrL7X6zej_OoCJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8M-1d
+
+Shop  https //stza.co/+wX8M-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180606T223500Z
+DTEND:20180607T013500Z
+UID:8ipYsoytMRUrL7X6zej_OoCJ@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8M-1d\n\nShop: https://stza.co/+wX8M-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-07 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       MD0vfzYJ-FDlRBz6HFAK8UOx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8N-3J
+
+Shop  https //stza.co/+wX8N-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180607T223500Z
+DTEND:20180608T013500Z
+UID:MD0vfzYJ-FDlRBz6HFAK8UOx@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8N-3J\n\nShop: https://stza.co/+wX8N-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-06-08 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       loMw79SOSOMXPpTQ1VzDmTeN@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3Uv
+
+Follow on MiLB First Pitch  https //stza.co/+y3Uv-1N
+
+Shop  https //stza.co/+y3Uv-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180608T223000Z
+DTEND:20180609T013000Z
+UID:loMw79SOSOMXPpTQ1VzDmTeN@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3Uv\n\nFollow on MiLB First Pitch: https://stza.co/+y3Uv-1N\n\nShop: https://stza.co/+y3Uv-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-06-09 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       n8VSmNr7kl8LpozQM_MSi_XC@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3Ux
+
+Follow on MiLB First Pitch  https //stza.co/+y3Ux-K
+
+Shop  https //stza.co/+y3Ux-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180609T220000Z
+DTEND:20180610T010000Z
+UID:n8VSmNr7kl8LpozQM_MSi_XC@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3Ux\n\nFollow on MiLB First Pitch: https://stza.co/+y3Ux-K\n\nShop: https://stza.co/+y3Ux-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-06-10 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       D3kFTJ4elGVEE4_SJ6VSu-EJ@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3UA
+
+Follow on MiLB First Pitch  https //stza.co/+y3UA-3r
+
+Shop  https //stza.co/+y3UA-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180610T180000Z
+DTEND:20180610T210000Z
+UID:D3kFTJ4elGVEE4_SJ6VSu-EJ@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3UA\n\nFollow on MiLB First Pitch: https://stza.co/+y3UA-3r\n\nShop: https://stza.co/+y3UA-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-06-11 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       t6y30UtQ_Gpy-BO2lD4S5Jfv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9Y-f
+
+Shop  https //stza.co/+wi9Y-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180611T230000Z
+DTEND:20180612T020000Z
+UID:t6y30UtQ_Gpy-BO2lD4S5Jfv@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9Y-f\n\nShop: https://stza.co/+wi9Y-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-06-12 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       a2oAmsW3b2bab_FIH0tU30Po@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9Z-1B
+
+Shop  https //stza.co/+wi9Z-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180612T230000Z
+DTEND:20180613T020000Z
+UID:a2oAmsW3b2bab_FIH0tU30Po@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9Z-1B\n\nShop: https://stza.co/+wi9Z-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-06-13 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       kBmqHmA6UQm7vyoNwXcYMPrv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9_-2X
+
+Shop  https //stza.co/+wi9_-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180613T230000Z
+DTEND:20180614T020000Z
+UID:kBmqHmA6UQm7vyoNwXcYMPrv@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9_-2X\n\nShop: https://stza.co/+wi9_-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Red Sox
+<2018-06-14 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       fj4_HY-M81pzm_SwTdujqWsM@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Red Sox Hillcats vs. Red Sox
+
+Buy tickets here  https //stza.co/~y3UB
+
+Follow on MiLB First Pitch  https //stza.co/+y3UB-3V
+
+Shop  https //stza.co/+y3UB-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Red Sox
+END:VALARM
+DTSTART:20180614T223000Z
+DTEND:20180615T013000Z
+UID:fj4_HY-M81pzm_SwTdujqWsM@stanza.co
+SUMMARY:Hillcats vs. Red Sox
+DESCRIPTION:Hillcats vs. Red Sox\n\nBuy tickets here: https://stza.co/~y3UB\n\nFollow on MiLB First Pitch: https://stza.co/+y3UB-3V\n\nShop: https://stza.co/+y3UB-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Red Sox
+<2018-06-15 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       YQKONxv5Seu-fkeFbyTR1YdM@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Red Sox Hillcats vs. Red Sox
+
+Buy tickets here  https //stza.co/~y3UE
+
+Follow on MiLB First Pitch  https //stza.co/+y3UE-3e
+
+Shop  https //stza.co/+y3UE-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Red Sox
+END:VALARM
+DTSTART:20180615T223000Z
+DTEND:20180616T013000Z
+UID:YQKONxv5Seu-fkeFbyTR1YdM@stanza.co
+SUMMARY:Hillcats vs. Red Sox
+DESCRIPTION:Hillcats vs. Red Sox\n\nBuy tickets here: https://stza.co/~y3UE\n\nFollow on MiLB First Pitch: https://stza.co/+y3UE-3e\n\nShop: https://stza.co/+y3UE-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Red Sox
+<2018-06-16 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       3NbJJXzeOzdcKhrzGDwNzv9j@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Red Sox Hillcats vs. Red Sox
+
+Buy tickets here  https //stza.co/~y3UG
+
+Follow on MiLB First Pitch  https //stza.co/+y3UG-v
+
+Shop  https //stza.co/+y3UG-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Red Sox
+END:VALARM
+DTSTART:20180616T220000Z
+DTEND:20180617T010000Z
+UID:3NbJJXzeOzdcKhrzGDwNzv9j@stanza.co
+SUMMARY:Hillcats vs. Red Sox
+DESCRIPTION:Hillcats vs. Red Sox\n\nBuy tickets here: https://stza.co/~y3UG\n\nFollow on MiLB First Pitch: https://stza.co/+y3UG-v\n\nShop: https://stza.co/+y3UG-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Red Sox
+<2018-06-17 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       3uxJrMjJDnLJa7zOucFGn5yT@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Red Sox Hillcats vs. Red Sox
+
+Buy tickets here  https //stza.co/~y3UI
+
+Follow on MiLB First Pitch  https //stza.co/+y3UI-1J
+
+Shop  https //stza.co/+y3UI-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Red Sox
+END:VALARM
+DTSTART:20180617T180000Z
+DTEND:20180617T210000Z
+UID:3uxJrMjJDnLJa7zOucFGn5yT@stanza.co
+SUMMARY:Hillcats vs. Red Sox
+DESCRIPTION:Hillcats vs. Red Sox\n\nBuy tickets here: https://stza.co/~y3UI\n\nFollow on MiLB First Pitch: https://stza.co/+y3UI-1J\n\nShop: https://stza.co/+y3UI-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Pelicans
+<2018-06-21 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       NrCMcUKyCirxh97zpCm58lNl@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Pelicans Hillcats vs. Pelicans
+
+Buy tickets here  https //stza.co/~y3UK
+
+Follow on MiLB First Pitch  https //stza.co/+y3UK-3u
+
+Shop  https //stza.co/+y3UK-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Pelicans
+END:VALARM
+DTSTART:20180621T223000Z
+DTEND:20180622T013000Z
+UID:NrCMcUKyCirxh97zpCm58lNl@stanza.co
+SUMMARY:Hillcats vs. Pelicans
+DESCRIPTION:Hillcats vs. Pelicans\n\nBuy tickets here: https://stza.co/~y3UK\n\nFollow on MiLB First Pitch: https://stza.co/+y3UK-3u\n\nShop: https://stza.co/+y3UK-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Pelicans
+<2018-06-22 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       6alQg38EHakhsAZOe6hmqSSf@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Pelicans Hillcats vs. Pelicans
+
+Buy tickets here  https //stza.co/~y3UM
+
+Follow on MiLB First Pitch  https //stza.co/+y3UM-2e
+
+Shop  https //stza.co/+y3UM-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Pelicans
+END:VALARM
+DTSTART:20180622T223000Z
+DTEND:20180623T013000Z
+UID:6alQg38EHakhsAZOe6hmqSSf@stanza.co
+SUMMARY:Hillcats vs. Pelicans
+DESCRIPTION:Hillcats vs. Pelicans\n\nBuy tickets here: https://stza.co/~y3UM\n\nFollow on MiLB First Pitch: https://stza.co/+y3UM-2e\n\nShop: https://stza.co/+y3UM-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Pelicans
+<2018-06-23 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       BXU1rsIHPsxhTJ6FhKrk2IiT@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Pelicans Hillcats vs. Pelicans
+
+Buy tickets here  https //stza.co/~y3UN
+
+Follow on MiLB First Pitch  https //stza.co/+y3UN-28
+
+Shop  https //stza.co/+y3UN-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Pelicans
+END:VALARM
+DTSTART:20180623T220000Z
+DTEND:20180624T010000Z
+UID:BXU1rsIHPsxhTJ6FhKrk2IiT@stanza.co
+SUMMARY:Hillcats vs. Pelicans
+DESCRIPTION:Hillcats vs. Pelicans\n\nBuy tickets here: https://stza.co/~y3UN\n\nFollow on MiLB First Pitch: https://stza.co/+y3UN-28\n\nShop: https://stza.co/+y3UN-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Pelicans
+<2018-06-24 Sun 16:00-19:00>
+:PROPERTIES:
+:ID:       PzrpmdrC1zkNBVhlyMFOuFV9@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Pelicans Hillcats vs. Pelicans
+
+Buy tickets here  https //stza.co/~y3UQ
+
+Follow on MiLB First Pitch  https //stza.co/+y3UQ-3r
+
+Shop  https //stza.co/+y3UQ-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Pelicans
+END:VALARM
+DTSTART:20180624T210000Z
+DTEND:20180625T000000Z
+UID:PzrpmdrC1zkNBVhlyMFOuFV9@stanza.co
+SUMMARY:Hillcats vs. Pelicans
+DESCRIPTION:Hillcats vs. Pelicans\n\nBuy tickets here: https://stza.co/~y3UQ\n\nFollow on MiLB First Pitch: https://stza.co/+y3UQ-3r\n\nShop: https://stza.co/+y3UQ-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-25 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       NrJanSd5i-9TPIQs7RLHfx2G@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8P-q
+
+Shop  https //stza.co/+wX8P-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180625T223500Z
+DTEND:20180626T013500Z
+UID:NrJanSd5i-9TPIQs7RLHfx2G@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8P-q\n\nShop: https://stza.co/+wX8P-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-26 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       qd-aU9XRmKEQkafRfDwCSc0U@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8Q-2j
+
+Shop  https //stza.co/+wX8Q-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180626T223500Z
+DTEND:20180627T013500Z
+UID:qd-aU9XRmKEQkafRfDwCSc0U@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8Q-2j\n\nShop: https://stza.co/+wX8Q-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-27 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       zLTEm77PuXJ1AIUCC_lPUAzN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8R-2k
+
+Shop  https //stza.co/+wX8R-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180627T223500Z
+DTEND:20180628T013500Z
+UID:zLTEm77PuXJ1AIUCC_lPUAzN@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8R-2k\n\nShop: https://stza.co/+wX8R-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-28 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       ChVLrtu983gYKx88aSktK-sI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8S-30
+
+Shop  https //stza.co/+wX8S-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180628T223500Z
+DTEND:20180629T013500Z
+UID:ChVLrtu983gYKx88aSktK-sI@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8S-30\n\nShop: https://stza.co/+wX8S-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       egy_Ee5oEVAfPcFj_xKTd23p@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8T-11
+
+Shop  https //stza.co/+wX8T-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:egy_Ee5oEVAfPcFj_xKTd23p@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8T-11\n\nShop: https://stza.co/+wX8T-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-06-30 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       dRSUutkqruLW76BG6Q1lQPMa@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wi9$-36
+
+Shop  https //stza.co/+wi9$-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180630T220000Z
+DTEND:20180701T010000Z
+UID:dRSUutkqruLW76BG6Q1lQPMa@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wi9$-36\n\nShop: https://stza.co/+wi9$-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-07-01 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       3axZkazOh0A1gqvyEWteiS4n@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wia2-3G
+
+Shop  https //stza.co/+wia2-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180701T180000Z
+DTEND:20180701T210000Z
+UID:3axZkazOh0A1gqvyEWteiS4n@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wia2-3G\n\nShop: https://stza.co/+wia2-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-07-02 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       wudCjQpHIzINeOAj0iqb1K0v@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wia3-1y
+
+Shop  https //stza.co/+wia3-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180702T230000Z
+DTEND:20180703T020000Z
+UID:wudCjQpHIzINeOAj0iqb1K0v@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wia3-1y\n\nShop: https://stza.co/+wia3-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Keys
+<2018-07-03 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       YU3IjClcpGN97svMvO9J9JTb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Keys Hillcats @ Keys
+
+Follow on MiLB First Pitch  https //stza.co/+wia4-3m
+
+Shop  https //stza.co/+wia4-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Keys
+END:VALARM
+DTSTART:20180703T230000Z
+DTEND:20180704T020000Z
+UID:YU3IjClcpGN97svMvO9J9JTb@stanza.co
+SUMMARY:Hillcats @ Keys
+DESCRIPTION:Hillcats @ Keys\n\nFollow on MiLB First Pitch: https://stza.co/+wia4-3m\n\nShop: https://stza.co/+wia4-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-04 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       r_xW4fNR3j8X0O8cngxPko9b@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3UR
+
+Follow on MiLB First Pitch  https //stza.co/+y3UR-V
+
+Shop  https //stza.co/+y3UR-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180704T223000Z
+DTEND:20180705T013000Z
+UID:r_xW4fNR3j8X0O8cngxPko9b@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3UR\n\nFollow on MiLB First Pitch: https://stza.co/+y3UR-V\n\nShop: https://stza.co/+y3UR-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       Rs7jDjVOXMjvTDqV9RVsQoKR@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3UU
+
+Follow on MiLB First Pitch  https //stza.co/+y3UU-B
+
+Shop  https //stza.co/+y3UU-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180705T223000Z
+DTEND:20180706T013000Z
+UID:Rs7jDjVOXMjvTDqV9RVsQoKR@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3UU\n\nFollow on MiLB First Pitch: https://stza.co/+y3UU-B\n\nShop: https://stza.co/+y3UU-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       U9fVf87i2iVHwjActNE9c4Uu@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3UW
+
+Follow on MiLB First Pitch  https //stza.co/+y3UW-16
+
+Shop  https //stza.co/+y3UW-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180706T223000Z
+DTEND:20180707T013000Z
+UID:U9fVf87i2iVHwjActNE9c4Uu@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3UW\n\nFollow on MiLB First Pitch: https://stza.co/+y3UW-16\n\nShop: https://stza.co/+y3UW-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-07 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       9BeQmdKg0V991CXvx4DBGTAn@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3UX
+
+Follow on MiLB First Pitch  https //stza.co/+y3UX-1L
+
+Shop  https //stza.co/+y3UX-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180707T220000Z
+DTEND:20180708T010000Z
+UID:9BeQmdKg0V991CXvx4DBGTAn@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3UX\n\nFollow on MiLB First Pitch: https://stza.co/+y3UX-1L\n\nShop: https://stza.co/+y3UX-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-08 Sun 16:00-19:00>
+:PROPERTIES:
+:ID:       Ds386mknPaMSpEVt7Dt4cNuS@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3UZ
+
+Follow on MiLB First Pitch  https //stza.co/+y3UZ-2b
+
+Shop  https //stza.co/+y3UZ-_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180708T210000Z
+DTEND:20180709T000000Z
+UID:Ds386mknPaMSpEVt7Dt4cNuS@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3UZ\n\nFollow on MiLB First Pitch: https://stza.co/+y3UZ-2b\n\nShop: https://stza.co/+y3UZ-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-07-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       YVZV6APXETPdMVjUY2LqBOAm@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3V0
+
+Follow on MiLB First Pitch  https //stza.co/+y3V0-17
+
+Shop  https //stza.co/+y3V0-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180709T223000Z
+DTEND:20180710T013000Z
+UID:YVZV6APXETPdMVjUY2LqBOAm@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3V0\n\nFollow on MiLB First Pitch: https://stza.co/+y3V0-17\n\nShop: https://stza.co/+y3V0-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-07-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       j3EPTJzcye7E2MmauAn3k-YD@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3V1
+
+Follow on MiLB First Pitch  https //stza.co/+y3V1-2i
+
+Shop  https //stza.co/+y3V1-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180710T223000Z
+DTEND:20180711T013000Z
+UID:j3EPTJzcye7E2MmauAn3k-YD@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3V1\n\nFollow on MiLB First Pitch: https://stza.co/+y3V1-2i\n\nShop: https://stza.co/+y3V1-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-07-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       epzgBu1ImDUxLBi50MZMAaBR@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3V3
+
+Follow on MiLB First Pitch  https //stza.co/+y3V3-R
+
+Shop  https //stza.co/+y3V3-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180711T223000Z
+DTEND:20180712T013000Z
+UID:epzgBu1ImDUxLBi50MZMAaBR@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3V3\n\nFollow on MiLB First Pitch: https://stza.co/+y3V3-R\n\nShop: https://stza.co/+y3V3-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-07-12 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       oD4noUkM8--zMqt5aDnaF8xn@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3V5
+
+Follow on MiLB First Pitch  https //stza.co/+y3V5-2m
+
+Shop  https //stza.co/+y3V5-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180712T223000Z
+DTEND:20180713T013000Z
+UID:oD4noUkM8--zMqt5aDnaF8xn@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3V5\n\nFollow on MiLB First Pitch: https://stza.co/+y3V5-2m\n\nShop: https://stza.co/+y3V5-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Mudcats
+<2018-07-13 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       8QuWx3cLGVk5M2OROW0sVvbY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Mudcats Hillcats @ Mudcats
+
+Buy tickets here  https //stza.co/~w0ua
+
+Follow on MiLB First Pitch  https //stza.co/+w0ua-5
+
+Shop  https //stza.co/+w0ua-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Mudcats
+END:VALARM
+DTSTART:20180713T230000Z
+DTEND:20180714T020000Z
+UID:8QuWx3cLGVk5M2OROW0sVvbY@stanza.co
+SUMMARY:Hillcats @ Mudcats
+DESCRIPTION:Hillcats @ Mudcats\n\nBuy tickets here: https://stza.co/~w0ua\n\nFollow on MiLB First Pitch: https://stza.co/+w0ua-5\n\nShop: https://stza.co/+w0ua-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Mudcats
+<2018-07-14 Sat 16:00-19:00>
+:PROPERTIES:
+:ID:       hJUL4n7ggkEX-4AQBd0szn0l@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Mudcats Hillcats @ Mudcats
+
+Buy tickets here  https //stza.co/~w0ub
+
+Follow on MiLB First Pitch  https //stza.co/+w0ub-3J
+
+Shop  https //stza.co/+w0ub-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Mudcats
+END:VALARM
+DTSTART:20180714T210000Z
+DTEND:20180715T000000Z
+UID:hJUL4n7ggkEX-4AQBd0szn0l@stanza.co
+SUMMARY:Hillcats @ Mudcats
+DESCRIPTION:Hillcats @ Mudcats\n\nBuy tickets here: https://stza.co/~w0ub\n\nFollow on MiLB First Pitch: https://stza.co/+w0ub-3J\n\nShop: https://stza.co/+w0ub-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Mudcats
+<2018-07-15 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       5fEXdZF0saYo1rQYk-j6ZlN0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Mudcats Hillcats @ Mudcats
+
+Buy tickets here  https //stza.co/~w0uc
+
+Follow on MiLB First Pitch  https //stza.co/+w0uc-2S
+
+Shop  https //stza.co/+w0uc-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Mudcats
+END:VALARM
+DTSTART:20180715T180000Z
+DTEND:20180715T210000Z
+UID:5fEXdZF0saYo1rQYk-j6ZlN0@stanza.co
+SUMMARY:Hillcats @ Mudcats
+DESCRIPTION:Hillcats @ Mudcats\n\nBuy tickets here: https://stza.co/~w0uc\n\nFollow on MiLB First Pitch: https://stza.co/+w0uc-2S\n\nShop: https://stza.co/+w0uc-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Mudcats
+<2018-07-16 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       Cmb2fytxDHbFyHUJOpuAlGni@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Mudcats Hillcats @ Mudcats
+
+Buy tickets here  https //stza.co/~w0ud
+
+Follow on MiLB First Pitch  https //stza.co/+w0ud-13
+
+Shop  https //stza.co/+w0ud-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Mudcats
+END:VALARM
+DTSTART:20180716T230000Z
+DTEND:20180717T020000Z
+UID:Cmb2fytxDHbFyHUJOpuAlGni@stanza.co
+SUMMARY:Hillcats @ Mudcats
+DESCRIPTION:Hillcats @ Mudcats\n\nBuy tickets here: https://stza.co/~w0ud\n\nFollow on MiLB First Pitch: https://stza.co/+w0ud-13\n\nShop: https://stza.co/+w0ud-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-18 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       A7IUWf_d58FK4GMI9_CJ9_7Z@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3V8
+
+Follow on MiLB First Pitch  https //stza.co/+y3V8-29
+
+Shop  https //stza.co/+y3V8-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180718T223000Z
+DTEND:20180719T013000Z
+UID:A7IUWf_d58FK4GMI9_CJ9_7Z@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3V8\n\nFollow on MiLB First Pitch: https://stza.co/+y3V8-29\n\nShop: https://stza.co/+y3V8-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-19 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       _-tp8tqZGPLw0u9iZTgP7sVL@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3Va
+
+Follow on MiLB First Pitch  https //stza.co/+y3Va-v
+
+Shop  https //stza.co/+y3Va-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180719T223000Z
+DTEND:20180720T013000Z
+UID:_-tp8tqZGPLw0u9iZTgP7sVL@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3Va\n\nFollow on MiLB First Pitch: https://stza.co/+y3Va-v\n\nShop: https://stza.co/+y3Va-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-07-20 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       b8VCrm9Uw9_1iKkNqZ89WlfH@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3Vc
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vc-2l
+
+Shop  https //stza.co/+y3Vc-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180720T223000Z
+DTEND:20180721T013000Z
+UID:b8VCrm9Uw9_1iKkNqZ89WlfH@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3Vc\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vc-2l\n\nShop: https://stza.co/+y3Vc-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Mudcats
+<2018-07-21 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       bU0xcF9aI8GDke8VKQZJqhkK@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Mudcats Hillcats vs. Mudcats
+
+Buy tickets here  https //stza.co/~y3Vd
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vd-O
+
+Shop  https //stza.co/+y3Vd-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Mudcats
+END:VALARM
+DTSTART:20180721T220000Z
+DTEND:20180722T010000Z
+UID:bU0xcF9aI8GDke8VKQZJqhkK@stanza.co
+SUMMARY:Hillcats vs. Mudcats
+DESCRIPTION:Hillcats vs. Mudcats\n\nBuy tickets here: https://stza.co/~y3Vd\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vd-O\n\nShop: https://stza.co/+y3Vd-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Mudcats
+<2018-07-22 Sun 16:00-19:00>
+:PROPERTIES:
+:ID:       H50N5Lwj7Bqg7n4sgrTCTTeX@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Mudcats Hillcats vs. Mudcats
+
+Buy tickets here  https //stza.co/~y3Vg
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vg-1f
+
+Shop  https //stza.co/+y3Vg-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Mudcats
+END:VALARM
+DTSTART:20180722T210000Z
+DTEND:20180723T000000Z
+UID:H50N5Lwj7Bqg7n4sgrTCTTeX@stanza.co
+SUMMARY:Hillcats vs. Mudcats
+DESCRIPTION:Hillcats vs. Mudcats\n\nBuy tickets here: https://stza.co/~y3Vg\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vg-1f\n\nShop: https://stza.co/+y3Vg-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Mudcats
+<2018-07-23 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       -5W-7ncsif77Ti0s40zUXnCk@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Mudcats Hillcats vs. Mudcats
+
+Buy tickets here  https //stza.co/~y3Vh
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vh-8
+
+Shop  https //stza.co/+y3Vh-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Mudcats
+END:VALARM
+DTSTART:20180723T223000Z
+DTEND:20180724T013000Z
+UID:-5W-7ncsif77Ti0s40zUXnCk@stanza.co
+SUMMARY:Hillcats vs. Mudcats
+DESCRIPTION:Hillcats vs. Mudcats\n\nBuy tickets here: https://stza.co/~y3Vh\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vh-8\n\nShop: https://stza.co/+y3Vh-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Wood Ducks
+<2018-07-24 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       h8ys4bdGmz115OJn_ogvdjsL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Wood Ducks Hillcats @ Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0uh-15
+
+Shop  https //stza.co/+w0uh-2X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Wood Ducks
+END:VALARM
+DTSTART:20180724T230000Z
+DTEND:20180725T020000Z
+UID:h8ys4bdGmz115OJn_ogvdjsL@stanza.co
+SUMMARY:Hillcats @ Wood Ducks
+DESCRIPTION:Hillcats @ Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0uh-15\n\nShop: https://stza.co/+w0uh-2X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Wood Ducks
+<2018-07-25 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       ote9v6HZdokf2P7ifT97raAc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Wood Ducks Hillcats @ Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0ui-1_
+
+Shop  https //stza.co/+w0ui-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Wood Ducks
+END:VALARM
+DTSTART:20180725T160500Z
+DTEND:20180725T190500Z
+UID:ote9v6HZdokf2P7ifT97raAc@stanza.co
+SUMMARY:Hillcats @ Wood Ducks
+DESCRIPTION:Hillcats @ Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0ui-1_\n\nShop: https://stza.co/+w0ui-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Wood Ducks
+<2018-07-26 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       rLa_7BTRzpnklZJPh4D6_mys@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Wood Ducks Hillcats @ Wood Ducks
+
+Follow on MiLB First Pitch  https //stza.co/+w0uj-18
+
+Shop  https //stza.co/+w0uj-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Wood Ducks
+END:VALARM
+DTSTART:20180726T230000Z
+DTEND:20180727T020000Z
+UID:rLa_7BTRzpnklZJPh4D6_mys@stanza.co
+SUMMARY:Hillcats @ Wood Ducks
+DESCRIPTION:Hillcats @ Wood Ducks\n\nFollow on MiLB First Pitch: https://stza.co/+w0uj-18\n\nShop: https://stza.co/+w0uj-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Pelicans
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       JUxPXCQzLnurQx2-fuAnrCUL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Pelicans Hillcats @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0wN-1r
+
+Shop  https //stza.co/+w0wN-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:JUxPXCQzLnurQx2-fuAnrCUL@stanza.co
+SUMMARY:Hillcats @ Pelicans
+DESCRIPTION:Hillcats @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0wN-1r\n\nShop: https://stza.co/+w0wN-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Pelicans
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       JBU_J0UFjFumvH7HlLxdRQpd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Pelicans Hillcats @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0wO-j
+
+Shop  https //stza.co/+w0wO-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:JBU_J0UFjFumvH7HlLxdRQpd@stanza.co
+SUMMARY:Hillcats @ Pelicans
+DESCRIPTION:Hillcats @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0wO-j\n\nShop: https://stza.co/+w0wO-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Pelicans
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       wa6qST-EMDe2CoeDnDYuhFWd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Pelicans Hillcats @ Pelicans
+
+Follow on MiLB First Pitch  https //stza.co/+w0wP-37
+
+Shop  https //stza.co/+w0wP-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Pelicans
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:wa6qST-EMDe2CoeDnDYuhFWd@stanza.co
+SUMMARY:Hillcats @ Pelicans
+DESCRIPTION:Hillcats @ Pelicans\n\nFollow on MiLB First Pitch: https://stza.co/+w0wP-37\n\nShop: https://stza.co/+w0wP-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Red Sox
+<2018-07-31 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       cI5r6_64zKN5bxzqtb8tPCBl@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Red Sox Hillcats vs. Red Sox
+
+Buy tickets here  https //stza.co/~y3Vk
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vk-1Q
+
+Shop  https //stza.co/+y3Vk-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Red Sox
+END:VALARM
+DTSTART:20180731T223000Z
+DTEND:20180801T013000Z
+UID:cI5r6_64zKN5bxzqtb8tPCBl@stanza.co
+SUMMARY:Hillcats vs. Red Sox
+DESCRIPTION:Hillcats vs. Red Sox\n\nBuy tickets here: https://stza.co/~y3Vk\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vk-1Q\n\nShop: https://stza.co/+y3Vk-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Red Sox
+<2018-08-01 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       KctyQJu3Bt-xY5PXpoh7aFMW@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Red Sox Hillcats vs. Red Sox
+
+Buy tickets here  https //stza.co/~y3Vl
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vl-3d
+
+Shop  https //stza.co/+y3Vl-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Red Sox
+END:VALARM
+DTSTART:20180801T223000Z
+DTEND:20180802T013000Z
+UID:KctyQJu3Bt-xY5PXpoh7aFMW@stanza.co
+SUMMARY:Hillcats vs. Red Sox
+DESCRIPTION:Hillcats vs. Red Sox\n\nBuy tickets here: https://stza.co/~y3Vl\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vl-3d\n\nShop: https://stza.co/+y3Vl-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Red Sox
+<2018-08-02 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       oRPALZjH5FV_HnfdonPOydRR@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Red Sox Hillcats vs. Red Sox
+
+Buy tickets here  https //stza.co/~y3Vo
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vo-l
+
+Shop  https //stza.co/+y3Vo-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Red Sox
+END:VALARM
+DTSTART:20180802T223000Z
+DTEND:20180803T013000Z
+UID:oRPALZjH5FV_HnfdonPOydRR@stanza.co
+SUMMARY:Hillcats vs. Red Sox
+DESCRIPTION:Hillcats vs. Red Sox\n\nBuy tickets here: https://stza.co/~y3Vo\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vo-l\n\nShop: https://stza.co/+y3Vo-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Astros
+<2018-08-03 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       1CgGFkjxx4UeibSpDW6FnVuK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Astros Hillcats @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9d-2X
+
+Shop  https //stza.co/+xM9d-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Astros
+END:VALARM
+DTSTART:20180803T230000Z
+DTEND:20180804T020000Z
+UID:1CgGFkjxx4UeibSpDW6FnVuK@stanza.co
+SUMMARY:Hillcats @ Astros
+DESCRIPTION:Hillcats @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9d-2X\n\nShop: https://stza.co/+xM9d-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Astros
+<2018-08-04 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       v0o9WRbNTwdx3FS9ijRa18UX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Astros Hillcats @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9e-2W
+
+Shop  https //stza.co/+xM9e-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Astros
+END:VALARM
+DTSTART:20180804T220000Z
+DTEND:20180805T010000Z
+UID:v0o9WRbNTwdx3FS9ijRa18UX@stanza.co
+SUMMARY:Hillcats @ Astros
+DESCRIPTION:Hillcats @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9e-2W\n\nShop: https://stza.co/+xM9e-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Astros
+<2018-08-05 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       agN9lsCDYWkeeAo-vKODiZZg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Astros Hillcats @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xM9f-v
+
+Shop  https //stza.co/+xM9f-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Astros
+END:VALARM
+DTSTART:20180805T180000Z
+DTEND:20180805T210000Z
+UID:agN9lsCDYWkeeAo-vKODiZZg@stanza.co
+SUMMARY:Hillcats @ Astros
+DESCRIPTION:Hillcats @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xM9f-v\n\nShop: https://stza.co/+xM9f-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Mudcats
+<2018-08-06 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       W1fYEOC2Y-bsklDhJ4-m8EUk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Mudcats Hillcats @ Mudcats
+
+Buy tickets here  https //stza.co/~w0ue
+
+Follow on MiLB First Pitch  https //stza.co/+w0ue-2w
+
+Shop  https //stza.co/+w0ue-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Mudcats
+END:VALARM
+DTSTART:20180806T230000Z
+DTEND:20180807T020000Z
+UID:W1fYEOC2Y-bsklDhJ4-m8EUk@stanza.co
+SUMMARY:Hillcats @ Mudcats
+DESCRIPTION:Hillcats @ Mudcats\n\nBuy tickets here: https://stza.co/~w0ue\n\nFollow on MiLB First Pitch: https://stza.co/+w0ue-2w\n\nShop: https://stza.co/+w0ue-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Mudcats
+<2018-08-07 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       azTXGyKQq60jyWo9fC-OaUmw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Mudcats Hillcats @ Mudcats
+
+Buy tickets here  https //stza.co/~w0uf
+
+Follow on MiLB First Pitch  https //stza.co/+w0uf-1B
+
+Shop  https //stza.co/+w0uf-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Mudcats
+END:VALARM
+DTSTART:20180807T230000Z
+DTEND:20180808T020000Z
+UID:azTXGyKQq60jyWo9fC-OaUmw@stanza.co
+SUMMARY:Hillcats @ Mudcats
+DESCRIPTION:Hillcats @ Mudcats\n\nBuy tickets here: https://stza.co/~w0uf\n\nFollow on MiLB First Pitch: https://stza.co/+w0uf-1B\n\nShop: https://stza.co/+w0uf-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Mudcats
+<2018-08-08 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       P1D_f5nj3WRaQnXdOuignaqO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Mudcats Hillcats @ Mudcats
+
+Buy tickets here  https //stza.co/~w0ug
+
+Follow on MiLB First Pitch  https //stza.co/+w0ug-2J
+
+Shop  https //stza.co/+w0ug-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Mudcats
+END:VALARM
+DTSTART:20180808T230000Z
+DTEND:20180809T020000Z
+UID:P1D_f5nj3WRaQnXdOuignaqO@stanza.co
+SUMMARY:Hillcats @ Mudcats
+DESCRIPTION:Hillcats @ Mudcats\n\nBuy tickets here: https://stza.co/~w0ug\n\nFollow on MiLB First Pitch: https://stza.co/+w0ug-2J\n\nShop: https://stza.co/+w0ug-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Wood Ducks
+<2018-08-10 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       8xSgFt3_E2I9fGM-ZTtFzsoQ@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Wood Ducks Hillcats vs. Wood Ducks
+
+Buy tickets here  https //stza.co/~y3Vp
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vp-c
+
+Shop  https //stza.co/+y3Vp-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Wood Ducks
+END:VALARM
+DTSTART:20180810T223000Z
+DTEND:20180811T013000Z
+UID:8xSgFt3_E2I9fGM-ZTtFzsoQ@stanza.co
+SUMMARY:Hillcats vs. Wood Ducks
+DESCRIPTION:Hillcats vs. Wood Ducks\n\nBuy tickets here: https://stza.co/~y3Vp\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vp-c\n\nShop: https://stza.co/+y3Vp-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Wood Ducks
+<2018-08-11 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       bjwFALHzDNKk2gsSjzrU3q7C@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Wood Ducks Hillcats vs. Wood Ducks
+
+Buy tickets here  https //stza.co/~y3Vr
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vr-1q
+
+Shop  https //stza.co/+y3Vr-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Wood Ducks
+END:VALARM
+DTSTART:20180811T220000Z
+DTEND:20180812T010000Z
+UID:bjwFALHzDNKk2gsSjzrU3q7C@stanza.co
+SUMMARY:Hillcats vs. Wood Ducks
+DESCRIPTION:Hillcats vs. Wood Ducks\n\nBuy tickets here: https://stza.co/~y3Vr\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vr-1q\n\nShop: https://stza.co/+y3Vr-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Wood Ducks
+<2018-08-12 Sun 16:00-19:00>
+:PROPERTIES:
+:ID:       ntMC8_ebQAlfcWGG7LpF9Iae@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Wood Ducks Hillcats vs. Wood Ducks
+
+Buy tickets here  https //stza.co/~y3Vu
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vu-7
+
+Shop  https //stza.co/+y3Vu-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Wood Ducks
+END:VALARM
+DTSTART:20180812T210000Z
+DTEND:20180813T000000Z
+UID:ntMC8_ebQAlfcWGG7LpF9Iae@stanza.co
+SUMMARY:Hillcats vs. Wood Ducks
+DESCRIPTION:Hillcats vs. Wood Ducks\n\nBuy tickets here: https://stza.co/~y3Vu\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vu-7\n\nShop: https://stza.co/+y3Vu-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-08-14 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       hzBKFJFBJTohmqr7LwtPq-fz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8U-3O
+
+Shop  https //stza.co/+wX8U-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180814T223500Z
+DTEND:20180815T013500Z
+UID:hzBKFJFBJTohmqr7LwtPq-fz@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8U-3O\n\nShop: https://stza.co/+wX8U-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-08-15 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       d3H1EPvHz0oDWkJAHmMSVHLu@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8V-C
+
+Shop  https //stza.co/+wX8V-2X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180815T223500Z
+DTEND:20180816T013500Z
+UID:d3H1EPvHz0oDWkJAHmMSVHLu@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8V-C\n\nShop: https://stza.co/+wX8V-2X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Blue Rocks
+<2018-08-16 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       ZvRi19kA2IcLJPNqg9Gsks26@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Blue Rocks Hillcats @ Blue Rocks
+
+Follow on MiLB First Pitch  https //stza.co/+wX8W-11
+
+Shop  https //stza.co/+wX8W-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Blue Rocks
+END:VALARM
+DTSTART:20180816T223500Z
+DTEND:20180817T013500Z
+UID:ZvRi19kA2IcLJPNqg9Gsks26@stanza.co
+SUMMARY:Hillcats @ Blue Rocks
+DESCRIPTION:Hillcats @ Blue Rocks\n\nFollow on MiLB First Pitch: https://stza.co/+wX8W-11\n\nShop: https://stza.co/+wX8W-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-08-17 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       aMLGA97PFMrOqouXBLv1vr29@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3Vw
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vw-$
+
+Shop  https //stza.co/+y3Vw-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180817T223000Z
+DTEND:20180818T013000Z
+UID:aMLGA97PFMrOqouXBLv1vr29@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3Vw\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vw-$\n\nShop: https://stza.co/+y3Vw-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-08-18 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       LH84KacVm8iiM_fGxtHgDg_n@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3Vy
+
+Follow on MiLB First Pitch  https //stza.co/+y3Vy-3
+
+Shop  https //stza.co/+y3Vy-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180818T220000Z
+DTEND:20180819T010000Z
+UID:LH84KacVm8iiM_fGxtHgDg_n@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3Vy\n\nFollow on MiLB First Pitch: https://stza.co/+y3Vy-3\n\nShop: https://stza.co/+y3Vy-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Keys
+<2018-08-19 Sun 16:00-19:00>
+:PROPERTIES:
+:ID:       Lg6RZnT1B_A8bex-XSgEk5tV@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Keys Hillcats vs. Keys
+
+Buy tickets here  https //stza.co/~y3VA
+
+Follow on MiLB First Pitch  https //stza.co/+y3VA-3i
+
+Shop  https //stza.co/+y3VA-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Keys
+END:VALARM
+DTSTART:20180819T210000Z
+DTEND:20180820T000000Z
+UID:Lg6RZnT1B_A8bex-XSgEk5tV@stanza.co
+SUMMARY:Hillcats vs. Keys
+DESCRIPTION:Hillcats vs. Keys\n\nBuy tickets here: https://stza.co/~y3VA\n\nFollow on MiLB First Pitch: https://stza.co/+y3VA-3i\n\nShop: https://stza.co/+y3VA-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-08-21 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       zC3IvmkXm9LadANzIgqvB1Ur@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3VB
+
+Follow on MiLB First Pitch  https //stza.co/+y3VB-3e
+
+Shop  https //stza.co/+y3VB-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180821T223000Z
+DTEND:20180822T013000Z
+UID:zC3IvmkXm9LadANzIgqvB1Ur@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3VB\n\nFollow on MiLB First Pitch: https://stza.co/+y3VB-3e\n\nShop: https://stza.co/+y3VB-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-08-22 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       HJrDLpHXlwqs1ZGS_gCmVHNj@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3VE
+
+Follow on MiLB First Pitch  https //stza.co/+y3VE-3Y
+
+Shop  https //stza.co/+y3VE-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180822T223000Z
+DTEND:20180823T013000Z
+UID:HJrDLpHXlwqs1ZGS_gCmVHNj@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3VE\n\nFollow on MiLB First Pitch: https://stza.co/+y3VE-3Y\n\nShop: https://stza.co/+y3VE-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Nationals
+<2018-08-23 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       ySUEcxEc4Ij3Jda2342V7RQE@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Nationals Hillcats vs. Nationals
+
+Buy tickets here  https //stza.co/~y3VF
+
+Follow on MiLB First Pitch  https //stza.co/+y3VF-1i
+
+Shop  https //stza.co/+y3VF-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Nationals
+END:VALARM
+DTSTART:20180823T223000Z
+DTEND:20180824T013000Z
+UID:ySUEcxEc4Ij3Jda2342V7RQE@stanza.co
+SUMMARY:Hillcats vs. Nationals
+DESCRIPTION:Hillcats vs. Nationals\n\nBuy tickets here: https://stza.co/~y3VF\n\nFollow on MiLB First Pitch: https://stza.co/+y3VF-1i\n\nShop: https://stza.co/+y3VF-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Nationals
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       o8Ayx9ojHBYFFgsyRxWK0Jd8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Nationals Hillcats @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA3e-1O
+
+Shop  https //stza.co/+xA3e-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Nationals
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:o8Ayx9ojHBYFFgsyRxWK0Jd8@stanza.co
+SUMMARY:Hillcats @ Nationals
+DESCRIPTION:Hillcats @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA3e-1O\n\nShop: https://stza.co/+xA3e-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Nationals
+<2018-08-25 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       IXsdJNXGfm1ou7rL5tr2Rs9C@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Nationals Hillcats @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA3f-23
+
+Shop  https //stza.co/+xA3f-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Nationals
+END:VALARM
+DTSTART:20180825T223500Z
+DTEND:20180826T013500Z
+UID:IXsdJNXGfm1ou7rL5tr2Rs9C@stanza.co
+SUMMARY:Hillcats @ Nationals
+DESCRIPTION:Hillcats @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA3f-23\n\nShop: https://stza.co/+xA3f-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Nationals
+<2018-08-26 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       IMNfkEFRJtXguiUSG9n4gFjF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Nationals Hillcats @ Nationals
+
+Follow on MiLB First Pitch  https //stza.co/+xA3g-2Q
+
+Shop  https //stza.co/+xA3g-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Nationals
+END:VALARM
+DTSTART:20180826T170500Z
+DTEND:20180826T200500Z
+UID:IMNfkEFRJtXguiUSG9n4gFjF@stanza.co
+SUMMARY:Hillcats @ Nationals
+DESCRIPTION:Hillcats @ Nationals\n\nFollow on MiLB First Pitch: https://stza.co/+xA3g-2Q\n\nShop: https://stza.co/+xA3g-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-08-27 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       FH03Sgn0WofPivnTfO-wx0zF@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3VI
+
+Follow on MiLB First Pitch  https //stza.co/+y3VI-L
+
+Shop  https //stza.co/+y3VI-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180827T223000Z
+DTEND:20180828T013000Z
+UID:FH03Sgn0WofPivnTfO-wx0zF@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3VI\n\nFollow on MiLB First Pitch: https://stza.co/+y3VI-L\n\nShop: https://stza.co/+y3VI-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-08-28 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       I6AJAkmmR8_odoHB77YeeuJd@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3VJ
+
+Follow on MiLB First Pitch  https //stza.co/+y3VJ-3V
+
+Shop  https //stza.co/+y3VJ-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180828T223000Z
+DTEND:20180829T013000Z
+UID:I6AJAkmmR8_odoHB77YeeuJd@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3VJ\n\nFollow on MiLB First Pitch: https://stza.co/+y3VJ-3V\n\nShop: https://stza.co/+y3VJ-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-08-29 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       68PnQx66ntZro7pTTqaA2l13@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hillcats tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3VL
+
+Follow on MiLB First Pitch  https //stza.co/+y3VL-11
+
+Shop  https //stza.co/+y3VL-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180829T223000Z
+DTEND:20180830T013000Z
+UID:68PnQx66ntZro7pTTqaA2l13@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3VL\n\nFollow on MiLB First Pitch: https://stza.co/+y3VL-11\n\nShop: https://stza.co/+y3VL-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hillcats tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats vs. Blue Rocks
+<2018-08-30 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       vToHBDz0XMeve0CnM_kU4FW1@stanza.co
+:LOCATION: Don’t miss out! Hillcats tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats vs. Blue Rocks Hillcats vs. Blue Rocks
+
+Buy tickets here  https //stza.co/~y3VO
+
+Follow on MiLB First Pitch  https //stza.co/+y3VO-3k
+
+Shop  https //stza.co/+y3VO-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats vs. Blue Rocks
+END:VALARM
+DTSTART:20180830T223000Z
+DTEND:20180831T013000Z
+UID:vToHBDz0XMeve0CnM_kU4FW1@stanza.co
+SUMMARY:Hillcats vs. Blue Rocks
+DESCRIPTION:Hillcats vs. Blue Rocks\n\nBuy tickets here: https://stza.co/~y3VO\n\nFollow on MiLB First Pitch: https://stza.co/+y3VO-3k\n\nShop: https://stza.co/+y3VO-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hillcats tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       ltj--hqibixOhiEwvH5sFUNi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0w$-21
+
+Shop  https //stza.co/+w0w$-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:ltj--hqibixOhiEwvH5sFUNi@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0w$-21\n\nShop: https://stza.co/+w0w$-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       J11anC_N7JdrJ3AubIVkxe3m@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0x0-Y
+
+Shop  https //stza.co/+w0x0-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:J11anC_N7JdrJ3AubIVkxe3m@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0x0-Y\n\nShop: https://stza.co/+w0x0-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       TLDL2U8IQ8EOD8sfAbzC-EgE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0x1-2l
+
+Shop  https //stza.co/+w0x1-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:TLDL2U8IQ8EOD8sfAbzC-EgE@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0x1-2l\n\nShop: https://stza.co/+w0x1-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hillcats @ Red Sox
+<2018-09-03 Mon>--<2018-09-02 Sun>
+:PROPERTIES:
+:ID:       lC9Urh2htCMKtXjAPzfrEUf3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hillcats @ Red Sox Hillcats @ Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+w0x2-1$
+
+Shop  https //stza.co/+w0x2-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hillcats @ Red Sox
+END:VALARM
+DTSTART;VALUE=DATE:20180903
+DTEND;VALUE=DATE:20180903
+UID:lC9Urh2htCMKtXjAPzfrEUf3@stanza.co
+SUMMARY:Hillcats @ Red Sox
+DESCRIPTION:Hillcats @ Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+w0x2-1$\n\nShop: https://stza.co/+w0x2-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144542Z
+LAST-MODIFIED:20180213T144542Z
+TRANSP:OPAQUE
+END:VEVENT

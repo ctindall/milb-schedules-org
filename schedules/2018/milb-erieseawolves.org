@@ -1,0 +1,5078 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* SeaWolves @ Fightin Phils
+<2018-04-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       5p6z6tkScBT3R3-GtyxGUffs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8kv
+
+Follow on MiLB First Pitch  https //stza.co/+v8kv-2K
+
+Shop  https //stza.co/+v8kv-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180405T230500Z
+DTEND:20180406T020500Z
+UID:5p6z6tkScBT3R3-GtyxGUffs@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8kv\n\nFollow on MiLB First Pitch: https://stza.co/+v8kv-2K\n\nShop: https://stza.co/+v8kv-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fightin Phils
+<2018-04-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       TDE-GZrmMZx5t_QRlqxveftn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8kw
+
+Follow on MiLB First Pitch  https //stza.co/+v8kw-2d
+
+Shop  https //stza.co/+v8kw-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180406T230500Z
+DTEND:20180407T020500Z
+UID:TDE-GZrmMZx5t_QRlqxveftn@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8kw\n\nFollow on MiLB First Pitch: https://stza.co/+v8kw-2d\n\nShop: https://stza.co/+v8kw-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fightin Phils
+<2018-04-07 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       pr2pInHp5AKfBmPHC8DilChC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8kx
+
+Follow on MiLB First Pitch  https //stza.co/+v8kx-38
+
+Shop  https //stza.co/+v8kx-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180407T220500Z
+DTEND:20180408T010500Z
+UID:pr2pInHp5AKfBmPHC8DilChC@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8kx\n\nFollow on MiLB First Pitch: https://stza.co/+v8kx-38\n\nShop: https://stza.co/+v8kx-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fightin Phils
+<2018-04-08 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       NXLuE-el8dNyd09yUmWVKJHj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8ky
+
+Follow on MiLB First Pitch  https //stza.co/+v8ky-1m
+
+Shop  https //stza.co/+v8ky-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180408T180500Z
+DTEND:20180408T210500Z
+UID:NXLuE-el8dNyd09yUmWVKJHj@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8ky\n\nFollow on MiLB First Pitch: https://stza.co/+v8ky-1m\n\nShop: https://stza.co/+v8ky-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-04-09 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       NBpvRvr47YE_mbCubBH4oTqY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLep-15
+
+Shop  https //stza.co/+vLep-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180409T223500Z
+DTEND:20180410T013500Z
+UID:NBpvRvr47YE_mbCubBH4oTqY@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLep-15\n\nShop: https://stza.co/+vLep-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-04-10 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       rjN7YjcdDm2GElREHL86iKNi@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLeq-3W
+
+Shop  https //stza.co/+vLeq-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180410T223500Z
+DTEND:20180411T013500Z
+UID:rjN7YjcdDm2GElREHL86iKNi@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLeq-3W\n\nShop: https://stza.co/+vLeq-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-04-11 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       zepvcva3NsBPW9e4Kue1emNc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLer-1E
+
+Shop  https //stza.co/+vLer-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180411T223500Z
+DTEND:20180412T013500Z
+UID:zepvcva3NsBPW9e4Kue1emNc@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLer-1E\n\nShop: https://stza.co/+vLer-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-04-13 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       rf5duLlOqAH7yqvQweQaF7YE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLez-3a
+
+Shop  https //stza.co/+vLez-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180413T220500Z
+DTEND:20180414T010500Z
+UID:rf5duLlOqAH7yqvQweQaF7YE@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLez-3a\n\nShop: https://stza.co/+vLez-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-04-14 Sat 12:35-15:35>
+:PROPERTIES:
+:ID:       diQmg5FXHYcuDx5b1aXbySla@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLeB-30
+
+Shop  https //stza.co/+vLeB-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180414T173500Z
+DTEND:20180414T203500Z
+UID:diQmg5FXHYcuDx5b1aXbySla@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLeB-30\n\nShop: https://stza.co/+vLeB-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-04-15 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       kNR7hW3qxW0_jYdb3ucqBcTM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLeE-2o
+
+Shop  https //stza.co/+vLeE-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180415T173500Z
+DTEND:20180415T203500Z
+UID:kNR7hW3qxW0_jYdb3ucqBcTM@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLeE-2o\n\nShop: https://stza.co/+vLeE-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-04-16 Mon 17:05-20:05>
+:PROPERTIES:
+:ID:       uC4-A32bVGlSKTjxcs6k0t-w@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLeF-7
+
+Shop  https //stza.co/+vLeF-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180416T220500Z
+DTEND:20180417T010500Z
+UID:uC4-A32bVGlSKTjxcs6k0t-w@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLeF-7\n\nShop: https://stza.co/+vLeF-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-04-17 Tue 17:05-20:05>
+:PROPERTIES:
+:ID:       kJUE_nHi7_6jMQI3S-voE6G6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLeI-2H
+
+Shop  https //stza.co/+vLeI-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180417T220500Z
+DTEND:20180418T010500Z
+UID:kJUE_nHi7_6jMQI3S-voE6G6@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLeI-2H\n\nShop: https://stza.co/+vLeI-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-04-18 Wed 17:05-20:05>
+:PROPERTIES:
+:ID:       0anaMJeuMryYQMby69pZt2na@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLeK-33
+
+Shop  https //stza.co/+vLeK-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180418T220500Z
+DTEND:20180419T010500Z
+UID:0anaMJeuMryYQMby69pZt2na@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLeK-33\n\nShop: https://stza.co/+vLeK-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-04-19 Thu 11:05-14:05>
+:PROPERTIES:
+:ID:       GYzyK5clsav2Av0n9Y6aMcr7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLeL-25
+
+Shop  https //stza.co/+vLeL-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180419T160500Z
+DTEND:20180419T190500Z
+UID:GYzyK5clsav2Av0n9Y6aMcr7@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLeL-25\n\nShop: https://stza.co/+vLeL-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-04-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       2ctsUSmUdoRYLzzFT9SEeRK6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLee-3Y
+
+Shop  https //stza.co/+vLee-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180420T230500Z
+DTEND:20180421T020500Z
+UID:2ctsUSmUdoRYLzzFT9SEeRK6@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLee-3Y\n\nShop: https://stza.co/+vLee-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-04-21 Sat 14:05-17:05>
+:PROPERTIES:
+:ID:       FUNMjJdCH5GYN7zl-buu2TXL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLef-O
+
+Shop  https //stza.co/+vLef-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180421T190500Z
+DTEND:20180421T220500Z
+UID:FUNMjJdCH5GYN7zl-buu2TXL@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLef-O\n\nShop: https://stza.co/+vLef-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-04-22 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       2bLHrzbh74h65lqMh_vy6L07@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLeg-2E
+
+Shop  https //stza.co/+vLeg-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180422T180500Z
+DTEND:20180422T210500Z
+UID:2bLHrzbh74h65lqMh_vy6L07@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLeg-2E\n\nShop: https://stza.co/+vLeg-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-04-23 Mon 17:00-20:00>
+:PROPERTIES:
+:ID:       k8oZheA1gCWgb_jqqpqFqSk-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLe4-1B
+
+Shop  https //stza.co/+vLe4-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180423T220000Z
+DTEND:20180424T010000Z
+UID:k8oZheA1gCWgb_jqqpqFqSk-@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLe4-1B\n\nShop: https://stza.co/+vLe4-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-04-24 Tue 17:00-20:00>
+:PROPERTIES:
+:ID:       DfLFLDZpMsQQygdXFdXpDpN2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLe5-c
+
+Shop  https //stza.co/+vLe5-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180424T220000Z
+DTEND:20180425T010000Z
+UID:DfLFLDZpMsQQygdXFdXpDpN2@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLe5-c\n\nShop: https://stza.co/+vLe5-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-04-25 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       wKP4WCe3Pi6TnTjyvp5GlFRP@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLe6-K
+
+Shop  https //stza.co/+vLe6-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180425T143000Z
+DTEND:20180425T173000Z
+UID:wKP4WCe3Pi6TnTjyvp5GlFRP@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLe6-K\n\nShop: https://stza.co/+vLe6-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Rumble Ponies
+<2018-04-27 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       TdC2SRWRxdN8oYy530UZ-YZv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Rumble Ponies SeaWolves vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLeO-2C
+
+Shop  https //stza.co/+vLeO-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Rumble Ponies
+END:VALARM
+DTSTART:20180427T220500Z
+DTEND:20180428T010500Z
+UID:TdC2SRWRxdN8oYy530UZ-YZv@stanza.co
+SUMMARY:SeaWolves vs. Rumble Ponies
+DESCRIPTION:SeaWolves vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLeO-2C\n\nShop: https://stza.co/+vLeO-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Rumble Ponies
+<2018-04-28 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       Pj3AFOOZv1kBH6u955IlbgK8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Rumble Ponies SeaWolves vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLeQ-a
+
+Shop  https //stza.co/+vLeQ-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Rumble Ponies
+END:VALARM
+DTSTART:20180428T220500Z
+DTEND:20180429T010500Z
+UID:Pj3AFOOZv1kBH6u955IlbgK8@stanza.co
+SUMMARY:SeaWolves vs. Rumble Ponies
+DESCRIPTION:SeaWolves vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLeQ-a\n\nShop: https://stza.co/+vLeQ-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Rumble Ponies
+<2018-04-29 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       MOVD7XHVRpfqmZfbbH6UAybi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Rumble Ponies SeaWolves vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLeR-1j
+
+Shop  https //stza.co/+vLeR-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Rumble Ponies
+END:VALARM
+DTSTART:20180429T173500Z
+DTEND:20180429T203500Z
+UID:MOVD7XHVRpfqmZfbbH6UAybi@stanza.co
+SUMMARY:SeaWolves vs. Rumble Ponies
+DESCRIPTION:SeaWolves vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLeR-1j\n\nShop: https://stza.co/+vLeR-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-04-30 Mon 17:05-20:05>
+:PROPERTIES:
+:ID:       OXoo24LHqIaRzeDe2LQwWIRX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLeU-2K
+
+Shop  https //stza.co/+vLeU-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180430T220500Z
+DTEND:20180501T010500Z
+UID:OXoo24LHqIaRzeDe2LQwWIRX@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLeU-2K\n\nShop: https://stza.co/+vLeU-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-05-01 Tue 17:05-20:05>
+:PROPERTIES:
+:ID:       0P8Pf40xEk8D0lF3dHPAB1Iy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLeV-39
+
+Shop  https //stza.co/+vLeV-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180501T220500Z
+DTEND:20180502T010500Z
+UID:0P8Pf40xEk8D0lF3dHPAB1Iy@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLeV-39\n\nShop: https://stza.co/+vLeV-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-05-02 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       D6CgS3USH-5_PZhOG_hNrkix@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLeY-2u
+
+Shop  https //stza.co/+vLeY-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180502T150500Z
+DTEND:20180502T180500Z
+UID:D6CgS3USH-5_PZhOG_hNrkix@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLeY-2u\n\nShop: https://stza.co/+vLeY-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-05-03 Thu 17:00-20:00>
+:PROPERTIES:
+:ID:       7jMYvlhUTUMlfn11mgBA2Oza@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLe7-36
+
+Shop  https //stza.co/+vLe7-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180503T220000Z
+DTEND:20180504T010000Z
+UID:7jMYvlhUTUMlfn11mgBA2Oza@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLe7-36\n\nShop: https://stza.co/+vLe7-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-05-04 Fri 17:00-20:00>
+:PROPERTIES:
+:ID:       gn0oaTOfMw3m7i9NylzwM631@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLe8-2F
+
+Shop  https //stza.co/+vLe8-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180504T220000Z
+DTEND:20180505T010000Z
+UID:gn0oaTOfMw3m7i9NylzwM631@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLe8-2F\n\nShop: https://stza.co/+vLe8-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-05-05 Sat 15:00-18:00>
+:PROPERTIES:
+:ID:       ah29xgMCdxkmIvGeNG9HGKZ4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLe9-3g
+
+Shop  https //stza.co/+vLe9-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180505T200000Z
+DTEND:20180505T230000Z
+UID:ah29xgMCdxkmIvGeNG9HGKZ4@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLe9-3g\n\nShop: https://stza.co/+vLe9-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-05-06 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       xeLvcra83shzt1bp_ozbKgDJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLea-3u
+
+Shop  https //stza.co/+vLea-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180506T180000Z
+DTEND:20180506T210000Z
+UID:xeLvcra83shzt1bp_ozbKgDJ@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLea-3u\n\nShop: https://stza.co/+vLea-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Senators
+<2018-05-07 Mon 17:05-20:05>
+:PROPERTIES:
+:ID:       EHCDRnOlkdcPC9tbbFlSSi91@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Senators SeaWolves vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLeZ-1s
+
+Shop  https //stza.co/+vLeZ-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Senators
+END:VALARM
+DTSTART:20180507T220500Z
+DTEND:20180508T010500Z
+UID:EHCDRnOlkdcPC9tbbFlSSi91@stanza.co
+SUMMARY:SeaWolves vs. Senators
+DESCRIPTION:SeaWolves vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLeZ-1s\n\nShop: https://stza.co/+vLeZ-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Senators
+<2018-05-08 Tue 17:05-20:05>
+:PROPERTIES:
+:ID:       et9zsLwTkiifORYnq_fe_Poi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Senators SeaWolves vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLf0-35
+
+Shop  https //stza.co/+vLf0-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Senators
+END:VALARM
+DTSTART:20180508T220500Z
+DTEND:20180509T010500Z
+UID:et9zsLwTkiifORYnq_fe_Poi@stanza.co
+SUMMARY:SeaWolves vs. Senators
+DESCRIPTION:SeaWolves vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLf0-35\n\nShop: https://stza.co/+vLf0-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Senators
+<2018-05-09 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       QEu0LYoV40wJjk4GRwvxeQ_L@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Senators SeaWolves vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLf2-2f
+
+Shop  https //stza.co/+vLf2-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Senators
+END:VALARM
+DTSTART:20180509T150500Z
+DTEND:20180509T180500Z
+UID:QEu0LYoV40wJjk4GRwvxeQ_L@stanza.co
+SUMMARY:SeaWolves vs. Senators
+DESCRIPTION:SeaWolves vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLf2-2f\n\nShop: https://stza.co/+vLf2-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-05-10 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       n9K875R4P4m21C-aGLMzcTu-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLdX-3d
+
+Shop  https //stza.co/+vLdX-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180510T223500Z
+DTEND:20180511T013500Z
+UID:n9K875R4P4m21C-aGLMzcTu-@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLdX-3d\n\nShop: https://stza.co/+vLdX-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-05-11 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       t15dWcGvOEulsYcdypq_845O@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLdY-2e
+
+Shop  https //stza.co/+vLdY-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180511T223500Z
+DTEND:20180512T013500Z
+UID:t15dWcGvOEulsYcdypq_845O@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLdY-2e\n\nShop: https://stza.co/+vLdY-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-05-12 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       zT5p0EHJVJipaphUrtlJlSz2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLdZ-q
+
+Shop  https //stza.co/+vLdZ-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180512T223500Z
+DTEND:20180513T013500Z
+UID:zT5p0EHJVJipaphUrtlJlSz2@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLdZ-q\n\nShop: https://stza.co/+vLdZ-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-05-13 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       oNdXWAsMZ9WImIYuCztk9Pw5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLd_-I
+
+Shop  https //stza.co/+vLd_-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180513T180500Z
+DTEND:20180513T210500Z
+UID:oNdXWAsMZ9WImIYuCztk9Pw5@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLd_-I\n\nShop: https://stza.co/+vLd_-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-05-14 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       cj8NOnonDqr8dhA_-jVZhXs4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLeh-x
+
+Shop  https //stza.co/+vLeh-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180514T223500Z
+DTEND:20180515T013500Z
+UID:cj8NOnonDqr8dhA_-jVZhXs4@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLeh-x\n\nShop: https://stza.co/+vLeh-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-05-15 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       QVXpzQCNGXAj9Il7PfjuJsel@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLei-39
+
+Shop  https //stza.co/+vLei-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180515T223500Z
+DTEND:20180516T013500Z
+UID:QVXpzQCNGXAj9Il7PfjuJsel@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLei-39\n\nShop: https://stza.co/+vLei-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-05-16 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       N0VbYD9vMo3VttJKhftZ5FWm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLej-1l
+
+Shop  https //stza.co/+vLej-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180516T223500Z
+DTEND:20180517T013500Z
+UID:N0VbYD9vMo3VttJKhftZ5FWm@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLej-1l\n\nShop: https://stza.co/+vLej-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fightin Phils
+<2018-05-18 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       GJVWjl0H61KIVZhaZBdmR6ha@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fightin Phils SeaWolves vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+vLf4-3x
+
+Shop  https //stza.co/+vLf4-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fightin Phils
+END:VALARM
+DTSTART:20180518T220500Z
+DTEND:20180519T010500Z
+UID:GJVWjl0H61KIVZhaZBdmR6ha@stanza.co
+SUMMARY:SeaWolves vs. Fightin Phils
+DESCRIPTION:SeaWolves vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+vLf4-3x\n\nShop: https://stza.co/+vLf4-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fightin Phils
+<2018-05-19 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       45ZUF2DG3auph5LXPO87I-He@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fightin Phils SeaWolves vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+vLf5-1s
+
+Shop  https //stza.co/+vLf5-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fightin Phils
+END:VALARM
+DTSTART:20180519T220500Z
+DTEND:20180520T010500Z
+UID:45ZUF2DG3auph5LXPO87I-He@stanza.co
+SUMMARY:SeaWolves vs. Fightin Phils
+DESCRIPTION:SeaWolves vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+vLf5-1s\n\nShop: https://stza.co/+vLf5-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fightin Phils
+<2018-05-20 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       bR-cw4CE-wtxJWcBvQIy_VR2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fightin Phils SeaWolves vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+vLf7-3A
+
+Shop  https //stza.co/+vLf7-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fightin Phils
+END:VALARM
+DTSTART:20180520T173500Z
+DTEND:20180520T203500Z
+UID:bR-cw4CE-wtxJWcBvQIy_VR2@stanza.co
+SUMMARY:SeaWolves vs. Fightin Phils
+DESCRIPTION:SeaWolves vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+vLf7-3A\n\nShop: https://stza.co/+vLf7-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fightin Phils
+<2018-05-21 Mon 17:05-20:05>
+:PROPERTIES:
+:ID:       IMvoKGt3PN0ygpre0fYCxFJ5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fightin Phils SeaWolves vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+vLfa-H
+
+Shop  https //stza.co/+vLfa-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fightin Phils
+END:VALARM
+DTSTART:20180521T220500Z
+DTEND:20180522T010500Z
+UID:IMvoKGt3PN0ygpre0fYCxFJ5@stanza.co
+SUMMARY:SeaWolves vs. Fightin Phils
+DESCRIPTION:SeaWolves vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+vLfa-H\n\nShop: https://stza.co/+vLfa-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Senators
+<2018-05-22 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       mGDRBisO6kh8-LG9C1j5V-G9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Senators SeaWolves @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgL-x
+
+Shop  https //stza.co/+vLgL-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Senators
+END:VALARM
+DTSTART:20180522T223000Z
+DTEND:20180523T013000Z
+UID:mGDRBisO6kh8-LG9C1j5V-G9@stanza.co
+SUMMARY:SeaWolves @ Senators
+DESCRIPTION:SeaWolves @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgL-x\n\nShop: https://stza.co/+vLgL-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Senators
+<2018-05-23 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       ygni9X95bs4L5jSpKwpfpCzv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Senators SeaWolves @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgM-l
+
+Shop  https //stza.co/+vLgM-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Senators
+END:VALARM
+DTSTART:20180523T223000Z
+DTEND:20180524T013000Z
+UID:ygni9X95bs4L5jSpKwpfpCzv@stanza.co
+SUMMARY:SeaWolves @ Senators
+DESCRIPTION:SeaWolves @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgM-l\n\nShop: https://stza.co/+vLgM-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Senators
+<2018-05-24 Thu 09:30-12:30>
+:PROPERTIES:
+:ID:       Rt_9c1SNU89XJcoXrZW0nY1N@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Senators SeaWolves @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgN-2N
+
+Shop  https //stza.co/+vLgN-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Senators
+END:VALARM
+DTSTART:20180524T143000Z
+DTEND:20180524T173000Z
+UID:Rt_9c1SNU89XJcoXrZW0nY1N@stanza.co
+SUMMARY:SeaWolves @ Senators
+DESCRIPTION:SeaWolves @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgN-2N\n\nShop: https://stza.co/+vLgN-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-05-25 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       BlPERp6pAL4sy1SkPMAM_NI8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLfb-1x
+
+Shop  https //stza.co/+vLfb-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180525T220500Z
+DTEND:20180526T010500Z
+UID:BlPERp6pAL4sy1SkPMAM_NI8@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLfb-1x\n\nShop: https://stza.co/+vLfb-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-05-26 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       r7TagVqd5kEglkRUgbeyCMmP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLfe-2S
+
+Shop  https //stza.co/+vLfe-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180526T220500Z
+DTEND:20180527T010500Z
+UID:r7TagVqd5kEglkRUgbeyCMmP@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLfe-2S\n\nShop: https://stza.co/+vLfe-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-05-27 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       ZzjZHbYH4gs_w4_3O2sBZrIT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLff-2$
+
+Shop  https //stza.co/+vLff-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180527T173500Z
+DTEND:20180527T203500Z
+UID:ZzjZHbYH4gs_w4_3O2sBZrIT@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLff-2$\n\nShop: https://stza.co/+vLff-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Thunder
+<2018-05-28 Mon 12:35-15:35>
+:PROPERTIES:
+:ID:       vRzAY1HCZ7ooMl1kDStbAvdk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Thunder SeaWolves vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vLfi-2W
+
+Shop  https //stza.co/+vLfi-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Thunder
+END:VALARM
+DTSTART:20180528T173500Z
+DTEND:20180528T203500Z
+UID:vRzAY1HCZ7ooMl1kDStbAvdk@stanza.co
+SUMMARY:SeaWolves vs. Thunder
+DESCRIPTION:SeaWolves vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vLfi-2W\n\nShop: https://stza.co/+vLfi-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Rumble Ponies
+<2018-05-29 Tue 17:05-20:05>
+:PROPERTIES:
+:ID:       GoSkHsod7oLSXlad-ggCSRzb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Rumble Ponies SeaWolves vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLfk-2c
+
+Shop  https //stza.co/+vLfk-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Rumble Ponies
+END:VALARM
+DTSTART:20180529T220500Z
+DTEND:20180530T010500Z
+UID:GoSkHsod7oLSXlad-ggCSRzb@stanza.co
+SUMMARY:SeaWolves vs. Rumble Ponies
+DESCRIPTION:SeaWolves vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLfk-2c\n\nShop: https://stza.co/+vLfk-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Rumble Ponies
+<2018-05-30 Wed 17:05-20:05>
+:PROPERTIES:
+:ID:       m2rDZNML7VPNjXp3Bh7KfcnD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Rumble Ponies SeaWolves vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLfl-2
+
+Shop  https //stza.co/+vLfl-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Rumble Ponies
+END:VALARM
+DTSTART:20180530T220500Z
+DTEND:20180531T010500Z
+UID:m2rDZNML7VPNjXp3Bh7KfcnD@stanza.co
+SUMMARY:SeaWolves vs. Rumble Ponies
+DESCRIPTION:SeaWolves vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLfl-2\n\nShop: https://stza.co/+vLfl-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Rumble Ponies
+<2018-05-31 Thu 10:05-13:05>
+:PROPERTIES:
+:ID:       SQxJ9UWfMJHdBvuGEDEvzMiW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Rumble Ponies SeaWolves vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLfo-6
+
+Shop  https //stza.co/+vLfo-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Rumble Ponies
+END:VALARM
+DTSTART:20180531T150500Z
+DTEND:20180531T180500Z
+UID:SQxJ9UWfMJHdBvuGEDEvzMiW@stanza.co
+SUMMARY:SeaWolves vs. Rumble Ponies
+DESCRIPTION:SeaWolves vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLfo-6\n\nShop: https://stza.co/+vLfo-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-06-01 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       TZV6vnQcdbpQrYrtqNF8BbyG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLd$-1u
+
+Shop  https //stza.co/+vLd$-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180601T230500Z
+DTEND:20180602T020500Z
+UID:TZV6vnQcdbpQrYrtqNF8BbyG@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLd$-1u\n\nShop: https://stza.co/+vLd$-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-06-02 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       ePVCGtWVzEOLghUkZPkAdP8H@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLe0-B
+
+Shop  https //stza.co/+vLe0-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180602T230500Z
+DTEND:20180603T020500Z
+UID:ePVCGtWVzEOLghUkZPkAdP8H@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLe0-B\n\nShop: https://stza.co/+vLe0-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-06-03 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       PiUsmdYXooUPzqmvM4aAXF6U@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLe1-2h
+
+Shop  https //stza.co/+vLe1-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180603T180500Z
+DTEND:20180603T210500Z
+UID:PiUsmdYXooUPzqmvM4aAXF6U@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLe1-2h\n\nShop: https://stza.co/+vLe1-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Yard Goats
+<2018-06-05 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       aIoWPesPHAGlM7tlTgV8d7Su@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Yard Goats SeaWolves vs. Yard Goats
+
+Follow on MiLB First Pitch  https //stza.co/+vLfq-B
+
+Shop  https //stza.co/+vLfq-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Yard Goats
+END:VALARM
+DTSTART:20180605T230500Z
+DTEND:20180606T020500Z
+UID:aIoWPesPHAGlM7tlTgV8d7Su@stanza.co
+SUMMARY:SeaWolves vs. Yard Goats
+DESCRIPTION:SeaWolves vs. Yard Goats\n\nFollow on MiLB First Pitch: https://stza.co/+vLfq-B\n\nShop: https://stza.co/+vLfq-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Yard Goats
+<2018-06-06 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       0VWuPNyLm9lfGJOdraUNDvdM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Yard Goats SeaWolves vs. Yard Goats
+
+Follow on MiLB First Pitch  https //stza.co/+vLfs-27
+
+Shop  https //stza.co/+vLfs-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Yard Goats
+END:VALARM
+DTSTART:20180606T230500Z
+DTEND:20180607T020500Z
+UID:0VWuPNyLm9lfGJOdraUNDvdM@stanza.co
+SUMMARY:SeaWolves vs. Yard Goats
+DESCRIPTION:SeaWolves vs. Yard Goats\n\nFollow on MiLB First Pitch: https://stza.co/+vLfs-27\n\nShop: https://stza.co/+vLfs-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Yard Goats
+<2018-06-07 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       TcQf960mJ3n7F6XUpt7Lzy_Z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Yard Goats SeaWolves vs. Yard Goats
+
+Follow on MiLB First Pitch  https //stza.co/+vLft-11
+
+Shop  https //stza.co/+vLft-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Yard Goats
+END:VALARM
+DTSTART:20180607T230500Z
+DTEND:20180608T020500Z
+UID:TcQf960mJ3n7F6XUpt7Lzy_Z@stanza.co
+SUMMARY:SeaWolves vs. Yard Goats
+DESCRIPTION:SeaWolves vs. Yard Goats\n\nFollow on MiLB First Pitch: https://stza.co/+vLft-11\n\nShop: https://stza.co/+vLft-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fightin Phils
+<2018-06-08 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       nRsEB56LUg1ly4cRZpPnyU5J@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fightin Phils SeaWolves vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+vLfw-D
+
+Shop  https //stza.co/+vLfw-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fightin Phils
+END:VALARM
+DTSTART:20180608T230500Z
+DTEND:20180609T020500Z
+UID:nRsEB56LUg1ly4cRZpPnyU5J@stanza.co
+SUMMARY:SeaWolves vs. Fightin Phils
+DESCRIPTION:SeaWolves vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+vLfw-D\n\nShop: https://stza.co/+vLfw-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fightin Phils
+<2018-06-09 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       sY3RHZNJWjs3iX8yWd7LIwvs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fightin Phils SeaWolves vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+vLfy-2Q
+
+Shop  https //stza.co/+vLfy-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fightin Phils
+END:VALARM
+DTSTART:20180609T230500Z
+DTEND:20180610T020500Z
+UID:sY3RHZNJWjs3iX8yWd7LIwvs@stanza.co
+SUMMARY:SeaWolves vs. Fightin Phils
+DESCRIPTION:SeaWolves vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+vLfy-2Q\n\nShop: https://stza.co/+vLfy-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fightin Phils
+<2018-06-10 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       eOZYiURWfGSik2lRpX2Ik2-D@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fightin Phils SeaWolves vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+vLfz-2g
+
+Shop  https //stza.co/+vLfz-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fightin Phils
+END:VALARM
+DTSTART:20180610T173500Z
+DTEND:20180610T203500Z
+UID:eOZYiURWfGSik2lRpX2Ik2-D@stanza.co
+SUMMARY:SeaWolves vs. Fightin Phils
+DESCRIPTION:SeaWolves vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+vLfz-2g\n\nShop: https://stza.co/+vLfz-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Yard Goats
+<2018-06-12 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       63V7iItjuK2sDXR26zNB1Mkx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Yard Goats SeaWolves @ Yard Goats
+
+Buy tickets here  https //stza.co/~vLgS
+
+Follow on MiLB First Pitch  https //stza.co/+vLgS-4
+
+Shop  https //stza.co/+vLgS-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Yard Goats
+END:VALARM
+DTSTART:20180612T230500Z
+DTEND:20180613T020500Z
+UID:63V7iItjuK2sDXR26zNB1Mkx@stanza.co
+SUMMARY:SeaWolves @ Yard Goats
+DESCRIPTION:SeaWolves @ Yard Goats\n\nBuy tickets here: https://stza.co/~vLgS\n\nFollow on MiLB First Pitch: https://stza.co/+vLgS-4\n\nShop: https://stza.co/+vLgS-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Yard Goats
+<2018-06-13 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       dYDlWmzp3ApEbUrlLb64tynV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Yard Goats SeaWolves @ Yard Goats
+
+Buy tickets here  https //stza.co/~vLgT
+
+Follow on MiLB First Pitch  https //stza.co/+vLgT-2$
+
+Shop  https //stza.co/+vLgT-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Yard Goats
+END:VALARM
+DTSTART:20180613T230500Z
+DTEND:20180614T020500Z
+UID:dYDlWmzp3ApEbUrlLb64tynV@stanza.co
+SUMMARY:SeaWolves @ Yard Goats
+DESCRIPTION:SeaWolves @ Yard Goats\n\nBuy tickets here: https://stza.co/~vLgT\n\nFollow on MiLB First Pitch: https://stza.co/+vLgT-2$\n\nShop: https://stza.co/+vLgT-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Yard Goats
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       5SQnvKSIi1IvYtGGNu6l_mAs@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Yard Goats SeaWolves @ Yard Goats
+
+Buy tickets here  https //stza.co/~vLgU
+
+Follow on MiLB First Pitch  https //stza.co/+vLgU-Z
+
+Shop  https //stza.co/+vLgU-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Yard Goats
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:5SQnvKSIi1IvYtGGNu6l_mAs@stanza.co
+SUMMARY:SeaWolves @ Yard Goats
+DESCRIPTION:SeaWolves @ Yard Goats\n\nBuy tickets here: https://stza.co/~vLgU\n\nFollow on MiLB First Pitch: https://stza.co/+vLgU-Z\n\nShop: https://stza.co/+vLgU-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Thunder
+<2018-06-15 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       UBoawHnBZciDoISd2bxLkE78@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Thunder SeaWolves @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v8kG-1O
+
+Shop  https //stza.co/+v8kG-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Thunder
+END:VALARM
+DTSTART:20180615T230000Z
+DTEND:20180616T020000Z
+UID:UBoawHnBZciDoISd2bxLkE78@stanza.co
+SUMMARY:SeaWolves @ Thunder
+DESCRIPTION:SeaWolves @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v8kG-1O\n\nShop: https://stza.co/+v8kG-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Thunder
+<2018-06-16 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       GRF80DHJE8S1hjiWUGGdMnW4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Thunder SeaWolves @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v8kH-18
+
+Shop  https //stza.co/+v8kH-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Thunder
+END:VALARM
+DTSTART:20180616T230000Z
+DTEND:20180617T020000Z
+UID:GRF80DHJE8S1hjiWUGGdMnW4@stanza.co
+SUMMARY:SeaWolves @ Thunder
+DESCRIPTION:SeaWolves @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v8kH-18\n\nShop: https://stza.co/+v8kH-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Thunder
+<2018-06-17 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       K8bEPsUKbKvAAUK1xV7LdqF8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Thunder SeaWolves @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v8kI-2T
+
+Shop  https //stza.co/+v8kI-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Thunder
+END:VALARM
+DTSTART:20180617T170000Z
+DTEND:20180617T200000Z
+UID:K8bEPsUKbKvAAUK1xV7LdqF8@stanza.co
+SUMMARY:SeaWolves @ Thunder
+DESCRIPTION:SeaWolves @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v8kI-2T\n\nShop: https://stza.co/+v8kI-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fisher Cats
+<2018-06-18 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       y3942RkeWt0r8TAiZxwi8IPG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fisher Cats SeaWolves vs. Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLfC-C
+
+Shop  https //stza.co/+vLfC-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fisher Cats
+END:VALARM
+DTSTART:20180618T230500Z
+DTEND:20180619T020500Z
+UID:y3942RkeWt0r8TAiZxwi8IPG@stanza.co
+SUMMARY:SeaWolves vs. Fisher Cats
+DESCRIPTION:SeaWolves vs. Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLfC-C\n\nShop: https://stza.co/+vLfC-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fisher Cats
+<2018-06-19 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       Gx0h2TUeFsDijNG9ihlq4Gba@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fisher Cats SeaWolves vs. Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLfD-2K
+
+Shop  https //stza.co/+vLfD-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fisher Cats
+END:VALARM
+DTSTART:20180619T230500Z
+DTEND:20180620T020500Z
+UID:Gx0h2TUeFsDijNG9ihlq4Gba@stanza.co
+SUMMARY:SeaWolves vs. Fisher Cats
+DESCRIPTION:SeaWolves vs. Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLfD-2K\n\nShop: https://stza.co/+vLfD-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Fisher Cats
+<2018-06-20 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       hEtwGX4R7PAXQNbIolRLG-dt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Fisher Cats SeaWolves vs. Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLfG-3i
+
+Shop  https //stza.co/+vLfG-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Fisher Cats
+END:VALARM
+DTSTART:20180620T160500Z
+DTEND:20180620T190500Z
+UID:hEtwGX4R7PAXQNbIolRLG-dt@stanza.co
+SUMMARY:SeaWolves vs. Fisher Cats
+DESCRIPTION:SeaWolves vs. Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLfG-3i\n\nShop: https://stza.co/+vLfG-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       p26YKZHufdBn0FG-ye8ey4j0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLfI-3f
+
+Shop  https //stza.co/+vLfI-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:p26YKZHufdBn0FG-ye8ey4j0@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLfI-3f\n\nShop: https://stza.co/+vLfI-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       Rkoky7aIWMoc9e0FcUvUG6tw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLfK-3r
+
+Shop  https //stza.co/+vLfK-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:Rkoky7aIWMoc9e0FcUvUG6tw@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLfK-3r\n\nShop: https://stza.co/+vLfK-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-06-24 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       1yDWHuoX6ZCT46GCGL-L_7TQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLfM-7
+
+Shop  https //stza.co/+vLfM-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180624T173500Z
+DTEND:20180624T203500Z
+UID:1yDWHuoX6ZCT46GCGL-L_7TQ@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLfM-7\n\nShop: https://stza.co/+vLfM-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fightin Phils
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       _7gjVBH8fSjkcwsndLjAk1Dh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8kz
+
+Follow on MiLB First Pitch  https //stza.co/+v8kz-2v
+
+Shop  https //stza.co/+v8kz-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:_7gjVBH8fSjkcwsndLjAk1Dh@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8kz\n\nFollow on MiLB First Pitch: https://stza.co/+v8kz-2v\n\nShop: https://stza.co/+v8kz-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fightin Phils
+<2018-06-26 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       mnQ51QQXbAkfaj9h5Kq4VJSA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8kA
+
+Follow on MiLB First Pitch  https //stza.co/+v8kA-11
+
+Shop  https //stza.co/+v8kA-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180626T230500Z
+DTEND:20180627T020500Z
+UID:mnQ51QQXbAkfaj9h5Kq4VJSA@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8kA\n\nFollow on MiLB First Pitch: https://stza.co/+v8kA-11\n\nShop: https://stza.co/+v8kA-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fightin Phils
+<2018-06-27 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       6GF4HqWamJqqkY1DgIX8bMP1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8kB
+
+Follow on MiLB First Pitch  https //stza.co/+v8kB-1
+
+Shop  https //stza.co/+v8kB-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180627T230500Z
+DTEND:20180628T020500Z
+UID:6GF4HqWamJqqkY1DgIX8bMP1@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8kB\n\nFollow on MiLB First Pitch: https://stza.co/+v8kB-1\n\nShop: https://stza.co/+v8kB-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fightin Phils
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       -UfxOC7GRNN5aLMp0OxZqNzQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fightin Phils SeaWolves @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v8kC
+
+Follow on MiLB First Pitch  https //stza.co/+v8kC-3U
+
+Shop  https //stza.co/+v8kC-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fightin Phils
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:-UfxOC7GRNN5aLMp0OxZqNzQ@stanza.co
+SUMMARY:SeaWolves @ Fightin Phils
+DESCRIPTION:SeaWolves @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v8kC\n\nFollow on MiLB First Pitch: https://stza.co/+v8kC-3U\n\nShop: https://stza.co/+v8kC-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       qn70_WFo-WfgbLdFxTcrHs7z@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLfO-6
+
+Shop  https //stza.co/+vLfO-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:qn70_WFo-WfgbLdFxTcrHs7z@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLfO-6\n\nShop: https://stza.co/+vLfO-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-06-30 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       sFO5VFlV4cWox4QY-fBvEpsK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLfP-u
+
+Shop  https //stza.co/+vLfP-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180630T230500Z
+DTEND:20180701T020500Z
+UID:sFO5VFlV4cWox4QY-fBvEpsK@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLfP-u\n\nShop: https://stza.co/+vLfP-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-07-01 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       YSbiiRH04GugidewL-V0DrzU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLfS-T
+
+Shop  https //stza.co/+vLfS-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180701T230500Z
+DTEND:20180702T020500Z
+UID:YSbiiRH04GugidewL-V0DrzU@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLfS-T\n\nShop: https://stza.co/+vLfS-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-07-02 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       qvRSYujglWfMlFd7zMIkrR3J@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLfT-z
+
+Shop  https //stza.co/+vLfT-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180702T230500Z
+DTEND:20180703T020500Z
+UID:qvRSYujglWfMlFd7zMIkrR3J@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLfT-z\n\nShop: https://stza.co/+vLfT-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-07-03 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       saErYFzIv_M0mx0yQRwl6zdF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLfW-3c
+
+Shop  https //stza.co/+vLfW-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180703T230500Z
+DTEND:20180704T020500Z
+UID:saErYFzIv_M0mx0yQRwl6zdF@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLfW-3c\n\nShop: https://stza.co/+vLfW-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-07-04 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       s7JBq4dpDtA8nrxBk4l-MtKk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLek-2H
+
+Shop  https //stza.co/+vLek-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180704T223500Z
+DTEND:20180705T013500Z
+UID:s7JBq4dpDtA8nrxBk4l-MtKk@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLek-2H\n\nShop: https://stza.co/+vLek-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-07-05 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       f9Sh6FZRpzKJF2H1LbiZkpU3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLel-2A
+
+Shop  https //stza.co/+vLel-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180705T223500Z
+DTEND:20180706T013500Z
+UID:f9Sh6FZRpzKJF2H1LbiZkpU3@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLel-2A\n\nShop: https://stza.co/+vLel-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       ptV00p3ysj6M5a5L2cBkEz90@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLem-2Z
+
+Shop  https //stza.co/+vLem-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:ptV00p3ysj6M5a5L2cBkEz90@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLem-2Z\n\nShop: https://stza.co/+vLem-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-07-07 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       bGyqDBmGW8vmjhwKDoKTu2gf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLen-19
+
+Shop  https //stza.co/+vLen-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180707T220500Z
+DTEND:20180708T010500Z
+UID:bGyqDBmGW8vmjhwKDoKTu2gf@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLen-19\n\nShop: https://stza.co/+vLen-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Rumble Ponies
+<2018-07-08 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       j90MbZmXiFC47i0vvNG-A26g@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Rumble Ponies SeaWolves @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLeo-1Q
+
+Shop  https //stza.co/+vLeo-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Rumble Ponies
+END:VALARM
+DTSTART:20180708T180500Z
+DTEND:20180708T210500Z
+UID:j90MbZmXiFC47i0vvNG-A26g@stanza.co
+SUMMARY:SeaWolves @ Rumble Ponies
+DESCRIPTION:SeaWolves @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLeo-1Q\n\nShop: https://stza.co/+vLeo-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-07-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       aVYokWpfciOtWBkACTa8qT1D@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLfY-2C
+
+Shop  https //stza.co/+vLfY-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180712T230500Z
+DTEND:20180713T020500Z
+UID:aVYokWpfciOtWBkACTa8qT1D@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLfY-2C\n\nShop: https://stza.co/+vLfY-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       FzB64Hfn2uJbtRMRgSXpioAa@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLfZ-23
+
+Shop  https //stza.co/+vLfZ-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:FzB64Hfn2uJbtRMRgSXpioAa@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLfZ-23\n\nShop: https://stza.co/+vLfZ-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-07-14 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       Ivyqzqj4lcDTfo2P9R3T62Ia@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLf$-14
+
+Shop  https //stza.co/+vLf$-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180714T230500Z
+DTEND:20180715T020500Z
+UID:Ivyqzqj4lcDTfo2P9R3T62Ia@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLf$-14\n\nShop: https://stza.co/+vLf$-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Curve
+<2018-07-15 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       LHzkigdm2V85atY3ZNmrsXSZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Curve SeaWolves vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLg1-1C
+
+Shop  https //stza.co/+vLg1-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Curve
+END:VALARM
+DTSTART:20180715T173500Z
+DTEND:20180715T203500Z
+UID:LHzkigdm2V85atY3ZNmrsXSZ@stanza.co
+SUMMARY:SeaWolves vs. Curve
+DESCRIPTION:SeaWolves vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLg1-1C\n\nShop: https://stza.co/+vLg1-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Flying Squirrels
+<2018-07-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       6lIeePahjiS3qb3_lsyh0sj2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Flying Squirrels SeaWolves @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v8kD-1g
+
+Shop  https //stza.co/+v8kD-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Flying Squirrels
+END:VALARM
+DTSTART:20180716T223500Z
+DTEND:20180717T013500Z
+UID:6lIeePahjiS3qb3_lsyh0sj2@stanza.co
+SUMMARY:SeaWolves @ Flying Squirrels
+DESCRIPTION:SeaWolves @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v8kD-1g\n\nShop: https://stza.co/+v8kD-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Flying Squirrels
+<2018-07-17 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       mae_X_kDLJ0zc5sDOpNYnoTb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Flying Squirrels SeaWolves @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v8kE-3I
+
+Shop  https //stza.co/+v8kE-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Flying Squirrels
+END:VALARM
+DTSTART:20180717T223500Z
+DTEND:20180718T013500Z
+UID:mae_X_kDLJ0zc5sDOpNYnoTb@stanza.co
+SUMMARY:SeaWolves @ Flying Squirrels
+DESCRIPTION:SeaWolves @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v8kE-3I\n\nShop: https://stza.co/+v8kE-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Flying Squirrels
+<2018-07-18 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       93pI1zJQWN8DUqF427DJraQn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Flying Squirrels SeaWolves @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v8kF-Z
+
+Shop  https //stza.co/+v8kF-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Flying Squirrels
+END:VALARM
+DTSTART:20180718T160500Z
+DTEND:20180718T190500Z
+UID:93pI1zJQWN8DUqF427DJraQn@stanza.co
+SUMMARY:SeaWolves @ Flying Squirrels
+DESCRIPTION:SeaWolves @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v8kF-Z\n\nShop: https://stza.co/+v8kF-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       0jcMeZJv4_7yUeV7RrXxhTeI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLes-
+
+Shop  https //stza.co/+vLes-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:0jcMeZJv4_7yUeV7RrXxhTeI@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLes-\n\nShop: https://stza.co/+vLes-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       90zlN9SnQbCtFmI7rCiALVu7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLet-C
+
+Shop  https //stza.co/+vLet-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:90zlN9SnQbCtFmI7rCiALVu7@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLet-C\n\nShop: https://stza.co/+vLet-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-07-21 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       Xo2dS5xgioLsArTwOG38jKBT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLeu-3i
+
+Shop  https //stza.co/+vLeu-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180721T223500Z
+DTEND:20180722T013500Z
+UID:Xo2dS5xgioLsArTwOG38jKBT@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLeu-3i\n\nShop: https://stza.co/+vLeu-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-07-22 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       -_zGnUqQg89izCYvA9emcGVp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLev-32
+
+Shop  https //stza.co/+vLev-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180722T173500Z
+DTEND:20180722T203500Z
+UID:-_zGnUqQg89izCYvA9emcGVp@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLev-32\n\nShop: https://stza.co/+vLev-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Flying Squirrels
+<2018-07-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       fjCIAbRydaqjnh68e5Eour-i@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Flying Squirrels SeaWolves vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vLg4-L
+
+Shop  https //stza.co/+vLg4-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Flying Squirrels
+END:VALARM
+DTSTART:20180723T230500Z
+DTEND:20180724T020500Z
+UID:fjCIAbRydaqjnh68e5Eour-i@stanza.co
+SUMMARY:SeaWolves vs. Flying Squirrels
+DESCRIPTION:SeaWolves vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vLg4-L\n\nShop: https://stza.co/+vLg4-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Flying Squirrels
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       equTA2LgfSt655cKG2mpMk6f@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Flying Squirrels SeaWolves vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vLg6-P
+
+Shop  https //stza.co/+vLg6-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Flying Squirrels
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:equTA2LgfSt655cKG2mpMk6f@stanza.co
+SUMMARY:SeaWolves vs. Flying Squirrels
+DESCRIPTION:SeaWolves vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vLg6-P\n\nShop: https://stza.co/+vLg6-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Flying Squirrels
+<2018-07-25 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       rByG2pYwaCagssDvG1beag9O@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Flying Squirrels SeaWolves vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vLg8-J
+
+Shop  https //stza.co/+vLg8-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Flying Squirrels
+END:VALARM
+DTSTART:20180725T160500Z
+DTEND:20180725T190500Z
+UID:rByG2pYwaCagssDvG1beag9O@stanza.co
+SUMMARY:SeaWolves vs. Flying Squirrels
+DESCRIPTION:SeaWolves vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vLg8-J\n\nShop: https://stza.co/+vLg8-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       iQ8eVhDI88rthy0XgLztlweo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLga-1$
+
+Shop  https //stza.co/+vLga-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:iQ8eVhDI88rthy0XgLztlweo@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLga-1$\n\nShop: https://stza.co/+vLga-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-07-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       drXYElWEPzMn8bzk21pNWNQ0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgc-j
+
+Shop  https //stza.co/+vLgc-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180727T230500Z
+DTEND:20180728T020500Z
+UID:drXYElWEPzMn8bzk21pNWNQ0@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgc-j\n\nShop: https://stza.co/+vLgc-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-07-28 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       8LmsACZql4f48nqONM-qfaij@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLge-32
+
+Shop  https //stza.co/+vLge-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180728T230500Z
+DTEND:20180729T020500Z
+UID:8LmsACZql4f48nqONM-qfaij@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLge-32\n\nShop: https://stza.co/+vLge-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-07-29 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       wSEgUFOedm56oo0X35RomhYj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgg-2_
+
+Shop  https //stza.co/+vLgg-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180729T173500Z
+DTEND:20180729T203500Z
+UID:wSEgUFOedm56oo0X35RomhYj@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgg-2_\n\nShop: https://stza.co/+vLgg-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Sea Dogs
+<2018-07-31 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       XqxhugQokAqS5kWx9rrd6oba@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Sea Dogs SeaWolves @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLgY
+
+Follow on MiLB First Pitch  https //stza.co/+vLgY-1l
+
+Shop  https //stza.co/+vLgY-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Sea Dogs
+END:VALARM
+DTSTART:20180731T230000Z
+DTEND:20180801T020000Z
+UID:XqxhugQokAqS5kWx9rrd6oba@stanza.co
+SUMMARY:SeaWolves @ Sea Dogs
+DESCRIPTION:SeaWolves @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLgY\n\nFollow on MiLB First Pitch: https://stza.co/+vLgY-1l\n\nShop: https://stza.co/+vLgY-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Sea Dogs
+<2018-08-01 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       iXZ3a6uuDv2mA3x8uVugsYK0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Sea Dogs SeaWolves @ Sea Dogs
+
+Buy tickets here  https //stza.co/~v8kt
+
+Follow on MiLB First Pitch  https //stza.co/+v8kt-3I
+
+Shop  https //stza.co/+v8kt-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Sea Dogs
+END:VALARM
+DTSTART:20180801T230000Z
+DTEND:20180802T020000Z
+UID:iXZ3a6uuDv2mA3x8uVugsYK0@stanza.co
+SUMMARY:SeaWolves @ Sea Dogs
+DESCRIPTION:SeaWolves @ Sea Dogs\n\nBuy tickets here: https://stza.co/~v8kt\n\nFollow on MiLB First Pitch: https://stza.co/+v8kt-3I\n\nShop: https://stza.co/+v8kt-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Sea Dogs
+<2018-08-02 Thu 11:00-14:00>
+:PROPERTIES:
+:ID:       CkyXe3G7QQk7n18sHe94thdw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Sea Dogs SeaWolves @ Sea Dogs
+
+Buy tickets here  https //stza.co/~v8ku
+
+Follow on MiLB First Pitch  https //stza.co/+v8ku-1q
+
+Shop  https //stza.co/+v8ku-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Sea Dogs
+END:VALARM
+DTSTART:20180802T160000Z
+DTEND:20180802T190000Z
+UID:CkyXe3G7QQk7n18sHe94thdw@stanza.co
+SUMMARY:SeaWolves @ Sea Dogs
+DESCRIPTION:SeaWolves @ Sea Dogs\n\nBuy tickets here: https://stza.co/~v8ku\n\nFollow on MiLB First Pitch: https://stza.co/+v8ku-1q\n\nShop: https://stza.co/+v8ku-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fisher Cats
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       GPNBsRZSetNdrh5kf1z4ogMt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fisher Cats SeaWolves @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLgV-T
+
+Shop  https //stza.co/+vLgV-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fisher Cats
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:GPNBsRZSetNdrh5kf1z4ogMt@stanza.co
+SUMMARY:SeaWolves @ Fisher Cats
+DESCRIPTION:SeaWolves @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLgV-T\n\nShop: https://stza.co/+vLgV-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fisher Cats
+<2018-08-04 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       RKUhVApEySuL6sYazQA6D94U@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fisher Cats SeaWolves @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLgW-1y
+
+Shop  https //stza.co/+vLgW-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fisher Cats
+END:VALARM
+DTSTART:20180804T230500Z
+DTEND:20180805T020500Z
+UID:RKUhVApEySuL6sYazQA6D94U@stanza.co
+SUMMARY:SeaWolves @ Fisher Cats
+DESCRIPTION:SeaWolves @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLgW-1y\n\nShop: https://stza.co/+vLgW-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Fisher Cats
+<2018-08-05 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       Fp_YZjFoiEomNhRf1EvAK1R9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Fisher Cats SeaWolves @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLgX-1p
+
+Shop  https //stza.co/+vLgX-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Fisher Cats
+END:VALARM
+DTSTART:20180805T173500Z
+DTEND:20180805T203500Z
+UID:Fp_YZjFoiEomNhRf1EvAK1R9@stanza.co
+SUMMARY:SeaWolves @ Fisher Cats
+DESCRIPTION:SeaWolves @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLgX-1p\n\nShop: https://stza.co/+vLgX-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Sea Dogs
+<2018-08-07 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       qSK-MYfVdqAOdEbkgPdfG76l@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Sea Dogs SeaWolves vs. Sea Dogs
+
+Follow on MiLB First Pitch  https //stza.co/+vLgi-2_
+
+Shop  https //stza.co/+vLgi-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Sea Dogs
+END:VALARM
+DTSTART:20180807T230500Z
+DTEND:20180808T020500Z
+UID:qSK-MYfVdqAOdEbkgPdfG76l@stanza.co
+SUMMARY:SeaWolves vs. Sea Dogs
+DESCRIPTION:SeaWolves vs. Sea Dogs\n\nFollow on MiLB First Pitch: https://stza.co/+vLgi-2_\n\nShop: https://stza.co/+vLgi-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Sea Dogs
+<2018-08-08 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       Je4snRE0Iq3JoNSOW-7YSvs3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Sea Dogs SeaWolves vs. Sea Dogs
+
+Follow on MiLB First Pitch  https //stza.co/+vLgj-19
+
+Shop  https //stza.co/+vLgj-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Sea Dogs
+END:VALARM
+DTSTART:20180808T230500Z
+DTEND:20180809T020500Z
+UID:Je4snRE0Iq3JoNSOW-7YSvs3@stanza.co
+SUMMARY:SeaWolves vs. Sea Dogs
+DESCRIPTION:SeaWolves vs. Sea Dogs\n\nFollow on MiLB First Pitch: https://stza.co/+vLgj-19\n\nShop: https://stza.co/+vLgj-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Sea Dogs
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       XoxhqTxACtffPXTIz3zLvkVo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Sea Dogs SeaWolves vs. Sea Dogs
+
+Follow on MiLB First Pitch  https //stza.co/+vLgl-3B
+
+Shop  https //stza.co/+vLgl-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Sea Dogs
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:XoxhqTxACtffPXTIz3zLvkVo@stanza.co
+SUMMARY:SeaWolves vs. Sea Dogs
+DESCRIPTION:SeaWolves vs. Sea Dogs\n\nFollow on MiLB First Pitch: https://stza.co/+vLgl-3B\n\nShop: https://stza.co/+vLgl-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-08-10 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       MNevZ6I1hW-mIgb8PsY1yiBG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLeb-2
+
+Shop  https //stza.co/+vLeb-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180810T230000Z
+DTEND:20180811T020000Z
+UID:MNevZ6I1hW-mIgb8PsY1yiBG@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLeb-2\n\nShop: https://stza.co/+vLeb-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-08-11 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       V4mKWZyf40bJrJUfVlea_dO_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLec-8
+
+Shop  https //stza.co/+vLec-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180811T220000Z
+DTEND:20180812T010000Z
+UID:V4mKWZyf40bJrJUfVlea_dO_@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLec-8\n\nShop: https://stza.co/+vLec-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Curve
+<2018-08-12 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       c2QgN5vJki-wfEW3hx7YbshK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Curve SeaWolves @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLed-33
+
+Shop  https //stza.co/+vLed-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Curve
+END:VALARM
+DTSTART:20180812T220000Z
+DTEND:20180813T010000Z
+UID:c2QgN5vJki-wfEW3hx7YbshK@stanza.co
+SUMMARY:SeaWolves @ Curve
+DESCRIPTION:SeaWolves @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLed-33\n\nShop: https://stza.co/+vLed-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Senators
+<2018-08-13 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       ihEjN_sZb8TlykL7ZoIudx32@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Senators SeaWolves vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgn-O
+
+Shop  https //stza.co/+vLgn-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Senators
+END:VALARM
+DTSTART:20180813T230500Z
+DTEND:20180814T020500Z
+UID:ihEjN_sZb8TlykL7ZoIudx32@stanza.co
+SUMMARY:SeaWolves vs. Senators
+DESCRIPTION:SeaWolves vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgn-O\n\nShop: https://stza.co/+vLgn-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Senators
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       mcsL3yuVPr4iA329n5pw4rcN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Senators SeaWolves vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgq-19
+
+Shop  https //stza.co/+vLgq-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Senators
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:mcsL3yuVPr4iA329n5pw4rcN@stanza.co
+SUMMARY:SeaWolves vs. Senators
+DESCRIPTION:SeaWolves vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgq-19\n\nShop: https://stza.co/+vLgq-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Senators
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       HN3S2ia_75P7uUN70jZ2cq8c@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Senators SeaWolves vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgr-2l
+
+Shop  https //stza.co/+vLgr-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Senators
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:HN3S2ia_75P7uUN70jZ2cq8c@stanza.co
+SUMMARY:SeaWolves vs. Senators
+DESCRIPTION:SeaWolves vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgr-2l\n\nShop: https://stza.co/+vLgr-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       EmcdYJGqhLU0csS8bZCEom7P@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLgt-C
+
+Shop  https //stza.co/+vLgt-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:EmcdYJGqhLU0csS8bZCEom7P@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLgt-C\n\nShop: https://stza.co/+vLgt-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-08-18 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       R2MzJP8HpivqOEgLhxelUH3d@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLgw-2w
+
+Shop  https //stza.co/+vLgw-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180818T230500Z
+DTEND:20180819T020500Z
+UID:R2MzJP8HpivqOEgLhxelUH3d@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLgw-2w\n\nShop: https://stza.co/+vLgw-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. Baysox
+<2018-08-19 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       MZ4fcO0lv2WCTgzpFfYmkSTi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. Baysox SeaWolves vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLgx-1p
+
+Shop  https //stza.co/+vLgx-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. Baysox
+END:VALARM
+DTSTART:20180819T173500Z
+DTEND:20180819T203500Z
+UID:MZ4fcO0lv2WCTgzpFfYmkSTi@stanza.co
+SUMMARY:SeaWolves vs. Baysox
+DESCRIPTION:SeaWolves vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLgx-1p\n\nShop: https://stza.co/+vLgx-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-08-20 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       qg62reI1lVijqUYGa-JZYjIu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgz-2W
+
+Shop  https //stza.co/+vLgz-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180820T230500Z
+DTEND:20180821T020500Z
+UID:qg62reI1lVijqUYGa-JZYjIu@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgz-2W\n\nShop: https://stza.co/+vLgz-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       3J-IEE3TZLnLpwOW42_koIq_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgC-a
+
+Shop  https //stza.co/+vLgC-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:3J-IEE3TZLnLpwOW42_koIq_@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgC-a\n\nShop: https://stza.co/+vLgC-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       SbHkmEnj-hL82C8ffdFMTBud@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLe2-1G
+
+Shop  https //stza.co/+vLe2-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:SbHkmEnj-hL82C8ffdFMTBud@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLe2-1G\n\nShop: https://stza.co/+vLe2-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ RubberDucks
+<2018-08-23 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       MuTPFZh57F4n_v4gxs2PMvaa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ RubberDucks SeaWolves @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLe3-3O
+
+Shop  https //stza.co/+vLe3-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ RubberDucks
+END:VALARM
+DTSTART:20180823T230500Z
+DTEND:20180824T020500Z
+UID:MuTPFZh57F4n_v4gxs2PMvaa@stanza.co
+SUMMARY:SeaWolves @ RubberDucks
+DESCRIPTION:SeaWolves @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLe3-3O\n\nShop: https://stza.co/+vLe3-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       iO83t8NqV4TfQevTMJnOW0j6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLew-O
+
+Shop  https //stza.co/+vLew-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:iO83t8NqV4TfQevTMJnOW0j6@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLew-O\n\nShop: https://stza.co/+vLew-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-08-25 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       k09oT595-o9MkxMaUeL0jl6c@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLex-2p
+
+Shop  https //stza.co/+vLex-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180825T223500Z
+DTEND:20180826T013500Z
+UID:k09oT595-o9MkxMaUeL0jl6c@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLex-2p\n\nShop: https://stza.co/+vLex-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Baysox
+<2018-08-26 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       QNpf4ArATM1qMsQOd0Ynnpke@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Baysox SeaWolves @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLey-27
+
+Shop  https //stza.co/+vLey-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Baysox
+END:VALARM
+DTSTART:20180826T173500Z
+DTEND:20180826T203500Z
+UID:QNpf4ArATM1qMsQOd0Ynnpke@stanza.co
+SUMMARY:SeaWolves @ Baysox
+DESCRIPTION:SeaWolves @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLey-27\n\nShop: https://stza.co/+vLey-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Senators
+<2018-08-27 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       K4GvyL5NfwUyajbH4j8UqSiN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Senators SeaWolves @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgO-D
+
+Shop  https //stza.co/+vLgO-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Senators
+END:VALARM
+DTSTART:20180827T223000Z
+DTEND:20180828T013000Z
+UID:K4GvyL5NfwUyajbH4j8UqSiN@stanza.co
+SUMMARY:SeaWolves @ Senators
+DESCRIPTION:SeaWolves @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgO-D\n\nShop: https://stza.co/+vLgO-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Senators
+<2018-08-28 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       WdWKbEwYB2jP9TpTonZ3gzC_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Senators SeaWolves @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgP-F
+
+Shop  https //stza.co/+vLgP-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Senators
+END:VALARM
+DTSTART:20180828T223000Z
+DTEND:20180829T013000Z
+UID:WdWKbEwYB2jP9TpTonZ3gzC_@stanza.co
+SUMMARY:SeaWolves @ Senators
+DESCRIPTION:SeaWolves @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgP-F\n\nShop: https://stza.co/+vLgP-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Senators
+<2018-08-29 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       1tikezJus0SLPZwJDMch_mBw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Senators SeaWolves @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgQ-2B
+
+Shop  https //stza.co/+vLgQ-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Senators
+END:VALARM
+DTSTART:20180829T223000Z
+DTEND:20180830T013000Z
+UID:1tikezJus0SLPZwJDMch_mBw@stanza.co
+SUMMARY:SeaWolves @ Senators
+DESCRIPTION:SeaWolves @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgQ-2B\n\nShop: https://stza.co/+vLgQ-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves @ Senators
+<2018-08-30 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       cs9yr2_BKPd6aQBFJhpo_DnG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves @ Senators SeaWolves @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLgR-2I
+
+Shop  https //stza.co/+vLgR-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves @ Senators
+END:VALARM
+DTSTART:20180830T230000Z
+DTEND:20180831T020000Z
+UID:cs9yr2_BKPd6aQBFJhpo_DnG@stanza.co
+SUMMARY:SeaWolves @ Senators
+DESCRIPTION:SeaWolves @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLgR-2I\n\nShop: https://stza.co/+vLgR-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-08-31 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       yu7wYpUGhQtLoGUeGi60amoM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgD-3c
+
+Shop  https //stza.co/+vLgD-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180831T230500Z
+DTEND:20180901T020500Z
+UID:yu7wYpUGhQtLoGUeGi60amoM@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgD-3c\n\nShop: https://stza.co/+vLgD-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-09-01 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       2DbzH_BiEiRVhEHVJ1H8YXD9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgF-32
+
+Shop  https //stza.co/+vLgF-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180901T220500Z
+DTEND:20180902T010500Z
+UID:2DbzH_BiEiRVhEHVJ1H8YXD9@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgF-32\n\nShop: https://stza.co/+vLgF-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-09-02 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       XrBEpjVHw0TmP4xKeNWYiAmd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgI-30
+
+Shop  https //stza.co/+vLgI-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180902T220500Z
+DTEND:20180903T010500Z
+UID:XrBEpjVHw0TmP4xKeNWYiAmd@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgI-30\n\nShop: https://stza.co/+vLgI-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT
+* SeaWolves vs. RubberDucks
+<2018-09-03 Mon 12:35-15:35>
+:PROPERTIES:
+:ID:       Sa8MOHefui5mB67Iqtr2271H@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+SeaWolves vs. RubberDucks SeaWolves vs. RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLgK-2H
+
+Shop  https //stza.co/+vLgK-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:SeaWolves vs. RubberDucks
+END:VALARM
+DTSTART:20180903T173500Z
+DTEND:20180903T203500Z
+UID:Sa8MOHefui5mB67Iqtr2271H@stanza.co
+SUMMARY:SeaWolves vs. RubberDucks
+DESCRIPTION:SeaWolves vs. RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLgK-2H\n\nShop: https://stza.co/+vLgK-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144523Z
+LAST-MODIFIED:20180213T144523Z
+TRANSP:OPAQUE
+END:VEVENT

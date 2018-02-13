@@ -1,0 +1,5050 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Quakes @ Rawhide
+<2018-04-05 Thu>--<2018-04-04 Wed>
+:PROPERTIES:
+:ID:       kxGS9Dd3eHOpypbI5utkxWiL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Rawhide Quakes @ Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+vfqn-37
+
+Shop  https //stza.co/+vfqn-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Rawhide
+END:VALARM
+DTSTART;VALUE=DATE:20180405
+DTEND;VALUE=DATE:20180405
+UID:kxGS9Dd3eHOpypbI5utkxWiL@stanza.co
+SUMMARY:Quakes @ Rawhide
+DESCRIPTION:Quakes @ Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+vfqn-37\n\nShop: https://stza.co/+vfqn-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Rawhide
+<2018-04-06 Fri>--<2018-04-05 Thu>
+:PROPERTIES:
+:ID:       wtFt6IgC1BALNgXBNTimYYME@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Rawhide Quakes @ Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+vfqq-3y
+
+Shop  https //stza.co/+vfqq-24
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Rawhide
+END:VALARM
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180406
+UID:wtFt6IgC1BALNgXBNTimYYME@stanza.co
+SUMMARY:Quakes @ Rawhide
+DESCRIPTION:Quakes @ Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+vfqq-3y\n\nShop: https://stza.co/+vfqq-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Rawhide
+<2018-04-07 Sat>--<2018-04-06 Fri>
+:PROPERTIES:
+:ID:       0X8KxnHBtVfPrUG3CCkkmZEA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Rawhide Quakes @ Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+vfqu-2A
+
+Shop  https //stza.co/+vfqu-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Rawhide
+END:VALARM
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180407
+UID:0X8KxnHBtVfPrUG3CCkkmZEA@stanza.co
+SUMMARY:Quakes @ Rawhide
+DESCRIPTION:Quakes @ Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+vfqu-2A\n\nShop: https://stza.co/+vfqu-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Rawhide
+<2018-04-08 Sun>--<2018-04-07 Sat>
+:PROPERTIES:
+:ID:       5z0cXnL-Eel3gFFN7UN-Wf96@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Rawhide Quakes @ Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+vfqy-j
+
+Shop  https //stza.co/+vfqy-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Rawhide
+END:VALARM
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180408
+UID:5z0cXnL-Eel3gFFN7UN-Wf96@stanza.co
+SUMMARY:Quakes @ Rawhide
+DESCRIPTION:Quakes @ Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+vfqy-j\n\nShop: https://stza.co/+vfqy-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Ports
+<2018-04-09 Mon 21:10>--<2018-04-10 Tue 00:10>
+:PROPERTIES:
+:ID:       S9ZEG-OvHkCx6ZIwNMdhC4zW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Ports Quakes @ Ports
+
+Follow on MiLB First Pitch  https //stza.co/+vM0S-2c
+
+Shop  https //stza.co/+vM0S-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Ports
+END:VALARM
+DTSTART:20180410T021000Z
+DTEND:20180410T051000Z
+UID:S9ZEG-OvHkCx6ZIwNMdhC4zW@stanza.co
+SUMMARY:Quakes @ Ports
+DESCRIPTION:Quakes @ Ports\n\nFollow on MiLB First Pitch: https://stza.co/+vM0S-2c\n\nShop: https://stza.co/+vM0S-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Ports
+<2018-04-10 Tue 13:10-16:10>
+:PROPERTIES:
+:ID:       0a1MqjYDLvGk3QNDsrk0XACh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Ports Quakes @ Ports
+
+Follow on MiLB First Pitch  https //stza.co/+vM0T-2n
+
+Shop  https //stza.co/+vM0T-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Ports
+END:VALARM
+DTSTART:20180410T181000Z
+DTEND:20180410T211000Z
+UID:0a1MqjYDLvGk3QNDsrk0XACh@stanza.co
+SUMMARY:Quakes @ Ports
+DESCRIPTION:Quakes @ Ports\n\nFollow on MiLB First Pitch: https://stza.co/+vM0T-2n\n\nShop: https://stza.co/+vM0T-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Ports
+<2018-04-11 Wed 21:10>--<2018-04-12 Thu 00:10>
+:PROPERTIES:
+:ID:       b3f5mHGK0YZYz1d_76M3UmgO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Ports Quakes @ Ports
+
+Follow on MiLB First Pitch  https //stza.co/+vM0U-1n
+
+Shop  https //stza.co/+vM0U-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Ports
+END:VALARM
+DTSTART:20180412T021000Z
+DTEND:20180412T051000Z
+UID:b3f5mHGK0YZYz1d_76M3UmgO@stanza.co
+SUMMARY:Quakes @ Ports
+DESCRIPTION:Quakes @ Ports\n\nFollow on MiLB First Pitch: https://stza.co/+vM0U-1n\n\nShop: https://stza.co/+vM0U-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-04-12 Thu 21:05>--<2018-04-13 Fri 00:05>
+:PROPERTIES:
+:ID:       qqo59Ef2gS6vNUoThwOinhWH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB1m-2r
+
+Shop  https //stza.co/+xB1m-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180413T020500Z
+DTEND:20180413T050500Z
+UID:qqo59Ef2gS6vNUoThwOinhWH@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB1m-2r\n\nShop: https://stza.co/+xB1m-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-04-13 Fri 21:05>--<2018-04-14 Sat 00:05>
+:PROPERTIES:
+:ID:       qqtjAbLzZwWfKVdBGsfqzwmB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB1o-28
+
+Shop  https //stza.co/+xB1o-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180414T020500Z
+DTEND:20180414T050500Z
+UID:qqtjAbLzZwWfKVdBGsfqzwmB@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB1o-28\n\nShop: https://stza.co/+xB1o-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-04-14 Sat 21:05>--<2018-04-15 Sun 00:05>
+:PROPERTIES:
+:ID:       -YjEcu0AHn970i3CjDAmQS62@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB1s-2S
+
+Shop  https //stza.co/+xB1s-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180415T020500Z
+DTEND:20180415T050500Z
+UID:-YjEcu0AHn970i3CjDAmQS62@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB1s-2S\n\nShop: https://stza.co/+xB1s-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-04-15 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       lgERk3XVhWQzSu9xi4m8eSNj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB1t-1R
+
+Shop  https //stza.co/+xB1t-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180415T210500Z
+DTEND:20180416T000500Z
+UID:lgERk3XVhWQzSu9xi4m8eSNj@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB1t-1R\n\nShop: https://stza.co/+xB1t-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-04-16 Mon 20:35-23:35>
+:PROPERTIES:
+:ID:       J-zj6BN356CerATLMu3rmfkL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfaU-1v
+
+Shop  https //stza.co/+vfaU-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180417T013500Z
+DTEND:20180417T043500Z
+UID:J-zj6BN356CerATLMu3rmfkL@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfaU-1v\n\nShop: https://stza.co/+vfaU-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-04-17 Tue 20:35-23:35>
+:PROPERTIES:
+:ID:       Pqjo7WLUH5OnXsuudIjSM7aM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfb4-p
+
+Shop  https //stza.co/+vfb4-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180418T013500Z
+DTEND:20180418T043500Z
+UID:Pqjo7WLUH5OnXsuudIjSM7aM@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfb4-p\n\nShop: https://stza.co/+vfb4-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-04-18 Wed 20:35-23:35>
+:PROPERTIES:
+:ID:       fzj82iWwL4_e3e2MgTyVSkes@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfb8-15
+
+Shop  https //stza.co/+vfb8-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180419T013500Z
+DTEND:20180419T043500Z
+UID:fzj82iWwL4_e3e2MgTyVSkes@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfb8-15\n\nShop: https://stza.co/+vfb8-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-04-19 Thu 21:05>--<2018-04-20 Fri 00:05>
+:PROPERTIES:
+:ID:       NO7HKbLFMtbt-wf5NyM9h-yL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB1w-16
+
+Shop  https //stza.co/+xB1w-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180420T020500Z
+DTEND:20180420T050500Z
+UID:NO7HKbLFMtbt-wf5NyM9h-yL@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB1w-16\n\nShop: https://stza.co/+xB1w-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-04-20 Fri 21:05>--<2018-04-21 Sat 00:05>
+:PROPERTIES:
+:ID:       7jCRvrUxKCvD_guQ0ksFMyBS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB1y-3J
+
+Shop  https //stza.co/+xB1y-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180421T020500Z
+DTEND:20180421T050500Z
+UID:7jCRvrUxKCvD_guQ0ksFMyBS@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB1y-3J\n\nShop: https://stza.co/+xB1y-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-04-21 Sat 21:05>--<2018-04-22 Sun 00:05>
+:PROPERTIES:
+:ID:       _rrI2XGg9DRgd2HaxzBy4eBc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB1C-Y
+
+Shop  https //stza.co/+xB1C-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180422T020500Z
+DTEND:20180422T050500Z
+UID:_rrI2XGg9DRgd2HaxzBy4eBc@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB1C-Y\n\nShop: https://stza.co/+xB1C-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-04-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       ln4ztkN-FhEVPVzxpqBcEKoD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB1F-2k
+
+Shop  https //stza.co/+xB1F-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180422T210500Z
+DTEND:20180423T000500Z
+UID:ln4ztkN-FhEVPVzxpqBcEKoD@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB1F-2k\n\nShop: https://stza.co/+xB1F-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Ports
+<2018-04-24 Tue 21:05>--<2018-04-25 Wed 00:05>
+:PROPERTIES:
+:ID:       icJ22UfCGPU1LxrP2prvlSef@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Ports Quakes vs. Ports
+
+Follow on MiLB First Pitch  https //stza.co/+xB1I-3W
+
+Shop  https //stza.co/+xB1I-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Ports
+END:VALARM
+DTSTART:20180425T020500Z
+DTEND:20180425T050500Z
+UID:icJ22UfCGPU1LxrP2prvlSef@stanza.co
+SUMMARY:Quakes vs. Ports
+DESCRIPTION:Quakes vs. Ports\n\nFollow on MiLB First Pitch: https://stza.co/+xB1I-3W\n\nShop: https://stza.co/+xB1I-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Ports
+<2018-04-25 Wed 21:05>--<2018-04-26 Thu 00:05>
+:PROPERTIES:
+:ID:       Ryx1nLFsK9vTpQJiFJ6yaR0B@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Ports Quakes vs. Ports
+
+Follow on MiLB First Pitch  https //stza.co/+xB1J-3g
+
+Shop  https //stza.co/+xB1J-28
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Ports
+END:VALARM
+DTSTART:20180426T020500Z
+DTEND:20180426T050500Z
+UID:Ryx1nLFsK9vTpQJiFJ6yaR0B@stanza.co
+SUMMARY:Quakes vs. Ports
+DESCRIPTION:Quakes vs. Ports\n\nFollow on MiLB First Pitch: https://stza.co/+xB1J-3g\n\nShop: https://stza.co/+xB1J-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Ports
+<2018-04-26 Thu 21:05>--<2018-04-27 Fri 00:05>
+:PROPERTIES:
+:ID:       CgrvYGjbDIhECcD_DoGCJlXj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Ports Quakes vs. Ports
+
+Follow on MiLB First Pitch  https //stza.co/+xB1N-2y
+
+Shop  https //stza.co/+xB1N-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Ports
+END:VALARM
+DTSTART:20180427T020500Z
+DTEND:20180427T050500Z
+UID:CgrvYGjbDIhECcD_DoGCJlXj@stanza.co
+SUMMARY:Quakes vs. Ports
+DESCRIPTION:Quakes vs. Ports\n\nFollow on MiLB First Pitch: https://stza.co/+xB1N-2y\n\nShop: https://stza.co/+xB1N-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-04-27 Fri 20:35-23:35>
+:PROPERTIES:
+:ID:       BirTjZSm-J6wrjge7FHsT1od@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfbe-2B
+
+Shop  https //stza.co/+vfbe-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180428T013500Z
+DTEND:20180428T043500Z
+UID:BirTjZSm-J6wrjge7FHsT1od@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfbe-2B\n\nShop: https://stza.co/+vfbe-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-04-28 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       qylPfNCTYAU2SIrtra23G-OH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfbk-34
+
+Shop  https //stza.co/+vfbk-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180429T010500Z
+DTEND:20180429T040500Z
+UID:qylPfNCTYAU2SIrtra23G-OH@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfbk-34\n\nShop: https://stza.co/+vfbk-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-04-29 Sun>--<2018-04-28 Sat>
+:PROPERTIES:
+:ID:       veCRpOQlsz3e5sni8zkKM-Gt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfbu-O
+
+Shop  https //stza.co/+vfbu-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180429
+UID:veCRpOQlsz3e5sni8zkKM-Gt@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfbu-O\n\nShop: https://stza.co/+vfbu-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Nuts
+<2018-04-30 Mon 21:05>--<2018-05-01 Tue 00:05>
+:PROPERTIES:
+:ID:       X4bdoc3L8ZZr3OgqXeM4nI2T@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Nuts Quakes vs. Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xB1P-3R
+
+Shop  https //stza.co/+xB1P-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Nuts
+END:VALARM
+DTSTART:20180501T020500Z
+DTEND:20180501T050500Z
+UID:X4bdoc3L8ZZr3OgqXeM4nI2T@stanza.co
+SUMMARY:Quakes vs. Nuts
+DESCRIPTION:Quakes vs. Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xB1P-3R\n\nShop: https://stza.co/+xB1P-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Nuts
+<2018-05-01 Tue 21:05>--<2018-05-02 Wed 00:05>
+:PROPERTIES:
+:ID:       ba9lBSCe2S--C5g8hKCMABJI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Nuts Quakes vs. Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xB1R-1r
+
+Shop  https //stza.co/+xB1R-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Nuts
+END:VALARM
+DTSTART:20180502T020500Z
+DTEND:20180502T050500Z
+UID:ba9lBSCe2S--C5g8hKCMABJI@stanza.co
+SUMMARY:Quakes vs. Nuts
+DESCRIPTION:Quakes vs. Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xB1R-1r\n\nShop: https://stza.co/+xB1R-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Nuts
+<2018-05-02 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       7fPOgXmLtOUiE9UAHL4Wkfen@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Nuts Quakes vs. Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xB1S-8
+
+Shop  https //stza.co/+xB1S-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Nuts
+END:VALARM
+DTSTART:20180502T173500Z
+DTEND:20180502T203500Z
+UID:7fPOgXmLtOUiE9UAHL4Wkfen@stanza.co
+SUMMARY:Quakes vs. Nuts
+DESCRIPTION:Quakes vs. Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xB1S-8\n\nShop: https://stza.co/+xB1S-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Nuts
+<2018-05-03 Thu 21:05>--<2018-05-04 Fri 00:05>
+:PROPERTIES:
+:ID:       OLwbd9ImPoplGsrgH-4T1kjl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Nuts Quakes vs. Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xB1U-2H
+
+Shop  https //stza.co/+xB1U-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Nuts
+END:VALARM
+DTSTART:20180504T020500Z
+DTEND:20180504T050500Z
+UID:OLwbd9ImPoplGsrgH-4T1kjl@stanza.co
+SUMMARY:Quakes vs. Nuts
+DESCRIPTION:Quakes vs. Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xB1U-2H\n\nShop: https://stza.co/+xB1U-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Rawhide
+<2018-05-04 Fri>--<2018-05-03 Thu>
+:PROPERTIES:
+:ID:       sHJrdbyAdrpESW-M6jGYQpar@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Rawhide Quakes @ Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+vfqD-5
+
+Shop  https //stza.co/+vfqD-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Rawhide
+END:VALARM
+DTSTART;VALUE=DATE:20180504
+DTEND;VALUE=DATE:20180504
+UID:sHJrdbyAdrpESW-M6jGYQpar@stanza.co
+SUMMARY:Quakes @ Rawhide
+DESCRIPTION:Quakes @ Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+vfqD-5\n\nShop: https://stza.co/+vfqD-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Rawhide
+<2018-05-05 Sat>--<2018-05-04 Fri>
+:PROPERTIES:
+:ID:       H-uk9LsZYZFlL5tbiEe6MP72@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Rawhide Quakes @ Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+vfqJ-7
+
+Shop  https //stza.co/+vfqJ-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Rawhide
+END:VALARM
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180505
+UID:H-uk9LsZYZFlL5tbiEe6MP72@stanza.co
+SUMMARY:Quakes @ Rawhide
+DESCRIPTION:Quakes @ Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+vfqJ-7\n\nShop: https://stza.co/+vfqJ-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Rawhide
+<2018-05-06 Sun>--<2018-05-05 Sat>
+:PROPERTIES:
+:ID:       Y6wGAzyfAcQNjVxAnZ8CzHVX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Rawhide Quakes @ Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+vfqO-11
+
+Shop  https //stza.co/+vfqO-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Rawhide
+END:VALARM
+DTSTART;VALUE=DATE:20180506
+DTEND;VALUE=DATE:20180506
+UID:Y6wGAzyfAcQNjVxAnZ8CzHVX@stanza.co
+SUMMARY:Quakes @ Rawhide
+DESCRIPTION:Quakes @ Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+vfqO-11\n\nShop: https://stza.co/+vfqO-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-05-08 Tue 20:00-23:00>
+:PROPERTIES:
+:ID:       ZtyeZ_uV3YUqFt5FpAh146G_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB0W-3w
+
+Shop  https //stza.co/+xB0W-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180509T010000Z
+DTEND:20180509T040000Z
+UID:ZtyeZ_uV3YUqFt5FpAh146G_@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB0W-3w\n\nShop: https://stza.co/+xB0W-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-05-09 Wed 20:00-23:00>
+:PROPERTIES:
+:ID:       0gT9W6PyhDXgFbLyUbwN02UF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB0Y-i
+
+Shop  https //stza.co/+xB0Y-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180510T010000Z
+DTEND:20180510T040000Z
+UID:0gT9W6PyhDXgFbLyUbwN02UF@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB0Y-i\n\nShop: https://stza.co/+xB0Y-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-05-10 Thu 21:00>--<2018-05-11 Fri 00:00>
+:PROPERTIES:
+:ID:       M76glOh9CJFOtvwHpNCXjZmM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB0Z-1T
+
+Shop  https //stza.co/+xB0Z-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180511T020000Z
+DTEND:20180511T050000Z
+UID:M76glOh9CJFOtvwHpNCXjZmM@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB0Z-1T\n\nShop: https://stza.co/+xB0Z-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Rawhide
+<2018-05-11 Fri 21:05>--<2018-05-12 Sat 00:05>
+:PROPERTIES:
+:ID:       g3mWSZVSVW5Z4dWoBRQp-REg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Rawhide Quakes vs. Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+xB1W-x
+
+Shop  https //stza.co/+xB1W-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Rawhide
+END:VALARM
+DTSTART:20180512T020500Z
+DTEND:20180512T050500Z
+UID:g3mWSZVSVW5Z4dWoBRQp-REg@stanza.co
+SUMMARY:Quakes vs. Rawhide
+DESCRIPTION:Quakes vs. Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+xB1W-x\n\nShop: https://stza.co/+xB1W-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Rawhide
+<2018-05-12 Sat 21:05>--<2018-05-13 Sun 00:05>
+:PROPERTIES:
+:ID:       ffeG5TSvt4LcUo7K7LEasP4a@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Rawhide Quakes vs. Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+xB1Y-1a
+
+Shop  https //stza.co/+xB1Y-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Rawhide
+END:VALARM
+DTSTART:20180513T020500Z
+DTEND:20180513T050500Z
+UID:ffeG5TSvt4LcUo7K7LEasP4a@stanza.co
+SUMMARY:Quakes vs. Rawhide
+DESCRIPTION:Quakes vs. Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+xB1Y-1a\n\nShop: https://stza.co/+xB1Y-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Rawhide
+<2018-05-13 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       B7F0kAhXxoajSaM4iOmZFDK0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Rawhide Quakes vs. Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+xB1$-2V
+
+Shop  https //stza.co/+xB1$-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Rawhide
+END:VALARM
+DTSTART:20180513T210500Z
+DTEND:20180514T000500Z
+UID:B7F0kAhXxoajSaM4iOmZFDK0@stanza.co
+SUMMARY:Quakes vs. Rawhide
+DESCRIPTION:Quakes vs. Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+xB1$-2V\n\nShop: https://stza.co/+xB1$-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Rawhide
+<2018-05-14 Mon 12:35-15:35>
+:PROPERTIES:
+:ID:       xu_uDXHbr0y6AoKD6ngkHfdm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Rawhide Quakes vs. Rawhide
+
+Follow on MiLB First Pitch  https //stza.co/+xB21-3w
+
+Shop  https //stza.co/+xB21-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Rawhide
+END:VALARM
+DTSTART:20180514T173500Z
+DTEND:20180514T203500Z
+UID:xu_uDXHbr0y6AoKD6ngkHfdm@stanza.co
+SUMMARY:Quakes vs. Rawhide
+DESCRIPTION:Quakes vs. Rawhide\n\nFollow on MiLB First Pitch: https://stza.co/+xB21-3w\n\nShop: https://stza.co/+xB21-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Ports
+<2018-05-15 Tue 21:10>--<2018-05-16 Wed 00:10>
+:PROPERTIES:
+:ID:       WCOEjCGfnPT256FtGquWkJAJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Ports Quakes @ Ports
+
+Follow on MiLB First Pitch  https //stza.co/+vM0V-24
+
+Shop  https //stza.co/+vM0V-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Ports
+END:VALARM
+DTSTART:20180516T021000Z
+DTEND:20180516T051000Z
+UID:WCOEjCGfnPT256FtGquWkJAJ@stanza.co
+SUMMARY:Quakes @ Ports
+DESCRIPTION:Quakes @ Ports\n\nFollow on MiLB First Pitch: https://stza.co/+vM0V-24\n\nShop: https://stza.co/+vM0V-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Ports
+<2018-05-16 Wed 21:10>--<2018-05-17 Thu 00:10>
+:PROPERTIES:
+:ID:       dtCwVUJOso7fFjMKO6vqr7WZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Ports Quakes @ Ports
+
+Follow on MiLB First Pitch  https //stza.co/+vM0W-3K
+
+Shop  https //stza.co/+vM0W-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Ports
+END:VALARM
+DTSTART:20180517T021000Z
+DTEND:20180517T051000Z
+UID:dtCwVUJOso7fFjMKO6vqr7WZ@stanza.co
+SUMMARY:Quakes @ Ports
+DESCRIPTION:Quakes @ Ports\n\nFollow on MiLB First Pitch: https://stza.co/+vM0W-3K\n\nShop: https://stza.co/+vM0W-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Ports
+<2018-05-17 Thu 13:10-16:10>
+:PROPERTIES:
+:ID:       Y_bEQ2YWKZ9uytPn48COuSQV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Ports Quakes @ Ports
+
+Follow on MiLB First Pitch  https //stza.co/+vM0X-2J
+
+Shop  https //stza.co/+vM0X-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Ports
+END:VALARM
+DTSTART:20180517T181000Z
+DTEND:20180517T211000Z
+UID:Y_bEQ2YWKZ9uytPn48COuSQV@stanza.co
+SUMMARY:Quakes @ Ports
+DESCRIPTION:Quakes @ Ports\n\nFollow on MiLB First Pitch: https://stza.co/+vM0X-2J\n\nShop: https://stza.co/+vM0X-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-05-18 Fri 21:05>--<2018-05-19 Sat 00:05>
+:PROPERTIES:
+:ID:       0qrSzALnvh_cO6qtf3d9vucQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB23-y
+
+Shop  https //stza.co/+xB23-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180519T020500Z
+DTEND:20180519T050500Z
+UID:0qrSzALnvh_cO6qtf3d9vucQ@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB23-y\n\nShop: https://stza.co/+xB23-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-05-19 Sat 21:05>--<2018-05-20 Sun 00:05>
+:PROPERTIES:
+:ID:       3x5W1lpq7aqX-S8XEdfJBrVR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB25-25
+
+Shop  https //stza.co/+xB25-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180520T020500Z
+DTEND:20180520T050500Z
+UID:3x5W1lpq7aqX-S8XEdfJBrVR@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB25-25\n\nShop: https://stza.co/+xB25-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-05-20 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       mbgYTWBaF1SNPkI-cVva3xgX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB27-26
+
+Shop  https //stza.co/+xB27-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180520T210500Z
+DTEND:20180521T000500Z
+UID:mbgYTWBaF1SNPkI-cVva3xgX@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB27-26\n\nShop: https://stza.co/+xB27-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Ports
+<2018-05-22 Tue 21:05>--<2018-05-23 Wed 00:05>
+:PROPERTIES:
+:ID:       BP5zIFnWayEmgpzv11r8us_w@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Ports Quakes vs. Ports
+
+Follow on MiLB First Pitch  https //stza.co/+xB28-1V
+
+Shop  https //stza.co/+xB28-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Ports
+END:VALARM
+DTSTART:20180523T020500Z
+DTEND:20180523T050500Z
+UID:BP5zIFnWayEmgpzv11r8us_w@stanza.co
+SUMMARY:Quakes vs. Ports
+DESCRIPTION:Quakes vs. Ports\n\nFollow on MiLB First Pitch: https://stza.co/+xB28-1V\n\nShop: https://stza.co/+xB28-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Ports
+<2018-05-23 Wed 21:05>--<2018-05-24 Thu 00:05>
+:PROPERTIES:
+:ID:       0WjTB0xmIJQgpA_-c4LS3sd2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Ports Quakes vs. Ports
+
+Follow on MiLB First Pitch  https //stza.co/+xB2d-F
+
+Shop  https //stza.co/+xB2d-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Ports
+END:VALARM
+DTSTART:20180524T020500Z
+DTEND:20180524T050500Z
+UID:0WjTB0xmIJQgpA_-c4LS3sd2@stanza.co
+SUMMARY:Quakes vs. Ports
+DESCRIPTION:Quakes vs. Ports\n\nFollow on MiLB First Pitch: https://stza.co/+xB2d-F\n\nShop: https://stza.co/+xB2d-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Ports
+<2018-05-24 Thu 21:05>--<2018-05-25 Fri 00:05>
+:PROPERTIES:
+:ID:       ONmqG_saPN_ZxhFh_7rOxKab@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Ports Quakes vs. Ports
+
+Follow on MiLB First Pitch  https //stza.co/+xB2g-1h
+
+Shop  https //stza.co/+xB2g-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Ports
+END:VALARM
+DTSTART:20180525T020500Z
+DTEND:20180525T050500Z
+UID:ONmqG_saPN_ZxhFh_7rOxKab@stanza.co
+SUMMARY:Quakes vs. Ports
+DESCRIPTION:Quakes vs. Ports\n\nFollow on MiLB First Pitch: https://stza.co/+xB2g-1h\n\nShop: https://stza.co/+xB2g-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-05-25 Fri 21:05>--<2018-05-26 Sat 00:05>
+:PROPERTIES:
+:ID:       d1vVFBN7ubLpGssz8hfr0emX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0Cw-3V
+
+Shop  https //stza.co/+y0Cw-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180526T020500Z
+DTEND:20180526T050500Z
+UID:d1vVFBN7ubLpGssz8hfr0emX@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0Cw-3V\n\nShop: https://stza.co/+y0Cw-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-05-26 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       1P9MhXDnsPm5Y6MhGnd0YH7u@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0Cx-1i
+
+Shop  https //stza.co/+y0Cx-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180527T010500Z
+DTEND:20180527T040500Z
+UID:1P9MhXDnsPm5Y6MhGnd0YH7u@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0Cx-1i\n\nShop: https://stza.co/+y0Cx-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-05-27 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       UOQuwKOpgSW3FVegEH_PG7Pl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0Cy-1$
+
+Shop  https //stza.co/+y0Cy-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180527T210500Z
+DTEND:20180528T000500Z
+UID:UOQuwKOpgSW3FVegEH_PG7Pl@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0Cy-1$\n\nShop: https://stza.co/+y0Cy-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-05-28 Mon 16:05-19:05>
+:PROPERTIES:
+:ID:       RLDrIDfipsvOZRJiUFYbDMpZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB2k-1M
+
+Shop  https //stza.co/+xB2k-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180528T210500Z
+DTEND:20180529T000500Z
+UID:RLDrIDfipsvOZRJiUFYbDMpZ@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB2k-1M\n\nShop: https://stza.co/+xB2k-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-05-29 Tue 21:05>--<2018-05-30 Wed 00:05>
+:PROPERTIES:
+:ID:       vBXHKwHfQtNbAQch9qOEXH8F@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB2m-w
+
+Shop  https //stza.co/+xB2m-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180530T020500Z
+DTEND:20180530T050500Z
+UID:vBXHKwHfQtNbAQch9qOEXH8F@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB2m-w\n\nShop: https://stza.co/+xB2m-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-05-30 Wed 21:05>--<2018-05-31 Thu 00:05>
+:PROPERTIES:
+:ID:       ajknT7yYfdTN4kisQt8to-Wn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB2o-31
+
+Shop  https //stza.co/+xB2o-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180531T020500Z
+DTEND:20180531T050500Z
+UID:ajknT7yYfdTN4kisQt8to-Wn@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB2o-31\n\nShop: https://stza.co/+xB2o-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-05-31 Thu 21:05>--<2018-06-01 Fri 00:05>
+:PROPERTIES:
+:ID:       xoe5TagYLSTk9JYN9tUoo6jh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB2r-s
+
+Shop  https //stza.co/+xB2r-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180601T020500Z
+DTEND:20180601T050500Z
+UID:xoe5TagYLSTk9JYN9tUoo6jh@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB2r-s\n\nShop: https://stza.co/+xB2r-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-06-01 Fri 21:05>--<2018-06-02 Sat 00:05>
+:PROPERTIES:
+:ID:       QNKPN64SSo7xhW26tq3OZQlG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xB2t-1g
+
+Shop  https //stza.co/+xB2t-24
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180602T020500Z
+DTEND:20180602T050500Z
+UID:QNKPN64SSo7xhW26tq3OZQlG@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xB2t-1g\n\nShop: https://stza.co/+xB2t-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-06-02 Sat 21:05>--<2018-06-03 Sun 00:05>
+:PROPERTIES:
+:ID:       30VJ_IthWgfecwYD16kNPbur@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xB2v-2Y
+
+Shop  https //stza.co/+xB2v-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180603T020500Z
+DTEND:20180603T050500Z
+UID:30VJ_IthWgfecwYD16kNPbur@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xB2v-2Y\n\nShop: https://stza.co/+xB2v-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-06-03 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       2FB29aAhJvMd6456XSzqClvq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xB2y-3N
+
+Shop  https //stza.co/+xB2y-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180603T210500Z
+DTEND:20180604T000500Z
+UID:2FB29aAhJvMd6456XSzqClvq@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xB2y-3N\n\nShop: https://stza.co/+xB2y-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-06-05 Tue 20:35-23:35>
+:PROPERTIES:
+:ID:       vm08dqZCpHWtcAnpwCGtZdIw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfbG-1U
+
+Shop  https //stza.co/+vfbG-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180606T013500Z
+DTEND:20180606T043500Z
+UID:vm08dqZCpHWtcAnpwCGtZdIw@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfbG-1U\n\nShop: https://stza.co/+vfbG-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-06-06 Wed 20:35-23:35>
+:PROPERTIES:
+:ID:       tEQEnSieMRPIRyvz5iofRugJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfbK-2N
+
+Shop  https //stza.co/+vfbK-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180607T013500Z
+DTEND:20180607T043500Z
+UID:tEQEnSieMRPIRyvz5iofRugJ@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfbK-2N\n\nShop: https://stza.co/+vfbK-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-06-07 Thu 20:35-23:35>
+:PROPERTIES:
+:ID:       lCGkJhk1hq1lUIThNPV0MIpd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfbS-3w
+
+Shop  https //stza.co/+vfbS-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180608T013500Z
+DTEND:20180608T043500Z
+UID:lCGkJhk1hq1lUIThNPV0MIpd@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfbS-3w\n\nShop: https://stza.co/+vfbS-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-06-08 Fri 21:05>--<2018-06-09 Sat 00:05>
+:PROPERTIES:
+:ID:       jobQsZVihnNiMVhHFNgi8QiZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB2A-3b
+
+Shop  https //stza.co/+xB2A-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180609T020500Z
+DTEND:20180609T050500Z
+UID:jobQsZVihnNiMVhHFNgi8QiZ@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB2A-3b\n\nShop: https://stza.co/+xB2A-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-06-09 Sat 21:05>--<2018-06-10 Sun 00:05>
+:PROPERTIES:
+:ID:       -M_nmDzcZjPSuRIOlTJhuToN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB2C-1v
+
+Shop  https //stza.co/+xB2C-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180610T020500Z
+DTEND:20180610T050500Z
+UID:-M_nmDzcZjPSuRIOlTJhuToN@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB2C-1v\n\nShop: https://stza.co/+xB2C-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-06-10 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       Culwl4c-r7iw0hCxGm0dyo-V@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB2F-P
+
+Shop  https //stza.co/+xB2F-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180610T210500Z
+DTEND:20180611T000500Z
+UID:Culwl4c-r7iw0hCxGm0dyo-V@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB2F-P\n\nShop: https://stza.co/+xB2F-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-11 Mon 20:00-23:00>
+:PROPERTIES:
+:ID:       lxRRXhmzGrB8_BQJ8Ay6moFD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB0_-k
+
+Shop  https //stza.co/+xB0_-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180612T010000Z
+DTEND:20180612T040000Z
+UID:lxRRXhmzGrB8_BQJ8Ay6moFD@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB0_-k\n\nShop: https://stza.co/+xB0_-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-12 Tue 20:00-23:00>
+:PROPERTIES:
+:ID:       ZkvMfHFhSvNzXppQavYUHYa1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB10-3C
+
+Shop  https //stza.co/+xB10-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180613T010000Z
+DTEND:20180613T040000Z
+UID:ZkvMfHFhSvNzXppQavYUHYa1@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB10-3C\n\nShop: https://stza.co/+xB10-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-13 Wed 20:00-23:00>
+:PROPERTIES:
+:ID:       lKJuu8IFhqDQB9Y-BVGS6z5f@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB13-f
+
+Shop  https //stza.co/+xB13-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180614T010000Z
+DTEND:20180614T040000Z
+UID:lKJuu8IFhqDQB9Y-BVGS6z5f@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB13-f\n\nShop: https://stza.co/+xB13-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-14 Thu 21:00>--<2018-06-15 Fri 00:00>
+:PROPERTIES:
+:ID:       aoJXlgIN4HwC2QkVflqw15X6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB15-3D
+
+Shop  https //stza.co/+xB15-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180615T020000Z
+DTEND:20180615T050000Z
+UID:aoJXlgIN4HwC2QkVflqw15X6@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB15-3D\n\nShop: https://stza.co/+xB15-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-06-15 Fri 21:05>--<2018-06-16 Sat 00:05>
+:PROPERTIES:
+:ID:       flQ7E1wbCvrdW3yC7JTIu6hP@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0Cz-2a
+
+Shop  https //stza.co/+y0Cz-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180616T020500Z
+DTEND:20180616T050500Z
+UID:flQ7E1wbCvrdW3yC7JTIu6hP@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0Cz-2a\n\nShop: https://stza.co/+y0Cz-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-06-16 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       usjobakgq9K4LoUic-u4axGT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CA-2h
+
+Shop  https //stza.co/+y0CA-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180617T010500Z
+DTEND:20180617T040500Z
+UID:usjobakgq9K4LoUic-u4axGT@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CA-2h\n\nShop: https://stza.co/+y0CA-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-06-17 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       QP0OUvbkUD9zixZhmPen8g5L@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CB-2H
+
+Shop  https //stza.co/+y0CB-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180617T210500Z
+DTEND:20180618T000500Z
+UID:QP0OUvbkUD9zixZhmPen8g5L@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CB-2H\n\nShop: https://stza.co/+y0CB-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Giants
+<2018-06-21 Thu 21:05>--<2018-06-22 Fri 00:05>
+:PROPERTIES:
+:ID:       3bJcJqaaSvvpPGjJQKOi0zNA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Giants Quakes vs. Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xB2H-34
+
+Shop  https //stza.co/+xB2H-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Giants
+END:VALARM
+DTSTART:20180622T020500Z
+DTEND:20180622T050500Z
+UID:3bJcJqaaSvvpPGjJQKOi0zNA@stanza.co
+SUMMARY:Quakes vs. Giants
+DESCRIPTION:Quakes vs. Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xB2H-34\n\nShop: https://stza.co/+xB2H-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Giants
+<2018-06-22 Fri 21:05>--<2018-06-23 Sat 00:05>
+:PROPERTIES:
+:ID:       TREbsUWcXCJVvBXgQy3IciEp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Giants Quakes vs. Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xB2J-32
+
+Shop  https //stza.co/+xB2J-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Giants
+END:VALARM
+DTSTART:20180623T020500Z
+DTEND:20180623T050500Z
+UID:TREbsUWcXCJVvBXgQy3IciEp@stanza.co
+SUMMARY:Quakes vs. Giants
+DESCRIPTION:Quakes vs. Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xB2J-32\n\nShop: https://stza.co/+xB2J-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Giants
+<2018-06-23 Sat 21:05>--<2018-06-24 Sun 00:05>
+:PROPERTIES:
+:ID:       KTxO7hXmUZRv0QsVliv9S3BT@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Giants Quakes vs. Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xB2M-1o
+
+Shop  https //stza.co/+xB2M-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Giants
+END:VALARM
+DTSTART:20180624T020500Z
+DTEND:20180624T050500Z
+UID:KTxO7hXmUZRv0QsVliv9S3BT@stanza.co
+SUMMARY:Quakes vs. Giants
+DESCRIPTION:Quakes vs. Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xB2M-1o\n\nShop: https://stza.co/+xB2M-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Giants
+<2018-06-24 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       zHMviTgoyQN51_aGg7WrCHJS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Giants Quakes vs. Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xB2Q-2s
+
+Shop  https //stza.co/+xB2Q-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Giants
+END:VALARM
+DTSTART:20180624T210500Z
+DTEND:20180625T000500Z
+UID:zHMviTgoyQN51_aGg7WrCHJS@stanza.co
+SUMMARY:Quakes vs. Giants
+DESCRIPTION:Quakes vs. Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xB2Q-2s\n\nShop: https://stza.co/+xB2Q-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-25 Mon 20:00-23:00>
+:PROPERTIES:
+:ID:       hvyjcvNLvSWuT9Fa9uBuHGRT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB16-R
+
+Shop  https //stza.co/+xB16-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180626T010000Z
+DTEND:20180626T040000Z
+UID:hvyjcvNLvSWuT9Fa9uBuHGRT@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB16-R\n\nShop: https://stza.co/+xB16-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-26 Tue 20:00-23:00>
+:PROPERTIES:
+:ID:       YVZcQf3Coo2iLypt2l77DpFB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB18-q
+
+Shop  https //stza.co/+xB18-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180627T010000Z
+DTEND:20180627T040000Z
+UID:YVZcQf3Coo2iLypt2l77DpFB@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB18-q\n\nShop: https://stza.co/+xB18-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-27 Wed 20:00-23:00>
+:PROPERTIES:
+:ID:       stfWPW1hJnvbvgWsRllttgCo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB19-19
+
+Shop  https //stza.co/+xB19-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180628T010000Z
+DTEND:20180628T040000Z
+UID:stfWPW1hJnvbvgWsRllttgCo@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB19-19\n\nShop: https://stza.co/+xB19-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-06-28 Thu 21:00>--<2018-06-29 Fri 00:00>
+:PROPERTIES:
+:ID:       EoI_mBFVTYz7BE4ySLLCEV2I@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB1a-m
+
+Shop  https //stza.co/+xB1a-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180629T020000Z
+DTEND:20180629T050000Z
+UID:EoI_mBFVTYz7BE4ySLLCEV2I@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB1a-m\n\nShop: https://stza.co/+xB1a-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-06-29 Fri 21:05>--<2018-06-30 Sat 00:05>
+:PROPERTIES:
+:ID:       6KsLFWvu2zPjFkqWP9_ZL-kO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xB2T-w
+
+Shop  https //stza.co/+xB2T-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180630T020500Z
+DTEND:20180630T050500Z
+UID:6KsLFWvu2zPjFkqWP9_ZL-kO@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xB2T-w\n\nShop: https://stza.co/+xB2T-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-06-30 Sat 21:05>--<2018-07-01 Sun 00:05>
+:PROPERTIES:
+:ID:       M4oZFTJmONZpgjpsEWJoe2j6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xz_K-F
+
+Shop  https //stza.co/+xz_K-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180701T020500Z
+DTEND:20180701T050500Z
+UID:M4oZFTJmONZpgjpsEWJoe2j6@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xz_K-F\n\nShop: https://stza.co/+xz_K-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-07-01 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       sCMq1wjmy_LtgGlZ7NRQbd2E@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xz_M-b
+
+Shop  https //stza.co/+xz_M-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180701T210500Z
+DTEND:20180702T000500Z
+UID:sCMq1wjmy_LtgGlZ7NRQbd2E@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xz_M-b\n\nShop: https://stza.co/+xz_M-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-07-02 Mon 21:05>--<2018-07-03 Tue 00:05>
+:PROPERTIES:
+:ID:       wcbCDrU9Uan7R6H91-8nn2Yq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xz_Q-2R
+
+Shop  https //stza.co/+xz_Q-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180703T020500Z
+DTEND:20180703T050500Z
+UID:wcbCDrU9Uan7R6H91-8nn2Yq@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xz_Q-2R\n\nShop: https://stza.co/+xz_Q-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-07-03 Tue 21:05>--<2018-07-04 Wed 00:05>
+:PROPERTIES:
+:ID:       32quJXzQ6sorl0gnPpUKD97F@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xz_T-2w
+
+Shop  https //stza.co/+xz_T-2u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180704T020500Z
+DTEND:20180704T050500Z
+UID:32quJXzQ6sorl0gnPpUKD97F@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xz_T-2w\n\nShop: https://stza.co/+xz_T-2u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-04 Wed 20:30-23:30>
+:PROPERTIES:
+:ID:       SRS8pciJfdoQjMVZaaMc3ZHa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWe-3C
+
+Shop  https //stza.co/+xEWe-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180705T013000Z
+DTEND:20180705T043000Z
+UID:SRS8pciJfdoQjMVZaaMc3ZHa@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWe-3C\n\nShop: https://stza.co/+xEWe-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-05 Thu 21:00>--<2018-07-06 Fri 00:00>
+:PROPERTIES:
+:ID:       I89o0iKGhSXxy_7ouN9JKtWA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWf-1Q
+
+Shop  https //stza.co/+xEWf-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180706T020000Z
+DTEND:20180706T050000Z
+UID:I89o0iKGhSXxy_7ouN9JKtWA@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWf-1Q\n\nShop: https://stza.co/+xEWf-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-06 Fri 21:00>--<2018-07-07 Sat 00:00>
+:PROPERTIES:
+:ID:       Hj1gxvSaT7C8FuHK4-hEGmz8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWg-3v
+
+Shop  https //stza.co/+xEWg-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180707T020000Z
+DTEND:20180707T050000Z
+UID:Hj1gxvSaT7C8FuHK4-hEGmz8@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWg-3v\n\nShop: https://stza.co/+xEWg-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-07 Sat 19:00-22:00>
+:PROPERTIES:
+:ID:       tWZ1wjmVkAOKgrktVtmt-hk5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWh-2X
+
+Shop  https //stza.co/+xEWh-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180708T000000Z
+DTEND:20180708T030000Z
+UID:tWZ1wjmVkAOKgrktVtmt-hk5@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWh-2X\n\nShop: https://stza.co/+xEWh-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-08 Sun 19:00-22:00>
+:PROPERTIES:
+:ID:       ccFUirQ_QA-XRDr8w3x5srWo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWi-2F
+
+Shop  https //stza.co/+xEWi-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180709T000000Z
+DTEND:20180709T030000Z
+UID:ccFUirQ_QA-XRDr8w3x5srWo@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWi-2F\n\nShop: https://stza.co/+xEWi-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-07-09 Mon 21:05>--<2018-07-10 Tue 00:05>
+:PROPERTIES:
+:ID:       d1G-55-A4kmSbf9_3RJMhpmt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz_U-37
+
+Shop  https //stza.co/+xz_U-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180710T020500Z
+DTEND:20180710T050500Z
+UID:d1G-55-A4kmSbf9_3RJMhpmt@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz_U-37\n\nShop: https://stza.co/+xz_U-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-07-10 Tue 21:05>--<2018-07-11 Wed 00:05>
+:PROPERTIES:
+:ID:       366ucJP_zMa7llHMJd3mUol8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz_W-1u
+
+Shop  https //stza.co/+xz_W-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180711T020500Z
+DTEND:20180711T050500Z
+UID:366ucJP_zMa7llHMJd3mUol8@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz_W-1u\n\nShop: https://stza.co/+xz_W-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-07-11 Wed 21:05>--<2018-07-12 Thu 00:05>
+:PROPERTIES:
+:ID:       hYdBoKiHKgvQPrTDmTZHUpk7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$2-J
+
+Shop  https //stza.co/+xz$2-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180712T020500Z
+DTEND:20180712T050500Z
+UID:hYdBoKiHKgvQPrTDmTZHUpk7@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$2-J\n\nShop: https://stza.co/+xz$2-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-07-12 Thu 21:05>--<2018-07-13 Fri 00:05>
+:PROPERTIES:
+:ID:       dRoOAhLFVaPm6lZAu4ZNd_cd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$5-2n
+
+Shop  https //stza.co/+xz$5-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180713T020500Z
+DTEND:20180713T050500Z
+UID:dRoOAhLFVaPm6lZAu4ZNd_cd@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$5-2n\n\nShop: https://stza.co/+xz$5-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-07-13 Fri 21:05>--<2018-07-14 Sat 00:05>
+:PROPERTIES:
+:ID:       vMvcVNCka7CmUAjkEMD16XcX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CC-3B
+
+Shop  https //stza.co/+y0CC-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180714T020500Z
+DTEND:20180714T050500Z
+UID:vMvcVNCka7CmUAjkEMD16XcX@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CC-3B\n\nShop: https://stza.co/+y0CC-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-07-14 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       WcNlgjxz0PQJp9lp2Jmz8aNj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CD-a
+
+Shop  https //stza.co/+y0CD-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180715T010500Z
+DTEND:20180715T040500Z
+UID:WcNlgjxz0PQJp9lp2Jmz8aNj@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CD-a\n\nShop: https://stza.co/+y0CD-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-07-15 Sun 19:35-22:35>
+:PROPERTIES:
+:ID:       LL80hZAeho59q_q4D4b4399J@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CE-2t
+
+Shop  https //stza.co/+y0CE-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180716T003500Z
+DTEND:20180716T033500Z
+UID:LL80hZAeho59q_q4D4b4399J@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CE-2t\n\nShop: https://stza.co/+y0CE-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-07-16 Mon 21:05>--<2018-07-17 Tue 00:05>
+:PROPERTIES:
+:ID:       xZrWiyP0Sc4Wn5UscVQE0RHz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CF-v
+
+Shop  https //stza.co/+y0CF-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180717T020500Z
+DTEND:20180717T050500Z
+UID:xZrWiyP0Sc4Wn5UscVQE0RHz@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CF-v\n\nShop: https://stza.co/+y0CF-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Giants
+<2018-07-18 Wed 21:05>--<2018-07-19 Thu 00:05>
+:PROPERTIES:
+:ID:       2wyWw8_vMVZ_mhsqXGpZ1BhG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Giants Quakes vs. Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xz$8-18
+
+Shop  https //stza.co/+xz$8-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Giants
+END:VALARM
+DTSTART:20180719T020500Z
+DTEND:20180719T050500Z
+UID:2wyWw8_vMVZ_mhsqXGpZ1BhG@stanza.co
+SUMMARY:Quakes vs. Giants
+DESCRIPTION:Quakes vs. Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xz$8-18\n\nShop: https://stza.co/+xz$8-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Giants
+<2018-07-19 Thu 21:05>--<2018-07-20 Fri 00:05>
+:PROPERTIES:
+:ID:       vbBwmPAQNRM7Q7nbOyVyJwY8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Giants Quakes vs. Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xz$c-2Y
+
+Shop  https //stza.co/+xz$c-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Giants
+END:VALARM
+DTSTART:20180720T020500Z
+DTEND:20180720T050500Z
+UID:vbBwmPAQNRM7Q7nbOyVyJwY8@stanza.co
+SUMMARY:Quakes vs. Giants
+DESCRIPTION:Quakes vs. Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xz$c-2Y\n\nShop: https://stza.co/+xz$c-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Giants
+<2018-07-20 Fri 21:05>--<2018-07-21 Sat 00:05>
+:PROPERTIES:
+:ID:       COiBpkv-tY0yOvkSi43KKS4y@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Giants Quakes vs. Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xz$f-2u
+
+Shop  https //stza.co/+xz$f-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Giants
+END:VALARM
+DTSTART:20180721T020500Z
+DTEND:20180721T050500Z
+UID:COiBpkv-tY0yOvkSi43KKS4y@stanza.co
+SUMMARY:Quakes vs. Giants
+DESCRIPTION:Quakes vs. Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xz$f-2u\n\nShop: https://stza.co/+xz$f-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Nuts
+<2018-07-21 Sat 21:05>--<2018-07-22 Sun 00:05>
+:PROPERTIES:
+:ID:       QOC_ULrhblsdfqwxbfR-Mtdp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Nuts Quakes vs. Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xz$i-2Q
+
+Shop  https //stza.co/+xz$i-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Nuts
+END:VALARM
+DTSTART:20180722T020500Z
+DTEND:20180722T050500Z
+UID:QOC_ULrhblsdfqwxbfR-Mtdp@stanza.co
+SUMMARY:Quakes vs. Nuts
+DESCRIPTION:Quakes vs. Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xz$i-2Q\n\nShop: https://stza.co/+xz$i-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Nuts
+<2018-07-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       Ym61TfpfG1B9o2Hw9VctJP6g@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Nuts Quakes vs. Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xKKF-p
+
+Shop  https //stza.co/+xKKF-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Nuts
+END:VALARM
+DTSTART:20180722T210500Z
+DTEND:20180723T000500Z
+UID:Ym61TfpfG1B9o2Hw9VctJP6g@stanza.co
+SUMMARY:Quakes vs. Nuts
+DESCRIPTION:Quakes vs. Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xKKF-p\n\nShop: https://stza.co/+xKKF-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Nuts
+<2018-07-23 Mon 12:35-15:35>
+:PROPERTIES:
+:ID:       xxHGYagj6O28RIRqSwmWGGQY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Nuts Quakes vs. Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xz$m-1g
+
+Shop  https //stza.co/+xz$m-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Nuts
+END:VALARM
+DTSTART:20180723T173500Z
+DTEND:20180723T203500Z
+UID:xxHGYagj6O28RIRqSwmWGGQY@stanza.co
+SUMMARY:Quakes vs. Nuts
+DESCRIPTION:Quakes vs. Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xz$m-1g\n\nShop: https://stza.co/+xz$m-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-24 Tue 21:00>--<2018-07-25 Wed 00:00>
+:PROPERTIES:
+:ID:       xcGk2gy_gx1J0hKm2Mq-Pccc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWj-2a
+
+Shop  https //stza.co/+xEWj-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180725T020000Z
+DTEND:20180725T050000Z
+UID:xcGk2gy_gx1J0hKm2Mq-Pccc@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWj-2a\n\nShop: https://stza.co/+xEWj-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-25 Wed 21:00>--<2018-07-26 Thu 00:00>
+:PROPERTIES:
+:ID:       UWrrpnPR86VhKb_nllGTNmd5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWk-2P
+
+Shop  https //stza.co/+xEWk-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180726T020000Z
+DTEND:20180726T050000Z
+UID:UWrrpnPR86VhKb_nllGTNmd5@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWk-2P\n\nShop: https://stza.co/+xEWk-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-07-26 Thu 14:30-17:30>
+:PROPERTIES:
+:ID:       y3K-gLwi1cxXYdf8CvWpazoh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWl-1Z
+
+Shop  https //stza.co/+xEWl-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180726T193000Z
+DTEND:20180726T223000Z
+UID:y3K-gLwi1cxXYdf8CvWpazoh@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWl-1Z\n\nShop: https://stza.co/+xEWl-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Nuts
+<2018-07-27 Fri 21:05>--<2018-07-28 Sat 00:05>
+:PROPERTIES:
+:ID:       w_GREde7HfiHq5Ak4qVV1PB0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Nuts Quakes @ Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xB1e-1T
+
+Shop  https //stza.co/+xB1e-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Nuts
+END:VALARM
+DTSTART:20180728T020500Z
+DTEND:20180728T050500Z
+UID:w_GREde7HfiHq5Ak4qVV1PB0@stanza.co
+SUMMARY:Quakes @ Nuts
+DESCRIPTION:Quakes @ Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xB1e-1T\n\nShop: https://stza.co/+xB1e-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Nuts
+<2018-07-28 Sat 21:05>--<2018-07-29 Sun 00:05>
+:PROPERTIES:
+:ID:       xTYaFdh2ISGVCNCcf7x6aQ9u@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Nuts Quakes @ Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xB1g-1Y
+
+Shop  https //stza.co/+xB1g-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Nuts
+END:VALARM
+DTSTART:20180729T020500Z
+DTEND:20180729T050500Z
+UID:xTYaFdh2ISGVCNCcf7x6aQ9u@stanza.co
+SUMMARY:Quakes @ Nuts
+DESCRIPTION:Quakes @ Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xB1g-1Y\n\nShop: https://stza.co/+xB1g-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Nuts
+<2018-07-29 Sun 20:05-23:05>
+:PROPERTIES:
+:ID:       rdK3lwMickKJMmAEsrbfmnqW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Nuts Quakes @ Nuts
+
+Follow on MiLB First Pitch  https //stza.co/+xB1i-2Q
+
+Shop  https //stza.co/+xB1i-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Nuts
+END:VALARM
+DTSTART:20180730T010500Z
+DTEND:20180730T040500Z
+UID:rdK3lwMickKJMmAEsrbfmnqW@stanza.co
+SUMMARY:Quakes @ Nuts
+DESCRIPTION:Quakes @ Nuts\n\nFollow on MiLB First Pitch: https://stza.co/+xB1i-2Q\n\nShop: https://stza.co/+xB1i-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-07-31 Tue 21:05>--<2018-08-01 Wed 00:05>
+:PROPERTIES:
+:ID:       Uys5AUcscD-Kt8OUaJh4uH_Z@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xz$q-1b
+
+Shop  https //stza.co/+xz$q-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180801T020500Z
+DTEND:20180801T050500Z
+UID:Uys5AUcscD-Kt8OUaJh4uH_Z@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xz$q-1b\n\nShop: https://stza.co/+xz$q-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-08-01 Wed 21:05>--<2018-08-02 Thu 00:05>
+:PROPERTIES:
+:ID:       mIhle1BSdbzHttgfK1ref63_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xz$t-D
+
+Shop  https //stza.co/+xz$t-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180802T020500Z
+DTEND:20180802T050500Z
+UID:mIhle1BSdbzHttgfK1ref63_@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xz$t-D\n\nShop: https://stza.co/+xz$t-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-08-02 Thu 21:05>--<2018-08-03 Fri 00:05>
+:PROPERTIES:
+:ID:       UOxdSA_ykSAd0-Sn1g9f9J4O@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xz$w-J
+
+Shop  https //stza.co/+xz$w-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180803T020500Z
+DTEND:20180803T050500Z
+UID:UOxdSA_ykSAd0-Sn1g9f9J4O@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xz$w-J\n\nShop: https://stza.co/+xz$w-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-08-03 Fri 20:35-23:35>
+:PROPERTIES:
+:ID:       _aXsRkLuO3FPhFlkwCfjH9DT@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfbZ-f
+
+Shop  https //stza.co/+vfbZ-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180804T013500Z
+DTEND:20180804T043500Z
+UID:_aXsRkLuO3FPhFlkwCfjH9DT@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfbZ-f\n\nShop: https://stza.co/+vfbZ-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-08-04 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       6BPvOSTfNIlRgPc27Dxxxb4L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfc4-3N
+
+Shop  https //stza.co/+vfc4-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180805T010500Z
+DTEND:20180805T040500Z
+UID:6BPvOSTfNIlRgPc27Dxxxb4L@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfc4-3N\n\nShop: https://stza.co/+vfc4-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       dbAB5rQO9-nurTC0ilgAkrsu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfcb-
+
+Shop  https //stza.co/+vfcb-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:dbAB5rQO9-nurTC0ilgAkrsu@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfcb-\n\nShop: https://stza.co/+vfcb-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-08-06 Mon 21:00>--<2018-08-07 Tue 00:00>
+:PROPERTIES:
+:ID:       Fxntc8aUTtvd7x3opyf3TRIH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWm-1U
+
+Shop  https //stza.co/+xEWm-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180807T020000Z
+DTEND:20180807T050000Z
+UID:Fxntc8aUTtvd7x3opyf3TRIH@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWm-1U\n\nShop: https://stza.co/+xEWm-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-08-07 Tue 21:00>--<2018-08-08 Wed 00:00>
+:PROPERTIES:
+:ID:       a2qlMpCPTOfqJtRX6MRWMtO3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWn-2d
+
+Shop  https //stza.co/+xEWn-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180808T020000Z
+DTEND:20180808T050000Z
+UID:a2qlMpCPTOfqJtRX6MRWMtO3@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWn-2d\n\nShop: https://stza.co/+xEWn-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Giants
+<2018-08-08 Wed 14:30-17:30>
+:PROPERTIES:
+:ID:       Jwl2v9nzpRYLQtITzFLBxvCI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Giants Quakes @ Giants
+
+Follow on MiLB First Pitch  https //stza.co/+xEWo-1w
+
+Shop  https //stza.co/+xEWo-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Giants
+END:VALARM
+DTSTART:20180808T193000Z
+DTEND:20180808T223000Z
+UID:Jwl2v9nzpRYLQtITzFLBxvCI@stanza.co
+SUMMARY:Quakes @ Giants
+DESCRIPTION:Quakes @ Giants\n\nFollow on MiLB First Pitch: https://stza.co/+xEWo-1w\n\nShop: https://stza.co/+xEWo-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-08-10 Fri 21:05>--<2018-08-11 Sat 00:05>
+:PROPERTIES:
+:ID:       EmyH8HM3-Uh_4InzoPQEYrJX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$z-3p
+
+Shop  https //stza.co/+xz$z-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180811T020500Z
+DTEND:20180811T050500Z
+UID:EmyH8HM3-Uh_4InzoPQEYrJX@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$z-3p\n\nShop: https://stza.co/+xz$z-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-08-11 Sat 21:05>--<2018-08-12 Sun 00:05>
+:PROPERTIES:
+:ID:       KdKTToKB3USrrIBIxV5wP_ze@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$C-L
+
+Shop  https //stza.co/+xz$C-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180812T020500Z
+DTEND:20180812T050500Z
+UID:KdKTToKB3USrrIBIxV5wP_ze@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$C-L\n\nShop: https://stza.co/+xz$C-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-08-12 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       BFYwUvqWtgbQkGDJS-baXXBl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$E-2O
+
+Shop  https //stza.co/+xz$E-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180812T210500Z
+DTEND:20180813T000500Z
+UID:BFYwUvqWtgbQkGDJS-baXXBl@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$E-2O\n\nShop: https://stza.co/+xz$E-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-08-14 Tue 21:05>--<2018-08-15 Wed 00:05>
+:PROPERTIES:
+:ID:       pIypDdkzO8QLE22VbG_sXBKn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xz$I-1P
+
+Shop  https //stza.co/+xz$I-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180815T020500Z
+DTEND:20180815T050500Z
+UID:pIypDdkzO8QLE22VbG_sXBKn@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xz$I-1P\n\nShop: https://stza.co/+xz$I-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-08-15 Wed 21:05>--<2018-08-16 Thu 00:05>
+:PROPERTIES:
+:ID:       U9mUDPcwgtco19_lHOazbqDx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xz$M-3X
+
+Shop  https //stza.co/+xz$M-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180816T020500Z
+DTEND:20180816T050500Z
+UID:U9mUDPcwgtco19_lHOazbqDx@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xz$M-3X\n\nShop: https://stza.co/+xz$M-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. Storm
+<2018-08-16 Thu 21:05>--<2018-08-17 Fri 00:05>
+:PROPERTIES:
+:ID:       O-k-je1DDBxDeVElNCZJ5moD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. Storm Quakes vs. Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xz$T-11
+
+Shop  https //stza.co/+xz$T-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. Storm
+END:VALARM
+DTSTART:20180817T020500Z
+DTEND:20180817T050500Z
+UID:O-k-je1DDBxDeVElNCZJ5moD@stanza.co
+SUMMARY:Quakes vs. Storm
+DESCRIPTION:Quakes vs. Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xz$T-11\n\nShop: https://stza.co/+xz$T-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-08-17 Fri 21:00>--<2018-08-18 Sat 00:00>
+:PROPERTIES:
+:ID:       sCenHyAa6YvBwAaXXk0_w418@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB1b-2L
+
+Shop  https //stza.co/+xB1b-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180818T020000Z
+DTEND:20180818T050000Z
+UID:sCenHyAa6YvBwAaXXk0_w418@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB1b-2L\n\nShop: https://stza.co/+xB1b-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-08-18 Sat 20:00-23:00>
+:PROPERTIES:
+:ID:       dlU1e8FsVusiR-3tl7oOVVec@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+xB1c-3A
+
+Shop  https //stza.co/+xB1c-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART:20180819T010000Z
+DTEND:20180819T040000Z
+UID:dlU1e8FsVusiR-3tl7oOVVec@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+xB1c-3A\n\nShop: https://stza.co/+xB1c-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ Storm
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       w-CdhKwJaVgdSJDhWXJZAa9C@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ Storm Quakes @ Storm
+
+Follow on MiLB First Pitch  https //stza.co/+vfaK-2k
+
+Shop  https //stza.co/+vfaK-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ Storm
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:w-CdhKwJaVgdSJDhWXJZAa9C@stanza.co
+SUMMARY:Quakes @ Storm
+DESCRIPTION:Quakes @ Storm\n\nFollow on MiLB First Pitch: https://stza.co/+vfaK-2k\n\nShop: https://stza.co/+vfaK-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-08-21 Tue 21:05>--<2018-08-22 Wed 00:05>
+:PROPERTIES:
+:ID:       agb3dHLlI70GwaEUl2IsFj7t@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$W-6
+
+Shop  https //stza.co/+xz$W-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180822T020500Z
+DTEND:20180822T050500Z
+UID:agb3dHLlI70GwaEUl2IsFj7t@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$W-6\n\nShop: https://stza.co/+xz$W-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-08-22 Wed 21:05>--<2018-08-23 Thu 00:05>
+:PROPERTIES:
+:ID:       o4hS5TVpxuLi72XSbPhVr3ku@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$Z-2g
+
+Shop  https //stza.co/+xz$Z-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180823T020500Z
+DTEND:20180823T050500Z
+UID:o4hS5TVpxuLi72XSbPhVr3ku@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$Z-2g\n\nShop: https://stza.co/+xz$Z-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. JetHawks
+<2018-08-23 Thu 21:05>--<2018-08-24 Fri 00:05>
+:PROPERTIES:
+:ID:       cIJKMJs8Tyx7_5kPOGYUgBSD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. JetHawks Quakes vs. JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+xz$$-1y
+
+Shop  https //stza.co/+xz$$-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. JetHawks
+END:VALARM
+DTSTART:20180824T020500Z
+DTEND:20180824T050500Z
+UID:cIJKMJs8Tyx7_5kPOGYUgBSD@stanza.co
+SUMMARY:Quakes vs. JetHawks
+DESCRIPTION:Quakes vs. JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+xz$$-1y\n\nShop: https://stza.co/+xz$$-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-08-24 Fri 21:05>--<2018-08-25 Sat 00:05>
+:PROPERTIES:
+:ID:       b9NuUWS-C25u3SfM5fnEBcdU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CG-2k
+
+Shop  https //stza.co/+y0CG-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180825T020500Z
+DTEND:20180825T050500Z
+UID:b9NuUWS-C25u3SfM5fnEBcdU@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CG-2k\n\nShop: https://stza.co/+y0CG-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-08-25 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       LvU9Vk6JaXqrHo4aWIdEW6PI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CH-1K
+
+Shop  https //stza.co/+y0CH-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180826T010500Z
+DTEND:20180826T040500Z
+UID:LvU9Vk6JaXqrHo4aWIdEW6PI@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CH-1K\n\nShop: https://stza.co/+y0CH-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-08-26 Sun 19:35-22:35>
+:PROPERTIES:
+:ID:       HRBxCszmVN9OF7vvL4YVZAPK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CI-z
+
+Shop  https //stza.co/+y0CI-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180827T003500Z
+DTEND:20180827T033500Z
+UID:HRBxCszmVN9OF7vvL4YVZAPK@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CI-z\n\nShop: https://stza.co/+y0CI-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ 66ers
+<2018-08-27 Mon 21:05>--<2018-08-28 Tue 00:05>
+:PROPERTIES:
+:ID:       M62o_rNZE0BArDYjCc5o0JYj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ 66ers Quakes @ 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+y0CJ-2I
+
+Shop  https //stza.co/+y0CJ-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ 66ers
+END:VALARM
+DTSTART:20180828T020500Z
+DTEND:20180828T050500Z
+UID:M62o_rNZE0BArDYjCc5o0JYj@stanza.co
+SUMMARY:Quakes @ 66ers
+DESCRIPTION:Quakes @ 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+y0CJ-2I\n\nShop: https://stza.co/+y0CJ-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-08-28 Tue 20:35-23:35>
+:PROPERTIES:
+:ID:       pF3EvBeRZTIfDlNXmy4fRPP7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfck-H
+
+Shop  https //stza.co/+vfck-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180829T013500Z
+DTEND:20180829T043500Z
+UID:pF3EvBeRZTIfDlNXmy4fRPP7@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfck-H\n\nShop: https://stza.co/+vfck-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-08-29 Wed 20:35-23:35>
+:PROPERTIES:
+:ID:       tgz5eRRX475v-rXrPJzw61OR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfcr-1
+
+Shop  https //stza.co/+vfcr-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180830T013500Z
+DTEND:20180830T043500Z
+UID:tgz5eRRX475v-rXrPJzw61OR@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfcr-1\n\nShop: https://stza.co/+vfcr-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes @ JetHawks
+<2018-08-30 Thu 20:35-23:35>
+:PROPERTIES:
+:ID:       cndV1N8FSK5k4VBglIlVMONR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes @ JetHawks Quakes @ JetHawks
+
+Follow on MiLB First Pitch  https //stza.co/+vfcy-G
+
+Shop  https //stza.co/+vfcy-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Quakes @ JetHawks
+END:VALARM
+DTSTART:20180831T013500Z
+DTEND:20180831T043500Z
+UID:cndV1N8FSK5k4VBglIlVMONR@stanza.co
+SUMMARY:Quakes @ JetHawks
+DESCRIPTION:Quakes @ JetHawks\n\nFollow on MiLB First Pitch: https://stza.co/+vfcy-G\n\nShop: https://stza.co/+vfcy-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-08-31 Fri 21:05>--<2018-09-01 Sat 00:05>
+:PROPERTIES:
+:ID:       wgnbwxUvwegKWbzGZxifbfUe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xA03-1M
+
+Shop  https //stza.co/+xA03-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180901T020500Z
+DTEND:20180901T050500Z
+UID:wgnbwxUvwegKWbzGZxifbfUe@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xA03-1M\n\nShop: https://stza.co/+xA03-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-09-01 Sat 21:05>--<2018-09-02 Sun 00:05>
+:PROPERTIES:
+:ID:       vzKsnaLKu4m2KexLfFjZZMhF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xA05-3T
+
+Shop  https //stza.co/+xA05-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180902T020500Z
+DTEND:20180902T050500Z
+UID:vzKsnaLKu4m2KexLfFjZZMhF@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xA05-3T\n\nShop: https://stza.co/+xA05-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-09-02 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       cc1M-fgBg0_6wwS5_6tu3uWk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xA07-15
+
+Shop  https //stza.co/+xA07-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180902T210500Z
+DTEND:20180903T000500Z
+UID:cc1M-fgBg0_6wwS5_6tu3uWk@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xA07-15\n\nShop: https://stza.co/+xA07-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Quakes vs. 66ers
+<2018-09-03 Mon 16:05-19:05>
+:PROPERTIES:
+:ID:       XoWPRCyvx1VWMS5SX0CduLz_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Quakes vs. 66ers Quakes vs. 66ers
+
+Follow on MiLB First Pitch  https //stza.co/+xA0a-L
+
+Shop  https //stza.co/+xA0a-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Quakes vs. 66ers
+END:VALARM
+DTSTART:20180903T210500Z
+DTEND:20180904T000500Z
+UID:XoWPRCyvx1VWMS5SX0CduLz_@stanza.co
+SUMMARY:Quakes vs. 66ers
+DESCRIPTION:Quakes vs. 66ers\n\nFollow on MiLB First Pitch: https://stza.co/+xA0a-L\n\nShop: https://stza.co/+xA0a-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT

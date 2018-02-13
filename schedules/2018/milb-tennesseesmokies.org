@@ -1,0 +1,5050 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Smokies vs. Generals
+<2018-04-02 Mon 10:30-13:30>
+:PROPERTIES:
+:ID:       wCxU-B8f0o3aK33R8q11zt-U@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVU8-3R
+
+Shop  https //stza.co/+xVU8-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180402T153000Z
+DTEND:20180402T183000Z
+UID:wCxU-B8f0o3aK33R8q11zt-U@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVU8-3R\n\nShop: https://stza.co/+xVU8-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Braves
+<2018-04-05 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       _QQQeBWKk6aNU8Iy8pyqKZY7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Braves Smokies @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLW0-15
+
+Shop  https //stza.co/+vLW0-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Braves
+END:VALARM
+DTSTART:20180406T000000Z
+DTEND:20180406T030000Z
+UID:_QQQeBWKk6aNU8Iy8pyqKZY7@stanza.co
+SUMMARY:Smokies @ Braves
+DESCRIPTION:Smokies @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLW0-15\n\nShop: https://stza.co/+vLW0-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Braves
+<2018-04-06 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       BPyIIFEPIqne48DRRFcMe_wc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Braves Smokies @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLW1-3u
+
+Shop  https //stza.co/+vLW1-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Braves
+END:VALARM
+DTSTART:20180407T000000Z
+DTEND:20180407T030000Z
+UID:BPyIIFEPIqne48DRRFcMe_wc@stanza.co
+SUMMARY:Smokies @ Braves
+DESCRIPTION:Smokies @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLW1-3u\n\nShop: https://stza.co/+vLW1-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Braves
+<2018-04-07 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       _RAyvq3_4hCGlexq9Mjek4p4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Braves Smokies @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLW2-2G
+
+Shop  https //stza.co/+vLW2-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Braves
+END:VALARM
+DTSTART:20180407T230000Z
+DTEND:20180408T020000Z
+UID:_RAyvq3_4hCGlexq9Mjek4p4@stanza.co
+SUMMARY:Smokies @ Braves
+DESCRIPTION:Smokies @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLW2-2G\n\nShop: https://stza.co/+vLW2-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Braves
+<2018-04-08 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       -Fwj6Pl0OrtJJGgZVMUiSvGd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Braves Smokies @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLW3-1
+
+Shop  https //stza.co/+vLW3-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Braves
+END:VALARM
+DTSTART:20180408T180000Z
+DTEND:20180408T210000Z
+UID:-Fwj6Pl0OrtJJGgZVMUiSvGd@stanza.co
+SUMMARY:Smokies @ Braves
+DESCRIPTION:Smokies @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLW3-1\n\nShop: https://stza.co/+vLW3-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Braves
+<2018-04-09 Mon 10:35-13:35>
+:PROPERTIES:
+:ID:       pra79G7Nau-uD688k6T_gb9X@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Braves Smokies @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLW4-1k
+
+Shop  https //stza.co/+vLW4-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Braves
+END:VALARM
+DTSTART:20180409T153500Z
+DTEND:20180409T183500Z
+UID:pra79G7Nau-uD688k6T_gb9X@stanza.co
+SUMMARY:Smokies @ Braves
+DESCRIPTION:Smokies @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLW4-1k\n\nShop: https://stza.co/+vLW4-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-04-11 Wed 10:30-13:30>
+:PROPERTIES:
+:ID:       nubzVvVD6lflT1GOAJW8uT5b@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVU7-2O
+
+Shop  https //stza.co/+xVU7-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180411T153000Z
+DTEND:20180411T183000Z
+UID:nubzVvVD6lflT1GOAJW8uT5b@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVU7-2O\n\nShop: https://stza.co/+xVU7-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-04-13 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       8fmzzmKlRY_JRB_vzjoZr61l@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVUb-v
+
+Shop  https //stza.co/+xVUb-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180413T230000Z
+DTEND:20180414T020000Z
+UID:8fmzzmKlRY_JRB_vzjoZr61l@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVUb-v\n\nShop: https://stza.co/+xVUb-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-04-14 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       iK5_PtFOzEQlsLwOiMlJO7BI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVUc-10
+
+Shop  https //stza.co/+xVUc-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180414T230000Z
+DTEND:20180415T020000Z
+UID:iK5_PtFOzEQlsLwOiMlJO7BI@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVUc-10\n\nShop: https://stza.co/+xVUc-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-04-15 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       t-5ESIHYqAx9BbdLNnSmn5a-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVUf-K
+
+Shop  https //stza.co/+xVUf-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180415T180000Z
+DTEND:20180415T210000Z
+UID:t-5ESIHYqAx9BbdLNnSmn5a-@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVUf-K\n\nShop: https://stza.co/+xVUf-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-04-16 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       Dz30IqBvWx9HMfsiY8q0MffC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWb-h
+
+Shop  https //stza.co/+vLWb-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180416T233500Z
+DTEND:20180417T023500Z
+UID:Dz30IqBvWx9HMfsiY8q0MffC@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWb-h\n\nShop: https://stza.co/+vLWb-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-04-17 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       -iFBO6-1MFrCu3XZPb_RCrjG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWc-27
+
+Shop  https //stza.co/+vLWc-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180417T233500Z
+DTEND:20180418T023500Z
+UID:-iFBO6-1MFrCu3XZPb_RCrjG@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWc-27\n\nShop: https://stza.co/+vLWc-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-04-18 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       bqSm_9P8GKstfFXN29kO7LWe@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWd-1d
+
+Shop  https //stza.co/+vLWd-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180418T233500Z
+DTEND:20180419T023500Z
+UID:bqSm_9P8GKstfFXN29kO7LWe@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWd-1d\n\nShop: https://stza.co/+vLWd-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-04-19 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       ADb6EnxeqBaHL1VhpB-BmJzA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWe-b
+
+Shop  https //stza.co/+vLWe-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180419T233500Z
+DTEND:20180420T023500Z
+UID:ADb6EnxeqBaHL1VhpB-BmJzA@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWe-b\n\nShop: https://stza.co/+vLWe-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-04-20 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       dErNX7vEATTOiK1sGSbz0HWZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWf-23
+
+Shop  https //stza.co/+vLWf-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180420T233500Z
+DTEND:20180421T023500Z
+UID:dErNX7vEATTOiK1sGSbz0HWZ@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWf-23\n\nShop: https://stza.co/+vLWf-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Jumbo Shrimp
+<2018-04-21 Sat 16:30-19:30>
+:PROPERTIES:
+:ID:       oQhNlxlOVDIaH_tP9ryUQDzu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Jumbo Shrimp Smokies vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+xVUh-34
+
+Shop  https //stza.co/+xVUh-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180421T213000Z
+DTEND:20180422T003000Z
+UID:oQhNlxlOVDIaH_tP9ryUQDzu@stanza.co
+SUMMARY:Smokies vs. Jumbo Shrimp
+DESCRIPTION:Smokies vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+xVUh-34\n\nShop: https://stza.co/+xVUh-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Jumbo Shrimp
+<2018-04-22 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       XT8aDDnMyLSJJNljA8z2pNuA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Jumbo Shrimp Smokies vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+xVUj-3k
+
+Shop  https //stza.co/+xVUj-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180422T180000Z
+DTEND:20180422T210000Z
+UID:XT8aDDnMyLSJJNljA8z2pNuA@stanza.co
+SUMMARY:Smokies vs. Jumbo Shrimp
+DESCRIPTION:Smokies vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+xVUj-3k\n\nShop: https://stza.co/+xVUj-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Jumbo Shrimp
+<2018-04-23 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       f4nu9NoPb1WsT3hy3HyloTHT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Jumbo Shrimp Smokies vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+xVUl-3h
+
+Shop  https //stza.co/+xVUl-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180423T230000Z
+DTEND:20180424T020000Z
+UID:f4nu9NoPb1WsT3hy3HyloTHT@stanza.co
+SUMMARY:Smokies vs. Jumbo Shrimp
+DESCRIPTION:Smokies vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+xVUl-3h\n\nShop: https://stza.co/+xVUl-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Jumbo Shrimp
+<2018-04-24 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       t5--6zQRN23bIFm8czCs80b4@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Jumbo Shrimp Smokies vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+xVUn-3p
+
+Shop  https //stza.co/+xVUn-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180424T160000Z
+DTEND:20180424T190000Z
+UID:t5--6zQRN23bIFm8czCs80b4@stanza.co
+SUMMARY:Smokies vs. Jumbo Shrimp
+DESCRIPTION:Smokies vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+xVUn-3p\n\nShop: https://stza.co/+xVUn-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Jumbo Shrimp
+<2018-04-25 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       RdolnNxrmr87hE6vxgvqdxAN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Jumbo Shrimp Smokies vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+xVUp-1d
+
+Shop  https //stza.co/+xVUp-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180425T230000Z
+DTEND:20180426T020000Z
+UID:RdolnNxrmr87hE6vxgvqdxAN@stanza.co
+SUMMARY:Smokies vs. Jumbo Shrimp
+DESCRIPTION:Smokies vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+xVUp-1d\n\nShop: https://stza.co/+xVUp-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-04-26 Thu 18:15-21:15>
+:PROPERTIES:
+:ID:       1P8ptpqt7anl8hFLdY3TJTox@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGB-3
+
+Shop  https //stza.co/+wKGB-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180426T231500Z
+DTEND:20180427T021500Z
+UID:1P8ptpqt7anl8hFLdY3TJTox@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGB-3\n\nShop: https://stza.co/+wKGB-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-04-27 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       lmMkmJopk_qSiB-XMvH2i9NG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGC-3p
+
+Shop  https //stza.co/+wKGC-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180427T231500Z
+DTEND:20180428T021500Z
+UID:lmMkmJopk_qSiB-XMvH2i9NG@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGC-3p\n\nShop: https://stza.co/+wKGC-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-04-28 Sat 18:15-21:15>
+:PROPERTIES:
+:ID:       MvvYlRMmJ2O7oi5Xla7hJKTy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGD-6
+
+Shop  https //stza.co/+wKGD-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180428T231500Z
+DTEND:20180429T021500Z
+UID:MvvYlRMmJ2O7oi5Xla7hJKTy@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGD-6\n\nShop: https://stza.co/+wKGD-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-04-29 Sun 13:15-16:15>
+:PROPERTIES:
+:ID:       v1TU-5BSR4yQFDCsFWWsckbv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGF-M
+
+Shop  https //stza.co/+wKGF-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180429T181500Z
+DTEND:20180429T211500Z
+UID:v1TU-5BSR4yQFDCsFWWsckbv@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGF-M\n\nShop: https://stza.co/+wKGF-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-04-30 Mon 10:15-13:15>
+:PROPERTIES:
+:ID:       Xu9PUeclUevKlE8o8vIvc6F-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGG-1k
+
+Shop  https //stza.co/+wKGG-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180430T151500Z
+DTEND:20180430T181500Z
+UID:Xu9PUeclUevKlE8o8vIvc6F-@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGG-1k\n\nShop: https://stza.co/+wKGG-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-05-02 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       PFSK0zxpa_FCAT6W4Q1eJ1q4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVUr-3_
+
+Shop  https //stza.co/+xVUr-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180502T230000Z
+DTEND:20180503T020000Z
+UID:PFSK0zxpa_FCAT6W4Q1eJ1q4@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVUr-3_\n\nShop: https://stza.co/+xVUr-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-05-03 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       TL8xM0iQ_ZusCYk1Op02KI7Q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVUs-1Q
+
+Shop  https //stza.co/+xVUs-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180503T230000Z
+DTEND:20180504T020000Z
+UID:TL8xM0iQ_ZusCYk1Op02KI7Q@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVUs-1Q\n\nShop: https://stza.co/+xVUs-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-05-04 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       s_wD6RON-9ceQ1fLdVnKLoZr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVUv-3m
+
+Shop  https //stza.co/+xVUv-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180504T230000Z
+DTEND:20180505T020000Z
+UID:s_wD6RON-9ceQ1fLdVnKLoZr@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVUv-3m\n\nShop: https://stza.co/+xVUv-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-05-05 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       aegP7o4ync2AfGe9FukavLlQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVUy-29
+
+Shop  https //stza.co/+xVUy-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180505T230000Z
+DTEND:20180506T020000Z
+UID:aegP7o4ync2AfGe9FukavLlQ@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVUy-29\n\nShop: https://stza.co/+xVUy-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-05-06 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       s8xXpwMXc-XQ3pmTScE8ZW2K@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVUA-2N
+
+Shop  https //stza.co/+xVUA-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180506T180000Z
+DTEND:20180506T210000Z
+UID:s8xXpwMXc-XQ3pmTScE8ZW2K@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVUA-2N\n\nShop: https://stza.co/+xVUA-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Jumbo Shrimp
+<2018-05-07 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       0JJmKsw3o-VstXY9qi5t3xq8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Jumbo Shrimp Smokies @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLVX-1w
+
+Shop  https //stza.co/+vLVX-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180507T230500Z
+DTEND:20180508T020500Z
+UID:0JJmKsw3o-VstXY9qi5t3xq8@stanza.co
+SUMMARY:Smokies @ Jumbo Shrimp
+DESCRIPTION:Smokies @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLVX-1w\n\nShop: https://stza.co/+vLVX-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Jumbo Shrimp
+<2018-05-08 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       Ijyeo66ZfSwrm--LCukBXtvU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Jumbo Shrimp Smokies @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLVY-1O
+
+Shop  https //stza.co/+vLVY-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180508T230500Z
+DTEND:20180509T020500Z
+UID:Ijyeo66ZfSwrm--LCukBXtvU@stanza.co
+SUMMARY:Smokies @ Jumbo Shrimp
+DESCRIPTION:Smokies @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLVY-1O\n\nShop: https://stza.co/+vLVY-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Jumbo Shrimp
+<2018-05-09 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       XzbHRQBfEMn1Md6dEF6GUn5l@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Jumbo Shrimp Smokies @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLVZ-1f
+
+Shop  https //stza.co/+vLVZ-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180509T160500Z
+DTEND:20180509T190500Z
+UID:XzbHRQBfEMn1Md6dEF6GUn5l@stanza.co
+SUMMARY:Smokies @ Jumbo Shrimp
+DESCRIPTION:Smokies @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLVZ-1f\n\nShop: https://stza.co/+vLVZ-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Jumbo Shrimp
+<2018-05-10 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       mepHDFtz621TPCy8vuDCvDne@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Jumbo Shrimp Smokies @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLV_-s
+
+Shop  https //stza.co/+vLV_-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180510T230500Z
+DTEND:20180511T020500Z
+UID:mepHDFtz621TPCy8vuDCvDne@stanza.co
+SUMMARY:Smokies @ Jumbo Shrimp
+DESCRIPTION:Smokies @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLV_-s\n\nShop: https://stza.co/+vLV_-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Jumbo Shrimp
+<2018-05-11 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       pJ1eTLAbvYKEDFM1JTctC8oT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Jumbo Shrimp Smokies @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLV$-5
+
+Shop  https //stza.co/+vLV$-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180511T230500Z
+DTEND:20180512T020500Z
+UID:pJ1eTLAbvYKEDFM1JTctC8oT@stanza.co
+SUMMARY:Smokies @ Jumbo Shrimp
+DESCRIPTION:Smokies @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLV$-5\n\nShop: https://stza.co/+vLV$-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-05-12 Sat 18:15-21:15>
+:PROPERTIES:
+:ID:       C-AUX-efNaPoP-mzEmHSnoQH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGH-1S
+
+Shop  https //stza.co/+wKGH-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180512T231500Z
+DTEND:20180513T021500Z
+UID:C-AUX-efNaPoP-mzEmHSnoQH@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGH-1S\n\nShop: https://stza.co/+wKGH-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-05-13 Sun 13:15-16:15>
+:PROPERTIES:
+:ID:       zXdIoDF350bYuGw8exmLMAXf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGJ-2H
+
+Shop  https //stza.co/+wKGJ-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180513T181500Z
+DTEND:20180513T211500Z
+UID:zXdIoDF350bYuGw8exmLMAXf@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGJ-2H\n\nShop: https://stza.co/+wKGJ-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-05-14 Mon 18:15-21:15>
+:PROPERTIES:
+:ID:       GxEsILZPq2uSOdVGA2QPyhoj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGK-2l
+
+Shop  https //stza.co/+wKGK-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180514T231500Z
+DTEND:20180515T021500Z
+UID:GxEsILZPq2uSOdVGA2QPyhoj@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGK-2l\n\nShop: https://stza.co/+wKGK-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-05-15 Tue 18:15-21:15>
+:PROPERTIES:
+:ID:       tJH_3kJxRK56oscVtiBL5JEe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGL-3i
+
+Shop  https //stza.co/+wKGL-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180515T231500Z
+DTEND:20180516T021500Z
+UID:tJH_3kJxRK56oscVtiBL5JEe@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGL-3i\n\nShop: https://stza.co/+wKGL-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Lookouts
+<2018-05-16 Wed 10:15-13:15>
+:PROPERTIES:
+:ID:       yT0lB6kMt30G76l93XHkPCkh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Lookouts Smokies @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKGM-x
+
+Shop  https //stza.co/+wKGM-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Lookouts
+END:VALARM
+DTSTART:20180516T151500Z
+DTEND:20180516T181500Z
+UID:yT0lB6kMt30G76l93XHkPCkh@stanza.co
+SUMMARY:Smokies @ Lookouts
+DESCRIPTION:Smokies @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKGM-x\n\nShop: https://stza.co/+wKGM-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Braves
+<2018-05-17 Thu 10:30-13:30>
+:PROPERTIES:
+:ID:       cVejT9OYeXmfQBtIeLB_oSfR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Braves Smokies vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xVUC-1w
+
+Shop  https //stza.co/+xVUC-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Braves
+END:VALARM
+DTSTART:20180517T153000Z
+DTEND:20180517T183000Z
+UID:cVejT9OYeXmfQBtIeLB_oSfR@stanza.co
+SUMMARY:Smokies vs. Braves
+DESCRIPTION:Smokies vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xVUC-1w\n\nShop: https://stza.co/+xVUC-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Braves
+<2018-05-18 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       IfusnzBYiML397IWvwj1IQzl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Braves Smokies vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xVUE-3A
+
+Shop  https //stza.co/+xVUE-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Braves
+END:VALARM
+DTSTART:20180518T230000Z
+DTEND:20180519T020000Z
+UID:IfusnzBYiML397IWvwj1IQzl@stanza.co
+SUMMARY:Smokies vs. Braves
+DESCRIPTION:Smokies vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xVUE-3A\n\nShop: https://stza.co/+xVUE-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Braves
+<2018-05-19 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       h6EHk3i4pWAynF1bqrPBLTZk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Braves Smokies vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xVUF-1c
+
+Shop  https //stza.co/+xVUF-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Braves
+END:VALARM
+DTSTART:20180519T230000Z
+DTEND:20180520T020000Z
+UID:h6EHk3i4pWAynF1bqrPBLTZk@stanza.co
+SUMMARY:Smokies vs. Braves
+DESCRIPTION:Smokies vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xVUF-1c\n\nShop: https://stza.co/+xVUF-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Braves
+<2018-05-20 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       eapNV4zEaK5Va_QgYC-V5Rkn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Braves Smokies vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xVUI-11
+
+Shop  https //stza.co/+xVUI-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Braves
+END:VALARM
+DTSTART:20180520T180000Z
+DTEND:20180520T210000Z
+UID:eapNV4zEaK5Va_QgYC-V5Rkn@stanza.co
+SUMMARY:Smokies vs. Braves
+DESCRIPTION:Smokies vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xVUI-11\n\nShop: https://stza.co/+xVUI-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Braves
+<2018-05-21 Mon 11:00-14:00>
+:PROPERTIES:
+:ID:       pCakwiAN3RE1RDB9k97bPv-8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Braves Smokies vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xVUK-S
+
+Shop  https //stza.co/+xVUK-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Braves
+END:VALARM
+DTSTART:20180521T160000Z
+DTEND:20180521T190000Z
+UID:pCakwiAN3RE1RDB9k97bPv-8@stanza.co
+SUMMARY:Smokies vs. Braves
+DESCRIPTION:Smokies vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xVUK-S\n\nShop: https://stza.co/+xVUK-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Blue Wahoos
+<2018-05-23 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       0HgWji_A-MPVFJZxsnrYGI29@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Blue Wahoos Smokies @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wxck-3W
+
+Shop  https //stza.co/+wxck-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Blue Wahoos
+END:VALARM
+DTSTART:20180523T233500Z
+DTEND:20180524T023500Z
+UID:0HgWji_A-MPVFJZxsnrYGI29@stanza.co
+SUMMARY:Smokies @ Blue Wahoos
+DESCRIPTION:Smokies @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wxck-3W\n\nShop: https://stza.co/+wxck-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Blue Wahoos
+<2018-05-24 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       Zte6anozL5Yqrtm0uNiDNtBn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Blue Wahoos Smokies @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wxcl-H
+
+Shop  https //stza.co/+wxcl-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Blue Wahoos
+END:VALARM
+DTSTART:20180524T233500Z
+DTEND:20180525T023500Z
+UID:Zte6anozL5Yqrtm0uNiDNtBn@stanza.co
+SUMMARY:Smokies @ Blue Wahoos
+DESCRIPTION:Smokies @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wxcl-H\n\nShop: https://stza.co/+wxcl-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Blue Wahoos
+<2018-05-25 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       2AtO_0K_S1945ubOYQZ8d238@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Blue Wahoos Smokies @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wxcm-3J
+
+Shop  https //stza.co/+wxcm-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Blue Wahoos
+END:VALARM
+DTSTART:20180525T233500Z
+DTEND:20180526T023500Z
+UID:2AtO_0K_S1945ubOYQZ8d238@stanza.co
+SUMMARY:Smokies @ Blue Wahoos
+DESCRIPTION:Smokies @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wxcm-3J\n\nShop: https://stza.co/+wxcm-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Blue Wahoos
+<2018-05-26 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       Ax4tgyZ0WifLsIzRGysGWlHZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Blue Wahoos Smokies @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wxcn-1a
+
+Shop  https //stza.co/+wxcn-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Blue Wahoos
+END:VALARM
+DTSTART:20180526T230500Z
+DTEND:20180527T020500Z
+UID:Ax4tgyZ0WifLsIzRGysGWlHZ@stanza.co
+SUMMARY:Smokies @ Blue Wahoos
+DESCRIPTION:Smokies @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wxcn-1a\n\nShop: https://stza.co/+wxcn-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Blue Wahoos
+<2018-05-27 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       DV3NYnVL3CFf8DQD_ljo7Wj5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Blue Wahoos Smokies @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wxco-1S
+
+Shop  https //stza.co/+wxco-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Blue Wahoos
+END:VALARM
+DTSTART:20180527T230500Z
+DTEND:20180528T020500Z
+UID:DV3NYnVL3CFf8DQD_ljo7Wj5@stanza.co
+SUMMARY:Smokies @ Blue Wahoos
+DESCRIPTION:Smokies @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wxco-1S\n\nShop: https://stza.co/+wxco-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. BayBears
+<2018-05-29 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       xSFU3bPsvdMFbdnKjuwoUO3e@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. BayBears Smokies vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+xVUL-3S
+
+Shop  https //stza.co/+xVUL-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. BayBears
+END:VALARM
+DTSTART:20180529T230000Z
+DTEND:20180530T020000Z
+UID:xSFU3bPsvdMFbdnKjuwoUO3e@stanza.co
+SUMMARY:Smokies vs. BayBears
+DESCRIPTION:Smokies vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+xVUL-3S\n\nShop: https://stza.co/+xVUL-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. BayBears
+<2018-05-30 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       YyIySeMI4G-VKEN-gK0ADugi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. BayBears Smokies vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+xVUN-F
+
+Shop  https //stza.co/+xVUN-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. BayBears
+END:VALARM
+DTSTART:20180530T230000Z
+DTEND:20180531T020000Z
+UID:YyIySeMI4G-VKEN-gK0ADugi@stanza.co
+SUMMARY:Smokies vs. BayBears
+DESCRIPTION:Smokies vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+xVUN-F\n\nShop: https://stza.co/+xVUN-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. BayBears
+<2018-05-31 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       72fULx-NVYxotZqHjPYns4PC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. BayBears Smokies vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+xVUP-1T
+
+Shop  https //stza.co/+xVUP-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. BayBears
+END:VALARM
+DTSTART:20180531T230000Z
+DTEND:20180601T020000Z
+UID:72fULx-NVYxotZqHjPYns4PC@stanza.co
+SUMMARY:Smokies vs. BayBears
+DESCRIPTION:Smokies vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+xVUP-1T\n\nShop: https://stza.co/+xVUP-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. BayBears
+<2018-06-01 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       HXU4S9mNmUCeG5EIzF1LTp97@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. BayBears Smokies vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+xVUR-1b
+
+Shop  https //stza.co/+xVUR-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. BayBears
+END:VALARM
+DTSTART:20180601T230000Z
+DTEND:20180602T020000Z
+UID:HXU4S9mNmUCeG5EIzF1LTp97@stanza.co
+SUMMARY:Smokies vs. BayBears
+DESCRIPTION:Smokies vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+xVUR-1b\n\nShop: https://stza.co/+xVUR-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. BayBears
+<2018-06-02 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       UhsHTxvblFwBpfqNwZyNqGS2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. BayBears Smokies vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+xVUU-$
+
+Shop  https //stza.co/+xVUU-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. BayBears
+END:VALARM
+DTSTART:20180602T230000Z
+DTEND:20180603T020000Z
+UID:UhsHTxvblFwBpfqNwZyNqGS2@stanza.co
+SUMMARY:Smokies vs. BayBears
+DESCRIPTION:Smokies vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+xVUU-$\n\nShop: https://stza.co/+xVUU-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-06-03 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       EHT3Lp_2nKgr14OOmuFHpW-P@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSK-3I
+
+Shop  https //stza.co/+wCSK-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180603T230500Z
+DTEND:20180604T020500Z
+UID:EHT3Lp_2nKgr14OOmuFHpW-P@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSK-3I\n\nShop: https://stza.co/+wCSK-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-06-04 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       pMXKAe5BE9NbEZAMuDKNkAv9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSL-3m
+
+Shop  https //stza.co/+wCSL-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180604T230500Z
+DTEND:20180605T020500Z
+UID:pMXKAe5BE9NbEZAMuDKNkAv9@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSL-3m\n\nShop: https://stza.co/+wCSL-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-06-05 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       Dr4HJ3k_JVsvk2_Mf7QE1qJM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSM-2A
+
+Shop  https //stza.co/+wCSM-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180605T230500Z
+DTEND:20180606T020500Z
+UID:Dr4HJ3k_JVsvk2_Mf7QE1qJM@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSM-2A\n\nShop: https://stza.co/+wCSM-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-06-06 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       ivHijuSmAhm_bPeDqPu7vhNO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSN-b
+
+Shop  https //stza.co/+wCSN-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180606T230500Z
+DTEND:20180607T020500Z
+UID:ivHijuSmAhm_bPeDqPu7vhNO@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSN-b\n\nShop: https://stza.co/+wCSN-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-06-07 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       RYloMmRWypyjXfAjJJXJfUQ7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSO-2e
+
+Shop  https //stza.co/+wCSO-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180607T230500Z
+DTEND:20180608T020500Z
+UID:RYloMmRWypyjXfAjJJXJfUQ7@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSO-2e\n\nShop: https://stza.co/+wCSO-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-06-08 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       uwXeBlR3Q_pUe_RaHkf2XFQF@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVUV-4
+
+Shop  https //stza.co/+xVUV-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180608T230000Z
+DTEND:20180609T020000Z
+UID:uwXeBlR3Q_pUe_RaHkf2XFQF@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVUV-4\n\nShop: https://stza.co/+xVUV-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-06-09 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       JFcOf3cqoHNNfg4eij26KCPC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVUX-I
+
+Shop  https //stza.co/+xVUX-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180609T230000Z
+DTEND:20180610T020000Z
+UID:JFcOf3cqoHNNfg4eij26KCPC@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVUX-I\n\nShop: https://stza.co/+xVUX-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-06-10 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       tHudUTTU_Ad4aRdVvifUuiVr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVU_-2P
+
+Shop  https //stza.co/+xVU_-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180610T180000Z
+DTEND:20180610T210000Z
+UID:tHudUTTU_Ad4aRdVvifUuiVr@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVU_-2P\n\nShop: https://stza.co/+xVU_-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-06-11 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       jAIPCuuua3TA5uJZRVQUt5tL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVV0-3z
+
+Shop  https //stza.co/+xVV0-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180611T230000Z
+DTEND:20180612T020000Z
+UID:jAIPCuuua3TA5uJZRVQUt5tL@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVV0-3z\n\nShop: https://stza.co/+xVV0-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-06-12 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       GmEwO7acQu66lqXXhwEktpS2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVV1-24
+
+Shop  https //stza.co/+xVV1-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180612T230000Z
+DTEND:20180613T020000Z
+UID:GmEwO7acQu66lqXXhwEktpS2@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVV1-24\n\nShop: https://stza.co/+xVV1-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-06-13 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       xTfq4z5BEt_pZ2kQlK8dTIq5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVV5-1G
+
+Shop  https //stza.co/+xVV5-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180613T230000Z
+DTEND:20180614T020000Z
+UID:xTfq4z5BEt_pZ2kQlK8dTIq5@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVV5-1G\n\nShop: https://stza.co/+xVV5-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-06-14 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       tlQ8meGnzqqNvMHyObiMjifw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVV7-1p
+
+Shop  https //stza.co/+xVV7-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180614T230000Z
+DTEND:20180615T020000Z
+UID:tlQ8meGnzqqNvMHyObiMjifw@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVV7-1p\n\nShop: https://stza.co/+xVV7-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-06-15 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       LYS0GVIMnZZUolRAcA8Q2G21@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVV8-k
+
+Shop  https //stza.co/+xVV8-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180615T230000Z
+DTEND:20180616T020000Z
+UID:LYS0GVIMnZZUolRAcA8Q2G21@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVV8-k\n\nShop: https://stza.co/+xVV8-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-06-16 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       ANTjQkHez0lCfUJmIoBLt9vI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVVb-2T
+
+Shop  https //stza.co/+xVVb-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180616T230000Z
+DTEND:20180617T020000Z
+UID:ANTjQkHez0lCfUJmIoBLt9vI@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVVb-2T\n\nShop: https://stza.co/+xVVb-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-06-17 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       5tbWoWxDrmVG0bgYKHB0R8tI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVVc-2p
+
+Shop  https //stza.co/+xVVc-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180617T180000Z
+DTEND:20180617T210000Z
+UID:5tbWoWxDrmVG0bgYKHB0R8tI@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVVc-2p\n\nShop: https://stza.co/+xVVc-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ BayBears
+<2018-06-21 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       KV1DKh5n4hXpuIWucJosQeqd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ BayBears Smokies @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$Sw-17
+
+Shop  https //stza.co/+v$Sw-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ BayBears
+END:VALARM
+DTSTART:20180621T233500Z
+DTEND:20180622T023500Z
+UID:KV1DKh5n4hXpuIWucJosQeqd@stanza.co
+SUMMARY:Smokies @ BayBears
+DESCRIPTION:Smokies @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$Sw-17\n\nShop: https://stza.co/+v$Sw-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ BayBears
+<2018-06-22 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       yOeVK-9yRxRjfDpJFP7PrDh1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ BayBears Smokies @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$Sx-j
+
+Shop  https //stza.co/+v$Sx-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ BayBears
+END:VALARM
+DTSTART:20180623T000500Z
+DTEND:20180623T030500Z
+UID:yOeVK-9yRxRjfDpJFP7PrDh1@stanza.co
+SUMMARY:Smokies @ BayBears
+DESCRIPTION:Smokies @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$Sx-j\n\nShop: https://stza.co/+v$Sx-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ BayBears
+<2018-06-23 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       gtdaI-Uq6mSQgfRx7faF6zka@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ BayBears Smokies @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$Sy-3J
+
+Shop  https //stza.co/+v$Sy-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ BayBears
+END:VALARM
+DTSTART:20180624T000500Z
+DTEND:20180624T030500Z
+UID:gtdaI-Uq6mSQgfRx7faF6zka@stanza.co
+SUMMARY:Smokies @ BayBears
+DESCRIPTION:Smokies @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$Sy-3J\n\nShop: https://stza.co/+v$Sy-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ BayBears
+<2018-06-24 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       kOBfRU12Joyq1cPiu5NH6exZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ BayBears Smokies @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$Sz-S
+
+Shop  https //stza.co/+v$Sz-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ BayBears
+END:VALARM
+DTSTART:20180624T220500Z
+DTEND:20180625T010500Z
+UID:kOBfRU12Joyq1cPiu5NH6exZ@stanza.co
+SUMMARY:Smokies @ BayBears
+DESCRIPTION:Smokies @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$Sz-S\n\nShop: https://stza.co/+v$Sz-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ BayBears
+<2018-06-25 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       smChYTzBewlWVM-U9kYno7w0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ BayBears Smokies @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$SA-5
+
+Shop  https //stza.co/+v$SA-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ BayBears
+END:VALARM
+DTSTART:20180625T233500Z
+DTEND:20180626T023500Z
+UID:smChYTzBewlWVM-U9kYno7w0@stanza.co
+SUMMARY:Smokies @ BayBears
+DESCRIPTION:Smokies @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$SA-5\n\nShop: https://stza.co/+v$SA-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ BayBears
+<2018-06-26 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       -iHl19Wjy4T2YqqzH4JaW5Lr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ BayBears Smokies @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$SB-3j
+
+Shop  https //stza.co/+v$SB-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ BayBears
+END:VALARM
+DTSTART:20180626T233500Z
+DTEND:20180627T023500Z
+UID:-iHl19Wjy4T2YqqzH4JaW5Lr@stanza.co
+SUMMARY:Smokies @ BayBears
+DESCRIPTION:Smokies @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$SB-3j\n\nShop: https://stza.co/+v$SB-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-06-28 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       u4wEA5bhpNLYTdgomJjjjEnM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVf-10
+
+Shop  https //stza.co/+xVVf-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180628T230000Z
+DTEND:20180629T020000Z
+UID:u4wEA5bhpNLYTdgomJjjjEnM@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVf-10\n\nShop: https://stza.co/+xVVf-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-06-29 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       xEUjmdAFVokqYjRYMHyVpQjb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVg-3_
+
+Shop  https //stza.co/+xVVg-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180629T230000Z
+DTEND:20180630T020000Z
+UID:xEUjmdAFVokqYjRYMHyVpQjb@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVg-3_\n\nShop: https://stza.co/+xVVg-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-06-30 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       UNLfx0Uy1FeddKIQR1KmLnuI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVj-z
+
+Shop  https //stza.co/+xVVj-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180630T230000Z
+DTEND:20180701T020000Z
+UID:UNLfx0Uy1FeddKIQR1KmLnuI@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVj-z\n\nShop: https://stza.co/+xVVj-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-07-01 Sun 17:30-20:30>
+:PROPERTIES:
+:ID:       md12DAy17eYSgBjj8_L8P9tz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVl-3e
+
+Shop  https //stza.co/+xVVl-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180701T223000Z
+DTEND:20180702T013000Z
+UID:md12DAy17eYSgBjj8_L8P9tz@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVl-3e\n\nShop: https://stza.co/+xVVl-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-07-02 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       4KY2gxJqYG1ir1kgKuYtEayn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVn-3o
+
+Shop  https //stza.co/+xVVn-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180702T230000Z
+DTEND:20180703T020000Z
+UID:4KY2gxJqYG1ir1kgKuYtEayn@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVn-3o\n\nShop: https://stza.co/+xVVn-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-07-03 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       4lAxiPFX-XZVw5gGZX_Zg45x@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVo-2s
+
+Shop  https //stza.co/+xVVo-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180703T230000Z
+DTEND:20180704T020000Z
+UID:4lAxiPFX-XZVw5gGZX_Zg45x@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVo-2s\n\nShop: https://stza.co/+xVVo-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-07-04 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       yNqGN6TuaacWY-mE-W4Z1psy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSQ-1Z
+
+Shop  https //stza.co/+wCSQ-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180704T230500Z
+DTEND:20180705T020500Z
+UID:yNqGN6TuaacWY-mE-W4Z1psy@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSQ-1Z\n\nShop: https://stza.co/+wCSQ-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       GnfYZcV8i46p4IB44T-GXDlC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSR-3h
+
+Shop  https //stza.co/+wCSR-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:GnfYZcV8i46p4IB44T-GXDlC@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSR-3h\n\nShop: https://stza.co/+wCSR-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       i-1Wu2i7bQq9jS8n6oRW4Z6M@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCST-2y
+
+Shop  https //stza.co/+wCST-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:i-1Wu2i7bQq9jS8n6oRW4Z6M@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCST-2y\n\nShop: https://stza.co/+wCST-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-07-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       mjyo_jmR5y3IHl1EBi_FKZTt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSU-Q
+
+Shop  https //stza.co/+wCSU-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180707T230500Z
+DTEND:20180708T020500Z
+UID:mjyo_jmR5y3IHl1EBi_FKZTt@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSU-Q\n\nShop: https://stza.co/+wCSU-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-07-08 Sun 16:30-19:30>
+:PROPERTIES:
+:ID:       ndGlB9fBOY4k4fDIFqawjstn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVVq-2W
+
+Shop  https //stza.co/+xVVq-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180708T213000Z
+DTEND:20180709T003000Z
+UID:ndGlB9fBOY4k4fDIFqawjstn@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVVq-2W\n\nShop: https://stza.co/+xVVq-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-07-09 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       O9Zhs1n1MFznmSUWn3U5t0At@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVVt-2R
+
+Shop  https //stza.co/+xVVt-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180709T230000Z
+DTEND:20180710T020000Z
+UID:O9Zhs1n1MFznmSUWn3U5t0At@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVVt-2R\n\nShop: https://stza.co/+xVVt-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-07-10 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       _X7snQaydRvU4V_G0I5lOGkq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVVv-e
+
+Shop  https //stza.co/+xVVv-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180710T160000Z
+DTEND:20180710T190000Z
+UID:_X7snQaydRvU4V_G0I5lOGkq@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVVv-e\n\nShop: https://stza.co/+xVVv-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Biscuits
+<2018-07-11 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       GjCcuZXHP0qFEafug5JJilLV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Biscuits Smokies vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+xVVx-1N
+
+Shop  https //stza.co/+xVVx-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Biscuits
+END:VALARM
+DTSTART:20180711T230000Z
+DTEND:20180712T020000Z
+UID:GjCcuZXHP0qFEafug5JJilLV@stanza.co
+SUMMARY:Smokies vs. Biscuits
+DESCRIPTION:Smokies vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+xVVx-1N\n\nShop: https://stza.co/+xVVx-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-07-12 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       eWg_jW7oi08g92XjzmmrLLHD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVVy-1W
+
+Shop  https //stza.co/+xVVy-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180712T230000Z
+DTEND:20180713T020000Z
+UID:eWg_jW7oi08g92XjzmmrLLHD@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVVy-1W\n\nShop: https://stza.co/+xVVy-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-07-13 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       O_RekmaaEnHybur6Y84EHuQn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVVB-1R
+
+Shop  https //stza.co/+xVVB-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180713T230000Z
+DTEND:20180714T020000Z
+UID:O_RekmaaEnHybur6Y84EHuQn@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVVB-1R\n\nShop: https://stza.co/+xVVB-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-07-14 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       3GBcoi5qjGLXk5_QDaQ5oXeL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVVC-N
+
+Shop  https //stza.co/+xVVC-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180714T230000Z
+DTEND:20180715T020000Z
+UID:3GBcoi5qjGLXk5_QDaQ5oXeL@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVVC-N\n\nShop: https://stza.co/+xVVC-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-07-15 Sun 16:30-19:30>
+:PROPERTIES:
+:ID:       E1-j2IHJzjL4MRetXSRHRTdx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVVF-2_
+
+Shop  https //stza.co/+xVVF-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180715T213000Z
+DTEND:20180716T003000Z
+UID:E1-j2IHJzjL4MRetXSRHRTdx@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVVF-2_\n\nShop: https://stza.co/+xVVF-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Barons
+<2018-07-16 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       08udOs_dVW96SE-KQqr_pIA_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Barons Smokies vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xVVH-1M
+
+Shop  https //stza.co/+xVVH-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Barons
+END:VALARM
+DTSTART:20180716T230000Z
+DTEND:20180717T020000Z
+UID:08udOs_dVW96SE-KQqr_pIA_@stanza.co
+SUMMARY:Smokies vs. Barons
+DESCRIPTION:Smokies vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xVVH-1M\n\nShop: https://stza.co/+xVVH-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Shuckers
+<2018-07-18 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       RprpBZ_s8s2L1uKv4H13b1vX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Shuckers Smokies @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLVk-2g
+
+Shop  https //stza.co/+vLVk-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Shuckers
+END:VALARM
+DTSTART:20180718T233500Z
+DTEND:20180719T023500Z
+UID:RprpBZ_s8s2L1uKv4H13b1vX@stanza.co
+SUMMARY:Smokies @ Shuckers
+DESCRIPTION:Smokies @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLVk-2g\n\nShop: https://stza.co/+vLVk-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Shuckers
+<2018-07-19 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       dfTLq7cEH3C7cjJQeCqBAb_f@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Shuckers Smokies @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLVl-36
+
+Shop  https //stza.co/+vLVl-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Shuckers
+END:VALARM
+DTSTART:20180719T233500Z
+DTEND:20180720T023500Z
+UID:dfTLq7cEH3C7cjJQeCqBAb_f@stanza.co
+SUMMARY:Smokies @ Shuckers
+DESCRIPTION:Smokies @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLVl-36\n\nShop: https://stza.co/+vLVl-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Shuckers
+<2018-07-20 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       FmSOGNHJHDfn2bT6DY2RoySv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Shuckers Smokies @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLVm-2v
+
+Shop  https //stza.co/+vLVm-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Shuckers
+END:VALARM
+DTSTART:20180720T233500Z
+DTEND:20180721T023500Z
+UID:FmSOGNHJHDfn2bT6DY2RoySv@stanza.co
+SUMMARY:Smokies @ Shuckers
+DESCRIPTION:Smokies @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLVm-2v\n\nShop: https://stza.co/+vLVm-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Shuckers
+<2018-07-21 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       C6QwNoq33eKOvVewwSEMaLQr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Shuckers Smokies @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLVn-3a
+
+Shop  https //stza.co/+vLVn-28
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Shuckers
+END:VALARM
+DTSTART:20180721T233500Z
+DTEND:20180722T023500Z
+UID:C6QwNoq33eKOvVewwSEMaLQr@stanza.co
+SUMMARY:Smokies @ Shuckers
+DESCRIPTION:Smokies @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLVn-3a\n\nShop: https://stza.co/+vLVn-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Shuckers
+<2018-07-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       2uRbvefDY8jxEgfrUZhDff1D@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Shuckers Smokies @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLVo-1f
+
+Shop  https //stza.co/+vLVo-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Shuckers
+END:VALARM
+DTSTART:20180722T210500Z
+DTEND:20180723T000500Z
+UID:2uRbvefDY8jxEgfrUZhDff1D@stanza.co
+SUMMARY:Smokies @ Shuckers
+DESCRIPTION:Smokies @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLVo-1f\n\nShop: https://stza.co/+vLVo-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-07-23 Mon 19:05-22:05>
+:PROPERTIES:
+:ID:       8rIE_ikGVBEL9RFyKIshIboz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFY3-2d
+
+Shop  https //stza.co/+wFY3-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180724T000500Z
+DTEND:20180724T030500Z
+UID:8rIE_ikGVBEL9RFyKIshIboz@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFY3-2d\n\nShop: https://stza.co/+wFY3-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-07-24 Tue 19:05-22:05>
+:PROPERTIES:
+:ID:       VFaiGubB6eyiw1tyrbsi0g5H@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFY4-1R
+
+Shop  https //stza.co/+wFY4-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180725T000500Z
+DTEND:20180725T030500Z
+UID:VFaiGubB6eyiw1tyrbsi0g5H@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFY4-1R\n\nShop: https://stza.co/+wFY4-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-07-25 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       mevaXuYsf8YIWQ0hNi2RGNU8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFY5-M
+
+Shop  https //stza.co/+wFY5-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180726T000500Z
+DTEND:20180726T030500Z
+UID:mevaXuYsf8YIWQ0hNi2RGNU8@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFY5-M\n\nShop: https://stza.co/+wFY5-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-07-26 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       a0QYzXBdw5NmUCdmecqrpU7V@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFY6-2k
+
+Shop  https //stza.co/+wFY6-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180727T000500Z
+DTEND:20180727T030500Z
+UID:a0QYzXBdw5NmUCdmecqrpU7V@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFY6-2k\n\nShop: https://stza.co/+wFY6-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-07-27 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       Ct9ngty6chj5l3-O_NwK3jHA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFY7-3A
+
+Shop  https //stza.co/+wFY7-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180728T000500Z
+DTEND:20180728T030500Z
+UID:Ct9ngty6chj5l3-O_NwK3jHA@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFY7-3A\n\nShop: https://stza.co/+wFY7-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-07-28 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       QSIuJjeszEyhnLB0wBYPrHdA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVJ-D
+
+Shop  https //stza.co/+xVVJ-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180728T230000Z
+DTEND:20180729T020000Z
+UID:QSIuJjeszEyhnLB0wBYPrHdA@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVJ-D\n\nShop: https://stza.co/+xVVJ-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-07-29 Sun 16:30-19:30>
+:PROPERTIES:
+:ID:       EB6j_5o00mzBcvuub0t9t7d1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVK-2S
+
+Shop  https //stza.co/+xVVK-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180729T213000Z
+DTEND:20180730T003000Z
+UID:EB6j_5o00mzBcvuub0t9t7d1@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVK-2S\n\nShop: https://stza.co/+xVVK-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-07-30 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       MoU0KGVRTy4ZhBiofA1X9lnN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVN-u
+
+Shop  https //stza.co/+xVVN-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180730T230000Z
+DTEND:20180731T020000Z
+UID:MoU0KGVRTy4ZhBiofA1X9lnN@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVN-u\n\nShop: https://stza.co/+xVVN-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-07-31 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       hHADj_CS5feMcodv7E2XQWuB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVP-A
+
+Shop  https //stza.co/+xVVP-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180731T230000Z
+DTEND:20180801T020000Z
+UID:hHADj_CS5feMcodv7E2XQWuB@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVP-A\n\nShop: https://stza.co/+xVVP-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Lookouts
+<2018-08-01 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       LPb_yI7Wom8F8Cv34sF4H2l4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Lookouts Smokies vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+xVVQ-2a
+
+Shop  https //stza.co/+xVVQ-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Lookouts
+END:VALARM
+DTSTART:20180801T230000Z
+DTEND:20180802T020000Z
+UID:LPb_yI7Wom8F8Cv34sF4H2l4@stanza.co
+SUMMARY:Smokies vs. Lookouts
+DESCRIPTION:Smokies vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+xVVQ-2a\n\nShop: https://stza.co/+xVVQ-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       LisljwfIWBMM1oCqqWmGFRHu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSV-R
+
+Shop  https //stza.co/+wCSV-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:LisljwfIWBMM1oCqqWmGFRHu@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSV-R\n\nShop: https://stza.co/+wCSV-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       pf0bJS20upb1MQdHt92N4ixV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSW-1_
+
+Shop  https //stza.co/+wCSW-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:pf0bJS20upb1MQdHt92N4ixV@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSW-1_\n\nShop: https://stza.co/+wCSW-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-08-04 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       7yKtPhIOw70ydek8mMnwGT3E@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSX-1c
+
+Shop  https //stza.co/+wCSX-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180804T230500Z
+DTEND:20180805T020500Z
+UID:7yKtPhIOw70ydek8mMnwGT3E@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSX-1c\n\nShop: https://stza.co/+wCSX-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-08-05 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       WO8I9TmQFL4ZTVuln065UQaC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSY-8
+
+Shop  https //stza.co/+wCSY-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180805T230500Z
+DTEND:20180806T020500Z
+UID:WO8I9TmQFL4ZTVuln065UQaC@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSY-8\n\nShop: https://stza.co/+wCSY-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Generals
+<2018-08-06 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       Eq2ah0yDIVQzMtViLQPccDA8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Generals Smokies @ Generals
+
+Follow on MiLB First Pitch  https //stza.co/+wCSZ-1i
+
+Shop  https //stza.co/+wCSZ-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Generals
+END:VALARM
+DTSTART:20180806T230500Z
+DTEND:20180807T020500Z
+UID:Eq2ah0yDIVQzMtViLQPccDA8@stanza.co
+SUMMARY:Smokies @ Generals
+DESCRIPTION:Smokies @ Generals\n\nFollow on MiLB First Pitch: https://stza.co/+wCSZ-1i\n\nShop: https://stza.co/+wCSZ-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Shuckers
+<2018-08-08 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       RSQKgOgj0fM4DGWrndFRwRkF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Shuckers Smokies vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+xVVS-23
+
+Shop  https //stza.co/+xVVS-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Shuckers
+END:VALARM
+DTSTART:20180808T230000Z
+DTEND:20180809T020000Z
+UID:RSQKgOgj0fM4DGWrndFRwRkF@stanza.co
+SUMMARY:Smokies vs. Shuckers
+DESCRIPTION:Smokies vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+xVVS-23\n\nShop: https://stza.co/+xVVS-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Shuckers
+<2018-08-09 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       hB8D_lM0Dq7mYxFPoIN4rm1I@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Shuckers Smokies vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+xVVU-p
+
+Shop  https //stza.co/+xVVU-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Shuckers
+END:VALARM
+DTSTART:20180809T230000Z
+DTEND:20180810T020000Z
+UID:hB8D_lM0Dq7mYxFPoIN4rm1I@stanza.co
+SUMMARY:Smokies vs. Shuckers
+DESCRIPTION:Smokies vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+xVVU-p\n\nShop: https://stza.co/+xVVU-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Shuckers
+<2018-08-10 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       CnSVs-wpGAxdC96aPTLAOLo-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Shuckers Smokies vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+xVVW-3d
+
+Shop  https //stza.co/+xVVW-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Shuckers
+END:VALARM
+DTSTART:20180810T230000Z
+DTEND:20180811T020000Z
+UID:CnSVs-wpGAxdC96aPTLAOLo-@stanza.co
+SUMMARY:Smokies vs. Shuckers
+DESCRIPTION:Smokies vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+xVVW-3d\n\nShop: https://stza.co/+xVVW-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Shuckers
+<2018-08-11 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       uRqqs1p7fAL6mTeqYoJzEg7m@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Shuckers Smokies vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+xVV_-3a
+
+Shop  https //stza.co/+xVV_-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Shuckers
+END:VALARM
+DTSTART:20180811T230000Z
+DTEND:20180812T020000Z
+UID:uRqqs1p7fAL6mTeqYoJzEg7m@stanza.co
+SUMMARY:Smokies vs. Shuckers
+DESCRIPTION:Smokies vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+xVV_-3a\n\nShop: https://stza.co/+xVV_-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Shuckers
+<2018-08-12 Sun 16:30-19:30>
+:PROPERTIES:
+:ID:       CNzo3CtGwkxxMmL0AElFKcER@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Shuckers Smokies vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+xVW0-2P
+
+Shop  https //stza.co/+xVW0-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Shuckers
+END:VALARM
+DTSTART:20180812T213000Z
+DTEND:20180813T003000Z
+UID:CNzo3CtGwkxxMmL0AElFKcER@stanza.co
+SUMMARY:Smokies vs. Shuckers
+DESCRIPTION:Smokies vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+xVW0-2P\n\nShop: https://stza.co/+xVW0-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-08-14 Tue 19:05-22:05>
+:PROPERTIES:
+:ID:       3lTtoCyjbxJMyg0-xiGFaK22@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFY8-1P
+
+Shop  https //stza.co/+wFY8-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180815T000500Z
+DTEND:20180815T030500Z
+UID:3lTtoCyjbxJMyg0-xiGFaK22@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFY8-1P\n\nShop: https://stza.co/+wFY8-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-08-15 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       m8LI5UxfToC-Z88ZvcFpSXX1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFY9-3M
+
+Shop  https //stza.co/+wFY9-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180816T000500Z
+DTEND:20180816T030500Z
+UID:m8LI5UxfToC-Z88ZvcFpSXX1@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFY9-3M\n\nShop: https://stza.co/+wFY9-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-08-16 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       lyXk2Iq1-xjAkyL9OR1Ieuel@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFYa-2o
+
+Shop  https //stza.co/+wFYa-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180817T000500Z
+DTEND:20180817T030500Z
+UID:lyXk2Iq1-xjAkyL9OR1Ieuel@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFYa-2o\n\nShop: https://stza.co/+wFYa-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-08-17 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       0QMp64z49m5m0YvHQzKmSh9p@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFYb-W
+
+Shop  https //stza.co/+wFYb-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180818T000500Z
+DTEND:20180818T030500Z
+UID:0QMp64z49m5m0YvHQzKmSh9p@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFYb-W\n\nShop: https://stza.co/+wFYb-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Barons
+<2018-08-18 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       bPVZ9LS7biOrBFcUDrQRP2-j@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Barons Smokies @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFYc-2O
+
+Shop  https //stza.co/+wFYc-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Barons
+END:VALARM
+DTSTART:20180818T233000Z
+DTEND:20180819T023000Z
+UID:bPVZ9LS7biOrBFcUDrQRP2-j@stanza.co
+SUMMARY:Smokies @ Barons
+DESCRIPTION:Smokies @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFYc-2O\n\nShop: https://stza.co/+wFYc-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-08-19 Sun 16:30-19:30>
+:PROPERTIES:
+:ID:       9MbCBWpqQkwZ8nAVsDZUOzRw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVW2-14
+
+Shop  https //stza.co/+xVW2-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180819T213000Z
+DTEND:20180820T003000Z
+UID:9MbCBWpqQkwZ8nAVsDZUOzRw@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVW2-14\n\nShop: https://stza.co/+xVW2-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-08-20 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       YAlthiUoFtHv9XZ1UOCHKK-1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVW4-3l
+
+Shop  https //stza.co/+xVW4-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180820T230000Z
+DTEND:20180821T020000Z
+UID:YAlthiUoFtHv9XZ1UOCHKK-1@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVW4-3l\n\nShop: https://stza.co/+xVW4-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-08-21 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       uzUJf1niBEUg65PEHFwkN_Y0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVW6-J
+
+Shop  https //stza.co/+xVW6-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180821T230000Z
+DTEND:20180822T020000Z
+UID:uzUJf1niBEUg65PEHFwkN_Y0@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVW6-J\n\nShop: https://stza.co/+xVW6-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-08-22 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       567GrIbUyrhEiRoGb4NX0nkj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVW9-2w
+
+Shop  https //stza.co/+xVW9-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180822T230000Z
+DTEND:20180823T020000Z
+UID:567GrIbUyrhEiRoGb4NX0nkj@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVW9-2w\n\nShop: https://stza.co/+xVW9-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Generals
+<2018-08-23 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       Ntd90PhdYFFlXoTMjR2JaTIc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Generals Smokies vs. Generals
+
+Follow on MiLB First Pitch  https //stza.co/+xVWb-2i
+
+Shop  https //stza.co/+xVWb-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Generals
+END:VALARM
+DTSTART:20180823T230000Z
+DTEND:20180824T020000Z
+UID:Ntd90PhdYFFlXoTMjR2JaTIc@stanza.co
+SUMMARY:Smokies vs. Generals
+DESCRIPTION:Smokies vs. Generals\n\nFollow on MiLB First Pitch: https://stza.co/+xVWb-2i\n\nShop: https://stza.co/+xVWb-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-08-24 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       zpO52Uh8PBc39NqVZ3dCI1wp@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWg-3p
+
+Shop  https //stza.co/+vLWg-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180824T233500Z
+DTEND:20180825T023500Z
+UID:zpO52Uh8PBc39NqVZ3dCI1wp@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWg-3p\n\nShop: https://stza.co/+vLWg-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-08-25 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       7v6juz0higIdfH_jlOR17Wpx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWh-3R
+
+Shop  https //stza.co/+vLWh-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180825T230500Z
+DTEND:20180826T020500Z
+UID:7v6juz0higIdfH_jlOR17Wpx@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWh-3R\n\nShop: https://stza.co/+vLWh-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-08-26 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       KgK2w3m8ZyM7bw8klm9q-TZ6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWi-2H
+
+Shop  https //stza.co/+vLWi-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180826T220500Z
+DTEND:20180827T010500Z
+UID:KgK2w3m8ZyM7bw8klm9q-TZ6@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWi-2H\n\nShop: https://stza.co/+vLWi-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-08-27 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       moqkZ5lyvvJMydsk6qAH8gad@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWj-3F
+
+Shop  https //stza.co/+vLWj-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180827T233500Z
+DTEND:20180828T023500Z
+UID:moqkZ5lyvvJMydsk6qAH8gad@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWj-3F\n\nShop: https://stza.co/+vLWj-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies @ Biscuits
+<2018-08-28 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       GVyvdUIxeC6YyhEMDDoQGH11@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies @ Biscuits Smokies @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLWk-3f
+
+Shop  https //stza.co/+vLWk-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Smokies @ Biscuits
+END:VALARM
+DTSTART:20180828T233500Z
+DTEND:20180829T023500Z
+UID:GVyvdUIxeC6YyhEMDDoQGH11@stanza.co
+SUMMARY:Smokies @ Biscuits
+DESCRIPTION:Smokies @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLWk-3f\n\nShop: https://stza.co/+vLWk-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Blue Wahoos
+<2018-08-30 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       50F8kd6udxoyl1TpwuRrYpfg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Blue Wahoos Smokies vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+xVWd-1H
+
+Shop  https //stza.co/+xVWd-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Blue Wahoos
+END:VALARM
+DTSTART:20180830T230000Z
+DTEND:20180831T020000Z
+UID:50F8kd6udxoyl1TpwuRrYpfg@stanza.co
+SUMMARY:Smokies vs. Blue Wahoos
+DESCRIPTION:Smokies vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+xVWd-1H\n\nShop: https://stza.co/+xVWd-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Blue Wahoos
+<2018-08-31 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       -hnywe7lAzThns0camKNYaj1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Blue Wahoos Smokies vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+xVWf-E
+
+Shop  https //stza.co/+xVWf-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Blue Wahoos
+END:VALARM
+DTSTART:20180831T230000Z
+DTEND:20180901T020000Z
+UID:-hnywe7lAzThns0camKNYaj1@stanza.co
+SUMMARY:Smokies vs. Blue Wahoos
+DESCRIPTION:Smokies vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+xVWf-E\n\nShop: https://stza.co/+xVWf-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Blue Wahoos
+<2018-09-01 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       lnLYkpzzc0Ew9v8C4DeOliH0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Blue Wahoos Smokies vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+xVWh-2W
+
+Shop  https //stza.co/+xVWh-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Blue Wahoos
+END:VALARM
+DTSTART:20180901T230000Z
+DTEND:20180902T020000Z
+UID:lnLYkpzzc0Ew9v8C4DeOliH0@stanza.co
+SUMMARY:Smokies vs. Blue Wahoos
+DESCRIPTION:Smokies vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+xVWh-2W\n\nShop: https://stza.co/+xVWh-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Blue Wahoos
+<2018-09-02 Sun 16:30-19:30>
+:PROPERTIES:
+:ID:       ZE0fnSCsGdywcYa2WQmWEBj2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Blue Wahoos Smokies vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+xVWj-2N
+
+Shop  https //stza.co/+xVWj-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Blue Wahoos
+END:VALARM
+DTSTART:20180902T213000Z
+DTEND:20180903T003000Z
+UID:ZE0fnSCsGdywcYa2WQmWEBj2@stanza.co
+SUMMARY:Smokies vs. Blue Wahoos
+DESCRIPTION:Smokies vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+xVWj-2N\n\nShop: https://stza.co/+xVWj-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Smokies vs. Blue Wahoos
+<2018-09-03 Mon 11:00-14:00>
+:PROPERTIES:
+:ID:       6RGjmOaGsZKL7linuR8beJNX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Smokies vs. Blue Wahoos Smokies vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+xVWk-2S
+
+Shop  https //stza.co/+xVWk-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Smokies vs. Blue Wahoos
+END:VALARM
+DTSTART:20180903T160000Z
+DTEND:20180903T190000Z
+UID:6RGjmOaGsZKL7linuR8beJNX@stanza.co
+SUMMARY:Smokies vs. Blue Wahoos
+DESCRIPTION:Smokies vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+xVWk-2S\n\nShop: https://stza.co/+xVWk-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT

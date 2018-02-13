@@ -1,0 +1,12 @@
+* Minor Leage Baseball in Org
+  This is a script to scrape and munge Minor League Baseball schedules into an org-mode format. Doing so for my local team (Go Express) has helped me to see more games since I can see them easily at a glance on my org-mode agenda along with everything else in my life. Hopefully this is helpful for someone else as well.
+
+The team schedules are available from stanza.co as iCal (~.ics~) files. Someone had already  [[https://orgmode.org/worg/code/awk/ical2org.awk][create an awk script]] to convert iCal files to org-mode files. All I did was some plumbing around this in the form of a bash script to download the iCal files, run the conversion, and zip them all up.
+
+* Usage
+To use, just run ~scripts/make_current_zip.sh~. This will download and convert all 160 teams into org format, and put the resulting zip file into ~zips/~. If you don't wish to download all 160 teams, you can simply edit the file in ~data/${current_year}_team_names~ to omit the ones you don't care about.
+
+* Outstanding Tasks
+
+** TODO automate gathering/cleaning of team name list
+   This changes pretty much every year, or at least much more frequently than the big league team names. Should come up with a means of scraping this so the whole process can be automated.

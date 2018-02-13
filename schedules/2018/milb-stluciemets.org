@@ -1,0 +1,5094 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Mets vs. Marauders
+<2018-04-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       pxHjb5AU_llcGbFHq3a0AK8Y@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Marauders Mets vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMEY-3I
+
+Shop  https //stza.co/+vMEY-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Marauders
+END:VALARM
+DTSTART:20180405T223000Z
+DTEND:20180406T013000Z
+UID:pxHjb5AU_llcGbFHq3a0AK8Y@stanza.co
+SUMMARY:Mets vs. Marauders
+DESCRIPTION:Mets vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMEY-3I\n\nShop: https://stza.co/+vMEY-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Marauders
+<2018-04-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       JNQggmcxU0ioldjq6eTQDeni@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Marauders Mets vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vME$-2I
+
+Shop  https //stza.co/+vME$-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Marauders
+END:VALARM
+DTSTART:20180406T223000Z
+DTEND:20180407T013000Z
+UID:JNQggmcxU0ioldjq6eTQDeni@stanza.co
+SUMMARY:Mets vs. Marauders
+DESCRIPTION:Mets vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vME$-2I\n\nShop: https://stza.co/+vME$-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Marauders
+<2018-04-07 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       r4yFfJp0ldvmBUck-4uAdVKB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Marauders Mets @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMDW-3j
+
+Shop  https //stza.co/+vMDW-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Marauders
+END:VALARM
+DTSTART:20180407T223000Z
+DTEND:20180408T013000Z
+UID:r4yFfJp0ldvmBUck-4uAdVKB@stanza.co
+SUMMARY:Mets @ Marauders
+DESCRIPTION:Mets @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMDW-3j\n\nShop: https://stza.co/+vMDW-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Marauders
+<2018-04-08 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       u9U8NHlcWS0Mz_hk8PpmgZKm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Marauders Mets @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMDX-2v
+
+Shop  https //stza.co/+vMDX-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Marauders
+END:VALARM
+DTSTART:20180408T170000Z
+DTEND:20180408T200000Z
+UID:u9U8NHlcWS0Mz_hk8PpmgZKm@stanza.co
+SUMMARY:Mets @ Marauders
+DESCRIPTION:Mets @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMDX-2v\n\nShop: https://stza.co/+vMDX-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tarpons
+<2018-04-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       9J8h4AnZ_L34xEW0-3PSsBAY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tarpons Mets vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMF1-3W
+
+Shop  https //stza.co/+vMF1-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tarpons
+END:VALARM
+DTSTART:20180409T223000Z
+DTEND:20180410T013000Z
+UID:9J8h4AnZ_L34xEW0-3PSsBAY@stanza.co
+SUMMARY:Mets vs. Tarpons
+DESCRIPTION:Mets vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMF1-3W\n\nShop: https://stza.co/+vMF1-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tarpons
+<2018-04-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       4gsZ38wVp-NJhtJV7_CDBbhD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tarpons Mets vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMF2-3q
+
+Shop  https //stza.co/+vMF2-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tarpons
+END:VALARM
+DTSTART:20180410T223000Z
+DTEND:20180411T013000Z
+UID:4gsZ38wVp-NJhtJV7_CDBbhD@stanza.co
+SUMMARY:Mets vs. Tarpons
+DESCRIPTION:Mets vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMF2-3q\n\nShop: https://stza.co/+vMF2-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tarpons
+<2018-04-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       Nyv__a3RFFytyZWeTfR4QAKH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tarpons Mets vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMF4-2L
+
+Shop  https //stza.co/+vMF4-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tarpons
+END:VALARM
+DTSTART:20180411T223000Z
+DTEND:20180412T013000Z
+UID:Nyv__a3RFFytyZWeTfR4QAKH@stanza.co
+SUMMARY:Mets vs. Tarpons
+DESCRIPTION:Mets vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMF4-2L\n\nShop: https://stza.co/+vMF4-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tarpons
+<2018-04-12 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       ams0RZLT3-ZSECEdh7rHSEJA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tarpons Mets vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMF6-J
+
+Shop  https //stza.co/+vMF6-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tarpons
+END:VALARM
+DTSTART:20180412T223000Z
+DTEND:20180413T013000Z
+UID:ams0RZLT3-ZSECEdh7rHSEJA@stanza.co
+SUMMARY:Mets vs. Tarpons
+DESCRIPTION:Mets vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMF6-J\n\nShop: https://stza.co/+vMF6-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Blue Jays
+<2018-04-13 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       1rdIwdPeDSdqHGpkhFUqDMPU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Blue Jays Mets vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vMF9-I
+
+Shop  https //stza.co/+vMF9-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Blue Jays
+END:VALARM
+DTSTART:20180413T223000Z
+DTEND:20180414T013000Z
+UID:1rdIwdPeDSdqHGpkhFUqDMPU@stanza.co
+SUMMARY:Mets vs. Blue Jays
+DESCRIPTION:Mets vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vMF9-I\n\nShop: https://stza.co/+vMF9-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Blue Jays
+<2018-04-14 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       FInPPcm7x_M9T9jj-WS46GnP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Blue Jays Mets vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vMFa-1T
+
+Shop  https //stza.co/+vMFa-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Blue Jays
+END:VALARM
+DTSTART:20180414T223000Z
+DTEND:20180415T013000Z
+UID:FInPPcm7x_M9T9jj-WS46GnP@stanza.co
+SUMMARY:Mets vs. Blue Jays
+DESCRIPTION:Mets vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vMFa-1T\n\nShop: https://stza.co/+vMFa-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Blue Jays
+<2018-04-15 Sun>--<2018-04-14 Sat>
+:PROPERTIES:
+:ID:       BcFtByzVd8xy4eHgxDROY1ZA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Blue Jays Mets vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vMFc-1y
+
+Shop  https //stza.co/+vMFc-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180415
+DTEND;VALUE=DATE:20180415
+UID:BcFtByzVd8xy4eHgxDROY1ZA@stanza.co
+SUMMARY:Mets vs. Blue Jays
+DESCRIPTION:Mets vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vMFc-1y\n\nShop: https://stza.co/+vMFc-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Fire Frogs
+<2018-04-17 Tue 17:31-20:31>
+:PROPERTIES:
+:ID:       _iOTHhIbm4oEb2g5hf7q1yCm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Fire Frogs Mets @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNv
+
+Follow on MiLB First Pitch  https //stza.co/+xWNv-i
+
+Shop  https //stza.co/+xWNv-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Fire Frogs
+END:VALARM
+DTSTART:20180417T223100Z
+DTEND:20180418T013100Z
+UID:_iOTHhIbm4oEb2g5hf7q1yCm@stanza.co
+SUMMARY:Mets @ Fire Frogs
+DESCRIPTION:Mets @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNv\n\nFollow on MiLB First Pitch: https://stza.co/+xWNv-i\n\nShop: https://stza.co/+xWNv-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Fire Frogs
+<2018-04-18 Wed 17:31-20:31>
+:PROPERTIES:
+:ID:       c_hJm-PiHa8ARsbXMH9XgLU1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Fire Frogs Mets @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNw
+
+Follow on MiLB First Pitch  https //stza.co/+xWNw-2q
+
+Shop  https //stza.co/+xWNw-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Fire Frogs
+END:VALARM
+DTSTART:20180418T223100Z
+DTEND:20180419T013100Z
+UID:c_hJm-PiHa8ARsbXMH9XgLU1@stanza.co
+SUMMARY:Mets @ Fire Frogs
+DESCRIPTION:Mets @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNw\n\nFollow on MiLB First Pitch: https://stza.co/+xWNw-2q\n\nShop: https://stza.co/+xWNw-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Fire Frogs
+<2018-04-19 Thu 17:31-20:31>
+:PROPERTIES:
+:ID:       0OE_eU_ELLfawNWBE0iPk2do@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Fire Frogs Mets @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNx
+
+Follow on MiLB First Pitch  https //stza.co/+xWNx-3M
+
+Shop  https //stza.co/+xWNx-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Fire Frogs
+END:VALARM
+DTSTART:20180419T223100Z
+DTEND:20180420T013100Z
+UID:0OE_eU_ELLfawNWBE0iPk2do@stanza.co
+SUMMARY:Mets @ Fire Frogs
+DESCRIPTION:Mets @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNx\n\nFollow on MiLB First Pitch: https://stza.co/+xWNx-3M\n\nShop: https://stza.co/+xWNx-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-04-20 Fri>--<2018-04-19 Thu>
+:PROPERTIES:
+:ID:       8i9sXQW3uNd7Yp2NngKT-TYt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEC
+
+Follow on MiLB First Pitch  https //stza.co/+vMEC-2$
+
+Shop  https //stza.co/+vMEC-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180420
+DTEND;VALUE=DATE:20180420
+UID:8i9sXQW3uNd7Yp2NngKT-TYt@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEC\n\nFollow on MiLB First Pitch: https://stza.co/+vMEC-2$\n\nShop: https://stza.co/+vMEC-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-04-21 Sat>--<2018-04-20 Fri>
+:PROPERTIES:
+:ID:       d31zPfh4Z8e4g7UQMlAPloca@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMED
+
+Follow on MiLB First Pitch  https //stza.co/+vMED-s
+
+Shop  https //stza.co/+vMED-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180421
+DTEND;VALUE=DATE:20180421
+UID:d31zPfh4Z8e4g7UQMlAPloca@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMED\n\nFollow on MiLB First Pitch: https://stza.co/+vMED-s\n\nShop: https://stza.co/+vMED-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-04-22 Sun>--<2018-04-21 Sat>
+:PROPERTIES:
+:ID:       kU5PFm3rabOUN7UmYUyX3M7q@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEE
+
+Follow on MiLB First Pitch  https //stza.co/+vMEE-1W
+
+Shop  https //stza.co/+vMEE-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180422
+DTEND;VALUE=DATE:20180422
+UID:kU5PFm3rabOUN7UmYUyX3M7q@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEE\n\nFollow on MiLB First Pitch: https://stza.co/+vMEE-1W\n\nShop: https://stza.co/+vMEE-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Stone Crabs
+<2018-04-23 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       iDcCvouFSu7wcGCSkHxwAujt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Stone Crabs Mets vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vMFf-1f
+
+Shop  https //stza.co/+vMFf-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Stone Crabs
+END:VALARM
+DTSTART:20180423T223000Z
+DTEND:20180424T013000Z
+UID:iDcCvouFSu7wcGCSkHxwAujt@stanza.co
+SUMMARY:Mets vs. Stone Crabs
+DESCRIPTION:Mets vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vMFf-1f\n\nShop: https://stza.co/+vMFf-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Stone Crabs
+<2018-04-24 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       b5atdVGJEzGg4-QetuCYe8lr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Stone Crabs Mets vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vMFh-3T
+
+Shop  https //stza.co/+vMFh-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Stone Crabs
+END:VALARM
+DTSTART:20180424T223000Z
+DTEND:20180425T013000Z
+UID:b5atdVGJEzGg4-QetuCYe8lr@stanza.co
+SUMMARY:Mets vs. Stone Crabs
+DESCRIPTION:Mets vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vMFh-3T\n\nShop: https://stza.co/+vMFh-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Stone Crabs
+<2018-04-25 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       bDNcbF4_hPUwmPAMvEgO0R_f@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Stone Crabs Mets vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vMFi-3z
+
+Shop  https //stza.co/+vMFi-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Stone Crabs
+END:VALARM
+DTSTART:20180425T223000Z
+DTEND:20180426T013000Z
+UID:bDNcbF4_hPUwmPAMvEgO0R_f@stanza.co
+SUMMARY:Mets vs. Stone Crabs
+DESCRIPTION:Mets vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vMFi-3z\n\nShop: https://stza.co/+vMFi-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Cardinals
+<2018-04-26 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       RrxPZmyRS9dgDXesjHgmTeTv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Cardinals Mets vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vMFl-l
+
+Shop  https //stza.co/+vMFl-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Cardinals
+END:VALARM
+DTSTART:20180426T223000Z
+DTEND:20180427T013000Z
+UID:RrxPZmyRS9dgDXesjHgmTeTv@stanza.co
+SUMMARY:Mets vs. Cardinals
+DESCRIPTION:Mets vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vMFl-l\n\nShop: https://stza.co/+vMFl-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Cardinals
+<2018-04-27 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       wnIzdL1t2hqevAR3uaMKKTuH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Cardinals Mets vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vMFn-1_
+
+Shop  https //stza.co/+vMFn-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Cardinals
+END:VALARM
+DTSTART:20180427T223000Z
+DTEND:20180428T013000Z
+UID:wnIzdL1t2hqevAR3uaMKKTuH@stanza.co
+SUMMARY:Mets vs. Cardinals
+DESCRIPTION:Mets vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vMFn-1_\n\nShop: https://stza.co/+vMFn-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Cardinals
+<2018-04-28 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       htBhYQlWXNFtOzPK1Ol7OBYK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Cardinals Mets vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vMFp-1T
+
+Shop  https //stza.co/+vMFp-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Cardinals
+END:VALARM
+DTSTART:20180428T223000Z
+DTEND:20180429T013000Z
+UID:htBhYQlWXNFtOzPK1Ol7OBYK@stanza.co
+SUMMARY:Mets vs. Cardinals
+DESCRIPTION:Mets vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vMFp-1T\n\nShop: https://stza.co/+vMFp-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Cardinals
+<2018-04-29 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       tGiyj4eAj42UY43-bMC5g01D@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Cardinals Mets vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vMFq-U
+
+Shop  https //stza.co/+vMFq-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Cardinals
+END:VALARM
+DTSTART:20180429T160000Z
+DTEND:20180429T190000Z
+UID:tGiyj4eAj42UY43-bMC5g01D@stanza.co
+SUMMARY:Mets vs. Cardinals
+DESCRIPTION:Mets vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vMFq-U\n\nShop: https://stza.co/+vMFq-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Stone Crabs
+<2018-05-01 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       0aaHhDDcYPbnUOrAXfTsXZxd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Stone Crabs Mets @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYrj-10
+
+Shop  https //stza.co/+wYrj-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Stone Crabs
+END:VALARM
+DTSTART:20180501T223500Z
+DTEND:20180502T013500Z
+UID:0aaHhDDcYPbnUOrAXfTsXZxd@stanza.co
+SUMMARY:Mets @ Stone Crabs
+DESCRIPTION:Mets @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYrj-10\n\nShop: https://stza.co/+wYrj-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Stone Crabs
+<2018-05-02 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       c3nBxVMpXdU8boZP6n1oqrdi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Stone Crabs Mets @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYrk-37
+
+Shop  https //stza.co/+wYrk-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Stone Crabs
+END:VALARM
+DTSTART:20180502T223500Z
+DTEND:20180503T013500Z
+UID:c3nBxVMpXdU8boZP6n1oqrdi@stanza.co
+SUMMARY:Mets @ Stone Crabs
+DESCRIPTION:Mets @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYrk-37\n\nShop: https://stza.co/+wYrk-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Stone Crabs
+<2018-05-03 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       39OOz8rGugMjLIQcHcCl3lu4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Stone Crabs Mets @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYrl-B
+
+Shop  https //stza.co/+wYrl-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Stone Crabs
+END:VALARM
+DTSTART:20180503T223500Z
+DTEND:20180504T013500Z
+UID:39OOz8rGugMjLIQcHcCl3lu4@stanza.co
+SUMMARY:Mets @ Stone Crabs
+DESCRIPTION:Mets @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYrl-B\n\nShop: https://stza.co/+wYrl-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Cardinals
+<2018-05-04 Fri>--<2018-05-03 Thu>
+:PROPERTIES:
+:ID:       Lutm8UjoU7JgIi3FUZexcRsj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Cardinals Mets @ Cardinals
+
+Buy tickets here  https //stza.co/~vMES
+
+Follow on MiLB First Pitch  https //stza.co/+vMES-2$
+
+Shop  https //stza.co/+vMES-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180504
+DTEND;VALUE=DATE:20180504
+UID:Lutm8UjoU7JgIi3FUZexcRsj@stanza.co
+SUMMARY:Mets @ Cardinals
+DESCRIPTION:Mets @ Cardinals\n\nBuy tickets here: https://stza.co/~vMES\n\nFollow on MiLB First Pitch: https://stza.co/+vMES-2$\n\nShop: https://stza.co/+vMES-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Cardinals
+<2018-05-05 Sat>--<2018-05-04 Fri>
+:PROPERTIES:
+:ID:       UW57ueQmR97zqwFqxREEbRmi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Cardinals Mets @ Cardinals
+
+Buy tickets here  https //stza.co/~vMET
+
+Follow on MiLB First Pitch  https //stza.co/+vMET-2L
+
+Shop  https //stza.co/+vMET-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180505
+UID:UW57ueQmR97zqwFqxREEbRmi@stanza.co
+SUMMARY:Mets @ Cardinals
+DESCRIPTION:Mets @ Cardinals\n\nBuy tickets here: https://stza.co/~vMET\n\nFollow on MiLB First Pitch: https://stza.co/+vMET-2L\n\nShop: https://stza.co/+vMET-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Cardinals
+<2018-05-06 Sun>--<2018-05-05 Sat>
+:PROPERTIES:
+:ID:       5KGcAJ4-ZBpCaoAf67Q3uC4A@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Cardinals Mets @ Cardinals
+
+Buy tickets here  https //stza.co/~vMEU
+
+Follow on MiLB First Pitch  https //stza.co/+vMEU-21
+
+Shop  https //stza.co/+vMEU-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180506
+DTEND;VALUE=DATE:20180506
+UID:5KGcAJ4-ZBpCaoAf67Q3uC4A@stanza.co
+SUMMARY:Mets @ Cardinals
+DESCRIPTION:Mets @ Cardinals\n\nBuy tickets here: https://stza.co/~vMEU\n\nFollow on MiLB First Pitch: https://stza.co/+vMEU-21\n\nShop: https://stza.co/+vMEU-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Fire Frogs
+<2018-05-07 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       L0Zo8EN_gSc1A9BRK_uvxPFk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Fire Frogs Mets vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vMFs-2$
+
+Shop  https //stza.co/+vMFs-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Fire Frogs
+END:VALARM
+DTSTART:20180507T223000Z
+DTEND:20180508T013000Z
+UID:L0Zo8EN_gSc1A9BRK_uvxPFk@stanza.co
+SUMMARY:Mets vs. Fire Frogs
+DESCRIPTION:Mets vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vMFs-2$\n\nShop: https://stza.co/+vMFs-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Fire Frogs
+<2018-05-08 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       Y_Z_xl1lOAbxdVR28E1WkMFP@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Fire Frogs Mets vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vMFv-4
+
+Shop  https //stza.co/+vMFv-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Fire Frogs
+END:VALARM
+DTSTART:20180508T223000Z
+DTEND:20180509T013000Z
+UID:Y_Z_xl1lOAbxdVR28E1WkMFP@stanza.co
+SUMMARY:Mets vs. Fire Frogs
+DESCRIPTION:Mets vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vMFv-4\n\nShop: https://stza.co/+vMFv-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Fire Frogs
+<2018-05-09 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       4SXBAc_MEq7d82bRuppQN3YV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Fire Frogs Mets vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vMFw-1n
+
+Shop  https //stza.co/+vMFw-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Fire Frogs
+END:VALARM
+DTSTART:20180509T143000Z
+DTEND:20180509T173000Z
+UID:4SXBAc_MEq7d82bRuppQN3YV@stanza.co
+SUMMARY:Mets vs. Fire Frogs
+DESCRIPTION:Mets vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vMFw-1n\n\nShop: https://stza.co/+vMFw-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Flying Tigers
+<2018-05-10 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       wjocY29nqpqhqY6PrzOtzOyi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Flying Tigers Mets vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vMFy-28
+
+Shop  https //stza.co/+vMFy-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Flying Tigers
+END:VALARM
+DTSTART:20180510T223000Z
+DTEND:20180511T013000Z
+UID:wjocY29nqpqhqY6PrzOtzOyi@stanza.co
+SUMMARY:Mets vs. Flying Tigers
+DESCRIPTION:Mets vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vMFy-28\n\nShop: https://stza.co/+vMFy-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Flying Tigers
+<2018-05-11 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       33yubjhHg5kmwao5OajP6M79@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Flying Tigers Mets vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vMFA-1u
+
+Shop  https //stza.co/+vMFA-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Flying Tigers
+END:VALARM
+DTSTART:20180511T223000Z
+DTEND:20180512T013000Z
+UID:33yubjhHg5kmwao5OajP6M79@stanza.co
+SUMMARY:Mets vs. Flying Tigers
+DESCRIPTION:Mets vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vMFA-1u\n\nShop: https://stza.co/+vMFA-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Flying Tigers
+<2018-05-12 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       _B8nAYyKUl6rvOeSGzRKLv9D@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Flying Tigers Mets vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vMFC-c
+
+Shop  https //stza.co/+vMFC-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Flying Tigers
+END:VALARM
+DTSTART:20180512T223000Z
+DTEND:20180513T013000Z
+UID:_B8nAYyKUl6rvOeSGzRKLv9D@stanza.co
+SUMMARY:Mets vs. Flying Tigers
+DESCRIPTION:Mets vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vMFC-c\n\nShop: https://stza.co/+vMFC-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Fire Frogs
+<2018-05-14 Mon 17:31-20:31>
+:PROPERTIES:
+:ID:       1eM00I1LoiZMd3cfsk8KDNJ5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Fire Frogs Mets @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNy
+
+Follow on MiLB First Pitch  https //stza.co/+xWNy-14
+
+Shop  https //stza.co/+xWNy-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Fire Frogs
+END:VALARM
+DTSTART:20180514T223100Z
+DTEND:20180515T013100Z
+UID:1eM00I1LoiZMd3cfsk8KDNJ5@stanza.co
+SUMMARY:Mets @ Fire Frogs
+DESCRIPTION:Mets @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNy\n\nFollow on MiLB First Pitch: https://stza.co/+xWNy-14\n\nShop: https://stza.co/+xWNy-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Fire Frogs
+<2018-05-15 Tue 10:00-13:00>
+:PROPERTIES:
+:ID:       0Wl5YDT_36VgTRupt7et8AWA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Fire Frogs Mets @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNz
+
+Follow on MiLB First Pitch  https //stza.co/+xWNz-30
+
+Shop  https //stza.co/+xWNz-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Fire Frogs
+END:VALARM
+DTSTART:20180515T150000Z
+DTEND:20180515T180000Z
+UID:0Wl5YDT_36VgTRupt7et8AWA@stanza.co
+SUMMARY:Mets @ Fire Frogs
+DESCRIPTION:Mets @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNz\n\nFollow on MiLB First Pitch: https://stza.co/+xWNz-30\n\nShop: https://stza.co/+xWNz-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Fire Frogs
+<2018-05-16 Wed 17:31-20:31>
+:PROPERTIES:
+:ID:       kwQV7AnW4uxoSzTXBwK3dBhJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Fire Frogs Mets @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNA
+
+Follow on MiLB First Pitch  https //stza.co/+xWNA-1U
+
+Shop  https //stza.co/+xWNA-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Fire Frogs
+END:VALARM
+DTSTART:20180516T223100Z
+DTEND:20180517T013100Z
+UID:kwQV7AnW4uxoSzTXBwK3dBhJ@stanza.co
+SUMMARY:Mets @ Fire Frogs
+DESCRIPTION:Mets @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNA\n\nFollow on MiLB First Pitch: https://stza.co/+xWNA-1U\n\nShop: https://stza.co/+xWNA-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Fire Frogs
+<2018-05-17 Thu 17:31-20:31>
+:PROPERTIES:
+:ID:       ceKI5RS5BOlsvZ2EHs6e4hDI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Fire Frogs Mets @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNB
+
+Follow on MiLB First Pitch  https //stza.co/+xWNB-2K
+
+Shop  https //stza.co/+xWNB-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Fire Frogs
+END:VALARM
+DTSTART:20180517T223100Z
+DTEND:20180518T013100Z
+UID:ceKI5RS5BOlsvZ2EHs6e4hDI@stanza.co
+SUMMARY:Mets @ Fire Frogs
+DESCRIPTION:Mets @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNB\n\nFollow on MiLB First Pitch: https://stza.co/+xWNB-2K\n\nShop: https://stza.co/+xWNB-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Miracle
+<2018-05-18 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       1B-Xs4E3IT_a3NNIFIffR8ag@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Miracle Mets @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdq-1M
+
+Shop  https //stza.co/+xMdq-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Miracle
+END:VALARM
+DTSTART:20180518T230000Z
+DTEND:20180519T020000Z
+UID:1B-Xs4E3IT_a3NNIFIffR8ag@stanza.co
+SUMMARY:Mets @ Miracle
+DESCRIPTION:Mets @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdq-1M\n\nShop: https://stza.co/+xMdq-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Miracle
+<2018-05-19 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       GfI-Lv934aKem1cU_pfahBhA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Miracle Mets @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdr-26
+
+Shop  https //stza.co/+xMdr-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Miracle
+END:VALARM
+DTSTART:20180519T220000Z
+DTEND:20180520T010000Z
+UID:GfI-Lv934aKem1cU_pfahBhA@stanza.co
+SUMMARY:Mets @ Miracle
+DESCRIPTION:Mets @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdr-26\n\nShop: https://stza.co/+xMdr-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Miracle
+<2018-05-20 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       t2hL0Q78-8xgaZoETl1Uw4Ui@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Miracle Mets @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMds-2D
+
+Shop  https //stza.co/+xMds-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Miracle
+END:VALARM
+DTSTART:20180520T200000Z
+DTEND:20180520T230000Z
+UID:t2hL0Q78-8xgaZoETl1Uw4Ui@stanza.co
+SUMMARY:Mets @ Miracle
+DESCRIPTION:Mets @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMds-2D\n\nShop: https://stza.co/+xMds-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Threshers
+<2018-05-21 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       sWEUjBPK_DCd14eqQCaPgP7a@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Threshers Mets vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vMFF-2r
+
+Shop  https //stza.co/+vMFF-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Threshers
+END:VALARM
+DTSTART:20180521T223000Z
+DTEND:20180522T013000Z
+UID:sWEUjBPK_DCd14eqQCaPgP7a@stanza.co
+SUMMARY:Mets vs. Threshers
+DESCRIPTION:Mets vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vMFF-2r\n\nShop: https://stza.co/+vMFF-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Threshers
+<2018-05-22 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       HvB46cJA9uNlcTGTs-8YCzxA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Threshers Mets vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vMFG-3M
+
+Shop  https //stza.co/+vMFG-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Threshers
+END:VALARM
+DTSTART:20180522T223000Z
+DTEND:20180523T013000Z
+UID:HvB46cJA9uNlcTGTs-8YCzxA@stanza.co
+SUMMARY:Mets vs. Threshers
+DESCRIPTION:Mets vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vMFG-3M\n\nShop: https://stza.co/+vMFG-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Threshers
+<2018-05-23 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       edVzPCJZfag_3ZqOpBUobCh8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Threshers Mets vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vMFJ-11
+
+Shop  https //stza.co/+vMFJ-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Threshers
+END:VALARM
+DTSTART:20180523T223000Z
+DTEND:20180524T013000Z
+UID:edVzPCJZfag_3ZqOpBUobCh8@stanza.co
+SUMMARY:Mets vs. Threshers
+DESCRIPTION:Mets vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vMFJ-11\n\nShop: https://stza.co/+vMFJ-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tortugas
+<2018-05-24 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       alWkjdNlv8I2zWVpl1KOd8zE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tortugas Mets @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMEd-2g
+
+Shop  https //stza.co/+vMEd-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tortugas
+END:VALARM
+DTSTART:20180524T230500Z
+DTEND:20180525T020500Z
+UID:alWkjdNlv8I2zWVpl1KOd8zE@stanza.co
+SUMMARY:Mets @ Tortugas
+DESCRIPTION:Mets @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMEd-2g\n\nShop: https://stza.co/+vMEd-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tortugas
+<2018-05-25 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       XG73Uu5R4BCmPDEapUKWeNCb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tortugas Mets @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMEe-2$
+
+Shop  https //stza.co/+vMEe-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tortugas
+END:VALARM
+DTSTART:20180525T230500Z
+DTEND:20180526T020500Z
+UID:XG73Uu5R4BCmPDEapUKWeNCb@stanza.co
+SUMMARY:Mets @ Tortugas
+DESCRIPTION:Mets @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMEe-2$\n\nShop: https://stza.co/+vMEe-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tortugas
+<2018-05-26 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       77Q1rk8Ad_VXqRLgyUWJT_nY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tortugas Mets @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMEf-2Y
+
+Shop  https //stza.co/+vMEf-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tortugas
+END:VALARM
+DTSTART:20180526T230500Z
+DTEND:20180527T020500Z
+UID:77Q1rk8Ad_VXqRLgyUWJT_nY@stanza.co
+SUMMARY:Mets @ Tortugas
+DESCRIPTION:Mets @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMEf-2Y\n\nShop: https://stza.co/+vMEf-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tortugas
+<2018-05-27 Sun 17:35-20:35>
+:PROPERTIES:
+:ID:       bIlhWglYDCHkBBBmdnaBqA_r@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tortugas Mets @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMEg-1n
+
+Shop  https //stza.co/+vMEg-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tortugas
+END:VALARM
+DTSTART:20180527T223500Z
+DTEND:20180528T013500Z
+UID:bIlhWglYDCHkBBBmdnaBqA_r@stanza.co
+SUMMARY:Mets @ Tortugas
+DESCRIPTION:Mets @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMEg-1n\n\nShop: https://stza.co/+vMEg-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Hammerheads
+<2018-05-29 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       _6sHWvxiSTZ7xQyQ7roVLOo4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Hammerheads Mets vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vMFL-3
+
+Shop  https //stza.co/+vMFL-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Hammerheads
+END:VALARM
+DTSTART:20180529T223000Z
+DTEND:20180530T013000Z
+UID:_6sHWvxiSTZ7xQyQ7roVLOo4@stanza.co
+SUMMARY:Mets vs. Hammerheads
+DESCRIPTION:Mets vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vMFL-3\n\nShop: https://stza.co/+vMFL-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Hammerheads
+<2018-05-30 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       DNlf8HopX3PkKb_gJZlZFJLo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Hammerheads Mets vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vMFM-3m
+
+Shop  https //stza.co/+vMFM-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Hammerheads
+END:VALARM
+DTSTART:20180530T223000Z
+DTEND:20180531T013000Z
+UID:DNlf8HopX3PkKb_gJZlZFJLo@stanza.co
+SUMMARY:Mets vs. Hammerheads
+DESCRIPTION:Mets vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vMFM-3m\n\nShop: https://stza.co/+vMFM-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Hammerheads
+<2018-05-31 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       PskjfK5dmzYeYKtyQZUmFY_z@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Hammerheads Mets vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vMFO-2V
+
+Shop  https //stza.co/+vMFO-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Hammerheads
+END:VALARM
+DTSTART:20180531T223000Z
+DTEND:20180601T013000Z
+UID:PskjfK5dmzYeYKtyQZUmFY_z@stanza.co
+SUMMARY:Mets vs. Hammerheads
+DESCRIPTION:Mets vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vMFO-2V\n\nShop: https://stza.co/+vMFO-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Miracle
+<2018-06-01 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       _ARKb9tALYdnWwMZhosFl036@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Miracle Mets vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vMFR-3U
+
+Shop  https //stza.co/+vMFR-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Miracle
+END:VALARM
+DTSTART:20180601T223000Z
+DTEND:20180602T013000Z
+UID:_ARKb9tALYdnWwMZhosFl036@stanza.co
+SUMMARY:Mets vs. Miracle
+DESCRIPTION:Mets vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vMFR-3U\n\nShop: https://stza.co/+vMFR-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Miracle
+<2018-06-02 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       Jo5FYNQpi4FMRasP6S3fSzWI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Miracle Mets vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vMFT-k
+
+Shop  https //stza.co/+vMFT-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Miracle
+END:VALARM
+DTSTART:20180602T223000Z
+DTEND:20180603T013000Z
+UID:Jo5FYNQpi4FMRasP6S3fSzWI@stanza.co
+SUMMARY:Mets vs. Miracle
+DESCRIPTION:Mets vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vMFT-k\n\nShop: https://stza.co/+vMFT-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Miracle
+<2018-06-03 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       M6IYJmxUk7S0wUJm3I6tkV0b@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Miracle Mets vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vMFU-1i
+
+Shop  https //stza.co/+vMFU-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Miracle
+END:VALARM
+DTSTART:20180603T160000Z
+DTEND:20180603T190000Z
+UID:M6IYJmxUk7S0wUJm3I6tkV0b@stanza.co
+SUMMARY:Mets vs. Miracle
+DESCRIPTION:Mets vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vMFU-1i\n\nShop: https://stza.co/+vMFU-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tarpons
+<2018-06-04 Mon>--<2018-06-03 Sun>
+:PROPERTIES:
+:ID:       67rW0RPli0z9VByMpSnk8c-Z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tarpons Mets @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMH8-3M
+
+Shop  https //stza.co/+vMH8-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180604
+DTEND;VALUE=DATE:20180604
+UID:67rW0RPli0z9VByMpSnk8c-Z@stanza.co
+SUMMARY:Mets @ Tarpons
+DESCRIPTION:Mets @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMH8-3M\n\nShop: https://stza.co/+vMH8-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tarpons
+<2018-06-05 Tue>--<2018-06-04 Mon>
+:PROPERTIES:
+:ID:       pPbQ_t9ocfs3RIHwZpkUr0pW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tarpons Mets @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMH9-3H
+
+Shop  https //stza.co/+vMH9-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180605
+DTEND;VALUE=DATE:20180605
+UID:pPbQ_t9ocfs3RIHwZpkUr0pW@stanza.co
+SUMMARY:Mets @ Tarpons
+DESCRIPTION:Mets @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMH9-3H\n\nShop: https://stza.co/+vMH9-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tarpons
+<2018-06-06 Wed>--<2018-06-05 Tue>
+:PROPERTIES:
+:ID:       Va7E4xrKsTyUNfI2QTQpFHqx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tarpons Mets @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMHa-2e
+
+Shop  https //stza.co/+vMHa-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180606
+DTEND;VALUE=DATE:20180606
+UID:Va7E4xrKsTyUNfI2QTQpFHqx@stanza.co
+SUMMARY:Mets @ Tarpons
+DESCRIPTION:Mets @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMHa-2e\n\nShop: https://stza.co/+vMHa-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tarpons
+<2018-06-07 Thu>--<2018-06-06 Wed>
+:PROPERTIES:
+:ID:       w1iqS6UoJ0LVNOxNFmqD86Ey@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tarpons Mets @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vlNt-k
+
+Shop  https //stza.co/+vlNt-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180607
+DTEND;VALUE=DATE:20180607
+UID:w1iqS6UoJ0LVNOxNFmqD86Ey@stanza.co
+SUMMARY:Mets @ Tarpons
+DESCRIPTION:Mets @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vlNt-k\n\nShop: https://stza.co/+vlNt-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Flying Tigers
+<2018-06-08 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       Wt7qrSWLdo_-bjVQo-I2FCbN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Flying Tigers Mets @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQB-10
+
+Shop  https //stza.co/+wKQB-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Flying Tigers
+END:VALARM
+DTSTART:20180608T223000Z
+DTEND:20180609T013000Z
+UID:Wt7qrSWLdo_-bjVQo-I2FCbN@stanza.co
+SUMMARY:Mets @ Flying Tigers
+DESCRIPTION:Mets @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQB-10\n\nShop: https://stza.co/+wKQB-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Flying Tigers
+<2018-06-09 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       FU2SFk-O5ssR_LbXdiX2iNOy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Flying Tigers Mets @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQC-1
+
+Shop  https //stza.co/+wKQC-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Flying Tigers
+END:VALARM
+DTSTART:20180609T220000Z
+DTEND:20180610T010000Z
+UID:FU2SFk-O5ssR_LbXdiX2iNOy@stanza.co
+SUMMARY:Mets @ Flying Tigers
+DESCRIPTION:Mets @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQC-1\n\nShop: https://stza.co/+wKQC-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Flying Tigers
+<2018-06-10 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       s9WQyjBmFiSLriRS5TH0LwSe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Flying Tigers Mets @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQD-3
+
+Shop  https //stza.co/+wKQD-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Flying Tigers
+END:VALARM
+DTSTART:20180610T170000Z
+DTEND:20180610T200000Z
+UID:s9WQyjBmFiSLriRS5TH0LwSe@stanza.co
+SUMMARY:Mets @ Flying Tigers
+DESCRIPTION:Mets @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQD-3\n\nShop: https://stza.co/+wKQD-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tortugas
+<2018-06-11 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       -sDDJahIvBkkAre1gVBl6ANY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tortugas Mets vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMFX-21
+
+Shop  https //stza.co/+vMFX-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tortugas
+END:VALARM
+DTSTART:20180611T223000Z
+DTEND:20180612T013000Z
+UID:-sDDJahIvBkkAre1gVBl6ANY@stanza.co
+SUMMARY:Mets vs. Tortugas
+DESCRIPTION:Mets vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMFX-21\n\nShop: https://stza.co/+vMFX-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tortugas
+<2018-06-12 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       MiU_RAlLrcnj3yRXac2fbKXE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tortugas Mets vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMFZ-1Y
+
+Shop  https //stza.co/+vMFZ-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tortugas
+END:VALARM
+DTSTART:20180612T223000Z
+DTEND:20180613T013000Z
+UID:MiU_RAlLrcnj3yRXac2fbKXE@stanza.co
+SUMMARY:Mets vs. Tortugas
+DESCRIPTION:Mets vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMFZ-1Y\n\nShop: https://stza.co/+vMFZ-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tortugas
+<2018-06-13 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       5xUvvp-bfVbPMBtPXZCgbQkj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tortugas Mets vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMF$-P
+
+Shop  https //stza.co/+vMF$-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tortugas
+END:VALARM
+DTSTART:20180613T223000Z
+DTEND:20180614T013000Z
+UID:5xUvvp-bfVbPMBtPXZCgbQkj@stanza.co
+SUMMARY:Mets vs. Tortugas
+DESCRIPTION:Mets vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMF$-P\n\nShop: https://stza.co/+vMF$-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tortugas
+<2018-06-14 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       XZSV1H6D4qIIbsTdq8I0jTi6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tortugas Mets vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMG1-3X
+
+Shop  https //stza.co/+vMG1-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tortugas
+END:VALARM
+DTSTART:20180614T223000Z
+DTEND:20180615T013000Z
+UID:XZSV1H6D4qIIbsTdq8I0jTi6@stanza.co
+SUMMARY:Mets vs. Tortugas
+DESCRIPTION:Mets vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMG1-3X\n\nShop: https://stza.co/+vMG1-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Blue Jays
+<2018-06-18 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       PgPeW9nDfcXwfyekTKIxqhOA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Blue Jays Mets @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K1-1T
+
+Shop  https //stza.co/+y0K1-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Blue Jays
+END:VALARM
+DTSTART:20180618T223000Z
+DTEND:20180619T013000Z
+UID:PgPeW9nDfcXwfyekTKIxqhOA@stanza.co
+SUMMARY:Mets @ Blue Jays
+DESCRIPTION:Mets @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K1-1T\n\nShop: https://stza.co/+y0K1-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Blue Jays
+<2018-06-19 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       md58ua7HIZvnxXdutW2-zSxX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Blue Jays Mets @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K2-2S
+
+Shop  https //stza.co/+y0K2-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Blue Jays
+END:VALARM
+DTSTART:20180619T223000Z
+DTEND:20180620T013000Z
+UID:md58ua7HIZvnxXdutW2-zSxX@stanza.co
+SUMMARY:Mets @ Blue Jays
+DESCRIPTION:Mets @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K2-2S\n\nShop: https://stza.co/+y0K2-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Blue Jays
+<2018-06-20 Wed 10:00-13:00>
+:PROPERTIES:
+:ID:       d2-Fy1oNRZ9ILy58OPPwpLWn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Blue Jays Mets @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K3-1E
+
+Shop  https //stza.co/+y0K3-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Blue Jays
+END:VALARM
+DTSTART:20180620T150000Z
+DTEND:20180620T180000Z
+UID:d2-Fy1oNRZ9ILy58OPPwpLWn@stanza.co
+SUMMARY:Mets @ Blue Jays
+DESCRIPTION:Mets @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K3-1E\n\nShop: https://stza.co/+y0K3-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Flying Tigers
+<2018-06-21 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       ro9lcfG3wmfAKeIr1_WxYewf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Flying Tigers Mets vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vMG3-q
+
+Shop  https //stza.co/+vMG3-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Flying Tigers
+END:VALARM
+DTSTART:20180621T223000Z
+DTEND:20180622T013000Z
+UID:ro9lcfG3wmfAKeIr1_WxYewf@stanza.co
+SUMMARY:Mets vs. Flying Tigers
+DESCRIPTION:Mets vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vMG3-q\n\nShop: https://stza.co/+vMG3-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Flying Tigers
+<2018-06-22 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       ro6i-o38HPF3ZAFT_hMuG4L9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Flying Tigers Mets vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vMG4-2B
+
+Shop  https //stza.co/+vMG4-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Flying Tigers
+END:VALARM
+DTSTART:20180622T223000Z
+DTEND:20180623T013000Z
+UID:ro6i-o38HPF3ZAFT_hMuG4L9@stanza.co
+SUMMARY:Mets vs. Flying Tigers
+DESCRIPTION:Mets vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vMG4-2B\n\nShop: https://stza.co/+vMG4-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Flying Tigers
+<2018-06-23 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       dowmAyq8CxDMPhPJWatjtTFY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Flying Tigers Mets vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vMG6-1c
+
+Shop  https //stza.co/+vMG6-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Flying Tigers
+END:VALARM
+DTSTART:20180623T223000Z
+DTEND:20180624T013000Z
+UID:dowmAyq8CxDMPhPJWatjtTFY@stanza.co
+SUMMARY:Mets vs. Flying Tigers
+DESCRIPTION:Mets vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vMG6-1c\n\nShop: https://stza.co/+vMG6-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Flying Tigers
+<2018-06-24 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       jU3LpfXchDErJkIjoouyqyfn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Flying Tigers Mets vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vMG9-5
+
+Shop  https //stza.co/+vMG9-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Flying Tigers
+END:VALARM
+DTSTART:20180624T160000Z
+DTEND:20180624T190000Z
+UID:jU3LpfXchDErJkIjoouyqyfn@stanza.co
+SUMMARY:Mets vs. Flying Tigers
+DESCRIPTION:Mets vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vMG9-5\n\nShop: https://stza.co/+vMG9-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Hammerheads
+<2018-06-26 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       qNNORzp4L24C-KnaqRpGA9mS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Hammerheads Mets vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vMGb-8
+
+Shop  https //stza.co/+vMGb-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Hammerheads
+END:VALARM
+DTSTART:20180626T223000Z
+DTEND:20180627T013000Z
+UID:qNNORzp4L24C-KnaqRpGA9mS@stanza.co
+SUMMARY:Mets vs. Hammerheads
+DESCRIPTION:Mets vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vMGb-8\n\nShop: https://stza.co/+vMGb-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Hammerheads
+<2018-06-27 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       r6IhERTNgbpXZwov6HohuN6-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Hammerheads Mets vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vMGd-3w
+
+Shop  https //stza.co/+vMGd-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Hammerheads
+END:VALARM
+DTSTART:20180627T223000Z
+DTEND:20180628T013000Z
+UID:r6IhERTNgbpXZwov6HohuN6-@stanza.co
+SUMMARY:Mets vs. Hammerheads
+DESCRIPTION:Mets vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vMGd-3w\n\nShop: https://stza.co/+vMGd-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Hammerheads
+<2018-06-28 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       SP_8gmthhG3ZDH6VA_9BKRB8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Hammerheads Mets vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vMGf-o
+
+Shop  https //stza.co/+vMGf-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Hammerheads
+END:VALARM
+DTSTART:20180628T223000Z
+DTEND:20180629T013000Z
+UID:SP_8gmthhG3ZDH6VA_9BKRB8@stanza.co
+SUMMARY:Mets vs. Hammerheads
+DESCRIPTION:Mets vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vMGf-o\n\nShop: https://stza.co/+vMGf-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Threshers
+<2018-06-29 Fri 17:15-20:15>
+:PROPERTIES:
+:ID:       vfyPBqfu-uFiTPeFYX0r9nNl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Threshers Mets @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAg2-1r
+
+Shop  https //stza.co/+xAg2-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Threshers
+END:VALARM
+DTSTART:20180629T221500Z
+DTEND:20180630T011500Z
+UID:vfyPBqfu-uFiTPeFYX0r9nNl@stanza.co
+SUMMARY:Mets @ Threshers
+DESCRIPTION:Mets @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAg2-1r\n\nShop: https://stza.co/+xAg2-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Threshers
+<2018-06-30 Sat 17:15-20:15>
+:PROPERTIES:
+:ID:       4PJtx5t2vSSlBCFtCaU4x5rP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Threshers Mets @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAg3-1K
+
+Shop  https //stza.co/+xAg3-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Threshers
+END:VALARM
+DTSTART:20180630T221500Z
+DTEND:20180701T011500Z
+UID:4PJtx5t2vSSlBCFtCaU4x5rP@stanza.co
+SUMMARY:Mets @ Threshers
+DESCRIPTION:Mets @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAg3-1K\n\nShop: https://stza.co/+xAg3-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Threshers
+<2018-07-01 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       e0zCpC94vqhFW01SH3HBDXBE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Threshers Mets @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAg4-2Y
+
+Shop  https //stza.co/+xAg4-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Threshers
+END:VALARM
+DTSTART:20180701T170000Z
+DTEND:20180701T200000Z
+UID:e0zCpC94vqhFW01SH3HBDXBE@stanza.co
+SUMMARY:Mets @ Threshers
+DESCRIPTION:Mets @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAg4-2Y\n\nShop: https://stza.co/+xAg4-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tortugas
+<2018-07-02 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       ueNLFyxAWqw0KbQ4ZxuLUCjz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tortugas Mets @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMEh-17
+
+Shop  https //stza.co/+vMEh-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tortugas
+END:VALARM
+DTSTART:20180702T230500Z
+DTEND:20180703T020500Z
+UID:ueNLFyxAWqw0KbQ4ZxuLUCjz@stanza.co
+SUMMARY:Mets @ Tortugas
+DESCRIPTION:Mets @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMEh-17\n\nShop: https://stza.co/+vMEh-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Tortugas
+<2018-07-03 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       I4iJ6ku4VLAOWLKQeyUY_dOt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Tortugas Mets @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMEi-2e
+
+Shop  https //stza.co/+vMEi-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Tortugas
+END:VALARM
+DTSTART:20180703T230500Z
+DTEND:20180704T020500Z
+UID:I4iJ6ku4VLAOWLKQeyUY_dOt@stanza.co
+SUMMARY:Mets @ Tortugas
+DESCRIPTION:Mets @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMEi-2e\n\nShop: https://stza.co/+vMEi-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Marauders
+<2018-07-04 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       Qiw4nuU3rzC99NF7vr9J76yK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Marauders Mets vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMGh-1H
+
+Shop  https //stza.co/+vMGh-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Marauders
+END:VALARM
+DTSTART:20180704T223000Z
+DTEND:20180705T013000Z
+UID:Qiw4nuU3rzC99NF7vr9J76yK@stanza.co
+SUMMARY:Mets vs. Marauders
+DESCRIPTION:Mets vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMGh-1H\n\nShop: https://stza.co/+vMGh-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Marauders
+<2018-07-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       FjPwalU3gndHWx18ijdIUgqx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Marauders Mets vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMGj-3b
+
+Shop  https //stza.co/+vMGj-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Marauders
+END:VALARM
+DTSTART:20180705T223000Z
+DTEND:20180706T013000Z
+UID:FjPwalU3gndHWx18ijdIUgqx@stanza.co
+SUMMARY:Mets vs. Marauders
+DESCRIPTION:Mets vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMGj-3b\n\nShop: https://stza.co/+vMGj-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Blue Jays
+<2018-07-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       AXPJKDmnUaCVwHFUtL4igh1h@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Blue Jays Mets vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vMGk-20
+
+Shop  https //stza.co/+vMGk-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Blue Jays
+END:VALARM
+DTSTART:20180706T223000Z
+DTEND:20180707T013000Z
+UID:AXPJKDmnUaCVwHFUtL4igh1h@stanza.co
+SUMMARY:Mets vs. Blue Jays
+DESCRIPTION:Mets vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vMGk-20\n\nShop: https://stza.co/+vMGk-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Blue Jays
+<2018-07-07 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       kiuWH3YgCsHRjhEtz7PxDkJ2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Blue Jays Mets vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vMGn-2X
+
+Shop  https //stza.co/+vMGn-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Blue Jays
+END:VALARM
+DTSTART:20180707T223000Z
+DTEND:20180708T013000Z
+UID:kiuWH3YgCsHRjhEtz7PxDkJ2@stanza.co
+SUMMARY:Mets vs. Blue Jays
+DESCRIPTION:Mets vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vMGn-2X\n\nShop: https://stza.co/+vMGn-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Blue Jays
+<2018-07-08 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       uV7ws-xBRFYVBy55iIfWgtOA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Blue Jays Mets vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vMGo-r
+
+Shop  https //stza.co/+vMGo-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Blue Jays
+END:VALARM
+DTSTART:20180708T160000Z
+DTEND:20180708T190000Z
+UID:uV7ws-xBRFYVBy55iIfWgtOA@stanza.co
+SUMMARY:Mets vs. Blue Jays
+DESCRIPTION:Mets vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vMGo-r\n\nShop: https://stza.co/+vMGo-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Stone Crabs
+<2018-07-09 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       KS1ed0VP0w6zH0lYiTWOKjwM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Stone Crabs Mets @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYrm-3j
+
+Shop  https //stza.co/+wYrm-1_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Stone Crabs
+END:VALARM
+DTSTART:20180709T223500Z
+DTEND:20180710T013500Z
+UID:KS1ed0VP0w6zH0lYiTWOKjwM@stanza.co
+SUMMARY:Mets @ Stone Crabs
+DESCRIPTION:Mets @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYrm-3j\n\nShop: https://stza.co/+wYrm-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Stone Crabs
+<2018-07-10 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       RUXN9J2JMIGiNwbkFO5330i3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Stone Crabs Mets @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYrn-3H
+
+Shop  https //stza.co/+wYrn-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Stone Crabs
+END:VALARM
+DTSTART:20180710T223500Z
+DTEND:20180711T013500Z
+UID:RUXN9J2JMIGiNwbkFO5330i3@stanza.co
+SUMMARY:Mets @ Stone Crabs
+DESCRIPTION:Mets @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYrn-3H\n\nShop: https://stza.co/+wYrn-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Stone Crabs
+<2018-07-11 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       i2fyJro2e6qe68yESUFbyAQN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Stone Crabs Mets @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYro-2b
+
+Shop  https //stza.co/+wYro-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Stone Crabs
+END:VALARM
+DTSTART:20180711T223500Z
+DTEND:20180712T013500Z
+UID:i2fyJro2e6qe68yESUFbyAQN@stanza.co
+SUMMARY:Mets @ Stone Crabs
+DESCRIPTION:Mets @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYro-2b\n\nShop: https://stza.co/+wYro-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Stone Crabs
+<2018-07-12 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       BER4nxrq5s0HwXSLfXShH7Jr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Stone Crabs Mets @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYrp-33
+
+Shop  https //stza.co/+wYrp-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Stone Crabs
+END:VALARM
+DTSTART:20180712T223500Z
+DTEND:20180713T013500Z
+UID:BER4nxrq5s0HwXSLfXShH7Jr@stanza.co
+SUMMARY:Mets @ Stone Crabs
+DESCRIPTION:Mets @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYrp-33\n\nShop: https://stza.co/+wYrp-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Cardinals
+<2018-07-13 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       vY-eBSqV9M-0Utc5tgvPqyw4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Cardinals Mets vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vMGq-1s
+
+Shop  https //stza.co/+vMGq-2X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Cardinals
+END:VALARM
+DTSTART:20180713T223000Z
+DTEND:20180714T013000Z
+UID:vY-eBSqV9M-0Utc5tgvPqyw4@stanza.co
+SUMMARY:Mets vs. Cardinals
+DESCRIPTION:Mets vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vMGq-1s\n\nShop: https://stza.co/+vMGq-2X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Cardinals
+<2018-07-14 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       q3HB2dfRPJ-osx-VPp62GqBm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Cardinals Mets vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vMGt-1W
+
+Shop  https //stza.co/+vMGt-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Cardinals
+END:VALARM
+DTSTART:20180714T223000Z
+DTEND:20180715T013000Z
+UID:q3HB2dfRPJ-osx-VPp62GqBm@stanza.co
+SUMMARY:Mets vs. Cardinals
+DESCRIPTION:Mets vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vMGt-1W\n\nShop: https://stza.co/+vMGt-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Cardinals
+<2018-07-15 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       t7_9jvydyWQmDrgdqS06EPnp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Cardinals Mets vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vMGu-P
+
+Shop  https //stza.co/+vMGu-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Cardinals
+END:VALARM
+DTSTART:20180715T160000Z
+DTEND:20180715T190000Z
+UID:t7_9jvydyWQmDrgdqS06EPnp@stanza.co
+SUMMARY:Mets vs. Cardinals
+DESCRIPTION:Mets vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vMGu-P\n\nShop: https://stza.co/+vMGu-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Miracle
+<2018-07-16 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       _06OzlcuRjzfFGP-klzvfCNH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Miracle Mets @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdt-1X
+
+Shop  https //stza.co/+xMdt-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Miracle
+END:VALARM
+DTSTART:20180716T230000Z
+DTEND:20180717T020000Z
+UID:_06OzlcuRjzfFGP-klzvfCNH@stanza.co
+SUMMARY:Mets @ Miracle
+DESCRIPTION:Mets @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdt-1X\n\nShop: https://stza.co/+xMdt-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Miracle
+<2018-07-17 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       SXpFUwqL9dQDLFS6eBEZ4bun@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Miracle Mets @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdu-1k
+
+Shop  https //stza.co/+xMdu-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Miracle
+END:VALARM
+DTSTART:20180717T230000Z
+DTEND:20180718T020000Z
+UID:SXpFUwqL9dQDLFS6eBEZ4bun@stanza.co
+SUMMARY:Mets @ Miracle
+DESCRIPTION:Mets @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdu-1k\n\nShop: https://stza.co/+xMdu-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Miracle
+<2018-07-18 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       vDArbgniPNzaMxMomT3bz9FL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Miracle Mets @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdv-39
+
+Shop  https //stza.co/+xMdv-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Miracle
+END:VALARM
+DTSTART:20180718T230000Z
+DTEND:20180719T020000Z
+UID:vDArbgniPNzaMxMomT3bz9FL@stanza.co
+SUMMARY:Mets @ Miracle
+DESCRIPTION:Mets @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdv-39\n\nShop: https://stza.co/+xMdv-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Cardinals
+<2018-07-19 Thu>--<2018-07-18 Wed>
+:PROPERTIES:
+:ID:       cbE_rdn6Lce0l00RA-w5aYVf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Cardinals Mets @ Cardinals
+
+Buy tickets here  https //stza.co/~vMEV
+
+Follow on MiLB First Pitch  https //stza.co/+vMEV-
+
+Shop  https //stza.co/+vMEV-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180719
+UID:cbE_rdn6Lce0l00RA-w5aYVf@stanza.co
+SUMMARY:Mets @ Cardinals
+DESCRIPTION:Mets @ Cardinals\n\nBuy tickets here: https://stza.co/~vMEV\n\nFollow on MiLB First Pitch: https://stza.co/+vMEV-\n\nShop: https://stza.co/+vMEV-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Cardinals
+<2018-07-20 Fri>--<2018-07-19 Thu>
+:PROPERTIES:
+:ID:       2SRCq1c4lY68ZgXxL_Yxx-7Q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Cardinals Mets @ Cardinals
+
+Buy tickets here  https //stza.co/~vMEW
+
+Follow on MiLB First Pitch  https //stza.co/+vMEW-2J
+
+Shop  https //stza.co/+vMEW-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180720
+DTEND;VALUE=DATE:20180720
+UID:2SRCq1c4lY68ZgXxL_Yxx-7Q@stanza.co
+SUMMARY:Mets @ Cardinals
+DESCRIPTION:Mets @ Cardinals\n\nBuy tickets here: https://stza.co/~vMEW\n\nFollow on MiLB First Pitch: https://stza.co/+vMEW-2J\n\nShop: https://stza.co/+vMEW-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Cardinals
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       Sz3nJSWDMIdLo8Jc96-UzEjf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Cardinals Mets @ Cardinals
+
+Buy tickets here  https //stza.co/~vMEX
+
+Follow on MiLB First Pitch  https //stza.co/+vMEX-3H
+
+Shop  https //stza.co/+vMEX-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:Sz3nJSWDMIdLo8Jc96-UzEjf@stanza.co
+SUMMARY:Mets @ Cardinals
+DESCRIPTION:Mets @ Cardinals\n\nBuy tickets here: https://stza.co/~vMEX\n\nFollow on MiLB First Pitch: https://stza.co/+vMEX-3H\n\nShop: https://stza.co/+vMEX-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Threshers
+<2018-07-23 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       ufKBlxO87fUTlYXd40IC8SB4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Threshers Mets vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vMGx-C
+
+Shop  https //stza.co/+vMGx-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Threshers
+END:VALARM
+DTSTART:20180723T223000Z
+DTEND:20180724T013000Z
+UID:ufKBlxO87fUTlYXd40IC8SB4@stanza.co
+SUMMARY:Mets vs. Threshers
+DESCRIPTION:Mets vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vMGx-C\n\nShop: https://stza.co/+vMGx-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Threshers
+<2018-07-24 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       cCcIeLzXo874p0KANaNWEjHR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Threshers Mets vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vMGy-C
+
+Shop  https //stza.co/+vMGy-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Threshers
+END:VALARM
+DTSTART:20180724T223000Z
+DTEND:20180725T013000Z
+UID:cCcIeLzXo874p0KANaNWEjHR@stanza.co
+SUMMARY:Mets vs. Threshers
+DESCRIPTION:Mets vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vMGy-C\n\nShop: https://stza.co/+vMGy-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Threshers
+<2018-07-25 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       3XJfVCIqn8Gy-Ek_Ni95KaZ8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Threshers Mets vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vMGB-S
+
+Shop  https //stza.co/+vMGB-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Threshers
+END:VALARM
+DTSTART:20180725T143000Z
+DTEND:20180725T173000Z
+UID:3XJfVCIqn8Gy-Ek_Ni95KaZ8@stanza.co
+SUMMARY:Mets vs. Threshers
+DESCRIPTION:Mets vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vMGB-S\n\nShop: https://stza.co/+vMGB-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Stone Crabs
+<2018-07-26 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       1sEAocMJBqv9Ay9zXwzPcpU7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Stone Crabs Mets vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGD-2a
+
+Shop  https //stza.co/+vMGD-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Stone Crabs
+END:VALARM
+DTSTART:20180726T223000Z
+DTEND:20180727T013000Z
+UID:1sEAocMJBqv9Ay9zXwzPcpU7@stanza.co
+SUMMARY:Mets vs. Stone Crabs
+DESCRIPTION:Mets vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGD-2a\n\nShop: https://stza.co/+vMGD-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Stone Crabs
+<2018-07-27 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       fTx6zijqNx-ZHOpE7TdhqrML@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Stone Crabs Mets vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGF-2_
+
+Shop  https //stza.co/+vMGF-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Stone Crabs
+END:VALARM
+DTSTART:20180727T223000Z
+DTEND:20180728T013000Z
+UID:fTx6zijqNx-ZHOpE7TdhqrML@stanza.co
+SUMMARY:Mets vs. Stone Crabs
+DESCRIPTION:Mets vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGF-2_\n\nShop: https://stza.co/+vMGF-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Stone Crabs
+<2018-07-28 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       SXcS2zn2gjK6Q2KWKvhBMrHe@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Stone Crabs Mets vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGG-V
+
+Shop  https //stza.co/+vMGG-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Stone Crabs
+END:VALARM
+DTSTART:20180728T223000Z
+DTEND:20180729T013000Z
+UID:SXcS2zn2gjK6Q2KWKvhBMrHe@stanza.co
+SUMMARY:Mets vs. Stone Crabs
+DESCRIPTION:Mets vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGG-V\n\nShop: https://stza.co/+vMGG-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Stone Crabs
+<2018-07-29 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       QL4ozYl00M33llUfi0zKHDVP@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Stone Crabs Mets vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGI-2w
+
+Shop  https //stza.co/+vMGI-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Stone Crabs
+END:VALARM
+DTSTART:20180729T160000Z
+DTEND:20180729T190000Z
+UID:QL4ozYl00M33llUfi0zKHDVP@stanza.co
+SUMMARY:Mets vs. Stone Crabs
+DESCRIPTION:Mets vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGI-2w\n\nShop: https://stza.co/+vMGI-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Marauders
+<2018-07-31 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       YVAXe5tOkpjr8DrF_vBb6iK-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Marauders Mets @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMDY-26
+
+Shop  https //stza.co/+vMDY-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Marauders
+END:VALARM
+DTSTART:20180731T223000Z
+DTEND:20180801T013000Z
+UID:YVAXe5tOkpjr8DrF_vBb6iK-@stanza.co
+SUMMARY:Mets @ Marauders
+DESCRIPTION:Mets @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMDY-26\n\nShop: https://stza.co/+vMDY-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Marauders
+<2018-08-01 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       057taJ8BXgGSKr3awEBuAJ06@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Marauders Mets @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMDZ-2h
+
+Shop  https //stza.co/+vMDZ-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Marauders
+END:VALARM
+DTSTART:20180801T223000Z
+DTEND:20180802T013000Z
+UID:057taJ8BXgGSKr3awEBuAJ06@stanza.co
+SUMMARY:Mets @ Marauders
+DESCRIPTION:Mets @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMDZ-2h\n\nShop: https://stza.co/+vMDZ-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Marauders
+<2018-08-02 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       YUXlyDyhNolzAlWIIc27x9F6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Marauders Mets @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMD_-3z
+
+Shop  https //stza.co/+vMD_-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Marauders
+END:VALARM
+DTSTART:20180802T223000Z
+DTEND:20180803T013000Z
+UID:YUXlyDyhNolzAlWIIc27x9F6@stanza.co
+SUMMARY:Mets @ Marauders
+DESCRIPTION:Mets @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMD_-3z\n\nShop: https://stza.co/+vMD_-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tortugas
+<2018-08-03 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       Z3m-IMAT49Nw64VVh4H5ZlfU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tortugas Mets vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMGK-1Z
+
+Shop  https //stza.co/+vMGK-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tortugas
+END:VALARM
+DTSTART:20180803T223000Z
+DTEND:20180804T013000Z
+UID:Z3m-IMAT49Nw64VVh4H5ZlfU@stanza.co
+SUMMARY:Mets vs. Tortugas
+DESCRIPTION:Mets vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMGK-1Z\n\nShop: https://stza.co/+vMGK-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tortugas
+<2018-08-04 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       dMuqYjC1chGHKBpX9Jzp8i4Q@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tortugas Mets vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMGN-3_
+
+Shop  https //stza.co/+vMGN-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tortugas
+END:VALARM
+DTSTART:20180804T223000Z
+DTEND:20180805T013000Z
+UID:dMuqYjC1chGHKBpX9Jzp8i4Q@stanza.co
+SUMMARY:Mets vs. Tortugas
+DESCRIPTION:Mets vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMGN-3_\n\nShop: https://stza.co/+vMGN-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tortugas
+<2018-08-05 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       bYFV2N2PAAR3LxfAEvcTqNq3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tortugas Mets vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMGO-2_
+
+Shop  https //stza.co/+vMGO-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tortugas
+END:VALARM
+DTSTART:20180805T160000Z
+DTEND:20180805T190000Z
+UID:bYFV2N2PAAR3LxfAEvcTqNq3@stanza.co
+SUMMARY:Mets vs. Tortugas
+DESCRIPTION:Mets vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMGO-2_\n\nShop: https://stza.co/+vMGO-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       Ist75Knoj-HvGETuo-n9kVuu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEF
+
+Follow on MiLB First Pitch  https //stza.co/+vMEF-1d
+
+Shop  https //stza.co/+vMEF-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:Ist75Knoj-HvGETuo-n9kVuu@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEF\n\nFollow on MiLB First Pitch: https://stza.co/+vMEF-1d\n\nShop: https://stza.co/+vMEF-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       jf6b-Bsnv6jHMw2iqTLpCgsG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEG
+
+Follow on MiLB First Pitch  https //stza.co/+vMEG-18
+
+Shop  https //stza.co/+vMEG-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:jf6b-Bsnv6jHMw2iqTLpCgsG@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEG\n\nFollow on MiLB First Pitch: https://stza.co/+vMEG-18\n\nShop: https://stza.co/+vMEG-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       xWegRXFI9RUE8SvTo12Z9hUZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEH
+
+Follow on MiLB First Pitch  https //stza.co/+vMEH-34
+
+Shop  https //stza.co/+vMEH-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:xWegRXFI9RUE8SvTo12Z9hUZ@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEH\n\nFollow on MiLB First Pitch: https://stza.co/+vMEH-34\n\nShop: https://stza.co/+vMEH-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Threshers
+<2018-08-09 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       X7B_7kkm41YVSZnuM4BhBNJj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Threshers Mets @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBhy-C
+
+Shop  https //stza.co/+xBhy-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Threshers
+END:VALARM
+DTSTART:20180809T230000Z
+DTEND:20180810T020000Z
+UID:X7B_7kkm41YVSZnuM4BhBNJj@stanza.co
+SUMMARY:Mets @ Threshers
+DESCRIPTION:Mets @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBhy-C\n\nShop: https://stza.co/+xBhy-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Threshers
+<2018-08-10 Fri 17:15-20:15>
+:PROPERTIES:
+:ID:       6JVUhSBDG1tr7S9f9-9_eWYl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Threshers Mets @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBhz-13
+
+Shop  https //stza.co/+xBhz-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Threshers
+END:VALARM
+DTSTART:20180810T221500Z
+DTEND:20180811T011500Z
+UID:6JVUhSBDG1tr7S9f9-9_eWYl@stanza.co
+SUMMARY:Mets @ Threshers
+DESCRIPTION:Mets @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBhz-13\n\nShop: https://stza.co/+xBhz-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Threshers
+<2018-08-11 Sat 17:15-20:15>
+:PROPERTIES:
+:ID:       HWUsD430iZqhGlZm3xs3RYDx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Threshers Mets @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBhA-2z
+
+Shop  https //stza.co/+xBhA-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Threshers
+END:VALARM
+DTSTART:20180811T221500Z
+DTEND:20180812T011500Z
+UID:HWUsD430iZqhGlZm3xs3RYDx@stanza.co
+SUMMARY:Mets @ Threshers
+DESCRIPTION:Mets @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBhA-2z\n\nShop: https://stza.co/+xBhA-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Threshers
+<2018-08-12 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       AJ6J1aIQ0szwY4reSSyYbuHk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Threshers Mets @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBhB-2B
+
+Shop  https //stza.co/+xBhB-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Threshers
+END:VALARM
+DTSTART:20180812T170000Z
+DTEND:20180812T200000Z
+UID:AJ6J1aIQ0szwY4reSSyYbuHk@stanza.co
+SUMMARY:Mets @ Threshers
+DESCRIPTION:Mets @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBhB-2B\n\nShop: https://stza.co/+xBhB-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Fire Frogs
+<2018-08-13 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       -z9L3nptgwbW0jBQwZWPlSg1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Fire Frogs Mets vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGQ-3j
+
+Shop  https //stza.co/+vMGQ-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Fire Frogs
+END:VALARM
+DTSTART:20180813T223000Z
+DTEND:20180814T013000Z
+UID:-z9L3nptgwbW0jBQwZWPlSg1@stanza.co
+SUMMARY:Mets vs. Fire Frogs
+DESCRIPTION:Mets vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGQ-3j\n\nShop: https://stza.co/+vMGQ-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Fire Frogs
+<2018-08-14 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       GmohljKAyb1vDsiSBZSlJ63Y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Fire Frogs Mets vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGT-R
+
+Shop  https //stza.co/+vMGT-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Fire Frogs
+END:VALARM
+DTSTART:20180814T223000Z
+DTEND:20180815T013000Z
+UID:GmohljKAyb1vDsiSBZSlJ63Y@stanza.co
+SUMMARY:Mets vs. Fire Frogs
+DESCRIPTION:Mets vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGT-R\n\nShop: https://stza.co/+vMGT-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Fire Frogs
+<2018-08-15 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       Sr8s5mrRULEaUl5xlWY09wYx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Fire Frogs Mets vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGU-L
+
+Shop  https //stza.co/+vMGU-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Fire Frogs
+END:VALARM
+DTSTART:20180815T223000Z
+DTEND:20180816T013000Z
+UID:Sr8s5mrRULEaUl5xlWY09wYx@stanza.co
+SUMMARY:Mets vs. Fire Frogs
+DESCRIPTION:Mets vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGU-L\n\nShop: https://stza.co/+vMGU-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Fire Frogs
+<2018-08-16 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       39s2g37mKxiKiB-yp6wdMSo9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Fire Frogs Mets vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vMGX-2T
+
+Shop  https //stza.co/+vMGX-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Fire Frogs
+END:VALARM
+DTSTART:20180816T223000Z
+DTEND:20180817T013000Z
+UID:39s2g37mKxiKiB-yp6wdMSo9@stanza.co
+SUMMARY:Mets vs. Fire Frogs
+DESCRIPTION:Mets vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vMGX-2T\n\nShop: https://stza.co/+vMGX-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Blue Jays
+<2018-08-17 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       ux28J7ZEuZveKmlTJ1mxrRC1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Blue Jays Mets @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K4-2S
+
+Shop  https //stza.co/+y0K4-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Blue Jays
+END:VALARM
+DTSTART:20180817T223000Z
+DTEND:20180818T013000Z
+UID:ux28J7ZEuZveKmlTJ1mxrRC1@stanza.co
+SUMMARY:Mets @ Blue Jays
+DESCRIPTION:Mets @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K4-2S\n\nShop: https://stza.co/+y0K4-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Blue Jays
+<2018-08-18 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       m0LKe98lYlY7wkX-un-bMEuP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Blue Jays Mets @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K5-u
+
+Shop  https //stza.co/+y0K5-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Blue Jays
+END:VALARM
+DTSTART:20180818T223000Z
+DTEND:20180819T013000Z
+UID:m0LKe98lYlY7wkX-un-bMEuP@stanza.co
+SUMMARY:Mets @ Blue Jays
+DESCRIPTION:Mets @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K5-u\n\nShop: https://stza.co/+y0K5-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Blue Jays
+<2018-08-19 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       zU7UlC82OHVoi1gvWP0a-DjX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Blue Jays Mets @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K6-13
+
+Shop  https //stza.co/+y0K6-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Blue Jays
+END:VALARM
+DTSTART:20180819T170000Z
+DTEND:20180819T200000Z
+UID:zU7UlC82OHVoi1gvWP0a-DjX@stanza.co
+SUMMARY:Mets @ Blue Jays
+DESCRIPTION:Mets @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K6-13\n\nShop: https://stza.co/+y0K6-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tarpons
+<2018-08-21 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       Da_LPP8_y134VFv04sewwylW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tarpons Mets vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMGZ-C
+
+Shop  https //stza.co/+vMGZ-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tarpons
+END:VALARM
+DTSTART:20180821T223000Z
+DTEND:20180822T013000Z
+UID:Da_LPP8_y134VFv04sewwylW@stanza.co
+SUMMARY:Mets vs. Tarpons
+DESCRIPTION:Mets vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMGZ-C\n\nShop: https://stza.co/+vMGZ-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tarpons
+<2018-08-22 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       hf8vDb1rF5WSsMh-bCx49xO_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tarpons Mets vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMG_-23
+
+Shop  https //stza.co/+vMG_-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tarpons
+END:VALARM
+DTSTART:20180822T223000Z
+DTEND:20180823T013000Z
+UID:hf8vDb1rF5WSsMh-bCx49xO_@stanza.co
+SUMMARY:Mets vs. Tarpons
+DESCRIPTION:Mets vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMG_-23\n\nShop: https://stza.co/+vMG_-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Tarpons
+<2018-08-23 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       1DlKM7ulduaR3DLm03G_qK61@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Tarpons Mets vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMH1-I
+
+Shop  https //stza.co/+vMH1-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Tarpons
+END:VALARM
+DTSTART:20180823T223000Z
+DTEND:20180824T013000Z
+UID:1DlKM7ulduaR3DLm03G_qK61@stanza.co
+SUMMARY:Mets vs. Tarpons
+DESCRIPTION:Mets vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMH1-I\n\nShop: https://stza.co/+vMH1-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Miracle
+<2018-08-24 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       2yNK-lp7WfcTrUgfFP4OCcxO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Miracle Mets vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vMH3-3K
+
+Shop  https //stza.co/+vMH3-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Miracle
+END:VALARM
+DTSTART:20180824T223000Z
+DTEND:20180825T013000Z
+UID:2yNK-lp7WfcTrUgfFP4OCcxO@stanza.co
+SUMMARY:Mets vs. Miracle
+DESCRIPTION:Mets vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vMH3-3K\n\nShop: https://stza.co/+vMH3-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Miracle
+<2018-08-25 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       aHsh1y52bDb0q-efHjjvoZj-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Miracle Mets vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vMH5-1K
+
+Shop  https //stza.co/+vMH5-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Miracle
+END:VALARM
+DTSTART:20180825T223000Z
+DTEND:20180826T013000Z
+UID:aHsh1y52bDb0q-efHjjvoZj-@stanza.co
+SUMMARY:Mets vs. Miracle
+DESCRIPTION:Mets vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vMH5-1K\n\nShop: https://stza.co/+vMH5-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets vs. Miracle
+<2018-08-26 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       nGIpiXyGrlMqTezAXXvZYSO-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets vs. Miracle Mets vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+wglW-3l
+
+Shop  https //stza.co/+wglW-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Mets vs. Miracle
+END:VALARM
+DTSTART:20180826T160000Z
+DTEND:20180826T190000Z
+UID:nGIpiXyGrlMqTezAXXvZYSO-@stanza.co
+SUMMARY:Mets vs. Miracle
+DESCRIPTION:Mets vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+wglW-3l\n\nShop: https://stza.co/+wglW-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Flying Tigers
+<2018-08-27 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       bCI3KP8MLDXBd7-EkpbUYsUN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Flying Tigers Mets @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQE-i
+
+Shop  https //stza.co/+wKQE-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Flying Tigers
+END:VALARM
+DTSTART:20180827T223000Z
+DTEND:20180828T013000Z
+UID:bCI3KP8MLDXBd7-EkpbUYsUN@stanza.co
+SUMMARY:Mets @ Flying Tigers
+DESCRIPTION:Mets @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQE-i\n\nShop: https://stza.co/+wKQE-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Flying Tigers
+<2018-08-28 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       cB9VhXv4g8M3V97QZIv1Ig4F@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Flying Tigers Mets @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQF-3B
+
+Shop  https //stza.co/+wKQF-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Flying Tigers
+END:VALARM
+DTSTART:20180828T223000Z
+DTEND:20180829T013000Z
+UID:cB9VhXv4g8M3V97QZIv1Ig4F@stanza.co
+SUMMARY:Mets @ Flying Tigers
+DESCRIPTION:Mets @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQF-3B\n\nShop: https://stza.co/+wKQF-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Flying Tigers
+<2018-08-29 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       GX6WR3G-X_CCxtiXWyhnPIh5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Flying Tigers Mets @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQG-26
+
+Shop  https //stza.co/+wKQG-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Flying Tigers
+END:VALARM
+DTSTART:20180829T223000Z
+DTEND:20180830T013000Z
+UID:GX6WR3G-X_CCxtiXWyhnPIh5@stanza.co
+SUMMARY:Mets @ Flying Tigers
+DESCRIPTION:Mets @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQG-26\n\nShop: https://stza.co/+wKQG-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Flying Tigers
+<2018-08-30 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       swrrfZBpvkp0eUpU0ZJwvvwn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Flying Tigers Mets @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQH-2l
+
+Shop  https //stza.co/+wKQH-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Flying Tigers
+END:VALARM
+DTSTART:20180830T223000Z
+DTEND:20180831T013000Z
+UID:swrrfZBpvkp0eUpU0ZJwvvwn@stanza.co
+SUMMARY:Mets @ Flying Tigers
+DESCRIPTION:Mets @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQH-2l\n\nShop: https://stza.co/+wKQH-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       bE2RT_ZziM_5EW3S2PFw8-ZS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEI
+
+Follow on MiLB First Pitch  https //stza.co/+vMEI-2K
+
+Shop  https //stza.co/+vMEI-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:bE2RT_ZziM_5EW3S2PFw8-ZS@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEI\n\nFollow on MiLB First Pitch: https://stza.co/+vMEI-2K\n\nShop: https://stza.co/+vMEI-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       avuztiUwnH8S63b-BgxpNZDw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEJ
+
+Follow on MiLB First Pitch  https //stza.co/+vMEJ-o
+
+Shop  https //stza.co/+vMEJ-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:avuztiUwnH8S63b-BgxpNZDw@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEJ\n\nFollow on MiLB First Pitch: https://stza.co/+vMEJ-o\n\nShop: https://stza.co/+vMEJ-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT
+* Mets @ Hammerheads
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       VQHpGEhexQIAOcDjpsHa7LoE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Mets @ Hammerheads Mets @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMEK
+
+Follow on MiLB First Pitch  https //stza.co/+vMEK-4
+
+Shop  https //stza.co/+vMEK-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Mets @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:VQHpGEhexQIAOcDjpsHa7LoE@stanza.co
+SUMMARY:Mets @ Hammerheads
+DESCRIPTION:Mets @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMEK\n\nFollow on MiLB First Pitch: https://stza.co/+vMEK-4\n\nShop: https://stza.co/+vMEK-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144559Z
+LAST-MODIFIED:20180213T144559Z
+TRANSP:OPAQUE
+END:VEVENT

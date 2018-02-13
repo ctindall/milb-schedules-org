@@ -1,0 +1,5216 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Chiefs @ Bees
+<2018-04-05 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       r8481UGKxpLNYPqXu-nIBN4M@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Bees Chiefs @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xAEh-1C
+
+Shop  https //stza.co/+xAEh-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Bees
+END:VALARM
+DTSTART:20180405T233000Z
+DTEND:20180406T023000Z
+UID:r8481UGKxpLNYPqXu-nIBN4M@stanza.co
+SUMMARY:Chiefs @ Bees
+DESCRIPTION:Chiefs @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xAEh-1C\n\nShop: https://stza.co/+xAEh-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Bees
+<2018-04-06 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       nETgHCn7zitXeCr-HCWJtBmj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Bees Chiefs @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xAEi-2U
+
+Shop  https //stza.co/+xAEi-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Bees
+END:VALARM
+DTSTART:20180406T233000Z
+DTEND:20180407T023000Z
+UID:nETgHCn7zitXeCr-HCWJtBmj@stanza.co
+SUMMARY:Chiefs @ Bees
+DESCRIPTION:Chiefs @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xAEi-2U\n\nShop: https://stza.co/+xAEi-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-04-07 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       2Fdh9H1YLgXfh2EK_0w6BJdK@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky. 
+
+It is Opening Day Baseball for your Peoria Chiefs with this great 2018 Magnet Schedule!
+
+Follow on MiLB First Pitch  https //stza.co/+xBwK-j
+
+Shop  https //stza.co/+xBwK-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180407T233000Z
+DTEND:20180408T023000Z
+UID:2Fdh9H1YLgXfh2EK_0w6BJdK@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky. \n\nIt is Opening Day Baseball for your Peoria Chiefs with this great 2018 Magnet Schedule!\n\nFollow on MiLB First Pitch: https://stza.co/+xBwK-j\n\nShop: https://stza.co/+xBwK-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-04-08 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       K86fl14NL4XlvHpAui1MgIpb@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+Follow on MiLB First Pitch  https //stza.co/+xBwR-m
+
+Shop  https //stza.co/+xBwR-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180408T220000Z
+DTEND:20180409T010000Z
+UID:K86fl14NL4XlvHpAui1MgIpb@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nFollow on MiLB First Pitch: https://stza.co/+xBwR-m\n\nShop: https://stza.co/+xBwR-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Kernels
+<2018-04-09 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       XxI73-_chrEuH8AvEZ_LI9zd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Kernels Chiefs vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBw$-3L
+
+Shop  https //stza.co/+xBw$-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Kernels
+END:VALARM
+DTSTART:20180409T233000Z
+DTEND:20180410T023000Z
+UID:XxI73-_chrEuH8AvEZ_LI9zd@stanza.co
+SUMMARY:Chiefs vs. Kernels
+DESCRIPTION:Chiefs vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBw$-3L\n\nShop: https://stza.co/+xBw$-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Kernels
+<2018-04-10 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       APpPhuLrujddvrWxapSEjyOO@stanza.co
+:LOCATION: Dare Day
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Kernels Its day baseball with the kids celebrating the D.A.R.E. program!
+
+Follow on MiLB First Pitch  https //stza.co/+xBx4-3m
+
+Shop  https //stza.co/+xBx4-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Kernels
+END:VALARM
+DTSTART:20180410T160000Z
+DTEND:20180410T190000Z
+UID:APpPhuLrujddvrWxapSEjyOO@stanza.co
+SUMMARY:Chiefs vs. Kernels
+DESCRIPTION:Its day baseball with the kids celebrating the D.A.R.E. program!\n\nFollow on MiLB First Pitch: https://stza.co/+xBx4-3m\n\nShop: https://stza.co/+xBx4-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dare Day
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Kernels
+<2018-04-11 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       z-SJ-LSj1DPp7yuScYlDOZjG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Kernels Chiefs vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBxe-16
+
+Shop  https //stza.co/+xBxe-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Kernels
+END:VALARM
+DTSTART:20180411T233000Z
+DTEND:20180412T023000Z
+UID:z-SJ-LSj1DPp7yuScYlDOZjG@stanza.co
+SUMMARY:Chiefs vs. Kernels
+DESCRIPTION:Chiefs vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBxe-16\n\nShop: https://stza.co/+xBxe-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Kernels
+<2018-04-12 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       iTo7Hc0J9szSkRDqnZaN69KI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Kernels Chiefs vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBxr-2R
+
+Shop  https //stza.co/+xBxr-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Kernels
+END:VALARM
+DTSTART:20180412T233000Z
+DTEND:20180413T023000Z
+UID:iTo7Hc0J9szSkRDqnZaN69KI@stanza.co
+SUMMARY:Chiefs vs. Kernels
+DESCRIPTION:Chiefs vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBxr-2R\n\nShop: https://stza.co/+xBxr-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-04-13 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       nq6HDl2wADiWVtN2rMBcLgSu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Chiefs vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBxy-24
+
+Shop  https //stza.co/+xBxy-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180413T233000Z
+DTEND:20180414T023000Z
+UID:nq6HDl2wADiWVtN2rMBcLgSu@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Chiefs vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBxy-24\n\nShop: https://stza.co/+xBxy-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-04-14 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       g8xaRfCnzCLxv8GLb821936i@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Chiefs vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBxH-3F
+
+Shop  https //stza.co/+xBxH-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180414T233000Z
+DTEND:20180415T023000Z
+UID:g8xaRfCnzCLxv8GLb821936i@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Chiefs vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBxH-3F\n\nShop: https://stza.co/+xBxH-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-04-15 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       g3fflC9PVYn0NzoKSXKah9q4@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xBxO-1P
+
+Shop  https //stza.co/+xBxO-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180415T190000Z
+DTEND:20180415T220000Z
+UID:g3fflC9PVYn0NzoKSXKah9q4@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xBxO-1P\n\nShop: https://stza.co/+xBxO-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-04-17 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       2fUl_yahAzSrXrtdz9SAAdaZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxpU-3x
+
+Shop  https //stza.co/+wxpU-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180417T233500Z
+DTEND:20180418T023500Z
+UID:2fUl_yahAzSrXrtdz9SAAdaZ@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxpU-3x\n\nShop: https://stza.co/+wxpU-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-04-18 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       BeZC02BLKt3OFWhKeT00MTv2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxpV-2u
+
+Shop  https //stza.co/+wxpV-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180418T233500Z
+DTEND:20180419T023500Z
+UID:BeZC02BLKt3OFWhKeT00MTv2@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxpV-2u\n\nShop: https://stza.co/+wxpV-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-04-19 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       A5TKq5bg4WTzlzt40EViwvLk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxpW-2c
+
+Shop  https //stza.co/+wxpW-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180419T233500Z
+DTEND:20180420T023500Z
+UID:A5TKq5bg4WTzlzt40EViwvLk@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxpW-2c\n\nShop: https://stza.co/+wxpW-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-04-20 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       TgKYrD6UGlMGeIW8sLmtXuWm@stanza.co
+:LOCATION: Peanut Free Night
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!
+
+Follow on MiLB First Pitch  https //stza.co/+xBxX-1n
+
+Shop  https //stza.co/+xBxX-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180420T233000Z
+DTEND:20180421T023000Z
+UID:TgKYrD6UGlMGeIW8sLmtXuWm@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!\n\nFollow on MiLB First Pitch: https://stza.co/+xBxX-1n\n\nShop: https://stza.co/+xBxX-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Peanut Free Night
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-04-21 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       2vXauogN6qzJB9lCI1Ctf9rA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Chiefs vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBy2-3T
+
+Shop  https //stza.co/+xBy2-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180421T233000Z
+DTEND:20180422T023000Z
+UID:2vXauogN6qzJB9lCI1Ctf9rA@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Chiefs vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBy2-3T\n\nShop: https://stza.co/+xBy2-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-04-22 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       _-_ZIkLsViAwpXtq0fQeuF5i@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xByb-36
+
+Shop  https //stza.co/+xByb-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180422T220000Z
+DTEND:20180423T010000Z
+UID:_-_ZIkLsViAwpXtq0fQeuF5i@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xByb-36\n\nShop: https://stza.co/+xByb-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-04-23 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       q9ChXULsAdUC8oKp4iS4sObE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNk-v
+
+Shop  https //stza.co/+wSNk-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180423T233000Z
+DTEND:20180424T023000Z
+UID:q9ChXULsAdUC8oKp4iS4sObE@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNk-v\n\nShop: https://stza.co/+wSNk-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-04-24 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       euweHBbTy7Hpj7uokgEmcevV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNl-3b
+
+Shop  https //stza.co/+wSNl-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180424T233000Z
+DTEND:20180425T023000Z
+UID:euweHBbTy7Hpj7uokgEmcevV@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNl-3b\n\nShop: https://stza.co/+wSNl-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-04-25 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       N7EnuNMPSySPTjZEeXBtLJeC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNm-2b
+
+Shop  https //stza.co/+wSNm-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180425T233000Z
+DTEND:20180426T023000Z
+UID:N7EnuNMPSySPTjZEeXBtLJeC@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNm-2b\n\nShop: https://stza.co/+wSNm-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-04-26 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       Y8NfX6MoQ6Ued-n0CSywXtNs@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNn-1w
+
+Shop  https //stza.co/+wSNn-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180426T233000Z
+DTEND:20180427T023000Z
+UID:Y8NfX6MoQ6Ued-n0CSywXtNs@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNn-1w\n\nShop: https://stza.co/+wSNn-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Timber Rattlers
+<2018-04-27 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       xcqG7XQF2djQDFAw_4cBT-DO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Timber Rattlers Chiefs @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vsEj-1P
+
+Shop  https //stza.co/+vsEj-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Timber Rattlers
+END:VALARM
+DTSTART:20180427T233500Z
+DTEND:20180428T023500Z
+UID:xcqG7XQF2djQDFAw_4cBT-DO@stanza.co
+SUMMARY:Chiefs @ Timber Rattlers
+DESCRIPTION:Chiefs @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vsEj-1P\n\nShop: https://stza.co/+vsEj-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Timber Rattlers
+<2018-04-28 Sat 13:05-16:05>
+:PROPERTIES:
+:ID:       J4zLjDoLfLFuwDwiVNzSk9NQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Timber Rattlers Chiefs @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vsEk-$
+
+Shop  https //stza.co/+vsEk-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Timber Rattlers
+END:VALARM
+DTSTART:20180428T180500Z
+DTEND:20180428T210500Z
+UID:J4zLjDoLfLFuwDwiVNzSk9NQ@stanza.co
+SUMMARY:Chiefs @ Timber Rattlers
+DESCRIPTION:Chiefs @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vsEk-$\n\nShop: https://stza.co/+vsEk-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Timber Rattlers
+<2018-04-29 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       p6LHuAafKIGt2HJkkUz4FJ6x@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Timber Rattlers Chiefs @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vsEl-1L
+
+Shop  https //stza.co/+vsEl-1_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Timber Rattlers
+END:VALARM
+DTSTART:20180429T180500Z
+DTEND:20180429T210500Z
+UID:p6LHuAafKIGt2HJkkUz4FJ6x@stanza.co
+SUMMARY:Chiefs @ Timber Rattlers
+DESCRIPTION:Chiefs @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vsEl-1L\n\nShop: https://stza.co/+vsEl-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Whitecaps
+<2018-05-01 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       TjEsev37Eqvac9N3vAuDUhMk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Whitecaps Chiefs vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+xByj-7
+
+Shop  https //stza.co/+xByj-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Whitecaps
+END:VALARM
+DTSTART:20180501T233000Z
+DTEND:20180502T023000Z
+UID:TjEsev37Eqvac9N3vAuDUhMk@stanza.co
+SUMMARY:Chiefs vs. Whitecaps
+DESCRIPTION:Chiefs vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+xByj-7\n\nShop: https://stza.co/+xByj-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Whitecaps
+<2018-05-02 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       mhtGdZtz7le7lEj7CLp7qL9y@stanza.co
+:LOCATION: Education Day
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Whitecaps Join us as we celebrate baseball and education with area schools for some afternoon baseball!
+
+Follow on MiLB First Pitch  https //stza.co/+xByp-1d
+
+Shop  https //stza.co/+xByp-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Whitecaps
+END:VALARM
+DTSTART:20180502T160000Z
+DTEND:20180502T190000Z
+UID:mhtGdZtz7le7lEj7CLp7qL9y@stanza.co
+SUMMARY:Chiefs vs. Whitecaps
+DESCRIPTION:Join us as we celebrate baseball and education with area schools for some afternoon baseball!\n\nFollow on MiLB First Pitch: https://stza.co/+xByp-1d\n\nShop: https://stza.co/+xByp-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Education Day
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Whitecaps
+<2018-05-03 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       frbWQWh6_1pixv3SDSaUiMhk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Whitecaps Chiefs vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+xByt-2z
+
+Shop  https //stza.co/+xByt-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Whitecaps
+END:VALARM
+DTSTART:20180503T233000Z
+DTEND:20180504T023000Z
+UID:frbWQWh6_1pixv3SDSaUiMhk@stanza.co
+SUMMARY:Chiefs vs. Whitecaps
+DESCRIPTION:Chiefs vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+xByt-2z\n\nShop: https://stza.co/+xByt-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cubs
+<2018-05-04 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       2j4ZXgbS-LuoBGQzSrz22fL3@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cubs Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky. 
+
+The Force is strong with the Chiefs as we welcome all fans of a galaxy far far away with a Harrison Bader Bobblehead to the first 1000 fans 13 & up!
+
+Follow on MiLB First Pitch  https //stza.co/+xByu-3E
+
+Shop  https //stza.co/+xByu-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cubs
+END:VALARM
+DTSTART:20180504T233000Z
+DTEND:20180505T023000Z
+UID:2j4ZXgbS-LuoBGQzSrz22fL3@stanza.co
+SUMMARY:Chiefs vs. Cubs
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky. \n\nThe Force is strong with the Chiefs as we welcome all fans of a galaxy far far away with a Harrison Bader Bobblehead to the first 1000 fans 13 & up!\n\nFollow on MiLB First Pitch: https://stza.co/+xByu-3E\n\nShop: https://stza.co/+xByu-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cubs
+<2018-05-05 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       g7AN5GXZZzgHqjFfzXdgmtlj@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cubs Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+It is a galloping good party at Dozer Park as we have a Cinco De Mayo/Kentucky Derby Party!
+
+Follow on MiLB First Pitch  https //stza.co/+xByw-2j
+
+Shop  https //stza.co/+xByw-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cubs
+END:VALARM
+DTSTART:20180505T233000Z
+DTEND:20180506T023000Z
+UID:g7AN5GXZZzgHqjFfzXdgmtlj@stanza.co
+SUMMARY:Chiefs vs. Cubs
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nIt is a galloping good party at Dozer Park as we have a Cinco De Mayo/Kentucky Derby Party!\n\nFollow on MiLB First Pitch: https://stza.co/+xByw-2j\n\nShop: https://stza.co/+xByw-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cubs
+<2018-05-06 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       s6JDt0j4wNUa9Kr_eHT7fNtD@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cubs Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAHj-2S
+
+Shop  https //stza.co/+xAHj-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cubs
+END:VALARM
+DTSTART:20180506T190000Z
+DTEND:20180506T220000Z
+UID:s6JDt0j4wNUa9Kr_eHT7fNtD@stanza.co
+SUMMARY:Chiefs vs. Cubs
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAHj-2S\n\nShop: https://stza.co/+xAHj-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Hot Rods
+<2018-05-07 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       _0a5TzOoWQlsyfPMuHYSG0n2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Hot Rods Chiefs @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vNcH-2$
+
+Shop  https //stza.co/+vNcH-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Hot Rods
+END:VALARM
+DTSTART:20180507T233500Z
+DTEND:20180508T023500Z
+UID:_0a5TzOoWQlsyfPMuHYSG0n2@stanza.co
+SUMMARY:Chiefs @ Hot Rods
+DESCRIPTION:Chiefs @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vNcH-2$\n\nShop: https://stza.co/+vNcH-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Hot Rods
+<2018-05-08 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       4HgcuG89ahIa-zMDbl7oR2T_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Hot Rods Chiefs @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vNcI-37
+
+Shop  https //stza.co/+vNcI-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Hot Rods
+END:VALARM
+DTSTART:20180508T233500Z
+DTEND:20180509T023500Z
+UID:4HgcuG89ahIa-zMDbl7oR2T_@stanza.co
+SUMMARY:Chiefs @ Hot Rods
+DESCRIPTION:Chiefs @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vNcI-37\n\nShop: https://stza.co/+vNcI-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Hot Rods
+<2018-05-09 Wed 10:35-13:35>
+:PROPERTIES:
+:ID:       pOv8yGw25YHdc7a_wh7_WinO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Hot Rods Chiefs @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vNcJ-11
+
+Shop  https //stza.co/+vNcJ-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Hot Rods
+END:VALARM
+DTSTART:20180509T153500Z
+DTEND:20180509T183500Z
+UID:pOv8yGw25YHdc7a_wh7_WinO@stanza.co
+SUMMARY:Chiefs @ Hot Rods
+DESCRIPTION:Chiefs @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vNcJ-11\n\nShop: https://stza.co/+vNcJ-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Dragons
+<2018-05-10 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       d87Ye63rfQRSdaAROo8M3Ydz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Dragons Chiefs @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vNc$-c
+
+Shop  https //stza.co/+vNc$-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Dragons
+END:VALARM
+DTSTART:20180510T230000Z
+DTEND:20180511T020000Z
+UID:d87Ye63rfQRSdaAROo8M3Ydz@stanza.co
+SUMMARY:Chiefs @ Dragons
+DESCRIPTION:Chiefs @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vNc$-c\n\nShop: https://stza.co/+vNc$-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Dragons
+<2018-05-11 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       eJGMAjfOMuxvHDPP_TkrJ-0v@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Dragons Chiefs @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vNd0-2r
+
+Shop  https //stza.co/+vNd0-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Dragons
+END:VALARM
+DTSTART:20180511T230000Z
+DTEND:20180512T020000Z
+UID:eJGMAjfOMuxvHDPP_TkrJ-0v@stanza.co
+SUMMARY:Chiefs @ Dragons
+DESCRIPTION:Chiefs @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vNd0-2r\n\nShop: https://stza.co/+vNd0-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Dragons
+<2018-05-12 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       wvEkjtZFs2PPuD9shf-Uy5lk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Dragons Chiefs @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vNd1-33
+
+Shop  https //stza.co/+vNd1-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Dragons
+END:VALARM
+DTSTART:20180512T230000Z
+DTEND:20180513T020000Z
+UID:wvEkjtZFs2PPuD9shf-Uy5lk@stanza.co
+SUMMARY:Chiefs @ Dragons
+DESCRIPTION:Chiefs @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vNd1-33\n\nShop: https://stza.co/+vNd1-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-05-14 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       k4DohY51ptpzhSH2q4gN_OUt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Chiefs vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xAHl-33
+
+Shop  https //stza.co/+xAHl-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180514T230000Z
+DTEND:20180515T020000Z
+UID:k4DohY51ptpzhSH2q4gN_OUt@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Chiefs vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xAHl-33\n\nShop: https://stza.co/+xAHl-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-05-15 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       _xVnaO8PnoWvWFLA--1Y009F@stanza.co
+:LOCATION: Education Day
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Join us as we celebrate baseball and education with area schools for some afternoon baseball!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHn-1X
+
+Shop  https //stza.co/+xAHn-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180515T160000Z
+DTEND:20180515T190000Z
+UID:_xVnaO8PnoWvWFLA--1Y009F@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Join us as we celebrate baseball and education with area schools for some afternoon baseball!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHn-1X\n\nShop: https://stza.co/+xAHn-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Education Day
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-05-16 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       KCdddeGQUaIfh4h2WOCz51wf@stanza.co
+:LOCATION: Education Day
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Join us as we celebrate baseball and education with area schools for some afternoon baseball!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHp-3q
+
+Shop  https //stza.co/+xAHp-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180516T160000Z
+DTEND:20180516T190000Z
+UID:KCdddeGQUaIfh4h2WOCz51wf@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Join us as we celebrate baseball and education with area schools for some afternoon baseball!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHp-3q\n\nShop: https://stza.co/+xAHp-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Education Day
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-05-17 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       9K0yJo-iOnmrNI-bbly9rwMN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Chiefs vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xAHs-3o
+
+Shop  https //stza.co/+xAHs-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180517T233000Z
+DTEND:20180518T023000Z
+UID:9K0yJo-iOnmrNI-bbly9rwMN@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Chiefs vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xAHs-3o\n\nShop: https://stza.co/+xAHs-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-05-18 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       X271gMuRJF8KM_XqgMmDAz-0@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+The Avengers need you and the first 1000 fans 12 & Under will enjoy this Chiefs themed Avengers Shirt!
+
+The Avengers are here as we welcome Iron Man & Captain America to Dozer Park!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHt-C
+
+Shop  https //stza.co/+xAHt-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180518T233000Z
+DTEND:20180519T023000Z
+UID:X271gMuRJF8KM_XqgMmDAz-0@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nThe Avengers need you and the first 1000 fans 12 & Under will enjoy this Chiefs themed Avengers Shirt!\n\nThe Avengers are here as we welcome Iron Man & Captain America to Dozer Park!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHt-C\n\nShop: https://stza.co/+xAHt-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-05-19 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       UWcggNJZiIz7BN0-D3P-BRyU@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+The first 1000 Fans 13 & Over will receive this Military Camo Cap courtesy of Dick's Sporting Goods!
+
+Join us as we honor those who have served, currently serving, or will serve our country for Armed Forces Night at Dozer Park with a special Military Camo Cap!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHw-y
+
+Shop  https //stza.co/+xAHw-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180519T233000Z
+DTEND:20180520T023000Z
+UID:UWcggNJZiIz7BN0-D3P-BRyU@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nThe first 1000 Fans 13 & Over will receive this Military Camo Cap courtesy of Dick's Sporting Goods!\n\nJoin us as we honor those who have served, currently serving, or will serve our country for Armed Forces Night at Dozer Park with a special Military Camo Cap!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHw-y\n\nShop: https://stza.co/+xAHw-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-05-20 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       2v0n21VE5l90JXbDE_NPZFYt@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+Come check out the PNC Pre-K Day with the PNC Mobile Learning Adventure from Noon to 2PM at Dozer Park.
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAHy-3O
+
+Shop  https //stza.co/+xAHy-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180520T190000Z
+DTEND:20180520T220000Z
+UID:2v0n21VE5l90JXbDE_NPZFYt@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nCome check out the PNC Pre-K Day with the PNC Mobile Learning Adventure from Noon to 2PM at Dozer Park.\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAHy-3O\n\nShop: https://stza.co/+xAHy-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-05-21 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       dnd1ageif8rlnEfymP6-nFty@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNo-25
+
+Shop  https //stza.co/+wSNo-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180521T233000Z
+DTEND:20180522T023000Z
+UID:dnd1ageif8rlnEfymP6-nFty@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNo-25\n\nShop: https://stza.co/+wSNo-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-05-22 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       BfnfyA-NSBQH8YNnMChT0H73@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNq-22
+
+Shop  https //stza.co/+wSNq-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180522T160000Z
+DTEND:20180522T190000Z
+UID:BfnfyA-NSBQH8YNnMChT0H73@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNq-22\n\nShop: https://stza.co/+wSNq-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-05-23 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       hFQ5cOr0-LIFDDIYS86gzt16@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNr-3T
+
+Shop  https //stza.co/+wSNr-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180523T233000Z
+DTEND:20180524T023000Z
+UID:hFQ5cOr0-LIFDDIYS86gzt16@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNr-3T\n\nShop: https://stza.co/+wSNr-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-05-24 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       3i_yS4ExuC6yN_AjYYfPxlCK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNs-3D
+
+Shop  https //stza.co/+wSNs-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180524T233000Z
+DTEND:20180525T023000Z
+UID:3i_yS4ExuC6yN_AjYYfPxlCK@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNs-3D\n\nShop: https://stza.co/+wSNs-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-05-25 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       YwTAfPaAfYkQg3hrWbuyo_Z5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxpX-3E
+
+Shop  https //stza.co/+wxpX-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180525T233500Z
+DTEND:20180526T023500Z
+UID:YwTAfPaAfYkQg3hrWbuyo_Z5@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxpX-3E\n\nShop: https://stza.co/+wxpX-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-05-26 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       4LtG4FFnkbOzvsd2XNtlGzEF@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxpY-2z
+
+Shop  https //stza.co/+wxpY-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180526T233500Z
+DTEND:20180527T023500Z
+UID:4LtG4FFnkbOzvsd2XNtlGzEF@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxpY-2z\n\nShop: https://stza.co/+wxpY-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-05-27 Sun 17:15-20:15>
+:PROPERTIES:
+:ID:       XdrSPtu-GLfxMnkfurFkl11_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxpZ-1z
+
+Shop  https //stza.co/+wxpZ-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180527T221500Z
+DTEND:20180528T011500Z
+UID:XdrSPtu-GLfxMnkfurFkl11_@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxpZ-1z\n\nShop: https://stza.co/+wxpZ-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-05-28 Mon 17:15-20:15>
+:PROPERTIES:
+:ID:       _MHLdZsvE8R515jFPvMyNms7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxp_-2A
+
+Shop  https //stza.co/+wxp_-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180528T221500Z
+DTEND:20180529T011500Z
+UID:_MHLdZsvE8R515jFPvMyNms7@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxp_-2A\n\nShop: https://stza.co/+wxp_-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-05-29 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       9716kFmIYtrDnrUjsWVV9P-R@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Chiefs vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xAHA-M
+
+Shop  https //stza.co/+xAHA-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180529T233000Z
+DTEND:20180530T023000Z
+UID:9716kFmIYtrDnrUjsWVV9P-R@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Chiefs vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xAHA-M\n\nShop: https://stza.co/+xAHA-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-05-30 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       BQGFtLaz1qvUqkds1FVyZ2Fa@stanza.co
+:LOCATION: Peanut Free Night
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHB-3J
+
+Shop  https //stza.co/+xAHB-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180530T233000Z
+DTEND:20180531T023000Z
+UID:BQGFtLaz1qvUqkds1FVyZ2Fa@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHB-3J\n\nShop: https://stza.co/+xAHB-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Peanut Free Night
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-05-31 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       wXKoO7agyBfdDr1RBEysabJE@stanza.co
+:LOCATION: Teacher's Appreciation Night
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Welcome all area teacher's as this night is yours to celebrate at Dozer Park!
+
+Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHF-2D
+
+Shop  https //stza.co/+xAHF-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180531T233000Z
+DTEND:20180601T023000Z
+UID:wXKoO7agyBfdDr1RBEysabJE@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Welcome all area teacher's as this night is yours to celebrate at Dozer Park!\n\nBehold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHF-2D\n\nShop: https://stza.co/+xAHF-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Teacher's Appreciation Night
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ LumberKings
+<2018-06-01 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       bI7_1vtPwm1_W1IFS_itMhrr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ LumberKings Chiefs @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vNcU-2s
+
+Shop  https //stza.co/+vNcU-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ LumberKings
+END:VALARM
+DTSTART:20180601T233000Z
+DTEND:20180602T023000Z
+UID:bI7_1vtPwm1_W1IFS_itMhrr@stanza.co
+SUMMARY:Chiefs @ LumberKings
+DESCRIPTION:Chiefs @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vNcU-2s\n\nShop: https://stza.co/+vNcU-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ LumberKings
+<2018-06-02 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       ZWWJnHmmX7aRIgbQL8TpGqpI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ LumberKings Chiefs @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vNcV-2K
+
+Shop  https //stza.co/+vNcV-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ LumberKings
+END:VALARM
+DTSTART:20180602T233000Z
+DTEND:20180603T023000Z
+UID:ZWWJnHmmX7aRIgbQL8TpGqpI@stanza.co
+SUMMARY:Chiefs @ LumberKings
+DESCRIPTION:Chiefs @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vNcV-2K\n\nShop: https://stza.co/+vNcV-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ LumberKings
+<2018-06-03 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       zpdHz4E9REKccAoB2vh3rWfs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ LumberKings Chiefs @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vNcW-G
+
+Shop  https //stza.co/+vNcW-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ LumberKings
+END:VALARM
+DTSTART:20180603T190000Z
+DTEND:20180603T220000Z
+UID:zpdHz4E9REKccAoB2vh3rWfs@stanza.co
+SUMMARY:Chiefs @ LumberKings
+DESCRIPTION:Chiefs @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vNcW-G\n\nShop: https://stza.co/+vNcW-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-06-05 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       f5p9KHggAr3acjh8Pm2Zrtfc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEl-3P
+
+Shop  https //stza.co/+xAEl-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180605T233000Z
+DTEND:20180606T023000Z
+UID:f5p9KHggAr3acjh8Pm2Zrtfc@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEl-3P\n\nShop: https://stza.co/+xAEl-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-06-06 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       UZTe_-lBxBVyGwLhn_CbOvuR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEm-3L
+
+Shop  https //stza.co/+xAEm-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180606T233000Z
+DTEND:20180607T023000Z
+UID:UZTe_-lBxBVyGwLhn_CbOvuR@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEm-3L\n\nShop: https://stza.co/+xAEm-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-06-07 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       rxVkXli5OPyxumlNhGsLzGsH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEo-2U
+
+Shop  https //stza.co/+xAEo-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180607T233000Z
+DTEND:20180608T023000Z
+UID:rxVkXli5OPyxumlNhGsLzGsH@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEo-2U\n\nShop: https://stza.co/+xAEo-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. River Bandits
+<2018-06-08 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       WHOLMXuhaNCBq0YFLzagsTCG@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. River Bandits Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+The wacky bird is back to Dozer Park as Fredbird makes the trip north for the summer!
+
+Come out and enjoy the music of the best piano group in the Midwest as we welcome the Dueling Pianos to Dozer Park!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHG-3Q
+
+Shop  https //stza.co/+xAHG-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. River Bandits
+END:VALARM
+DTSTART:20180609T000000Z
+DTEND:20180609T030000Z
+UID:WHOLMXuhaNCBq0YFLzagsTCG@stanza.co
+SUMMARY:Chiefs vs. River Bandits
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nThe wacky bird is back to Dozer Park as Fredbird makes the trip north for the summer!\n\nCome out and enjoy the music of the best piano group in the Midwest as we welcome the Dueling Pianos to Dozer Park!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHG-3Q\n\nShop: https://stza.co/+xAHG-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. River Bandits
+<2018-06-09 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       IU9z5ApASKzDblLDZ8hO9Ldq@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. River Bandits Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Join us as we honor Illinois State University with this former Redbird and Chief infielder, Paul DeJong Bobblehead to the first 1000 fans 13 & up!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHJ-2m
+
+Shop  https //stza.co/+xAHJ-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. River Bandits
+END:VALARM
+DTSTART:20180609T233000Z
+DTEND:20180610T023000Z
+UID:IU9z5ApASKzDblLDZ8hO9Ldq@stanza.co
+SUMMARY:Chiefs vs. River Bandits
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nJoin us as we honor Illinois State University with this former Redbird and Chief infielder, Paul DeJong Bobblehead to the first 1000 fans 13 & up!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHJ-2m\n\nShop: https://stza.co/+xAHJ-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. River Bandits
+<2018-06-10 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       GJx1zaWKdgvy_SmoLenZUrvE@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. River Bandits Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+The princesses are back at Dozer Park.
+
+We celebrate Father's a week early with the first 1000 fathers' will receive a Chiefs Dri-Fit Shirt!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAHK-23
+
+Shop  https //stza.co/+xAHK-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. River Bandits
+END:VALARM
+DTSTART:20180610T190000Z
+DTEND:20180610T220000Z
+UID:GJx1zaWKdgvy_SmoLenZUrvE@stanza.co
+SUMMARY:Chiefs vs. River Bandits
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nThe princesses are back at Dozer Park.\n\nWe celebrate Father's a week early with the first 1000 fathers' will receive a Chiefs Dri-Fit Shirt!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAHK-23\n\nShop: https://stza.co/+xAHK-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. River Bandits
+<2018-06-11 Mon 12:00-15:00>
+:PROPERTIES:
+:ID:       4juC6v5sajzzUfn3qfXcQrlB@stanza.co
+:LOCATION: Business Person's Special
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. River Bandits Catch a ball game over lunch with the Peoria Chiefs for the Business Person's Special Day Game!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHO-3h
+
+Shop  https //stza.co/+xAHO-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. River Bandits
+END:VALARM
+DTSTART:20180611T170000Z
+DTEND:20180611T200000Z
+UID:4juC6v5sajzzUfn3qfXcQrlB@stanza.co
+SUMMARY:Chiefs vs. River Bandits
+DESCRIPTION:Catch a ball game over lunch with the Peoria Chiefs for the Business Person's Special Day Game!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHO-3h\n\nShop: https://stza.co/+xAHO-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Business Person's Special
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Snappers
+<2018-06-12 Tue 19:00-22:00>
+:PROPERTIES:
+:ID:       -sH2rHAzXI121sPc3m9iaqRY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Snappers Chiefs vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xAHP-3E
+
+Shop  https //stza.co/+xAHP-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Snappers
+END:VALARM
+DTSTART:20180613T000000Z
+DTEND:20180613T030000Z
+UID:-sH2rHAzXI121sPc3m9iaqRY@stanza.co
+SUMMARY:Chiefs vs. Snappers
+DESCRIPTION:Chiefs vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xAHP-3E\n\nShop: https://stza.co/+xAHP-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Snappers
+<2018-06-13 Wed 19:00-22:00>
+:PROPERTIES:
+:ID:       c3Q8CsinTIA4x5rMMqcYXqPB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Snappers Chiefs vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xAHS-A
+
+Shop  https //stza.co/+xAHS-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Snappers
+END:VALARM
+DTSTART:20180614T000000Z
+DTEND:20180614T030000Z
+UID:c3Q8CsinTIA4x5rMMqcYXqPB@stanza.co
+SUMMARY:Chiefs vs. Snappers
+DESCRIPTION:Chiefs vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xAHS-A\n\nShop: https://stza.co/+xAHS-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Snappers
+<2018-06-14 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       u7TeeK8cPYElTVFUIQq1PoJy@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Snappers Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Baseball is Coming for the Peoria Chiefs as we celebrate Game of Thrones!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHU-36
+
+Shop  https //stza.co/+xAHU-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Snappers
+END:VALARM
+DTSTART:20180615T000000Z
+DTEND:20180615T030000Z
+UID:u7TeeK8cPYElTVFUIQq1PoJy@stanza.co
+SUMMARY:Chiefs vs. Snappers
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nBaseball is Coming for the Peoria Chiefs as we celebrate Game of Thrones!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHU-36\n\nShop: https://stza.co/+xAHU-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Kernels
+<2018-06-15 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       WAjKBW4mTxmS6WZ0so3-ELN1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Kernels Chiefs @ Kernels
+
+Buy tickets here  https //stza.co/~vNcO
+
+Follow on MiLB First Pitch  https //stza.co/+vNcO-2Q
+
+Shop  https //stza.co/+vNcO-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Kernels
+END:VALARM
+DTSTART:20180615T233500Z
+DTEND:20180616T023500Z
+UID:WAjKBW4mTxmS6WZ0so3-ELN1@stanza.co
+SUMMARY:Chiefs @ Kernels
+DESCRIPTION:Chiefs @ Kernels\n\nBuy tickets here: https://stza.co/~vNcO\n\nFollow on MiLB First Pitch: https://stza.co/+vNcO-2Q\n\nShop: https://stza.co/+vNcO-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Kernels
+<2018-06-16 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       dCXST8u2uX6q_UgQXlekAF4k@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Kernels Chiefs @ Kernels
+
+Buy tickets here  https //stza.co/~vNcP
+
+Follow on MiLB First Pitch  https //stza.co/+vNcP-Q
+
+Shop  https //stza.co/+vNcP-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Kernels
+END:VALARM
+DTSTART:20180616T233500Z
+DTEND:20180617T023500Z
+UID:dCXST8u2uX6q_UgQXlekAF4k@stanza.co
+SUMMARY:Chiefs @ Kernels
+DESCRIPTION:Chiefs @ Kernels\n\nBuy tickets here: https://stza.co/~vNcP\n\nFollow on MiLB First Pitch: https://stza.co/+vNcP-Q\n\nShop: https://stza.co/+vNcP-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Kernels
+<2018-06-17 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       bA5Amdi9CGGeZU9que4EvUI9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Kernels Chiefs @ Kernels
+
+Buy tickets here  https //stza.co/~vNcQ
+
+Follow on MiLB First Pitch  https //stza.co/+vNcQ-2W
+
+Shop  https //stza.co/+vNcQ-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Kernels
+END:VALARM
+DTSTART:20180617T190500Z
+DTEND:20180617T220500Z
+UID:bA5Amdi9CGGeZU9que4EvUI9@stanza.co
+SUMMARY:Chiefs @ Kernels
+DESCRIPTION:Chiefs @ Kernels\n\nBuy tickets here: https://stza.co/~vNcQ\n\nFollow on MiLB First Pitch: https://stza.co/+vNcQ-2W\n\nShop: https://stza.co/+vNcQ-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-06-21 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       bcOgTtVIp5a_hbogZxnIugmw@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+This get crazy for the Summer of George as we celebrate Seinfeld Night at Dozer Park!
+
+We take things online for Social Media Night at Dozer Park!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHX-1l
+
+Shop  https //stza.co/+xAHX-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180622T000000Z
+DTEND:20180622T030000Z
+UID:bcOgTtVIp5a_hbogZxnIugmw@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nThis get crazy for the Summer of George as we celebrate Seinfeld Night at Dozer Park!\n\nWe take things online for Social Media Night at Dozer Park!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHX-1l\n\nShop: https://stza.co/+xAHX-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-06-22 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       PdsgfVEVfExKVyt3OvIUjURt@stanza.co
+:LOCATION: May the force be with you! Come check out Stars Wars Night at the park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+May the Force Be With Us as we welcome all fans from a galaxy far far away for Star Wars Night!
+
+We will auction off this Han Solo inspired jerseys during the game!
+
+Follow on MiLB First Pitch  https //stza.co/+xAHY-37
+
+Shop  https //stza.co/+xAHY-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180623T000000Z
+DTEND:20180623T030000Z
+UID:PdsgfVEVfExKVyt3OvIUjURt@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nMay the Force Be With Us as we welcome all fans from a galaxy far far away for Star Wars Night!\n\nWe will auction off this Han Solo inspired jerseys during the game!\n\nFollow on MiLB First Pitch: https://stza.co/+xAHY-37\n\nShop: https://stza.co/+xAHY-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:May the force be with you! Come check out Stars Wars Night at the park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-06-23 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       XPscza-pFfeLhn1OZqUGZQhN@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Come down to Dozer Park as we honor those kids from the OSF Children's Hospital with their very own Card Set to the first 1000 fans 13 & up! 
+
+Join us at Dozer Park for Faith & Family Night!
+
+Follow on MiLB First Pitch  https //stza.co/+xAH$-2R
+
+Shop  https //stza.co/+xAH$-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180623T233000Z
+DTEND:20180624T023000Z
+UID:XPscza-pFfeLhn1OZqUGZQhN@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nCome down to Dozer Park as we honor those kids from the OSF Children's Hospital with their very own Card Set to the first 1000 fans 13 & up! \n\nJoin us at Dozer Park for Faith & Family Night!\n\nFollow on MiLB First Pitch: https://stza.co/+xAH$-2R\n\nShop: https://stza.co/+xAH$-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-06-24 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       r3tAo-pkP_iAcF-FSHxCy4mj@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+He's Back! Daniel Tiger loved it so much he is coming back on a special visit to Dozer Park!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+The sky is falling at Dozer Park as we drop hundreds of small Die Cast cars from a Helicopter on the field in a special grab-n-go!
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAI6-2
+
+Shop  https //stza.co/+xAI6-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180624T190000Z
+DTEND:20180624T220000Z
+UID:r3tAo-pkP_iAcF-FSHxCy4mj@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nHe's Back! Daniel Tiger loved it so much he is coming back on a special visit to Dozer Park!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nThe sky is falling at Dozer Park as we drop hundreds of small Die Cast cars from a Helicopter on the field in a special grab-n-go!\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAI6-2\n\nShop: https://stza.co/+xAI6-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-06-25 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       0xOCu_mjowOE6MVs7nx9kJpz@stanza.co
+:LOCATION: Halfway to Chrismas with Santa
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Christmas comes early this year as Santa comes to Dozer Park!
+
+He's Back! Daniel Tiger stays for one last visit to Dozer Park before heading back to his neighborhood!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIc-2M
+
+Shop  https //stza.co/+xAIc-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180626T000000Z
+DTEND:20180626T030000Z
+UID:0xOCu_mjowOE6MVs7nx9kJpz@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Christmas comes early this year as Santa comes to Dozer Park!\n\nHe's Back! Daniel Tiger stays for one last visit to Dozer Park before heading back to his neighborhood!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIc-2M\n\nShop: https://stza.co/+xAIc-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Halfway to Chrismas with Santa
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-06-26 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       9uvmf8yy7br3j6a7vkwjtDGK@stanza.co
+:LOCATION: Splash Day
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Super Soakers will be out in force as Dozer Park becomes wet n wild for a special Splash Day!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIj-2Y
+
+Shop  https //stza.co/+xAIj-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180626T160000Z
+DTEND:20180626T190000Z
+UID:9uvmf8yy7br3j6a7vkwjtDGK@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Super Soakers will be out in force as Dozer Park becomes wet n wild for a special Splash Day!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIj-2Y\n\nShop: https://stza.co/+xAIj-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Splash Day
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-06-27 Wed 19:00-22:00>
+:PROPERTIES:
+:ID:       r4ZHj2FwKOTaA4-DvtB7ZDGd@stanza.co
+:LOCATION: Make your way to park for First Responders Night
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Behold the best firework show in Central Illinois as the Peoria Distillers light up the sky!
+
+The first 1000 fans 13 & up will receive this former Peoria Chief, Jack Flaherty Bobblehead!
+
+The ultimate First Responder will be at Dozer Park. Batman is here along with his trusty associates Bat Girl and Alfred!
+
+Join us in honoring all the First Responders that go out of their way to help out everyone in the community!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIp-2D
+
+Shop  https //stza.co/+xAIp-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180628T000000Z
+DTEND:20180628T030000Z
+UID:r4ZHj2FwKOTaA4-DvtB7ZDGd@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Distillers light up the sky!\n\nThe first 1000 fans 13 & up will receive this former Peoria Chief, Jack Flaherty Bobblehead!\n\nThe ultimate First Responder will be at Dozer Park. Batman is here along with his trusty associates Bat Girl and Alfred!\n\nJoin us in honoring all the First Responders that go out of their way to help out everyone in the community!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIp-2D\n\nShop: https://stza.co/+xAIp-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Make your way to park for First Responders Night
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-06-28 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       xNuWh1IjC2IopZy5EoMA00re@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNu-3K
+
+Shop  https //stza.co/+wSNu-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180629T000000Z
+DTEND:20180629T030000Z
+UID:xNuWh1IjC2IopZy5EoMA00re@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNu-3K\n\nShop: https://stza.co/+wSNu-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-06-29 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       AgeG2dw4wfY71rVzokj2sz2t@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNv-3q
+
+Shop  https //stza.co/+wSNv-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180630T000000Z
+DTEND:20180630T030000Z
+UID:AgeG2dw4wfY71rVzokj2sz2t@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNv-3q\n\nShop: https://stza.co/+wSNv-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-06-30 Sat 19:00-22:00>
+:PROPERTIES:
+:ID:       Gk9waNBqrcVTOYY_H-2_QQDU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNw-2T
+
+Shop  https //stza.co/+wSNw-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180701T000000Z
+DTEND:20180701T030000Z
+UID:Gk9waNBqrcVTOYY_H-2_QQDU@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNw-2T\n\nShop: https://stza.co/+wSNw-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Snappers
+<2018-07-01 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       Ns2Gd8OxdhBMpI_LPNEzjE2c@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Snappers Chiefs @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSNx-14
+
+Shop  https //stza.co/+wSNx-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Snappers
+END:VALARM
+DTSTART:20180701T190000Z
+DTEND:20180701T220000Z
+UID:Ns2Gd8OxdhBMpI_LPNEzjE2c@stanza.co
+SUMMARY:Chiefs @ Snappers
+DESCRIPTION:Chiefs @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSNx-14\n\nShop: https://stza.co/+wSNx-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Bees
+<2018-07-02 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       J8346D-y1l8MosXWX41LaUq4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Bees Chiefs @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xAEj-b
+
+Shop  https //stza.co/+xAEj-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Bees
+END:VALARM
+DTSTART:20180702T233000Z
+DTEND:20180703T023000Z
+UID:J8346D-y1l8MosXWX41LaUq4@stanza.co
+SUMMARY:Chiefs @ Bees
+DESCRIPTION:Chiefs @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xAEj-b\n\nShop: https://stza.co/+xAEj-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Bees
+<2018-07-03 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       KbZ2YaipgAZ3C-_wg46kYGbj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Bees Chiefs @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xAEk-27
+
+Shop  https //stza.co/+xAEk-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Bees
+END:VALARM
+DTSTART:20180703T233000Z
+DTEND:20180704T023000Z
+UID:KbZ2YaipgAZ3C-_wg46kYGbj@stanza.co
+SUMMARY:Chiefs @ Bees
+DESCRIPTION:Chiefs @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xAEk-27\n\nShop: https://stza.co/+xAEk-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-07-04 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       wljVic0AYZhGjIKiSiAF020z@stanza.co
+:LOCATION: Riverfront Firework Spectacular
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Enjoy the best seat in the house at Dozer Park to view the largest firework show in Illinois. 
+
+We celebrate and honor those who have, are currently, or will serve with a special jersey which will be auctioned off during the game!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIx-4
+
+Shop  https //stza.co/+xAIx-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180704T223000Z
+DTEND:20180705T013000Z
+UID:wljVic0AYZhGjIKiSiAF020z@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Enjoy the best seat in the house at Dozer Park to view the largest firework show in Illinois. \n\nWe celebrate and honor those who have, are currently, or will serve with a special jersey which will be auctioned off during the game!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIx-4\n\nShop: https://stza.co/+xAIx-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Riverfront Firework Spectacular
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Bees
+<2018-07-05 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       THyatHR6d_wXAooV_QvS1TVy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Bees Chiefs vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xAIF-v
+
+Shop  https //stza.co/+xAIF-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Bees
+END:VALARM
+DTSTART:20180706T000000Z
+DTEND:20180706T030000Z
+UID:THyatHR6d_wXAooV_QvS1TVy@stanza.co
+SUMMARY:Chiefs vs. Bees
+DESCRIPTION:Chiefs vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xAIF-v\n\nShop: https://stza.co/+xAIF-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Timber Rattlers
+<2018-07-06 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       Lsk97aUcpij1oXB6JCgRrvT4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Timber Rattlers Chiefs @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vsEm-3x
+
+Shop  https //stza.co/+vsEm-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Timber Rattlers
+END:VALARM
+DTSTART:20180707T000500Z
+DTEND:20180707T030500Z
+UID:Lsk97aUcpij1oXB6JCgRrvT4@stanza.co
+SUMMARY:Chiefs @ Timber Rattlers
+DESCRIPTION:Chiefs @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vsEm-3x\n\nShop: https://stza.co/+vsEm-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Timber Rattlers
+<2018-07-07 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       FKAucmRTmtaJ2p9WAIDXwDyZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Timber Rattlers Chiefs @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vsEn-2u
+
+Shop  https //stza.co/+vsEn-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Timber Rattlers
+END:VALARM
+DTSTART:20180707T233500Z
+DTEND:20180708T023500Z
+UID:FKAucmRTmtaJ2p9WAIDXwDyZ@stanza.co
+SUMMARY:Chiefs @ Timber Rattlers
+DESCRIPTION:Chiefs @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vsEn-2u\n\nShop: https://stza.co/+vsEn-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Timber Rattlers
+<2018-07-08 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       BpqXviAHEJapJ0u2qthQ8c_L@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Timber Rattlers Chiefs @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vsEo-q
+
+Shop  https //stza.co/+vsEo-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Timber Rattlers
+END:VALARM
+DTSTART:20180708T180500Z
+DTEND:20180708T210500Z
+UID:BpqXviAHEJapJ0u2qthQ8c_L@stanza.co
+SUMMARY:Chiefs @ Timber Rattlers
+DESCRIPTION:Chiefs @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vsEo-q\n\nShop: https://stza.co/+vsEo-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Timber Rattlers
+<2018-07-09 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       v5wzmvdr4wJmrZ2IwCEzrn8a@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Timber Rattlers Chiefs @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vsEp-3y
+
+Shop  https //stza.co/+vsEp-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Timber Rattlers
+END:VALARM
+DTSTART:20180709T170500Z
+DTEND:20180709T200500Z
+UID:v5wzmvdr4wJmrZ2IwCEzrn8a@stanza.co
+SUMMARY:Chiefs @ Timber Rattlers
+DESCRIPTION:Chiefs @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vsEp-3y\n\nShop: https://stza.co/+vsEp-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Captains
+<2018-07-11 Wed 19:00-22:00>
+:PROPERTIES:
+:ID:       dfrdC0VUhoy-RK54gMRnGGzV@stanza.co
+:LOCATION: Peanut Free Night
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Captains Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIL-k
+
+Shop  https //stza.co/+xAIL-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Captains
+END:VALARM
+DTSTART:20180712T000000Z
+DTEND:20180712T030000Z
+UID:dfrdC0VUhoy-RK54gMRnGGzV@stanza.co
+SUMMARY:Chiefs vs. Captains
+DESCRIPTION:Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIL-k\n\nShop: https://stza.co/+xAIL-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Peanut Free Night
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Captains
+<2018-07-12 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       AZy-9C2xWgSfv_bpjpbCXdqZ@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Captains Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIN-21
+
+Shop  https //stza.co/+xAIN-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Captains
+END:VALARM
+DTSTART:20180713T000000Z
+DTEND:20180713T030000Z
+UID:AZy-9C2xWgSfv_bpjpbCXdqZ@stanza.co
+SUMMARY:Chiefs vs. Captains
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIN-21\n\nShop: https://stza.co/+xAIN-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Captains
+<2018-07-13 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       B_Rj0QkUnZScwdoCBTxCCV5b@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Captains Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+The wizard and witches are taking over Dozer Park and turning it into Hogwarts. 
+
+We auction off these special Harry Potter theme jerseys during the game!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIP-3s
+
+Shop  https //stza.co/+xAIP-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Captains
+END:VALARM
+DTSTART:20180714T000000Z
+DTEND:20180714T030000Z
+UID:B_Rj0QkUnZScwdoCBTxCCV5b@stanza.co
+SUMMARY:Chiefs vs. Captains
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nThe wizard and witches are taking over Dozer Park and turning it into Hogwarts. \n\nWe auction off these special Harry Potter theme jerseys during the game!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIP-3s\n\nShop: https://stza.co/+xAIP-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. TinCaps
+<2018-07-14 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       C8xezFL-RK3MKBZ0E3_XRAKc@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. TinCaps Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Take a vacation and relax while at Dozer Park for Jimmy Buffett Night as the first 1000 fans 13 & over will receive a Peoria Chiefs Jimmy Buffett Shirt!
+
+Relax and unwind to the soothing tones and light mood at Dozer Park with the sounds of Jimmy Buffett!
+
+Leave in style as we auction of these special Jimmy Buffett inspired Jerseys during the game!
+
+Follow on MiLB First Pitch  https //stza.co/+xAIV-3V
+
+Shop  https //stza.co/+xAIV-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. TinCaps
+END:VALARM
+DTSTART:20180714T233000Z
+DTEND:20180715T023000Z
+UID:C8xezFL-RK3MKBZ0E3_XRAKc@stanza.co
+SUMMARY:Chiefs vs. TinCaps
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nTake a vacation and relax while at Dozer Park for Jimmy Buffett Night as the first 1000 fans 13 & over will receive a Peoria Chiefs Jimmy Buffett Shirt!\n\nRelax and unwind to the soothing tones and light mood at Dozer Park with the sounds of Jimmy Buffett!\n\nLeave in style as we auction of these special Jimmy Buffett inspired Jerseys during the game!\n\nFollow on MiLB First Pitch: https://stza.co/+xAIV-3V\n\nShop: https://stza.co/+xAIV-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. TinCaps
+<2018-07-15 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       4GeHWEDRK1l_YQ5bGOp1eKAV@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. TinCaps Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+Aargh! Jump aboard as we welcome the Princesses & Pirates to Dozer Park!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+Willy Wonka would be proud as we drop candy galore from a Helicopter right on the field!
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAI_-10
+
+Shop  https //stza.co/+xAI_-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. TinCaps
+END:VALARM
+DTSTART:20180715T190000Z
+DTEND:20180715T220000Z
+UID:4GeHWEDRK1l_YQ5bGOp1eKAV@stanza.co
+SUMMARY:Chiefs vs. TinCaps
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nAargh! Jump aboard as we welcome the Princesses & Pirates to Dozer Park!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nWilly Wonka would be proud as we drop candy galore from a Helicopter right on the field!\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAI_-10\n\nShop: https://stza.co/+xAI_-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. TinCaps
+<2018-07-16 Mon 11:00-14:00>
+:PROPERTIES:
+:ID:       RNW0iVfzCsyBKgduC2_E659n@stanza.co
+:LOCATION: Splash Day 2
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. TinCaps One day wasn't enough as we get wet n wild again at Dozer Park for our second splash day of the year!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJ1-1E
+
+Shop  https //stza.co/+xAJ1-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. TinCaps
+END:VALARM
+DTSTART:20180716T160000Z
+DTEND:20180716T190000Z
+UID:RNW0iVfzCsyBKgduC2_E659n@stanza.co
+SUMMARY:Chiefs vs. TinCaps
+DESCRIPTION:One day wasn't enough as we get wet n wild again at Dozer Park for our second splash day of the year!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJ1-1E\n\nShop: https://stza.co/+xAJ1-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Splash Day 2
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Lugnuts
+<2018-07-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       pC1w-MkXRolYBzf5BkWUNjGn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Lugnuts Chiefs @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vNde-3a
+
+Shop  https //stza.co/+vNde-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Lugnuts
+END:VALARM
+DTSTART:20180718T230500Z
+DTEND:20180719T020500Z
+UID:pC1w-MkXRolYBzf5BkWUNjGn@stanza.co
+SUMMARY:Chiefs @ Lugnuts
+DESCRIPTION:Chiefs @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vNde-3a\n\nShop: https://stza.co/+vNde-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Lugnuts
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       FRYIYMqphtWw6RKRIEKff_98@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Lugnuts Chiefs @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vNdf-8
+
+Shop  https //stza.co/+vNdf-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Lugnuts
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:FRYIYMqphtWw6RKRIEKff_98@stanza.co
+SUMMARY:Chiefs @ Lugnuts
+DESCRIPTION:Chiefs @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vNdf-8\n\nShop: https://stza.co/+vNdf-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Lugnuts
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       PWKB3_KcNWwWSHCC21wDDoob@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Lugnuts Chiefs @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vNdg-1g
+
+Shop  https //stza.co/+vNdg-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Lugnuts
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:PWKB3_KcNWwWSHCC21wDDoob@stanza.co
+SUMMARY:Chiefs @ Lugnuts
+DESCRIPTION:Chiefs @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vNdg-1g\n\nShop: https://stza.co/+vNdg-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Loons
+<2018-07-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       o-mTL5CoNJkwZYi2wAZTM9hP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Loons Chiefs @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vNd2-3q
+
+Shop  https //stza.co/+vNd2-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Loons
+END:VALARM
+DTSTART:20180721T230500Z
+DTEND:20180722T020500Z
+UID:o-mTL5CoNJkwZYi2wAZTM9hP@stanza.co
+SUMMARY:Chiefs @ Loons
+DESCRIPTION:Chiefs @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vNd2-3q\n\nShop: https://stza.co/+vNd2-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Loons
+<2018-07-22 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       saEjN6EZ7uuxhplGnyjjpidn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Loons Chiefs @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vNd3-23
+
+Shop  https //stza.co/+vNd3-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Loons
+END:VALARM
+DTSTART:20180722T180500Z
+DTEND:20180722T210500Z
+UID:saEjN6EZ7uuxhplGnyjjpidn@stanza.co
+SUMMARY:Chiefs @ Loons
+DESCRIPTION:Chiefs @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vNd3-23\n\nShop: https://stza.co/+vNd3-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Loons
+<2018-07-23 Mon 11:05-14:05>
+:PROPERTIES:
+:ID:       SMYct3AbMSOB2EGDvrIAjOOl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Loons Chiefs @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vNd4-1K
+
+Shop  https //stza.co/+vNd4-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Loons
+END:VALARM
+DTSTART:20180723T160500Z
+DTEND:20180723T190500Z
+UID:SMYct3AbMSOB2EGDvrIAjOOl@stanza.co
+SUMMARY:Chiefs @ Loons
+DESCRIPTION:Chiefs @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vNd4-1K\n\nShop: https://stza.co/+vNd4-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-07-25 Wed 19:00-22:00>
+:PROPERTIES:
+:ID:       z-Z03evuLNchUVmA9UYXDIBP@stanza.co
+:LOCATION: Peoria Distillers Week
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Go back in time as we bring back the popular Peoria Distillers namesake. The Chiefs become the Distillers for three games. Complete with Jersey Auction on July 27!
+
+Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJ3-2S
+
+Shop  https //stza.co/+xAJ3-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180726T000000Z
+DTEND:20180726T030000Z
+UID:z-Z03evuLNchUVmA9UYXDIBP@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Go back in time as we bring back the popular Peoria Distillers namesake. The Chiefs become the Distillers for three games. Complete with Jersey Auction on July 27!\n\nEnjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJ3-2S\n\nShop: https://stza.co/+xAJ3-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Peoria Distillers Week
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-07-26 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       huPNwfxk8iFjV3P26wLk8V-U@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Behold the best firework show in Central Illinois as the Peoria Distillers light up the sky!
+
+Go back in time as we bring back the popular Peoria Distillers namesake. The Chiefs become the Distillers for three games. Complete with Jersey Auction on July 27!
+
+Take a trip to the as the Peoria Distillers and the first 1000 fans 21 & over will receive this 64 oz. Chiefs Growler!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJ6-30
+
+Shop  https //stza.co/+xAJ6-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180727T000000Z
+DTEND:20180727T030000Z
+UID:huPNwfxk8iFjV3P26wLk8V-U@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Distillers light up the sky!\n\nGo back in time as we bring back the popular Peoria Distillers namesake. The Chiefs become the Distillers for three games. Complete with Jersey Auction on July 27!\n\nTake a trip to the as the Peoria Distillers and the first 1000 fans 21 & over will receive this 64 oz. Chiefs Growler!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJ6-30\n\nShop: https://stza.co/+xAJ6-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Timber Rattlers
+<2018-07-27 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       eD4jy21uHBSAVsQHH1stubxQ@stanza.co
+:LOCATION: Peoria Distillers Week
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Timber Rattlers Go back in time as we bring back the popular Peoria Distillers namesake. The Chiefs become the Distillers for three games. Complete with Jersey Auction on July 27!
+
+Bradley students and alumni welcome to Dozer Park!
+
+Behold the best firework show in Central Illinois as the Peoria Distillers light up the sky!
+
+A special tribute night with members of ALS Association.
+
+We go back in time with special Peoria Distillers Jersey's that will be auctioned off during the game!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJ7-J
+
+Shop  https //stza.co/+xAJ7-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Timber Rattlers
+END:VALARM
+DTSTART:20180728T000000Z
+DTEND:20180728T030000Z
+UID:eD4jy21uHBSAVsQHH1stubxQ@stanza.co
+SUMMARY:Chiefs vs. Timber Rattlers
+DESCRIPTION:Go back in time as we bring back the popular Peoria Distillers namesake. The Chiefs become the Distillers for three games. Complete with Jersey Auction on July 27!\n\nBradley students and alumni welcome to Dozer Park!\n\nBehold the best firework show in Central Illinois as the Peoria Distillers light up the sky!\n\nA special tribute night with members of ALS Association.\n\nWe go back in time with special Peoria Distillers Jersey's that will be auctioned off during the game!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJ7-J\n\nShop: https://stza.co/+xAJ7-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Peoria Distillers Week
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ LumberKings
+<2018-07-28 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       z-i6uSoOdumyzFuheAhJ7dok@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ LumberKings Chiefs @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vNcX-5
+
+Shop  https //stza.co/+vNcX-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ LumberKings
+END:VALARM
+DTSTART:20180728T233000Z
+DTEND:20180729T023000Z
+UID:z-i6uSoOdumyzFuheAhJ7dok@stanza.co
+SUMMARY:Chiefs @ LumberKings
+DESCRIPTION:Chiefs @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vNcX-5\n\nShop: https://stza.co/+vNcX-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ LumberKings
+<2018-07-29 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       IRtS3WwKnSNAczIJbVsKeRVa@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ LumberKings Chiefs @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vNcY-34
+
+Shop  https //stza.co/+vNcY-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ LumberKings
+END:VALARM
+DTSTART:20180729T190000Z
+DTEND:20180729T220000Z
+UID:IRtS3WwKnSNAczIJbVsKeRVa@stanza.co
+SUMMARY:Chiefs @ LumberKings
+DESCRIPTION:Chiefs @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vNcY-34\n\nShop: https://stza.co/+vNcY-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ LumberKings
+<2018-07-30 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       CwWV6gbGcsrd0HC2CjXwVRkx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ LumberKings Chiefs @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vNcZ-33
+
+Shop  https //stza.co/+vNcZ-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ LumberKings
+END:VALARM
+DTSTART:20180730T233000Z
+DTEND:20180731T023000Z
+UID:CwWV6gbGcsrd0HC2CjXwVRkx@stanza.co
+SUMMARY:Chiefs @ LumberKings
+DESCRIPTION:Chiefs @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vNcZ-33\n\nShop: https://stza.co/+vNcZ-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ LumberKings
+<2018-07-31 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       5KvWYUd6hY6MTGTf8fRzcGOL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ LumberKings Chiefs @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vNc_-2
+
+Shop  https //stza.co/+vNc_-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ LumberKings
+END:VALARM
+DTSTART:20180731T233000Z
+DTEND:20180801T023000Z
+UID:5KvWYUd6hY6MTGTf8fRzcGOL@stanza.co
+SUMMARY:Chiefs @ LumberKings
+DESCRIPTION:Chiefs @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vNc_-2\n\nShop: https://stza.co/+vNc_-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Kernels
+<2018-08-01 Wed 19:00-22:00>
+:PROPERTIES:
+:ID:       _FgmII7I3jzDt40d_RifDHbk@stanza.co
+:LOCATION: Peanut Free Night
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Kernels Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJ9-M
+
+Shop  https //stza.co/+xAJ9-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Kernels
+END:VALARM
+DTSTART:20180802T000000Z
+DTEND:20180802T030000Z
+UID:_FgmII7I3jzDt40d_RifDHbk@stanza.co
+SUMMARY:Chiefs vs. Kernels
+DESCRIPTION:Enjoy the thrill of baseball without the worry. Dozer Park will be peanut free for the night allowing fans with allergies to enjoy the games!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJ9-M\n\nShop: https://stza.co/+xAJ9-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Peanut Free Night
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Kernels
+<2018-08-02 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       lufL4DHwwurVG0_uAXtpA5fp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Kernels Chiefs vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xAJc-2H
+
+Shop  https //stza.co/+xAJc-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Kernels
+END:VALARM
+DTSTART:20180803T000000Z
+DTEND:20180803T030000Z
+UID:lufL4DHwwurVG0_uAXtpA5fp@stanza.co
+SUMMARY:Chiefs vs. Kernels
+DESCRIPTION:Chiefs vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xAJc-2H\n\nShop: https://stza.co/+xAJc-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Kernels
+<2018-08-03 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       S-EFNXRmNLmj7WYtHEb5Y0NQ@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Kernels Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Chase and Marshall join us at Dozer Park for a one night only party! 
+
+We auction off these Paw Patrol inspired specialty jerseys during the game!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJe-1q
+
+Shop  https //stza.co/+xAJe-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Kernels
+END:VALARM
+DTSTART:20180804T000000Z
+DTEND:20180804T030000Z
+UID:S-EFNXRmNLmj7WYtHEb5Y0NQ@stanza.co
+SUMMARY:Chiefs vs. Kernels
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nChase and Marshall join us at Dozer Park for a one night only party! \n\nWe auction off these Paw Patrol inspired specialty jerseys during the game!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJe-1q\n\nShop: https://stza.co/+xAJe-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. River Bandits
+<2018-08-04 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       BItwdxL51lII1L-wctyT0zsx@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. River Bandits Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Bob the Builder rolls into Dozer Park!
+
+
+
+Follow on MiLB First Pitch  https //stza.co/+xAJf-1s
+
+Shop  https //stza.co/+xAJf-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. River Bandits
+END:VALARM
+DTSTART:20180804T233000Z
+DTEND:20180805T023000Z
+UID:BItwdxL51lII1L-wctyT0zsx@stanza.co
+SUMMARY:Chiefs vs. River Bandits
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nBob the Builder rolls into Dozer Park!\n\n\n\nFollow on MiLB First Pitch: https://stza.co/+xAJf-1s\n\nShop: https://stza.co/+xAJf-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. River Bandits
+<2018-08-05 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       6vOkUH91fts_H9E0dqiR7iIm@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. River Bandits Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+The princesses are back at Dozer Park.
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAJi-l
+
+Shop  https //stza.co/+xAJi-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. River Bandits
+END:VALARM
+DTSTART:20180805T190000Z
+DTEND:20180805T220000Z
+UID:6vOkUH91fts_H9E0dqiR7iIm@stanza.co
+SUMMARY:Chiefs vs. River Bandits
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nThe princesses are back at Dozer Park.\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAJi-l\n\nShop: https://stza.co/+xAJi-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. River Bandits
+<2018-08-06 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       zp81nSPLmm5T5GS0AA66wccr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. River Bandits Chiefs vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xAJj-2F
+
+Shop  https //stza.co/+xAJj-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. River Bandits
+END:VALARM
+DTSTART:20180807T000000Z
+DTEND:20180807T030000Z
+UID:zp81nSPLmm5T5GS0AA66wccr@stanza.co
+SUMMARY:Chiefs vs. River Bandits
+DESCRIPTION:Chiefs vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xAJj-2F\n\nShop: https://stza.co/+xAJj-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-08-08 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       ZBMtBnKd_kTKuk6H5Ts6pF5i@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEp-N
+
+Shop  https //stza.co/+xAEp-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180808T233000Z
+DTEND:20180809T023000Z
+UID:ZBMtBnKd_kTKuk6H5Ts6pF5i@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEp-N\n\nShop: https://stza.co/+xAEp-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-08-09 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       yocMcabheZioLWvK9-cmRfJ7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEq-1Y
+
+Shop  https //stza.co/+xAEq-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180809T233000Z
+DTEND:20180810T023000Z
+UID:yocMcabheZioLWvK9-cmRfJ7@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEq-1Y\n\nShop: https://stza.co/+xAEq-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-08-10 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       OREjENXV3p1wSCwaQYhhh8lp@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEr-z
+
+Shop  https //stza.co/+xAEr-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180810T233000Z
+DTEND:20180811T023000Z
+UID:OREjENXV3p1wSCwaQYhhh8lp@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEr-z\n\nShop: https://stza.co/+xAEr-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-08-11 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       pOQFZZesdQHmSVBxD0luTOCF@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+
+
+Wolvering, Aquaman, Wonder Woman & Spider-Man join us at Dozer Park to celebrate all superheros!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJm-l
+
+Shop  https //stza.co/+xAJm-_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180811T233000Z
+DTEND:20180812T023000Z
+UID:pOQFZZesdQHmSVBxD0luTOCF@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\n\n\nWolvering, Aquaman, Wonder Woman & Spider-Man join us at Dozer Park to celebrate all superheros!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJm-l\n\nShop: https://stza.co/+xAJm-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-08-12 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       64evr_X3IGPjQoVATmST0Fw7@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+Come visit the dinosaurs as they take over Dozer Park for Jurassic Park Day!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+Join us and celebrate the last big party before school for our Back 2 School Night!
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAJn-6
+
+Shop  https //stza.co/+xAJn-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180812T190000Z
+DTEND:20180812T220000Z
+UID:64evr_X3IGPjQoVATmST0Fw7@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nCome visit the dinosaurs as they take over Dozer Park for Jurassic Park Day!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nJoin us and celebrate the last big party before school for our Back 2 School Night!\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAJn-6\n\nShop: https://stza.co/+xAJn-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-08-13 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       KuCOc6SyZgc239Y94_RqMBpf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Chiefs vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xAJq-1F
+
+Shop  https //stza.co/+xAJq-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180814T000000Z
+DTEND:20180814T030000Z
+UID:KuCOc6SyZgc239Y94_RqMBpf@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Chiefs vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xAJq-1F\n\nShop: https://stza.co/+xAJq-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. LumberKings
+<2018-08-14 Tue 19:00-22:00>
+:PROPERTIES:
+:ID:       14vffOHwuoa6ycrP7qbUT0HA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. LumberKings Chiefs vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xAJt-1O
+
+Shop  https //stza.co/+xAJt-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. LumberKings
+END:VALARM
+DTSTART:20180815T000000Z
+DTEND:20180815T030000Z
+UID:14vffOHwuoa6ycrP7qbUT0HA@stanza.co
+SUMMARY:Chiefs vs. LumberKings
+DESCRIPTION:Chiefs vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xAJt-1O\n\nShop: https://stza.co/+xAJt-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Kernels
+<2018-08-15 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       YyCuWK7FaRMguHT3WIAMJulx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Kernels Chiefs @ Kernels
+
+Buy tickets here  https //stza.co/~vNcR
+
+Follow on MiLB First Pitch  https //stza.co/+vNcR-3f
+
+Shop  https //stza.co/+vNcR-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Kernels
+END:VALARM
+DTSTART:20180815T233500Z
+DTEND:20180816T023500Z
+UID:YyCuWK7FaRMguHT3WIAMJulx@stanza.co
+SUMMARY:Chiefs @ Kernels
+DESCRIPTION:Chiefs @ Kernels\n\nBuy tickets here: https://stza.co/~vNcR\n\nFollow on MiLB First Pitch: https://stza.co/+vNcR-3f\n\nShop: https://stza.co/+vNcR-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Kernels
+<2018-08-16 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       SM7GYAi16XVMYZjHhS_Nnn-r@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Kernels Chiefs @ Kernels
+
+Buy tickets here  https //stza.co/~vNcS
+
+Follow on MiLB First Pitch  https //stza.co/+vNcS-2m
+
+Shop  https //stza.co/+vNcS-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Kernels
+END:VALARM
+DTSTART:20180816T233500Z
+DTEND:20180817T023500Z
+UID:SM7GYAi16XVMYZjHhS_Nnn-r@stanza.co
+SUMMARY:Chiefs @ Kernels
+DESCRIPTION:Chiefs @ Kernels\n\nBuy tickets here: https://stza.co/~vNcS\n\nFollow on MiLB First Pitch: https://stza.co/+vNcS-2m\n\nShop: https://stza.co/+vNcS-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Kernels
+<2018-08-17 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       n5FxWSPpuNNr-GX1riXtDlRw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Kernels Chiefs @ Kernels
+
+Buy tickets here  https //stza.co/~vNcT
+
+Follow on MiLB First Pitch  https //stza.co/+vNcT-2B
+
+Shop  https //stza.co/+vNcT-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Kernels
+END:VALARM
+DTSTART:20180817T233500Z
+DTEND:20180818T023500Z
+UID:n5FxWSPpuNNr-GX1riXtDlRw@stanza.co
+SUMMARY:Chiefs @ Kernels
+DESCRIPTION:Chiefs @ Kernels\n\nBuy tickets here: https://stza.co/~vNcT\n\nFollow on MiLB First Pitch: https://stza.co/+vNcT-2B\n\nShop: https://stza.co/+vNcT-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-08-18 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       TNKFMhZJJkmvVwVf6HOKeUOl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxp$-1q
+
+Shop  https //stza.co/+wxp$-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180818T233500Z
+DTEND:20180819T023500Z
+UID:TNKFMhZJJkmvVwVf6HOKeUOl@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxp$-1q\n\nShop: https://stza.co/+wxp$-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-08-19 Sun 17:15-20:15>
+:PROPERTIES:
+:ID:       0u9wpEbmjUU4maYSUiY_XfKm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxq0-Q
+
+Shop  https //stza.co/+wxq0-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180819T221500Z
+DTEND:20180820T011500Z
+UID:0u9wpEbmjUU4maYSUiY_XfKm@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxq0-Q\n\nShop: https://stza.co/+wxq0-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-08-20 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       oCtci2y8iqu8aLA5uu2a5YgS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxq1-2r
+
+Shop  https //stza.co/+wxq1-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180820T233500Z
+DTEND:20180821T023500Z
+UID:oCtci2y8iqu8aLA5uu2a5YgS@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxq1-2r\n\nShop: https://stza.co/+wxq1-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-08-21 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       3USU-65NFfcq2fcNw1VBUAU6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEs-1i
+
+Shop  https //stza.co/+xAEs-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180821T233000Z
+DTEND:20180822T023000Z
+UID:3USU-65NFfcq2fcNw1VBUAU6@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEs-1i\n\nShop: https://stza.co/+xAEs-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-08-22 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       OU8v9y2ako2dPMHSEIondStL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEt-2R
+
+Shop  https //stza.co/+xAEt-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180822T233000Z
+DTEND:20180823T023000Z
+UID:OU8v9y2ako2dPMHSEIondStL@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEt-2R\n\nShop: https://stza.co/+xAEt-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ Cougars
+<2018-08-23 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       OMwECk6hQ7NZCyEuAXNA2eYM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ Cougars Chiefs @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAEu-3V
+
+Shop  https //stza.co/+xAEu-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ Cougars
+END:VALARM
+DTSTART:20180823T233000Z
+DTEND:20180824T023000Z
+UID:OMwECk6hQ7NZCyEuAXNA2eYM@stanza.co
+SUMMARY:Chiefs @ Cougars
+DESCRIPTION:Chiefs @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAEu-3V\n\nShop: https://stza.co/+xAEu-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Snappers
+<2018-08-24 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       YR5nSueGk9PA2Y3W0YViDCfO@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Snappers Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+It is a scary good time at Dozer Park as we bring out the ghosts and ghouls for Halfway to Halloween!
+
+Join us as we honor the sport of Hockey!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJv-H
+
+Shop  https //stza.co/+xAJv-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Snappers
+END:VALARM
+DTSTART:20180824T233000Z
+DTEND:20180825T023000Z
+UID:YR5nSueGk9PA2Y3W0YViDCfO@stanza.co
+SUMMARY:Chiefs vs. Snappers
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nIt is a scary good time at Dozer Park as we bring out the ghosts and ghouls for Halfway to Halloween!\n\nJoin us as we honor the sport of Hockey!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJv-H\n\nShop: https://stza.co/+xAJv-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Snappers
+<2018-08-25 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       poeSs9voi-5zt1VatFWpq8cF@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Snappers Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+We celebrate and honor Pete Vonachen as the first 1000 fans 13 & over will receive a Chiefs Trucker Cap!
+
+Join us at Dozer Park as we honor the man that brought baseball to Peoria; Pete Vonachen!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJy-n
+
+Shop  https //stza.co/+xAJy-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Snappers
+END:VALARM
+DTSTART:20180825T233000Z
+DTEND:20180826T023000Z
+UID:poeSs9voi-5zt1VatFWpq8cF@stanza.co
+SUMMARY:Chiefs vs. Snappers
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nWe celebrate and honor Pete Vonachen as the first 1000 fans 13 & over will receive a Chiefs Trucker Cap!\n\nJoin us at Dozer Park as we honor the man that brought baseball to Peoria; Pete Vonachen!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJy-n\n\nShop: https://stza.co/+xAJy-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Snappers
+<2018-08-26 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       11KsMDcyhUe8faKkj2SY9GKI@stanza.co
+:LOCATION: Bark in the Park
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Snappers Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!
+
+Join us in teaching an old dog new tricks as we celebrate Homer's Birthday!
+
+The Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.
+
+The player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.
+
+Follow on MiLB First Pitch  https //stza.co/+xAJB-U
+
+Shop  https //stza.co/+xAJB-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Snappers
+END:VALARM
+DTSTART:20180826T190000Z
+DTEND:20180826T220000Z
+UID:11KsMDcyhUe8faKkj2SY9GKI@stanza.co
+SUMMARY:Chiefs vs. Snappers
+DESCRIPTION:Bring your furry friend down to Dozer Park every Sunday for Bark in the Park.!\n\nJoin us in teaching an old dog new tricks as we celebrate Homer's Birthday!\n\nThe Peoria Chiefs will wear special Baby Blue Throwback Jerseys each Sunday with them being auctioned off August 26th.\n\nThe player posters are back each Sunday. The first 1000 fans will receive a select Chiefs player poster.\n\nFollow on MiLB First Pitch: https://stza.co/+xAJB-U\n\nShop: https://stza.co/+xAJB-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bark in the Park
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Snappers
+<2018-08-27 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       x_Iv3OOVYoZlndVo9ZJiG9zt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Snappers Chiefs vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xAJF-3c
+
+Shop  https //stza.co/+xAJF-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Snappers
+END:VALARM
+DTSTART:20180827T233000Z
+DTEND:20180828T023000Z
+UID:x_Iv3OOVYoZlndVo9ZJiG9zt@stanza.co
+SUMMARY:Chiefs vs. Snappers
+DESCRIPTION:Chiefs vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xAJF-3c\n\nShop: https://stza.co/+xAJF-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-08-29 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       f39AI-nERC0LFzX3SKgWgh01@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Chiefs vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xAJI-1S
+
+Shop  https //stza.co/+xAJI-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180829T233000Z
+DTEND:20180830T023000Z
+UID:f39AI-nERC0LFzX3SKgWgh01@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Chiefs vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xAJI-1S\n\nShop: https://stza.co/+xAJI-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-08-30 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       TTlkGTPqgKheC6ixWPKz2Zc2@stanza.co
+:LOCATION: Salute to Bacon Night
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars It is time to Pork it up with the Peoria Chiefs as we celebrate anything Bacon!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJM-3j
+
+Shop  https //stza.co/+xAJM-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180830T233000Z
+DTEND:20180831T023000Z
+UID:TTlkGTPqgKheC6ixWPKz2Zc2@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:It is time to Pork it up with the Peoria Chiefs as we celebrate anything Bacon!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJM-3j\n\nShop: https://stza.co/+xAJM-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Salute to Bacon Night
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs vs. Cougars
+<2018-08-31 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       DOglPgTX8ELM0JvkX6nH2AiC@stanza.co
+:LOCATION: Firework Extravaganza
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs vs. Cougars Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!
+
+Tis' to another great season as we celebrate with one last big bash at Dozer Park for you, the fans!
+
+Follow on MiLB First Pitch  https //stza.co/+xAJO-$
+
+Shop  https //stza.co/+xAJO-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs. Cougars
+END:VALARM
+DTSTART:20180831T233000Z
+DTEND:20180901T023000Z
+UID:DOglPgTX8ELM0JvkX6nH2AiC@stanza.co
+SUMMARY:Chiefs vs. Cougars
+DESCRIPTION:Behold the best firework show in Central Illinois as the Peoria Chiefs light up the sky!\n\nTis' to another great season as we celebrate with one last big bash at Dozer Park for you, the fans!\n\nFollow on MiLB First Pitch: https://stza.co/+xAJO-$\n\nShop: https://stza.co/+xAJO-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Firework Extravaganza
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-09-01 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       GciNGjbrQ_Gem7Cwg-MrANbI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxq2-x
+
+Shop  https //stza.co/+wxq2-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180901T233500Z
+DTEND:20180902T023500Z
+UID:GciNGjbrQ_Gem7Cwg-MrANbI@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxq2-x\n\nShop: https://stza.co/+wxq2-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-09-02 Sun 13:15-16:15>
+:PROPERTIES:
+:ID:       t8mVIPNDm78PvgYOeEFIeO_0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxq3-20
+
+Shop  https //stza.co/+wxq3-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180902T181500Z
+DTEND:20180902T211500Z
+UID:t8mVIPNDm78PvgYOeEFIeO_0@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxq3-20\n\nShop: https://stza.co/+wxq3-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT
+* Chiefs @ River Bandits
+<2018-09-03 Mon 13:15-16:15>
+:PROPERTIES:
+:ID:       3oeZAqE0SuoC4JFCJT0Y4s7y@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Chiefs @ River Bandits Chiefs @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxq4-2$
+
+Shop  https //stza.co/+wxq4-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs @ River Bandits
+END:VALARM
+DTSTART:20180903T181500Z
+DTEND:20180903T211500Z
+UID:3oeZAqE0SuoC4JFCJT0Y4s7y@stanza.co
+SUMMARY:Chiefs @ River Bandits
+DESCRIPTION:Chiefs @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxq4-2$\n\nShop: https://stza.co/+wxq4-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144551Z
+LAST-MODIFIED:20180213T144551Z
+TRANSP:OPAQUE
+END:VEVENT

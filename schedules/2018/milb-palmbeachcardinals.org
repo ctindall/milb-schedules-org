@@ -1,0 +1,4944 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Cardinals vs. Hammerheads
+<2018-04-05 Thu>--<2018-04-04 Wed>
+:PROPERTIES:
+:ID:       aFjI1XlPx6S-NZ43BafYDj7l@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMBA
+
+Follow on MiLB First Pitch  https //stza.co/+vMBA-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180405
+DTEND;VALUE=DATE:20180405
+UID:aFjI1XlPx6S-NZ43BafYDj7l@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMBA\n\nFollow on MiLB First Pitch: https://stza.co/+vMBA-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-04-06 Fri>--<2018-04-05 Thu>
+:PROPERTIES:
+:ID:       8zLE1KqL0wSgXh_AQo5W-Q8C@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMBC
+
+Follow on MiLB First Pitch  https //stza.co/+vMBC-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180406
+UID:8zLE1KqL0wSgXh_AQo5W-Q8C@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMBC\n\nFollow on MiLB First Pitch: https://stza.co/+vMBC-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-04-07 Sat>--<2018-04-06 Fri>
+:PROPERTIES:
+:ID:       Ph0vJtBvuiL683JoKw0-LNKz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBj
+
+Follow on MiLB First Pitch  https //stza.co/+vMBj-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180407
+UID:Ph0vJtBvuiL683JoKw0-LNKz@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBj\n\nFollow on MiLB First Pitch: https://stza.co/+vMBj-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-04-08 Sun>--<2018-04-07 Sat>
+:PROPERTIES:
+:ID:       LGSId-71gJb3y3-rON9CcnMt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBk
+
+Follow on MiLB First Pitch  https //stza.co/+vMBk-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180408
+UID:LGSId-71gJb3y3-rON9CcnMt@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBk\n\nFollow on MiLB First Pitch: https://stza.co/+vMBk-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Blue Jays
+<2018-04-09 Mon>--<2018-04-08 Sun>
+:PROPERTIES:
+:ID:       xNn0CwaBCTQch64AVoQ6owUc@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Blue Jays Cardinals vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMBE
+
+Follow on MiLB First Pitch  https //stza.co/+vMBE-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180409
+DTEND;VALUE=DATE:20180409
+UID:xNn0CwaBCTQch64AVoQ6owUc@stanza.co
+SUMMARY:Cardinals vs. Blue Jays
+DESCRIPTION:Cardinals vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMBE\n\nFollow on MiLB First Pitch: https://stza.co/+vMBE-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Blue Jays
+<2018-04-10 Tue>--<2018-04-09 Mon>
+:PROPERTIES:
+:ID:       GXP_dqTIxn6d9EHtEtbUBX70@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Blue Jays Cardinals vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMBH
+
+Follow on MiLB First Pitch  https //stza.co/+vMBH-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180410
+DTEND;VALUE=DATE:20180410
+UID:GXP_dqTIxn6d9EHtEtbUBX70@stanza.co
+SUMMARY:Cardinals vs. Blue Jays
+DESCRIPTION:Cardinals vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMBH\n\nFollow on MiLB First Pitch: https://stza.co/+vMBH-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Blue Jays
+<2018-04-11 Wed>--<2018-04-10 Tue>
+:PROPERTIES:
+:ID:       k2n68i32YGbqDSB5DVNy1iJA@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Blue Jays Cardinals vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMBJ
+
+Follow on MiLB First Pitch  https //stza.co/+vMBJ-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180411
+DTEND;VALUE=DATE:20180411
+UID:k2n68i32YGbqDSB5DVNy1iJA@stanza.co
+SUMMARY:Cardinals vs. Blue Jays
+DESCRIPTION:Cardinals vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMBJ\n\nFollow on MiLB First Pitch: https://stza.co/+vMBJ-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Blue Jays
+<2018-04-12 Thu>--<2018-04-11 Wed>
+:PROPERTIES:
+:ID:       TM6DOUAlC2zLe2BTZNROn-gZ@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Blue Jays Cardinals vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMBK
+
+Follow on MiLB First Pitch  https //stza.co/+vMBK-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180412
+DTEND;VALUE=DATE:20180412
+UID:TM6DOUAlC2zLe2BTZNROn-gZ@stanza.co
+SUMMARY:Cardinals vs. Blue Jays
+DESCRIPTION:Cardinals vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMBK\n\nFollow on MiLB First Pitch: https://stza.co/+vMBK-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Fire Frogs
+<2018-04-13 Fri>--<2018-04-12 Thu>
+:PROPERTIES:
+:ID:       IjevXmKX7jE0KAwyahgyakRP@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Fire Frogs Cardinals vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMBN
+
+Follow on MiLB First Pitch  https //stza.co/+vMBN-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180413
+DTEND;VALUE=DATE:20180413
+UID:IjevXmKX7jE0KAwyahgyakRP@stanza.co
+SUMMARY:Cardinals vs. Fire Frogs
+DESCRIPTION:Cardinals vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMBN\n\nFollow on MiLB First Pitch: https://stza.co/+vMBN-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Fire Frogs
+<2018-04-14 Sat>--<2018-04-13 Fri>
+:PROPERTIES:
+:ID:       rpNyk9Byu10G5AjBRuW4MUOJ@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Fire Frogs Cardinals vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMBO
+
+Follow on MiLB First Pitch  https //stza.co/+vMBO-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180414
+UID:rpNyk9Byu10G5AjBRuW4MUOJ@stanza.co
+SUMMARY:Cardinals vs. Fire Frogs
+DESCRIPTION:Cardinals vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMBO\n\nFollow on MiLB First Pitch: https://stza.co/+vMBO-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Fire Frogs
+<2018-04-15 Sun>--<2018-04-14 Sat>
+:PROPERTIES:
+:ID:       bquFzrcCL07UHpncHEsweuiv@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Fire Frogs Cardinals vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMBR
+
+Follow on MiLB First Pitch  https //stza.co/+vMBR-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180415
+DTEND;VALUE=DATE:20180415
+UID:bquFzrcCL07UHpncHEsweuiv@stanza.co
+SUMMARY:Cardinals vs. Fire Frogs
+DESCRIPTION:Cardinals vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMBR\n\nFollow on MiLB First Pitch: https://stza.co/+vMBR-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-04-17 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       KeNWcV0ZaY-gO0YAGV3NlDY7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAF-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180417T223000Z
+DTEND:20180418T013000Z
+UID:KeNWcV0ZaY-gO0YAGV3NlDY7@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAF-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-04-18 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       TKerAV4TSc_u1RUG8UbFRCBP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAG-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180418T223000Z
+DTEND:20180419T013000Z
+UID:TKerAV4TSc_u1RUG8UbFRCBP@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAG-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-04-19 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       qhKauIMNUHuuk3m8i8hBbw65@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAH-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180419T223000Z
+DTEND:20180420T013000Z
+UID:qhKauIMNUHuuk3m8i8hBbw65@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAH-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Stone Crabs
+<2018-04-20 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       zp37pU1xZfpeQLAp_EaorGgn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Stone Crabs Cardinals @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYqk-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Stone Crabs
+END:VALARM
+DTSTART:20180420T223500Z
+DTEND:20180421T013500Z
+UID:zp37pU1xZfpeQLAp_EaorGgn@stanza.co
+SUMMARY:Cardinals @ Stone Crabs
+DESCRIPTION:Cardinals @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYqk-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Stone Crabs
+<2018-04-21 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       PdbQQ4JHnchGhkfD5sxdaYl8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Stone Crabs Cardinals @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYql-_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Stone Crabs
+END:VALARM
+DTSTART:20180421T220500Z
+DTEND:20180422T010500Z
+UID:PdbQQ4JHnchGhkfD5sxdaYl8@stanza.co
+SUMMARY:Cardinals @ Stone Crabs
+DESCRIPTION:Cardinals @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYql-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Stone Crabs
+<2018-04-22 Sun 11:35-14:35>
+:PROPERTIES:
+:ID:       lhomd6mZ4jLby9DJpEp6uZpS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Stone Crabs Cardinals @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYqm-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Stone Crabs
+END:VALARM
+DTSTART:20180422T163500Z
+DTEND:20180422T193500Z
+UID:lhomd6mZ4jLby9DJpEp6uZpS@stanza.co
+SUMMARY:Cardinals @ Stone Crabs
+DESCRIPTION:Cardinals @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYqm-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-04-23 Mon>--<2018-04-22 Sun>
+:PROPERTIES:
+:ID:       4ErJcT-COE5oIuWE_f6GJy1B@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMBS
+
+Follow on MiLB First Pitch  https //stza.co/+vMBS-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180423
+DTEND;VALUE=DATE:20180423
+UID:4ErJcT-COE5oIuWE_f6GJy1B@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMBS\n\nFollow on MiLB First Pitch: https://stza.co/+vMBS-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-04-24 Tue>--<2018-04-23 Mon>
+:PROPERTIES:
+:ID:       _VCNMjMF68SnqlOvc1Uta3Nh@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMBV
+
+Follow on MiLB First Pitch  https //stza.co/+vMBV-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180424
+UID:_VCNMjMF68SnqlOvc1Uta3Nh@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMBV\n\nFollow on MiLB First Pitch: https://stza.co/+vMBV-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-04-25 Wed>--<2018-04-24 Tue>
+:PROPERTIES:
+:ID:       _g77wZ6UUusqDjgJJdmKDYHW@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMBX
+
+Follow on MiLB First Pitch  https //stza.co/+vMBX-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180425
+DTEND;VALUE=DATE:20180425
+UID:_g77wZ6UUusqDjgJJdmKDYHW@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMBX\n\nFollow on MiLB First Pitch: https://stza.co/+vMBX-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Mets
+<2018-04-26 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       6UJTyks2Yd6OT2FJK6O1Cjp1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Mets Cardinals @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMDM-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Mets
+END:VALARM
+DTSTART:20180426T223000Z
+DTEND:20180427T013000Z
+UID:6UJTyks2Yd6OT2FJK6O1Cjp1@stanza.co
+SUMMARY:Cardinals @ Mets
+DESCRIPTION:Cardinals @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMDM-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Mets
+<2018-04-27 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       hBHrrJ0LXyxeZGszSpxqKSGw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Mets Cardinals @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMDN-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Mets
+END:VALARM
+DTSTART:20180427T223000Z
+DTEND:20180428T013000Z
+UID:hBHrrJ0LXyxeZGszSpxqKSGw@stanza.co
+SUMMARY:Cardinals @ Mets
+DESCRIPTION:Cardinals @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMDN-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Mets
+<2018-04-28 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       wp6DeEwx0ZMetmpyW0uBZWNh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Mets Cardinals @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMDO-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Mets
+END:VALARM
+DTSTART:20180428T223000Z
+DTEND:20180429T013000Z
+UID:wp6DeEwx0ZMetmpyW0uBZWNh@stanza.co
+SUMMARY:Cardinals @ Mets
+DESCRIPTION:Cardinals @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMDO-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Mets
+<2018-04-29 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       oPfJTwTk0Bbhgr6qLBQnyWEC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Mets Cardinals @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMDP-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Mets
+END:VALARM
+DTSTART:20180429T160000Z
+DTEND:20180429T190000Z
+UID:oPfJTwTk0Bbhgr6qLBQnyWEC@stanza.co
+SUMMARY:Cardinals @ Mets
+DESCRIPTION:Cardinals @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMDP-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Fire Frogs
+<2018-05-01 Tue 17:31-20:31>
+:PROPERTIES:
+:ID:       KWh2xqCgov6nWAPFaqyBpw3p@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Fire Frogs Cardinals @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNo
+
+Follow on MiLB First Pitch  https //stza.co/+xWNo-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Fire Frogs
+END:VALARM
+DTSTART:20180501T223100Z
+DTEND:20180502T013100Z
+UID:KWh2xqCgov6nWAPFaqyBpw3p@stanza.co
+SUMMARY:Cardinals @ Fire Frogs
+DESCRIPTION:Cardinals @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNo\n\nFollow on MiLB First Pitch: https://stza.co/+xWNo-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Fire Frogs
+<2018-05-02 Wed 17:31-20:31>
+:PROPERTIES:
+:ID:       yQiiwhqIrRwdf7Niz6Mojc-V@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Fire Frogs Cardinals @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNp
+
+Follow on MiLB First Pitch  https //stza.co/+xWNp-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Fire Frogs
+END:VALARM
+DTSTART:20180502T223100Z
+DTEND:20180503T013100Z
+UID:yQiiwhqIrRwdf7Niz6Mojc-V@stanza.co
+SUMMARY:Cardinals @ Fire Frogs
+DESCRIPTION:Cardinals @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNp\n\nFollow on MiLB First Pitch: https://stza.co/+xWNp-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Fire Frogs
+<2018-05-03 Thu 17:31-20:31>
+:PROPERTIES:
+:ID:       IoETrEFI3Wwqs0M864tB6N70@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Fire Frogs Cardinals @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNq
+
+Follow on MiLB First Pitch  https //stza.co/+xWNq-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Fire Frogs
+END:VALARM
+DTSTART:20180503T223100Z
+DTEND:20180504T013100Z
+UID:IoETrEFI3Wwqs0M864tB6N70@stanza.co
+SUMMARY:Cardinals @ Fire Frogs
+DESCRIPTION:Cardinals @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNq\n\nFollow on MiLB First Pitch: https://stza.co/+xWNq-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Mets
+<2018-05-04 Fri>--<2018-05-03 Thu>
+:PROPERTIES:
+:ID:       BS1WfeK_5QAfWAgM6Yq5u5U3@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Mets Cardinals vs. Mets
+
+Buy tickets here  https //stza.co/~vMBY
+
+Follow on MiLB First Pitch  https //stza.co/+vMBY-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180504
+DTEND;VALUE=DATE:20180504
+UID:BS1WfeK_5QAfWAgM6Yq5u5U3@stanza.co
+SUMMARY:Cardinals vs. Mets
+DESCRIPTION:Cardinals vs. Mets\n\nBuy tickets here: https://stza.co/~vMBY\n\nFollow on MiLB First Pitch: https://stza.co/+vMBY-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Mets
+<2018-05-05 Sat>--<2018-05-04 Fri>
+:PROPERTIES:
+:ID:       m_sMvnRabQdO21-PBGYs6PSR@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Mets Cardinals vs. Mets
+
+Buy tickets here  https //stza.co/~vMB_
+
+Follow on MiLB First Pitch  https //stza.co/+vMB_-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180505
+UID:m_sMvnRabQdO21-PBGYs6PSR@stanza.co
+SUMMARY:Cardinals vs. Mets
+DESCRIPTION:Cardinals vs. Mets\n\nBuy tickets here: https://stza.co/~vMB_\n\nFollow on MiLB First Pitch: https://stza.co/+vMB_-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Mets
+<2018-05-06 Sun>--<2018-05-05 Sat>
+:PROPERTIES:
+:ID:       uW-lYScgTCg67LBuySg3Q5Lq@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Mets Cardinals vs. Mets
+
+Buy tickets here  https //stza.co/~vMC0
+
+Follow on MiLB First Pitch  https //stza.co/+vMC0-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180506
+DTEND;VALUE=DATE:20180506
+UID:uW-lYScgTCg67LBuySg3Q5Lq@stanza.co
+SUMMARY:Cardinals vs. Mets
+DESCRIPTION:Cardinals vs. Mets\n\nBuy tickets here: https://stza.co/~vMC0\n\nFollow on MiLB First Pitch: https://stza.co/+vMC0-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-05-07 Mon>--<2018-05-06 Sun>
+:PROPERTIES:
+:ID:       T-xHAMzCp9e8IBhnCMe6cq_T@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMC2
+
+Follow on MiLB First Pitch  https //stza.co/+vMC2-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180507
+DTEND;VALUE=DATE:20180507
+UID:T-xHAMzCp9e8IBhnCMe6cq_T@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMC2\n\nFollow on MiLB First Pitch: https://stza.co/+vMC2-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-05-08 Tue>--<2018-05-07 Mon>
+:PROPERTIES:
+:ID:       9d4wd8rmC6pOpDl489hIaTJT@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMC5
+
+Follow on MiLB First Pitch  https //stza.co/+vMC5-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180508
+DTEND;VALUE=DATE:20180508
+UID:9d4wd8rmC6pOpDl489hIaTJT@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMC5\n\nFollow on MiLB First Pitch: https://stza.co/+vMC5-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-05-09 Wed>--<2018-05-08 Tue>
+:PROPERTIES:
+:ID:       0MzSJPirHVuI6ou7JgPUTgoG@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMC7
+
+Follow on MiLB First Pitch  https //stza.co/+vMC7-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180509
+DTEND;VALUE=DATE:20180509
+UID:0MzSJPirHVuI6ou7JgPUTgoG@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMC7\n\nFollow on MiLB First Pitch: https://stza.co/+vMC7-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-05-10 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       Z51afcBSLSGIQLNT4_ahtRbw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAI-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180510T223000Z
+DTEND:20180511T013000Z
+UID:Z51afcBSLSGIQLNT4_ahtRbw@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAI-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-05-11 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       G5bWtihKua1tloZ92taTi1Of@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAJ-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180511T223000Z
+DTEND:20180512T013000Z
+UID:G5bWtihKua1tloZ92taTi1Of@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAJ-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-05-12 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       qrNMe9uPp_SOII-2buOtbkRp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAK-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180512T223000Z
+DTEND:20180513T013000Z
+UID:qrNMe9uPp_SOII-2buOtbkRp@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAK-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Threshers
+<2018-05-14 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       wfLHvqj4sU8sBvwgil4mZr2h@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Threshers Cardinals @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfS-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Threshers
+END:VALARM
+DTSTART:20180514T230000Z
+DTEND:20180515T020000Z
+UID:wfLHvqj4sU8sBvwgil4mZr2h@stanza.co
+SUMMARY:Cardinals @ Threshers
+DESCRIPTION:Cardinals @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfS-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Threshers
+<2018-05-15 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       3zuSAj-6tvSv3zWgFj_1bnWB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Threshers Cardinals @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfT-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Threshers
+END:VALARM
+DTSTART:20180515T230000Z
+DTEND:20180516T020000Z
+UID:3zuSAj-6tvSv3zWgFj_1bnWB@stanza.co
+SUMMARY:Cardinals @ Threshers
+DESCRIPTION:Cardinals @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfT-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Threshers
+<2018-05-16 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       4VUxOt7ylnBNRkZWO7cDbueR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Threshers Cardinals @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfU-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Threshers
+END:VALARM
+DTSTART:20180516T143000Z
+DTEND:20180516T173000Z
+UID:4VUxOt7ylnBNRkZWO7cDbueR@stanza.co
+SUMMARY:Cardinals @ Threshers
+DESCRIPTION:Cardinals @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfU-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Threshers
+<2018-05-17 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       ywlrmdxy0-Ry3W_CQSaKjT-B@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Threshers Cardinals @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfV-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Threshers
+END:VALARM
+DTSTART:20180517T230000Z
+DTEND:20180518T020000Z
+UID:ywlrmdxy0-Ry3W_CQSaKjT-B@stanza.co
+SUMMARY:Cardinals @ Threshers
+DESCRIPTION:Cardinals @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfV-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Marauders
+<2018-05-18 Fri>--<2018-05-17 Thu>
+:PROPERTIES:
+:ID:       TLq9EMPsYYYkI_-G7cuBsL6L@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Marauders Cardinals vs. Marauders
+
+Buy tickets here  https //stza.co/~vMC9
+
+Follow on MiLB First Pitch  https //stza.co/+vMC9-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180518
+DTEND;VALUE=DATE:20180518
+UID:TLq9EMPsYYYkI_-G7cuBsL6L@stanza.co
+SUMMARY:Cardinals vs. Marauders
+DESCRIPTION:Cardinals vs. Marauders\n\nBuy tickets here: https://stza.co/~vMC9\n\nFollow on MiLB First Pitch: https://stza.co/+vMC9-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Marauders
+<2018-05-19 Sat>--<2018-05-18 Fri>
+:PROPERTIES:
+:ID:       dMStvbXuR4CKNO4eyzDBuE1Z@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Marauders Cardinals vs. Marauders
+
+Buy tickets here  https //stza.co/~vMCb
+
+Follow on MiLB First Pitch  https //stza.co/+vMCb-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180519
+DTEND;VALUE=DATE:20180519
+UID:dMStvbXuR4CKNO4eyzDBuE1Z@stanza.co
+SUMMARY:Cardinals vs. Marauders
+DESCRIPTION:Cardinals vs. Marauders\n\nBuy tickets here: https://stza.co/~vMCb\n\nFollow on MiLB First Pitch: https://stza.co/+vMCb-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Marauders
+<2018-05-20 Sun>--<2018-05-19 Sat>
+:PROPERTIES:
+:ID:       2DU6EWvq8WlYBUpKDQLavYtn@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Marauders Cardinals vs. Marauders
+
+Buy tickets here  https //stza.co/~vMCd
+
+Follow on MiLB First Pitch  https //stza.co/+vMCd-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180520
+DTEND;VALUE=DATE:20180520
+UID:2DU6EWvq8WlYBUpKDQLavYtn@stanza.co
+SUMMARY:Cardinals vs. Marauders
+DESCRIPTION:Cardinals vs. Marauders\n\nBuy tickets here: https://stza.co/~vMCd\n\nFollow on MiLB First Pitch: https://stza.co/+vMCd-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Flying Tigers
+<2018-05-21 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       I_eV46a0I4W9qT-0S1zvTxg5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Flying Tigers Cardinals @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQk-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Flying Tigers
+END:VALARM
+DTSTART:20180521T223000Z
+DTEND:20180522T013000Z
+UID:I_eV46a0I4W9qT-0S1zvTxg5@stanza.co
+SUMMARY:Cardinals @ Flying Tigers
+DESCRIPTION:Cardinals @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQk-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Flying Tigers
+<2018-05-22 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       -HDLjI8eAYKzYhpxUau7Ng-p@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Flying Tigers Cardinals @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQl-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Flying Tigers
+END:VALARM
+DTSTART:20180522T223000Z
+DTEND:20180523T013000Z
+UID:-HDLjI8eAYKzYhpxUau7Ng-p@stanza.co
+SUMMARY:Cardinals @ Flying Tigers
+DESCRIPTION:Cardinals @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQl-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Flying Tigers
+<2018-05-23 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       Q_1x8n6vglsWLP1ZaUhPdekA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Flying Tigers Cardinals @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQm-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Flying Tigers
+END:VALARM
+DTSTART:20180523T223000Z
+DTEND:20180524T013000Z
+UID:Q_1x8n6vglsWLP1ZaUhPdekA@stanza.co
+SUMMARY:Cardinals @ Flying Tigers
+DESCRIPTION:Cardinals @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQm-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Threshers
+<2018-05-24 Thu>--<2018-05-23 Wed>
+:PROPERTIES:
+:ID:       Ee_f2rbupd6q7N071RZYvBhM@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Threshers Cardinals vs. Threshers
+
+Buy tickets here  https //stza.co/~vMCe
+
+Follow on MiLB First Pitch  https //stza.co/+vMCe-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180524
+DTEND;VALUE=DATE:20180524
+UID:Ee_f2rbupd6q7N071RZYvBhM@stanza.co
+SUMMARY:Cardinals vs. Threshers
+DESCRIPTION:Cardinals vs. Threshers\n\nBuy tickets here: https://stza.co/~vMCe\n\nFollow on MiLB First Pitch: https://stza.co/+vMCe-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Threshers
+<2018-05-25 Fri>--<2018-05-24 Thu>
+:PROPERTIES:
+:ID:       _mnECWJy_WScuvubwjHnBPbU@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Threshers Cardinals vs. Threshers
+
+Buy tickets here  https //stza.co/~vMCh
+
+Follow on MiLB First Pitch  https //stza.co/+vMCh-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180525
+DTEND;VALUE=DATE:20180525
+UID:_mnECWJy_WScuvubwjHnBPbU@stanza.co
+SUMMARY:Cardinals vs. Threshers
+DESCRIPTION:Cardinals vs. Threshers\n\nBuy tickets here: https://stza.co/~vMCh\n\nFollow on MiLB First Pitch: https://stza.co/+vMCh-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Threshers
+<2018-05-26 Sat>--<2018-05-25 Fri>
+:PROPERTIES:
+:ID:       OEG7d4PFznLU5vG7lSn3ko3y@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Threshers Cardinals vs. Threshers
+
+Buy tickets here  https //stza.co/~vMCj
+
+Follow on MiLB First Pitch  https //stza.co/+vMCj-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180526
+DTEND;VALUE=DATE:20180526
+UID:OEG7d4PFznLU5vG7lSn3ko3y@stanza.co
+SUMMARY:Cardinals vs. Threshers
+DESCRIPTION:Cardinals vs. Threshers\n\nBuy tickets here: https://stza.co/~vMCj\n\nFollow on MiLB First Pitch: https://stza.co/+vMCj-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Threshers
+<2018-05-27 Sun>--<2018-05-26 Sat>
+:PROPERTIES:
+:ID:       wsLWt6coZyNfAgRSOZ7d2rjm@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Threshers Cardinals vs. Threshers
+
+Buy tickets here  https //stza.co/~vMCl
+
+Follow on MiLB First Pitch  https //stza.co/+vMCl-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180527
+DTEND;VALUE=DATE:20180527
+UID:wsLWt6coZyNfAgRSOZ7d2rjm@stanza.co
+SUMMARY:Cardinals vs. Threshers
+DESCRIPTION:Cardinals vs. Threshers\n\nBuy tickets here: https://stza.co/~vMCl\n\nFollow on MiLB First Pitch: https://stza.co/+vMCl-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Stone Crabs
+<2018-05-29 Tue>--<2018-05-28 Mon>
+:PROPERTIES:
+:ID:       jFg_FRZk9KwKKq55RzlWVYXE@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Stone Crabs Cardinals vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMCn
+
+Follow on MiLB First Pitch  https //stza.co/+vMCn-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180529
+DTEND;VALUE=DATE:20180529
+UID:jFg_FRZk9KwKKq55RzlWVYXE@stanza.co
+SUMMARY:Cardinals vs. Stone Crabs
+DESCRIPTION:Cardinals vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMCn\n\nFollow on MiLB First Pitch: https://stza.co/+vMCn-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Stone Crabs
+<2018-05-30 Wed>--<2018-05-29 Tue>
+:PROPERTIES:
+:ID:       avGEtf-ZWvX2MzX-7HZGyac5@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Stone Crabs Cardinals vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMCo
+
+Follow on MiLB First Pitch  https //stza.co/+vMCo-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180530
+DTEND;VALUE=DATE:20180530
+UID:avGEtf-ZWvX2MzX-7HZGyac5@stanza.co
+SUMMARY:Cardinals vs. Stone Crabs
+DESCRIPTION:Cardinals vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMCo\n\nFollow on MiLB First Pitch: https://stza.co/+vMCo-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Stone Crabs
+<2018-05-31 Thu>--<2018-05-30 Wed>
+:PROPERTIES:
+:ID:       ZP6jC-Q9K9FTlLXm_YME9J4v@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Stone Crabs Cardinals vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMCq
+
+Follow on MiLB First Pitch  https //stza.co/+vMCq-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180531
+UID:ZP6jC-Q9K9FTlLXm_YME9J4v@stanza.co
+SUMMARY:Cardinals vs. Stone Crabs
+DESCRIPTION:Cardinals vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMCq\n\nFollow on MiLB First Pitch: https://stza.co/+vMCq-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-06-01 Fri>--<2018-05-31 Thu>
+:PROPERTIES:
+:ID:       jc4AtzJXWLFDAYLnxtLAMN6H@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBl
+
+Follow on MiLB First Pitch  https //stza.co/+vMBl-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180601
+DTEND;VALUE=DATE:20180601
+UID:jc4AtzJXWLFDAYLnxtLAMN6H@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBl\n\nFollow on MiLB First Pitch: https://stza.co/+vMBl-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-06-02 Sat>--<2018-06-01 Fri>
+:PROPERTIES:
+:ID:       u-eqQ0MiNvHb46k0yFXDa3BK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBm
+
+Follow on MiLB First Pitch  https //stza.co/+vMBm-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180602
+DTEND;VALUE=DATE:20180602
+UID:u-eqQ0MiNvHb46k0yFXDa3BK@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBm\n\nFollow on MiLB First Pitch: https://stza.co/+vMBm-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-06-03 Sun>--<2018-06-02 Sat>
+:PROPERTIES:
+:ID:       BJ488eXSA2TczLQ3-4YXjzBK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBn
+
+Follow on MiLB First Pitch  https //stza.co/+vMBn-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180603
+DTEND;VALUE=DATE:20180603
+UID:BJ488eXSA2TczLQ3-4YXjzBK@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBn\n\nFollow on MiLB First Pitch: https://stza.co/+vMBn-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-06-04 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       GQ-ml06JrPzeo3Laz-xiNqJX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdh-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180604T230000Z
+DTEND:20180605T020000Z
+UID:GQ-ml06JrPzeo3Laz-xiNqJX@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdh-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-06-05 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       CBMcLIDgwnezYDmAgWAnnfC1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdi-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180605T230000Z
+DTEND:20180606T020000Z
+UID:CBMcLIDgwnezYDmAgWAnnfC1@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdi-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-06-06 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       Ytuvpeae18L_NxSDiAGAIBeQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdk-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180606T230000Z
+DTEND:20180607T020000Z
+UID:Ytuvpeae18L_NxSDiAGAIBeQ@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdk-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-06-07 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       dfpZn3lYjhUwGsryQe41a-yS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdl-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180607T230000Z
+DTEND:20180608T020000Z
+UID:dfpZn3lYjhUwGsryQe41a-yS@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdl-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-06-08 Fri>--<2018-06-07 Thu>
+:PROPERTIES:
+:ID:       PMrV9qgtLFyZLmDtXleHzqCb@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMCt
+
+Follow on MiLB First Pitch  https //stza.co/+vMCt-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180608
+DTEND;VALUE=DATE:20180608
+UID:PMrV9qgtLFyZLmDtXleHzqCb@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMCt\n\nFollow on MiLB First Pitch: https://stza.co/+vMCt-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-06-09 Sat>--<2018-06-08 Fri>
+:PROPERTIES:
+:ID:       Z6y5mvgXubfjcS44jUeXLc6F@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMCv
+
+Follow on MiLB First Pitch  https //stza.co/+vMCv-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180609
+DTEND;VALUE=DATE:20180609
+UID:Z6y5mvgXubfjcS44jUeXLc6F@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMCv\n\nFollow on MiLB First Pitch: https://stza.co/+vMCv-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-06-10 Sun>--<2018-06-09 Sat>
+:PROPERTIES:
+:ID:       fntYTC9oT09FQeajz5m2Po8P@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMCw
+
+Follow on MiLB First Pitch  https //stza.co/+vMCw-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180610
+DTEND;VALUE=DATE:20180610
+UID:fntYTC9oT09FQeajz5m2Po8P@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMCw\n\nFollow on MiLB First Pitch: https://stza.co/+vMCw-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Miracle
+<2018-06-11 Mon>--<2018-06-10 Sun>
+:PROPERTIES:
+:ID:       RhDMDPYIa5AAcaaYO7nbUhcY@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Miracle Cardinals vs. Miracle
+
+Buy tickets here  https //stza.co/~vMCy
+
+Follow on MiLB First Pitch  https //stza.co/+vMCy-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180611
+DTEND;VALUE=DATE:20180611
+UID:RhDMDPYIa5AAcaaYO7nbUhcY@stanza.co
+SUMMARY:Cardinals vs. Miracle
+DESCRIPTION:Cardinals vs. Miracle\n\nBuy tickets here: https://stza.co/~vMCy\n\nFollow on MiLB First Pitch: https://stza.co/+vMCy-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Miracle
+<2018-06-12 Tue>--<2018-06-11 Mon>
+:PROPERTIES:
+:ID:       QdR27vc2YsjCIEeIrP24N2Aa@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Miracle Cardinals vs. Miracle
+
+Buy tickets here  https //stza.co/~vMCB
+
+Follow on MiLB First Pitch  https //stza.co/+vMCB-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180612
+DTEND;VALUE=DATE:20180612
+UID:QdR27vc2YsjCIEeIrP24N2Aa@stanza.co
+SUMMARY:Cardinals vs. Miracle
+DESCRIPTION:Cardinals vs. Miracle\n\nBuy tickets here: https://stza.co/~vMCB\n\nFollow on MiLB First Pitch: https://stza.co/+vMCB-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Miracle
+<2018-06-13 Wed>--<2018-06-12 Tue>
+:PROPERTIES:
+:ID:       Lgg5nTwo1XW7heZS9ayHRlZg@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Miracle Cardinals vs. Miracle
+
+Buy tickets here  https //stza.co/~vMCC
+
+Follow on MiLB First Pitch  https //stza.co/+vMCC-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180613
+DTEND;VALUE=DATE:20180613
+UID:Lgg5nTwo1XW7heZS9ayHRlZg@stanza.co
+SUMMARY:Cardinals vs. Miracle
+DESCRIPTION:Cardinals vs. Miracle\n\nBuy tickets here: https://stza.co/~vMCC\n\nFollow on MiLB First Pitch: https://stza.co/+vMCC-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Miracle
+<2018-06-14 Thu>--<2018-06-13 Wed>
+:PROPERTIES:
+:ID:       pu1dVrP_RRpL3AeO89ESJXIO@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Miracle Cardinals vs. Miracle
+
+Buy tickets here  https //stza.co/~vMCE
+
+Follow on MiLB First Pitch  https //stza.co/+vMCE-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180614
+DTEND;VALUE=DATE:20180614
+UID:pu1dVrP_RRpL3AeO89ESJXIO@stanza.co
+SUMMARY:Cardinals vs. Miracle
+DESCRIPTION:Cardinals vs. Miracle\n\nBuy tickets here: https://stza.co/~vMCE\n\nFollow on MiLB First Pitch: https://stza.co/+vMCE-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tortugas
+<2018-06-18 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       VchAJriBYI3tBZmn9Og1M9aJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tortugas Cardinals @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMAX-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tortugas
+END:VALARM
+DTSTART:20180618T230500Z
+DTEND:20180619T020500Z
+UID:VchAJriBYI3tBZmn9Og1M9aJ@stanza.co
+SUMMARY:Cardinals @ Tortugas
+DESCRIPTION:Cardinals @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMAX-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tortugas
+<2018-06-19 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       2wRAxDYbdv2Iqygq3-fuQ2oN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tortugas Cardinals @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMAY-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tortugas
+END:VALARM
+DTSTART:20180619T230500Z
+DTEND:20180620T020500Z
+UID:2wRAxDYbdv2Iqygq3-fuQ2oN@stanza.co
+SUMMARY:Cardinals @ Tortugas
+DESCRIPTION:Cardinals @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMAY-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tortugas
+<2018-06-20 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       B4aRlnD5iQLvGWH9ZUZkEjMB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tortugas Cardinals @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMAZ-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tortugas
+END:VALARM
+DTSTART:20180620T143500Z
+DTEND:20180620T173500Z
+UID:B4aRlnD5iQLvGWH9ZUZkEjMB@stanza.co
+SUMMARY:Cardinals @ Tortugas
+DESCRIPTION:Cardinals @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMAZ-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Stone Crabs
+<2018-06-21 Thu>--<2018-06-20 Wed>
+:PROPERTIES:
+:ID:       brgOoiedHImS1lKKODTT-z3D@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Stone Crabs Cardinals vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMCH
+
+Follow on MiLB First Pitch  https //stza.co/+vMCH-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180621
+UID:brgOoiedHImS1lKKODTT-z3D@stanza.co
+SUMMARY:Cardinals vs. Stone Crabs
+DESCRIPTION:Cardinals vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMCH\n\nFollow on MiLB First Pitch: https://stza.co/+vMCH-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Stone Crabs
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       6tHl8tz-uJlfEM8GXTM7uaeN@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Stone Crabs Cardinals vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMCI
+
+Follow on MiLB First Pitch  https //stza.co/+vMCI-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:6tHl8tz-uJlfEM8GXTM7uaeN@stanza.co
+SUMMARY:Cardinals vs. Stone Crabs
+DESCRIPTION:Cardinals vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMCI\n\nFollow on MiLB First Pitch: https://stza.co/+vMCI-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Stone Crabs
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       1pF6u2jVa8Ii-lK0Ocymxoq1@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Stone Crabs Cardinals vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMCK
+
+Follow on MiLB First Pitch  https //stza.co/+vMCK-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:1pF6u2jVa8Ii-lK0Ocymxoq1@stanza.co
+SUMMARY:Cardinals vs. Stone Crabs
+DESCRIPTION:Cardinals vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMCK\n\nFollow on MiLB First Pitch: https://stza.co/+vMCK-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Stone Crabs
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       fws8LrIaO4WGRocaOO2J-6FX@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Stone Crabs Cardinals vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMCM
+
+Follow on MiLB First Pitch  https //stza.co/+vMCM-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:fws8LrIaO4WGRocaOO2J-6FX@stanza.co
+SUMMARY:Cardinals vs. Stone Crabs
+DESCRIPTION:Cardinals vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMCM\n\nFollow on MiLB First Pitch: https://stza.co/+vMCM-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Marauders
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       nvYkrSEkWh_cVSrZaDh37Yyi@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Marauders Cardinals vs. Marauders
+
+Buy tickets here  https //stza.co/~vMCP
+
+Follow on MiLB First Pitch  https //stza.co/+vMCP-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:nvYkrSEkWh_cVSrZaDh37Yyi@stanza.co
+SUMMARY:Cardinals vs. Marauders
+DESCRIPTION:Cardinals vs. Marauders\n\nBuy tickets here: https://stza.co/~vMCP\n\nFollow on MiLB First Pitch: https://stza.co/+vMCP-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Marauders
+<2018-06-27 Wed>--<2018-06-26 Tue>
+:PROPERTIES:
+:ID:       LRysiVtUMQBX5CzFJzLrkWin@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Marauders Cardinals vs. Marauders
+
+Buy tickets here  https //stza.co/~vMCR
+
+Follow on MiLB First Pitch  https //stza.co/+vMCR-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180627
+UID:LRysiVtUMQBX5CzFJzLrkWin@stanza.co
+SUMMARY:Cardinals vs. Marauders
+DESCRIPTION:Cardinals vs. Marauders\n\nBuy tickets here: https://stza.co/~vMCR\n\nFollow on MiLB First Pitch: https://stza.co/+vMCR-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Marauders
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       tMv73y9mMNvBtGr1VAVUas99@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Marauders Cardinals vs. Marauders
+
+Buy tickets here  https //stza.co/~vMCT
+
+Follow on MiLB First Pitch  https //stza.co/+vMCT-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:tMv73y9mMNvBtGr1VAVUas99@stanza.co
+SUMMARY:Cardinals vs. Marauders
+DESCRIPTION:Cardinals vs. Marauders\n\nBuy tickets here: https://stza.co/~vMCT\n\nFollow on MiLB First Pitch: https://stza.co/+vMCT-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       s2CLkk-eQvHDkU8O8mS6HkzQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBo
+
+Follow on MiLB First Pitch  https //stza.co/+vMBo-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:s2CLkk-eQvHDkU8O8mS6HkzQ@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBo\n\nFollow on MiLB First Pitch: https://stza.co/+vMBo-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-06-30 Sat>--<2018-06-29 Fri>
+:PROPERTIES:
+:ID:       5HvbRCqQpfuDfBaNa9Ol_Cyq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBp
+
+Follow on MiLB First Pitch  https //stza.co/+vMBp-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180630
+UID:5HvbRCqQpfuDfBaNa9Ol_Cyq@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBp\n\nFollow on MiLB First Pitch: https://stza.co/+vMBp-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       osLTmPFEiBSovrqxVi_Lu9J6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBq
+
+Follow on MiLB First Pitch  https //stza.co/+vMBq-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:osLTmPFEiBSovrqxVi_Lu9J6@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBq\n\nFollow on MiLB First Pitch: https://stza.co/+vMBq-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-07-02 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       CNwA4JhFODXQqcc5hjej1xx5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAL-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180702T223000Z
+DTEND:20180703T013000Z
+UID:CNwA4JhFODXQqcc5hjej1xx5@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAL-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Marauders
+<2018-07-03 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       ylAJ4ED7ERnB3_Q55L-6TZU9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Marauders Cardinals @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMAM-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Marauders
+END:VALARM
+DTSTART:20180703T223000Z
+DTEND:20180704T013000Z
+UID:ylAJ4ED7ERnB3_Q55L-6TZU9@stanza.co
+SUMMARY:Cardinals @ Marauders
+DESCRIPTION:Cardinals @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMAM-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-07-04 Wed>--<2018-07-03 Tue>
+:PROPERTIES:
+:ID:       lk3ChgxE4YoSfioKsayHNu6e@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMCU
+
+Follow on MiLB First Pitch  https //stza.co/+vMCU-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180704
+DTEND;VALUE=DATE:20180704
+UID:lk3ChgxE4YoSfioKsayHNu6e@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMCU\n\nFollow on MiLB First Pitch: https://stza.co/+vMCU-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-07-05 Thu>--<2018-07-04 Wed>
+:PROPERTIES:
+:ID:       3UcU2UZjDZ2KDM8surqOf6GW@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMCW
+
+Follow on MiLB First Pitch  https //stza.co/+vMCW-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180705
+UID:3UcU2UZjDZ2KDM8surqOf6GW@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMCW\n\nFollow on MiLB First Pitch: https://stza.co/+vMCW-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Fire Frogs
+<2018-07-06 Fri>--<2018-07-05 Thu>
+:PROPERTIES:
+:ID:       r08vfL4RiJ0MFiUxRAIQomgm@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Fire Frogs Cardinals vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMCZ
+
+Follow on MiLB First Pitch  https //stza.co/+vMCZ-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180706
+UID:r08vfL4RiJ0MFiUxRAIQomgm@stanza.co
+SUMMARY:Cardinals vs. Fire Frogs
+DESCRIPTION:Cardinals vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMCZ\n\nFollow on MiLB First Pitch: https://stza.co/+vMCZ-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Fire Frogs
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       VIbosZd2-ZEGTT186npJPpgF@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Fire Frogs Cardinals vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMC$
+
+Follow on MiLB First Pitch  https //stza.co/+vMC$-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:VIbosZd2-ZEGTT186npJPpgF@stanza.co
+SUMMARY:Cardinals vs. Fire Frogs
+DESCRIPTION:Cardinals vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMC$\n\nFollow on MiLB First Pitch: https://stza.co/+vMC$-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Fire Frogs
+<2018-07-08 Sun>--<2018-07-07 Sat>
+:PROPERTIES:
+:ID:       wnrkhxecZ1VzZLukXYLvxk2B@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Fire Frogs Cardinals vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMD0
+
+Follow on MiLB First Pitch  https //stza.co/+vMD0-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180708
+DTEND;VALUE=DATE:20180708
+UID:wnrkhxecZ1VzZLukXYLvxk2B@stanza.co
+SUMMARY:Cardinals vs. Fire Frogs
+DESCRIPTION:Cardinals vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMD0\n\nFollow on MiLB First Pitch: https://stza.co/+vMD0-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-07-09 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       rouk9cOeaRrJMFiKRat7t-O-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdm-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180709T230000Z
+DTEND:20180710T020000Z
+UID:rouk9cOeaRrJMFiKRat7t-O-@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdm-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-07-10 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       Y5n0KmALmeSp4xoxsyzp4L7n@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdn-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180710T230000Z
+DTEND:20180711T020000Z
+UID:Y5n0KmALmeSp4xoxsyzp4L7n@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdn-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-07-11 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       T_kKKKQEPNNOjF0GAw_K2Bf0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdo-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180711T230000Z
+DTEND:20180712T020000Z
+UID:T_kKKKQEPNNOjF0GAw_K2Bf0@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdo-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Miracle
+<2018-07-12 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       IUV83dDdqmudzXQzqvBNu1Eh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Miracle Cardinals @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdp-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Miracle
+END:VALARM
+DTSTART:20180712T230000Z
+DTEND:20180713T020000Z
+UID:IUV83dDdqmudzXQzqvBNu1Eh@stanza.co
+SUMMARY:Cardinals @ Miracle
+DESCRIPTION:Cardinals @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdp-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Mets
+<2018-07-13 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       xvbC1kMoaYeJN6aLV1ly3UvO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Mets Cardinals @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMDQ-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Mets
+END:VALARM
+DTSTART:20180713T223000Z
+DTEND:20180714T013000Z
+UID:xvbC1kMoaYeJN6aLV1ly3UvO@stanza.co
+SUMMARY:Cardinals @ Mets
+DESCRIPTION:Cardinals @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMDQ-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Mets
+<2018-07-14 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       2wH3PsPwWnZT8lxxpiEmt-Ua@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Mets Cardinals @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMDR-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Mets
+END:VALARM
+DTSTART:20180714T223000Z
+DTEND:20180715T013000Z
+UID:2wH3PsPwWnZT8lxxpiEmt-Ua@stanza.co
+SUMMARY:Cardinals @ Mets
+DESCRIPTION:Cardinals @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMDR-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Mets
+<2018-07-15 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       ijk-UYDH2ljI-4A8NsPjP4UU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Mets Cardinals @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMDS-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Mets
+END:VALARM
+DTSTART:20180715T160000Z
+DTEND:20180715T190000Z
+UID:ijk-UYDH2ljI-4A8NsPjP4UU@stanza.co
+SUMMARY:Cardinals @ Mets
+DESCRIPTION:Cardinals @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMDS-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Flying Tigers
+<2018-07-16 Mon>--<2018-07-15 Sun>
+:PROPERTIES:
+:ID:       RhmX2FfxM2lE5yqH03biy0tf@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Flying Tigers Cardinals vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMD2
+
+Follow on MiLB First Pitch  https //stza.co/+vMD2-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180716
+UID:RhmX2FfxM2lE5yqH03biy0tf@stanza.co
+SUMMARY:Cardinals vs. Flying Tigers
+DESCRIPTION:Cardinals vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMD2\n\nFollow on MiLB First Pitch: https://stza.co/+vMD2-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Flying Tigers
+<2018-07-17 Tue>--<2018-07-16 Mon>
+:PROPERTIES:
+:ID:       xzANAmME3gMPypvUcG0vQSEI@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Flying Tigers Cardinals vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMD4
+
+Follow on MiLB First Pitch  https //stza.co/+vMD4-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180717
+DTEND;VALUE=DATE:20180717
+UID:xzANAmME3gMPypvUcG0vQSEI@stanza.co
+SUMMARY:Cardinals vs. Flying Tigers
+DESCRIPTION:Cardinals vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMD4\n\nFollow on MiLB First Pitch: https://stza.co/+vMD4-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Flying Tigers
+<2018-07-18 Wed>--<2018-07-17 Tue>
+:PROPERTIES:
+:ID:       _TYWIYg58LlYl7tYfORJt_lV@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Flying Tigers Cardinals vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMD7
+
+Follow on MiLB First Pitch  https //stza.co/+vMD7-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180718
+UID:_TYWIYg58LlYl7tYfORJt_lV@stanza.co
+SUMMARY:Cardinals vs. Flying Tigers
+DESCRIPTION:Cardinals vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMD7\n\nFollow on MiLB First Pitch: https://stza.co/+vMD7-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Mets
+<2018-07-19 Thu>--<2018-07-18 Wed>
+:PROPERTIES:
+:ID:       tKVEqJbskHg-osdNBuVWzhXR@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Mets Cardinals vs. Mets
+
+Buy tickets here  https //stza.co/~vMD9
+
+Follow on MiLB First Pitch  https //stza.co/+vMD9-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180719
+UID:tKVEqJbskHg-osdNBuVWzhXR@stanza.co
+SUMMARY:Cardinals vs. Mets
+DESCRIPTION:Cardinals vs. Mets\n\nBuy tickets here: https://stza.co/~vMD9\n\nFollow on MiLB First Pitch: https://stza.co/+vMD9-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Mets
+<2018-07-20 Fri>--<2018-07-19 Thu>
+:PROPERTIES:
+:ID:       0kUAiNBAA0Ze9HksFzObMJX5@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Mets Cardinals vs. Mets
+
+Buy tickets here  https //stza.co/~vMDa
+
+Follow on MiLB First Pitch  https //stza.co/+vMDa-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180720
+DTEND;VALUE=DATE:20180720
+UID:0kUAiNBAA0Ze9HksFzObMJX5@stanza.co
+SUMMARY:Cardinals vs. Mets
+DESCRIPTION:Cardinals vs. Mets\n\nBuy tickets here: https://stza.co/~vMDa\n\nFollow on MiLB First Pitch: https://stza.co/+vMDa-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Mets
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       wrYeYd4kAWFgXbfmD5VJFtZA@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Mets Cardinals vs. Mets
+
+Buy tickets here  https //stza.co/~vMDd
+
+Follow on MiLB First Pitch  https //stza.co/+vMDd-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:wrYeYd4kAWFgXbfmD5VJFtZA@stanza.co
+SUMMARY:Cardinals vs. Mets
+DESCRIPTION:Cardinals vs. Mets\n\nBuy tickets here: https://stza.co/~vMDd\n\nFollow on MiLB First Pitch: https://stza.co/+vMDd-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tortugas
+<2018-07-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       YzkdhxkHUHmuTaAM3tEvsTE3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tortugas Cardinals @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMA_-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tortugas
+END:VALARM
+DTSTART:20180723T230500Z
+DTEND:20180724T020500Z
+UID:YzkdhxkHUHmuTaAM3tEvsTE3@stanza.co
+SUMMARY:Cardinals @ Tortugas
+DESCRIPTION:Cardinals @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMA_-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tortugas
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       kETPwPHe0ZRbvUdFi9iIOGIf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tortugas Cardinals @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMA$-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tortugas
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:kETPwPHe0ZRbvUdFi9iIOGIf@stanza.co
+SUMMARY:Cardinals @ Tortugas
+DESCRIPTION:Cardinals @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMA$-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tortugas
+<2018-07-25 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       KpziKt9Nyd6v7PIZCbCcpLwn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tortugas Cardinals @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMB0-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tortugas
+END:VALARM
+DTSTART:20180725T230500Z
+DTEND:20180726T020500Z
+UID:KpziKt9Nyd6v7PIZCbCcpLwn@stanza.co
+SUMMARY:Cardinals @ Tortugas
+DESCRIPTION:Cardinals @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMB0-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tarpons
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       SJJ0nTu2Ow6eruu3XKXC_pTT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tarpons Cardinals @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMDT-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:SJJ0nTu2Ow6eruu3XKXC_pTT@stanza.co
+SUMMARY:Cardinals @ Tarpons
+DESCRIPTION:Cardinals @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMDT-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tarpons
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       bt74cDWNvjN1tcvHCbS6X-Nw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tarpons Cardinals @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMDU-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:bt74cDWNvjN1tcvHCbS6X-Nw@stanza.co
+SUMMARY:Cardinals @ Tarpons
+DESCRIPTION:Cardinals @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMDU-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tarpons
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       xXeYB4wQUj-MEE1kxIBJSlel@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tarpons Cardinals @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMDV-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:xXeYB4wQUj-MEE1kxIBJSlel@stanza.co
+SUMMARY:Cardinals @ Tarpons
+DESCRIPTION:Cardinals @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMDV-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Tarpons
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       g-qUM9pophAq_2Nzmt2y5eWX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Tarpons Cardinals @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vmfR-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:g-qUM9pophAq_2Nzmt2y5eWX@stanza.co
+SUMMARY:Cardinals @ Tarpons
+DESCRIPTION:Cardinals @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vmfR-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-07-31 Tue>--<2018-07-30 Mon>
+:PROPERTIES:
+:ID:       4kTLgpYkN1fSDzK_rWd_UuzF@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMDf
+
+Follow on MiLB First Pitch  https //stza.co/+vMDf-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180731
+DTEND;VALUE=DATE:20180731
+UID:4kTLgpYkN1fSDzK_rWd_UuzF@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMDf\n\nFollow on MiLB First Pitch: https://stza.co/+vMDf-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-08-01 Wed>--<2018-07-31 Tue>
+:PROPERTIES:
+:ID:       2H8swXoCf0-1adJyerCjfrjX@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMDg
+
+Follow on MiLB First Pitch  https //stza.co/+vMDg-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180801
+UID:2H8swXoCf0-1adJyerCjfrjX@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMDg\n\nFollow on MiLB First Pitch: https://stza.co/+vMDg-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tortugas
+<2018-08-02 Thu>--<2018-08-01 Wed>
+:PROPERTIES:
+:ID:       lf0JuXmtE3ryTcYWfLhQbv1R@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tortugas Cardinals vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMDj
+
+Follow on MiLB First Pitch  https //stza.co/+vMDj-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180802
+UID:lf0JuXmtE3ryTcYWfLhQbv1R@stanza.co
+SUMMARY:Cardinals vs. Tortugas
+DESCRIPTION:Cardinals vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMDj\n\nFollow on MiLB First Pitch: https://stza.co/+vMDj-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       XaHrzi5dvz3UhkmVNVwBKcwX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBr
+
+Follow on MiLB First Pitch  https //stza.co/+vMBr-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:XaHrzi5dvz3UhkmVNVwBKcwX@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBr\n\nFollow on MiLB First Pitch: https://stza.co/+vMBr-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       8THHtmzsADN7tsxR_dW_ia_Z@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBs
+
+Follow on MiLB First Pitch  https //stza.co/+vMBs-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:8THHtmzsADN7tsxR_dW_ia_Z@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBs\n\nFollow on MiLB First Pitch: https://stza.co/+vMBs-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Hammerheads
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       XNzwbGW7yIzRxXDmTbt1KspR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Hammerheads Cardinals @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMBt
+
+Follow on MiLB First Pitch  https //stza.co/+vMBt-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:XNzwbGW7yIzRxXDmTbt1KspR@stanza.co
+SUMMARY:Cardinals @ Hammerheads
+DESCRIPTION:Cardinals @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMBt\n\nFollow on MiLB First Pitch: https://stza.co/+vMBt-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Fire Frogs
+<2018-08-06 Mon 17:31-20:31>
+:PROPERTIES:
+:ID:       BmcDAFNHzv_mbWh3BF72aBal@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Fire Frogs Cardinals @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNr
+
+Follow on MiLB First Pitch  https //stza.co/+xWNr-_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Fire Frogs
+END:VALARM
+DTSTART:20180806T223100Z
+DTEND:20180807T013100Z
+UID:BmcDAFNHzv_mbWh3BF72aBal@stanza.co
+SUMMARY:Cardinals @ Fire Frogs
+DESCRIPTION:Cardinals @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNr\n\nFollow on MiLB First Pitch: https://stza.co/+xWNr-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Fire Frogs
+<2018-08-07 Tue 17:31-20:31>
+:PROPERTIES:
+:ID:       cezRtoxblvhWgq2mgHmPxion@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Fire Frogs Cardinals @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNs
+
+Follow on MiLB First Pitch  https //stza.co/+xWNs-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Fire Frogs
+END:VALARM
+DTSTART:20180807T223100Z
+DTEND:20180808T013100Z
+UID:cezRtoxblvhWgq2mgHmPxion@stanza.co
+SUMMARY:Cardinals @ Fire Frogs
+DESCRIPTION:Cardinals @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNs\n\nFollow on MiLB First Pitch: https://stza.co/+xWNs-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Fire Frogs
+<2018-08-08 Wed 17:31-20:31>
+:PROPERTIES:
+:ID:       Fj5Cs5G4tTb4__0Nf6zrzTAx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Fire Frogs Cardinals @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNt
+
+Follow on MiLB First Pitch  https //stza.co/+xWNt-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Fire Frogs
+END:VALARM
+DTSTART:20180808T223100Z
+DTEND:20180809T013100Z
+UID:Fj5Cs5G4tTb4__0Nf6zrzTAx@stanza.co
+SUMMARY:Cardinals @ Fire Frogs
+DESCRIPTION:Cardinals @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNt\n\nFollow on MiLB First Pitch: https://stza.co/+xWNt-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Flying Tigers
+<2018-08-09 Thu>--<2018-08-08 Wed>
+:PROPERTIES:
+:ID:       DpcpDgQtcPIAcyY8G3HKJp_U@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Flying Tigers Cardinals vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMDl
+
+Follow on MiLB First Pitch  https //stza.co/+vMDl-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+UID:DpcpDgQtcPIAcyY8G3HKJp_U@stanza.co
+SUMMARY:Cardinals vs. Flying Tigers
+DESCRIPTION:Cardinals vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMDl\n\nFollow on MiLB First Pitch: https://stza.co/+vMDl-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Flying Tigers
+<2018-08-10 Fri>--<2018-08-09 Thu>
+:PROPERTIES:
+:ID:       8gu9M5opfHP72b8JOF-xZFJO@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Flying Tigers Cardinals vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMDn
+
+Follow on MiLB First Pitch  https //stza.co/+vMDn-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+UID:8gu9M5opfHP72b8JOF-xZFJO@stanza.co
+SUMMARY:Cardinals vs. Flying Tigers
+DESCRIPTION:Cardinals vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMDn\n\nFollow on MiLB First Pitch: https://stza.co/+vMDn-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Flying Tigers
+<2018-08-11 Sat>--<2018-08-10 Fri>
+:PROPERTIES:
+:ID:       8NJwpm-OWmG9FA56nofWP4l3@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Flying Tigers Cardinals vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMDp
+
+Follow on MiLB First Pitch  https //stza.co/+vMDp-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180811
+UID:8NJwpm-OWmG9FA56nofWP4l3@stanza.co
+SUMMARY:Cardinals vs. Flying Tigers
+DESCRIPTION:Cardinals vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMDp\n\nFollow on MiLB First Pitch: https://stza.co/+vMDp-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Flying Tigers
+<2018-08-12 Sun>--<2018-08-11 Sat>
+:PROPERTIES:
+:ID:       4yJBp55AOps2jViJZfI_kmLI@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Flying Tigers Cardinals vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMDr
+
+Follow on MiLB First Pitch  https //stza.co/+vMDr-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180812
+UID:4yJBp55AOps2jViJZfI_kmLI@stanza.co
+SUMMARY:Cardinals vs. Flying Tigers
+DESCRIPTION:Cardinals vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMDr\n\nFollow on MiLB First Pitch: https://stza.co/+vMDr-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tarpons
+<2018-08-13 Mon>--<2018-08-12 Sun>
+:PROPERTIES:
+:ID:       4AX0hIlWC-RO2qOKrK265ETt@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tarpons Cardinals vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMDs
+
+Follow on MiLB First Pitch  https //stza.co/+vMDs-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180813
+UID:4AX0hIlWC-RO2qOKrK265ETt@stanza.co
+SUMMARY:Cardinals vs. Tarpons
+DESCRIPTION:Cardinals vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMDs\n\nFollow on MiLB First Pitch: https://stza.co/+vMDs-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tarpons
+<2018-08-14 Tue>--<2018-08-13 Mon>
+:PROPERTIES:
+:ID:       pYExGBbqy-FkhLJgt7kS5Emz@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tarpons Cardinals vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMDv
+
+Follow on MiLB First Pitch  https //stza.co/+vMDv-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180814
+DTEND;VALUE=DATE:20180814
+UID:pYExGBbqy-FkhLJgt7kS5Emz@stanza.co
+SUMMARY:Cardinals vs. Tarpons
+DESCRIPTION:Cardinals vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMDv\n\nFollow on MiLB First Pitch: https://stza.co/+vMDv-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tarpons
+<2018-08-15 Wed>--<2018-08-14 Tue>
+:PROPERTIES:
+:ID:       MSCmzPV3B8rZcHZ7C2NMTMd1@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tarpons Cardinals vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMDw
+
+Follow on MiLB First Pitch  https //stza.co/+vMDw-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180815
+DTEND;VALUE=DATE:20180815
+UID:MSCmzPV3B8rZcHZ7C2NMTMd1@stanza.co
+SUMMARY:Cardinals vs. Tarpons
+DESCRIPTION:Cardinals vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMDw\n\nFollow on MiLB First Pitch: https://stza.co/+vMDw-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Tarpons
+<2018-08-16 Thu>--<2018-08-15 Wed>
+:PROPERTIES:
+:ID:       DdgqRHITi3jdjGlX0oqTyf0h@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Tarpons Cardinals vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMDz
+
+Follow on MiLB First Pitch  https //stza.co/+vMDz-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180816
+UID:DdgqRHITi3jdjGlX0oqTyf0h@stanza.co
+SUMMARY:Cardinals vs. Tarpons
+DESCRIPTION:Cardinals vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMDz\n\nFollow on MiLB First Pitch: https://stza.co/+vMDz-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Stone Crabs
+<2018-08-17 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       vhEQ6rQN1q7-fxstLUIigYkM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Stone Crabs Cardinals @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYqn-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Stone Crabs
+END:VALARM
+DTSTART:20180817T223500Z
+DTEND:20180818T013500Z
+UID:vhEQ6rQN1q7-fxstLUIigYkM@stanza.co
+SUMMARY:Cardinals @ Stone Crabs
+DESCRIPTION:Cardinals @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYqn-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Stone Crabs
+<2018-08-18 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       P2F--mq05dkqvKWMorhT47pK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Stone Crabs Cardinals @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYqp-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Stone Crabs
+END:VALARM
+DTSTART:20180818T220500Z
+DTEND:20180819T010500Z
+UID:P2F--mq05dkqvKWMorhT47pK@stanza.co
+SUMMARY:Cardinals @ Stone Crabs
+DESCRIPTION:Cardinals @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYqp-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Stone Crabs
+<2018-08-19 Sun 08:05-11:05>
+:PROPERTIES:
+:ID:       cbk2o8TLxmTPwU8l9t_GJfWY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Stone Crabs Cardinals @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYqr-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Stone Crabs
+END:VALARM
+DTSTART:20180819T130500Z
+DTEND:20180819T160500Z
+UID:cbk2o8TLxmTPwU8l9t_GJfWY@stanza.co
+SUMMARY:Cardinals @ Stone Crabs
+DESCRIPTION:Cardinals @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYqr-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Miracle
+<2018-08-21 Tue>--<2018-08-20 Mon>
+:PROPERTIES:
+:ID:       hqatWGGuMpA0WM2HSb6YZnLX@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Miracle Cardinals vs. Miracle
+
+Buy tickets here  https //stza.co/~vMDA
+
+Follow on MiLB First Pitch  https //stza.co/+vMDA-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180821
+UID:hqatWGGuMpA0WM2HSb6YZnLX@stanza.co
+SUMMARY:Cardinals vs. Miracle
+DESCRIPTION:Cardinals vs. Miracle\n\nBuy tickets here: https://stza.co/~vMDA\n\nFollow on MiLB First Pitch: https://stza.co/+vMDA-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Miracle
+<2018-08-22 Wed>--<2018-08-21 Tue>
+:PROPERTIES:
+:ID:       DojQYhSg0IpJfkQDI-zOC4K6@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Miracle Cardinals vs. Miracle
+
+Buy tickets here  https //stza.co/~vMDD
+
+Follow on MiLB First Pitch  https //stza.co/+vMDD-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180822
+DTEND;VALUE=DATE:20180822
+UID:DojQYhSg0IpJfkQDI-zOC4K6@stanza.co
+SUMMARY:Cardinals vs. Miracle
+DESCRIPTION:Cardinals vs. Miracle\n\nBuy tickets here: https://stza.co/~vMDD\n\nFollow on MiLB First Pitch: https://stza.co/+vMDD-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Miracle
+<2018-08-23 Thu>--<2018-08-22 Wed>
+:PROPERTIES:
+:ID:       Iehs3A5JpsX1EhUKNTvDCVsr@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Miracle Cardinals vs. Miracle
+
+Buy tickets here  https //stza.co/~vMDF
+
+Follow on MiLB First Pitch  https //stza.co/+vMDF-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180823
+UID:Iehs3A5JpsX1EhUKNTvDCVsr@stanza.co
+SUMMARY:Cardinals vs. Miracle
+DESCRIPTION:Cardinals vs. Miracle\n\nBuy tickets here: https://stza.co/~vMDF\n\nFollow on MiLB First Pitch: https://stza.co/+vMDF-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-08-24 Fri>--<2018-08-23 Thu>
+:PROPERTIES:
+:ID:       s9-T2SbgyBqn1ZFcmWVs3WlH@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMDG
+
+Follow on MiLB First Pitch  https //stza.co/+vMDG-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180824
+UID:s9-T2SbgyBqn1ZFcmWVs3WlH@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMDG\n\nFollow on MiLB First Pitch: https://stza.co/+vMDG-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-08-25 Sat>--<2018-08-24 Fri>
+:PROPERTIES:
+:ID:       wMU4U7eeM-IcKsr0L4V64e3r@stanza.co
+:LOCATION: Need something fun to do tonight? Get Cardinals tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMDJ
+
+Follow on MiLB First Pitch  https //stza.co/+vMDJ-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180825
+UID:wMU4U7eeM-IcKsr0L4V64e3r@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMDJ\n\nFollow on MiLB First Pitch: https://stza.co/+vMDJ-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Cardinals tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals vs. Hammerheads
+<2018-08-26 Sun>--<2018-08-25 Sat>
+:PROPERTIES:
+:ID:       PB0hZwhBzvFz32G9NDQBTuZt@stanza.co
+:LOCATION: Don’t miss out! Cardinals tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals vs. Hammerheads Cardinals vs. Hammerheads
+
+Buy tickets here  https //stza.co/~vMDL
+
+Follow on MiLB First Pitch  https //stza.co/+vMDL-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180826
+UID:PB0hZwhBzvFz32G9NDQBTuZt@stanza.co
+SUMMARY:Cardinals vs. Hammerheads
+DESCRIPTION:Cardinals vs. Hammerheads\n\nBuy tickets here: https://stza.co/~vMDL\n\nFollow on MiLB First Pitch: https://stza.co/+vMDL-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Cardinals tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Blue Jays
+<2018-08-27 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       CXvH5jv9yIN3PuvVmm76Rw6o@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Blue Jays Cardinals @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JY-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Blue Jays
+END:VALARM
+DTSTART:20180827T223000Z
+DTEND:20180828T013000Z
+UID:CXvH5jv9yIN3PuvVmm76Rw6o@stanza.co
+SUMMARY:Cardinals @ Blue Jays
+DESCRIPTION:Cardinals @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JY-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Blue Jays
+<2018-08-28 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       L_8hoSflI3xDGfqQXisALJJc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Blue Jays Cardinals @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JZ-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Blue Jays
+END:VALARM
+DTSTART:20180828T223000Z
+DTEND:20180829T013000Z
+UID:L_8hoSflI3xDGfqQXisALJJc@stanza.co
+SUMMARY:Cardinals @ Blue Jays
+DESCRIPTION:Cardinals @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JZ-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Blue Jays
+<2018-08-29 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       FtmnhGCQuNaTD_zVT5WQJvEX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Blue Jays Cardinals @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0J_-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Blue Jays
+END:VALARM
+DTSTART:20180829T223000Z
+DTEND:20180830T013000Z
+UID:FtmnhGCQuNaTD_zVT5WQJvEX@stanza.co
+SUMMARY:Cardinals @ Blue Jays
+DESCRIPTION:Cardinals @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0J_-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Blue Jays
+<2018-08-30 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       gy-p5HzeIWfo2bqAv-kOS7HE@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Blue Jays Cardinals @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0J$-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Blue Jays
+END:VALARM
+DTSTART:20180830T223000Z
+DTEND:20180831T013000Z
+UID:gy-p5HzeIWfo2bqAv-kOS7HE@stanza.co
+SUMMARY:Cardinals @ Blue Jays
+DESCRIPTION:Cardinals @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0J$-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Flying Tigers
+<2018-08-31 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       hVZl74WdTeIGpL9jzYDZlSPD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Flying Tigers Cardinals @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQn-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Flying Tigers
+END:VALARM
+DTSTART:20180831T223000Z
+DTEND:20180901T013000Z
+UID:hVZl74WdTeIGpL9jzYDZlSPD@stanza.co
+SUMMARY:Cardinals @ Flying Tigers
+DESCRIPTION:Cardinals @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQn-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Flying Tigers
+<2018-09-01 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       Ue6dzW3MHKTL5xYy7QU5ZXuP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Flying Tigers Cardinals @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQo-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Flying Tigers
+END:VALARM
+DTSTART:20180901T220000Z
+DTEND:20180902T010000Z
+UID:Ue6dzW3MHKTL5xYy7QU5ZXuP@stanza.co
+SUMMARY:Cardinals @ Flying Tigers
+DESCRIPTION:Cardinals @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQo-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT
+* Cardinals @ Flying Tigers
+<2018-09-02 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       7473y4gFLRRFPhxqG-6Dpv48@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Cardinals @ Flying Tigers Cardinals @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKQp-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals @ Flying Tigers
+END:VALARM
+DTSTART:20180902T150000Z
+DTEND:20180902T180000Z
+UID:7473y4gFLRRFPhxqG-6Dpv48@stanza.co
+SUMMARY:Cardinals @ Flying Tigers
+DESCRIPTION:Cardinals @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKQp-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144550Z
+LAST-MODIFIED:20180213T144550Z
+TRANSP:OPAQUE
+END:VEVENT

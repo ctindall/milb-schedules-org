@@ -1,0 +1,5090 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Flying Tigers vs. Tarpons
+<2018-04-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       rwx4Yd3p2wWb4JRi6THnyTUO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKNV-2O
+
+Shop  https //stza.co/+wKNV-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180405T223000Z
+DTEND:20180406T013000Z
+UID:rwx4Yd3p2wWb4JRi6THnyTUO@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKNV-2O\n\nShop: https://stza.co/+wKNV-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tarpons
+<2018-04-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       VWWdRQxH76h12tKua2jVu2LL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKNY-1p
+
+Shop  https //stza.co/+wKNY-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180406T223000Z
+DTEND:20180407T013000Z
+UID:VWWdRQxH76h12tKua2jVu2LL@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKNY-1p\n\nShop: https://stza.co/+wKNY-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-04-07 Sat>--<2018-04-06 Fri>
+:PROPERTIES:
+:ID:       6v8hxyGRMXbDl1NSA5ZwO1A2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMAB-W
+
+Shop  https //stza.co/+vMAB-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180407
+UID:6v8hxyGRMXbDl1NSA5ZwO1A2@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMAB-W\n\nShop: https://stza.co/+vMAB-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-04-08 Sun>--<2018-04-07 Sat>
+:PROPERTIES:
+:ID:       xZ_HkVl2Awzk6Av_8bLbaYgx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMAC-39
+
+Shop  https //stza.co/+vMAC-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180408
+UID:xZ_HkVl2Awzk6Av_8bLbaYgx@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMAC-39\n\nShop: https://stza.co/+vMAC-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Marauders
+<2018-04-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       tVwWm06A1wmMRhE1HpRVt-r2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Marauders Flying Tigers vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+wKN_-2k
+
+Shop  https //stza.co/+wKN_-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Marauders
+END:VALARM
+DTSTART:20180409T223000Z
+DTEND:20180410T013000Z
+UID:tVwWm06A1wmMRhE1HpRVt-r2@stanza.co
+SUMMARY:Flying Tigers vs. Marauders
+DESCRIPTION:Flying Tigers vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+wKN_-2k\n\nShop: https://stza.co/+wKN_-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Marauders
+<2018-04-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       0RrkkuYJH4QrpnnPTCI993Bb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Marauders Flying Tigers vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+wKO1-3Q
+
+Shop  https //stza.co/+wKO1-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Marauders
+END:VALARM
+DTSTART:20180410T223000Z
+DTEND:20180411T013000Z
+UID:0RrkkuYJH4QrpnnPTCI993Bb@stanza.co
+SUMMARY:Flying Tigers vs. Marauders
+DESCRIPTION:Flying Tigers vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+wKO1-3Q\n\nShop: https://stza.co/+wKO1-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Marauders
+<2018-04-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       MaBN7q10pr0Ebluj6LOQDGKH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Marauders Flying Tigers vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+wKO3-2l
+
+Shop  https //stza.co/+wKO3-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Marauders
+END:VALARM
+DTSTART:20180411T223000Z
+DTEND:20180412T013000Z
+UID:MaBN7q10pr0Ebluj6LOQDGKH@stanza.co
+SUMMARY:Flying Tigers vs. Marauders
+DESCRIPTION:Flying Tigers vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+wKO3-2l\n\nShop: https://stza.co/+wKO3-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Marauders
+<2018-04-12 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       6Kh68pQdjrfWK3E5UDjgWUNn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Marauders Flying Tigers vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+wKO5-3i
+
+Shop  https //stza.co/+wKO5-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Marauders
+END:VALARM
+DTSTART:20180412T223000Z
+DTEND:20180413T013000Z
+UID:6Kh68pQdjrfWK3E5UDjgWUNn@stanza.co
+SUMMARY:Flying Tigers vs. Marauders
+DESCRIPTION:Flying Tigers vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+wKO5-3i\n\nShop: https://stza.co/+wKO5-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Stone Crabs
+<2018-04-13 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       qh3oh2s1yX-ozEyYBq5nZyVe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Stone Crabs Flying Tigers vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wKO7-3L
+
+Shop  https //stza.co/+wKO7-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Stone Crabs
+END:VALARM
+DTSTART:20180413T223000Z
+DTEND:20180414T013000Z
+UID:qh3oh2s1yX-ozEyYBq5nZyVe@stanza.co
+SUMMARY:Flying Tigers vs. Stone Crabs
+DESCRIPTION:Flying Tigers vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wKO7-3L\n\nShop: https://stza.co/+wKO7-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Stone Crabs
+<2018-04-14 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       0Z6Fy4t83jmR_3Az8-plLN_8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Stone Crabs Flying Tigers vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wKO9-e
+
+Shop  https //stza.co/+wKO9-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Stone Crabs
+END:VALARM
+DTSTART:20180414T220000Z
+DTEND:20180415T010000Z
+UID:0Z6Fy4t83jmR_3Az8-plLN_8@stanza.co
+SUMMARY:Flying Tigers vs. Stone Crabs
+DESCRIPTION:Flying Tigers vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wKO9-e\n\nShop: https://stza.co/+wKO9-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Stone Crabs
+<2018-04-15 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       YA9VrninIDg9WNzMMpj6WGLv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Stone Crabs Flying Tigers vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wKOa-3H
+
+Shop  https //stza.co/+wKOa-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Stone Crabs
+END:VALARM
+DTSTART:20180415T170000Z
+DTEND:20180415T200000Z
+UID:YA9VrninIDg9WNzMMpj6WGLv@stanza.co
+SUMMARY:Flying Tigers vs. Stone Crabs
+DESCRIPTION:Flying Tigers vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wKOa-3H\n\nShop: https://stza.co/+wKOa-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Hammerheads
+<2018-04-17 Tue>--<2018-04-16 Mon>
+:PROPERTIES:
+:ID:       k_DP-ZMZLMpQVxPrDvJHK_rE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Hammerheads Flying Tigers @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMy4
+
+Follow on MiLB First Pitch  https //stza.co/+vMy4-U
+
+Shop  https //stza.co/+vMy4-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180417
+DTEND;VALUE=DATE:20180417
+UID:k_DP-ZMZLMpQVxPrDvJHK_rE@stanza.co
+SUMMARY:Flying Tigers @ Hammerheads
+DESCRIPTION:Flying Tigers @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMy4\n\nFollow on MiLB First Pitch: https://stza.co/+vMy4-U\n\nShop: https://stza.co/+vMy4-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Hammerheads
+<2018-04-18 Wed>--<2018-04-17 Tue>
+:PROPERTIES:
+:ID:       fCVeJprHJ51CDX-d5xJzN7aP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Hammerheads Flying Tigers @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMy5
+
+Follow on MiLB First Pitch  https //stza.co/+vMy5-v
+
+Shop  https //stza.co/+vMy5-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180418
+DTEND;VALUE=DATE:20180418
+UID:fCVeJprHJ51CDX-d5xJzN7aP@stanza.co
+SUMMARY:Flying Tigers @ Hammerheads
+DESCRIPTION:Flying Tigers @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMy5\n\nFollow on MiLB First Pitch: https://stza.co/+vMy5-v\n\nShop: https://stza.co/+vMy5-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Hammerheads
+<2018-04-19 Thu>--<2018-04-18 Wed>
+:PROPERTIES:
+:ID:       x8dI5ZUsInterXs7ZA7dJWqf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Hammerheads Flying Tigers @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMy6
+
+Follow on MiLB First Pitch  https //stza.co/+vMy6-2p
+
+Shop  https //stza.co/+vMy6-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180419
+DTEND;VALUE=DATE:20180419
+UID:x8dI5ZUsInterXs7ZA7dJWqf@stanza.co
+SUMMARY:Flying Tigers @ Hammerheads
+DESCRIPTION:Flying Tigers @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMy6\n\nFollow on MiLB First Pitch: https://stza.co/+vMy6-2p\n\nShop: https://stza.co/+vMy6-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Fire Frogs
+<2018-04-20 Fri 17:31-20:31>
+:PROPERTIES:
+:ID:       k7x2sMYfoOTsvL8z5YN1xEke@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Fire Frogs Flying Tigers @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNi
+
+Follow on MiLB First Pitch  https //stza.co/+xWNi-P
+
+Shop  https //stza.co/+xWNi-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Fire Frogs
+END:VALARM
+DTSTART:20180420T223100Z
+DTEND:20180421T013100Z
+UID:k7x2sMYfoOTsvL8z5YN1xEke@stanza.co
+SUMMARY:Flying Tigers @ Fire Frogs
+DESCRIPTION:Flying Tigers @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNi\n\nFollow on MiLB First Pitch: https://stza.co/+xWNi-P\n\nShop: https://stza.co/+xWNi-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Fire Frogs
+<2018-04-21 Sat 15:00-18:00>
+:PROPERTIES:
+:ID:       sUaeKzipstC_nV1z9C04IBsR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Fire Frogs Flying Tigers @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNj
+
+Follow on MiLB First Pitch  https //stza.co/+xWNj-2_
+
+Shop  https //stza.co/+xWNj-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Fire Frogs
+END:VALARM
+DTSTART:20180421T200000Z
+DTEND:20180421T230000Z
+UID:sUaeKzipstC_nV1z9C04IBsR@stanza.co
+SUMMARY:Flying Tigers @ Fire Frogs
+DESCRIPTION:Flying Tigers @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNj\n\nFollow on MiLB First Pitch: https://stza.co/+xWNj-2_\n\nShop: https://stza.co/+xWNj-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Fire Frogs
+<2018-04-22 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       8gKV5dPc2s2zrrcX6VeRozRX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Fire Frogs Flying Tigers @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNk
+
+Follow on MiLB First Pitch  https //stza.co/+xWNk-3C
+
+Shop  https //stza.co/+xWNk-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Fire Frogs
+END:VALARM
+DTSTART:20180422T150000Z
+DTEND:20180422T180000Z
+UID:8gKV5dPc2s2zrrcX6VeRozRX@stanza.co
+SUMMARY:Flying Tigers @ Fire Frogs
+DESCRIPTION:Flying Tigers @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNk\n\nFollow on MiLB First Pitch: https://stza.co/+xWNk-3C\n\nShop: https://stza.co/+xWNk-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Blue Jays
+<2018-04-23 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       o1uG4aQDB3MPY6fGR_OahiXz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Blue Jays Flying Tigers vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+wKOd-U
+
+Shop  https //stza.co/+wKOd-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Blue Jays
+END:VALARM
+DTSTART:20180423T223000Z
+DTEND:20180424T013000Z
+UID:o1uG4aQDB3MPY6fGR_OahiXz@stanza.co
+SUMMARY:Flying Tigers vs. Blue Jays
+DESCRIPTION:Flying Tigers vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+wKOd-U\n\nShop: https://stza.co/+wKOd-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Blue Jays
+<2018-04-24 Tue 09:30-12:30>
+:PROPERTIES:
+:ID:       Qd8SBPWJa6Ng2rLUet5ztLny@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Blue Jays Flying Tigers vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+wKOe-3Y
+
+Shop  https //stza.co/+wKOe-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Blue Jays
+END:VALARM
+DTSTART:20180424T143000Z
+DTEND:20180424T173000Z
+UID:Qd8SBPWJa6Ng2rLUet5ztLny@stanza.co
+SUMMARY:Flying Tigers vs. Blue Jays
+DESCRIPTION:Flying Tigers vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+wKOe-3Y\n\nShop: https://stza.co/+wKOe-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Blue Jays
+<2018-04-25 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       KjrhRK9AgH3yjqp7rpV6Bdma@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Blue Jays Flying Tigers vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+wKOg-1v
+
+Shop  https //stza.co/+wKOg-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Blue Jays
+END:VALARM
+DTSTART:20180425T223000Z
+DTEND:20180426T013000Z
+UID:KjrhRK9AgH3yjqp7rpV6Bdma@stanza.co
+SUMMARY:Flying Tigers vs. Blue Jays
+DESCRIPTION:Flying Tigers vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+wKOg-1v\n\nShop: https://stza.co/+wKOg-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Fire Frogs
+<2018-04-26 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       op8qRDfAhNmns-CNyM3_M9sR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Fire Frogs Flying Tigers vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+wKOj-2k
+
+Shop  https //stza.co/+wKOj-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Fire Frogs
+END:VALARM
+DTSTART:20180426T223000Z
+DTEND:20180427T013000Z
+UID:op8qRDfAhNmns-CNyM3_M9sR@stanza.co
+SUMMARY:Flying Tigers vs. Fire Frogs
+DESCRIPTION:Flying Tigers vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+wKOj-2k\n\nShop: https://stza.co/+wKOj-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Fire Frogs
+<2018-04-27 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       56L4Mi7hOLHdDJR0sbDtZ_8d@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Fire Frogs Flying Tigers vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+wKOk-3R
+
+Shop  https //stza.co/+wKOk-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Fire Frogs
+END:VALARM
+DTSTART:20180427T223000Z
+DTEND:20180428T013000Z
+UID:56L4Mi7hOLHdDJR0sbDtZ_8d@stanza.co
+SUMMARY:Flying Tigers vs. Fire Frogs
+DESCRIPTION:Flying Tigers vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+wKOk-3R\n\nShop: https://stza.co/+wKOk-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Fire Frogs
+<2018-04-28 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       YUwSw7p7k8QjllT3PMkU-51v@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Fire Frogs Flying Tigers vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+wKOn-E
+
+Shop  https //stza.co/+wKOn-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Fire Frogs
+END:VALARM
+DTSTART:20180428T220000Z
+DTEND:20180429T010000Z
+UID:YUwSw7p7k8QjllT3PMkU-51v@stanza.co
+SUMMARY:Flying Tigers vs. Fire Frogs
+DESCRIPTION:Flying Tigers vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+wKOn-E\n\nShop: https://stza.co/+wKOn-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Fire Frogs
+<2018-04-29 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       uQ7qOlsYlcmOmGIbIC-D3LF8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Fire Frogs Flying Tigers vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+wKOp-2K
+
+Shop  https //stza.co/+wKOp-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Fire Frogs
+END:VALARM
+DTSTART:20180429T170000Z
+DTEND:20180429T200000Z
+UID:uQ7qOlsYlcmOmGIbIC-D3LF8@stanza.co
+SUMMARY:Flying Tigers vs. Fire Frogs
+DESCRIPTION:Flying Tigers vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+wKOp-2K\n\nShop: https://stza.co/+wKOp-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Threshers
+<2018-05-01 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       yVwwAE9C5K3j9Y3b_mO_to--@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Threshers Flying Tigers @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfH-1t
+
+Shop  https //stza.co/+xAfH-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Threshers
+END:VALARM
+DTSTART:20180501T230000Z
+DTEND:20180502T020000Z
+UID:yVwwAE9C5K3j9Y3b_mO_to--@stanza.co
+SUMMARY:Flying Tigers @ Threshers
+DESCRIPTION:Flying Tigers @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfH-1t\n\nShop: https://stza.co/+xAfH-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Threshers
+<2018-05-02 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       uTseGqYbR7i3li5IjJOLxt5G@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Threshers Flying Tigers @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfJ-1o
+
+Shop  https //stza.co/+xAfJ-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Threshers
+END:VALARM
+DTSTART:20180502T160000Z
+DTEND:20180502T190000Z
+UID:uTseGqYbR7i3li5IjJOLxt5G@stanza.co
+SUMMARY:Flying Tigers @ Threshers
+DESCRIPTION:Flying Tigers @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfJ-1o\n\nShop: https://stza.co/+xAfJ-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Threshers
+<2018-05-03 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       sFYnkKqqRo_-H_n9Z7lFt3RH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Threshers Flying Tigers vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+wKOr-2U
+
+Shop  https //stza.co/+wKOr-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Threshers
+END:VALARM
+DTSTART:20180503T223000Z
+DTEND:20180504T013000Z
+UID:sFYnkKqqRo_-H_n9Z7lFt3RH@stanza.co
+SUMMARY:Flying Tigers vs. Threshers
+DESCRIPTION:Flying Tigers vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+wKOr-2U\n\nShop: https://stza.co/+wKOr-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tortugas
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       o05JI-VbVHAmo6vBHfoZiGSg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tortugas Flying Tigers @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMxH-I
+
+Shop  https //stza.co/+vMxH-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tortugas
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:o05JI-VbVHAmo6vBHfoZiGSg@stanza.co
+SUMMARY:Flying Tigers @ Tortugas
+DESCRIPTION:Flying Tigers @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMxH-I\n\nShop: https://stza.co/+vMxH-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tortugas
+<2018-05-05 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       Q-Ym4CF9f9ht2UKpZH9YR_vT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tortugas Flying Tigers @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMxI-3
+
+Shop  https //stza.co/+vMxI-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tortugas
+END:VALARM
+DTSTART:20180505T230500Z
+DTEND:20180506T020500Z
+UID:Q-Ym4CF9f9ht2UKpZH9YR_vT@stanza.co
+SUMMARY:Flying Tigers @ Tortugas
+DESCRIPTION:Flying Tigers @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMxI-3\n\nShop: https://stza.co/+vMxI-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tortugas
+<2018-05-06 Sun 16:35-19:35>
+:PROPERTIES:
+:ID:       1KW6I0r_a22KEWDFvSYIE5zb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tortugas Flying Tigers @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMxJ-33
+
+Shop  https //stza.co/+vMxJ-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tortugas
+END:VALARM
+DTSTART:20180506T213500Z
+DTEND:20180507T003500Z
+UID:1KW6I0r_a22KEWDFvSYIE5zb@stanza.co
+SUMMARY:Flying Tigers @ Tortugas
+DESCRIPTION:Flying Tigers @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMxJ-33\n\nShop: https://stza.co/+vMxJ-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Threshers
+<2018-05-07 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       JEu41OcEXMxuj9zFWXzHKrQR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Threshers Flying Tigers vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+wKOt-3H
+
+Shop  https //stza.co/+wKOt-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Threshers
+END:VALARM
+DTSTART:20180507T223000Z
+DTEND:20180508T013000Z
+UID:JEu41OcEXMxuj9zFWXzHKrQR@stanza.co
+SUMMARY:Flying Tigers vs. Threshers
+DESCRIPTION:Flying Tigers vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+wKOt-3H\n\nShop: https://stza.co/+wKOt-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Threshers
+<2018-05-08 Tue 09:30-12:30>
+:PROPERTIES:
+:ID:       hrAgHmuflMVTrRKnrVDeI2jp@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Threshers Flying Tigers vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+wKOv-1a
+
+Shop  https //stza.co/+wKOv-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Threshers
+END:VALARM
+DTSTART:20180508T143000Z
+DTEND:20180508T173000Z
+UID:hrAgHmuflMVTrRKnrVDeI2jp@stanza.co
+SUMMARY:Flying Tigers vs. Threshers
+DESCRIPTION:Flying Tigers vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+wKOv-1a\n\nShop: https://stza.co/+wKOv-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Threshers
+<2018-05-09 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       hZ4AZA7fkPu4bKyJY6PQJs37@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Threshers Flying Tigers vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+wKOx-P
+
+Shop  https //stza.co/+wKOx-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Threshers
+END:VALARM
+DTSTART:20180509T223000Z
+DTEND:20180510T013000Z
+UID:hZ4AZA7fkPu4bKyJY6PQJs37@stanza.co
+SUMMARY:Flying Tigers vs. Threshers
+DESCRIPTION:Flying Tigers vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+wKOx-P\n\nShop: https://stza.co/+wKOx-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Mets
+<2018-05-10 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       BtmlX83hTR84FoNOW684Iwto@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Mets Flying Tigers @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMAu-2L
+
+Shop  https //stza.co/+vMAu-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Mets
+END:VALARM
+DTSTART:20180510T223000Z
+DTEND:20180511T013000Z
+UID:BtmlX83hTR84FoNOW684Iwto@stanza.co
+SUMMARY:Flying Tigers @ Mets
+DESCRIPTION:Flying Tigers @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMAu-2L\n\nShop: https://stza.co/+vMAu-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Mets
+<2018-05-11 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       PWjSO3mONaJ4hILj9mATndvj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Mets Flying Tigers @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMAv-3K
+
+Shop  https //stza.co/+vMAv-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Mets
+END:VALARM
+DTSTART:20180511T223000Z
+DTEND:20180512T013000Z
+UID:PWjSO3mONaJ4hILj9mATndvj@stanza.co
+SUMMARY:Flying Tigers @ Mets
+DESCRIPTION:Flying Tigers @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMAv-3K\n\nShop: https://stza.co/+vMAv-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Mets
+<2018-05-12 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       4eY3yZuKUkfgFDDnhEWwL2B-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Mets Flying Tigers @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMAw-1w
+
+Shop  https //stza.co/+vMAw-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Mets
+END:VALARM
+DTSTART:20180512T223000Z
+DTEND:20180513T013000Z
+UID:4eY3yZuKUkfgFDDnhEWwL2B-@stanza.co
+SUMMARY:Flying Tigers @ Mets
+DESCRIPTION:Flying Tigers @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMAw-1w\n\nShop: https://stza.co/+vMAw-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Stone Crabs
+<2018-05-14 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       FyQ3l63N7ltzetXTa2Qi_D5w@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Stone Crabs Flying Tigers @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpJ-3C
+
+Shop  https //stza.co/+wYpJ-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Stone Crabs
+END:VALARM
+DTSTART:20180514T223500Z
+DTEND:20180515T013500Z
+UID:FyQ3l63N7ltzetXTa2Qi_D5w@stanza.co
+SUMMARY:Flying Tigers @ Stone Crabs
+DESCRIPTION:Flying Tigers @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpJ-3C\n\nShop: https://stza.co/+wYpJ-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Stone Crabs
+<2018-05-15 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       lEO9GrEgVKyhMgGJcoqf7sr9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Stone Crabs Flying Tigers @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpK-1K
+
+Shop  https //stza.co/+wYpK-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Stone Crabs
+END:VALARM
+DTSTART:20180515T223500Z
+DTEND:20180516T013500Z
+UID:lEO9GrEgVKyhMgGJcoqf7sr9@stanza.co
+SUMMARY:Flying Tigers @ Stone Crabs
+DESCRIPTION:Flying Tigers @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpK-1K\n\nShop: https://stza.co/+wYpK-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Stone Crabs
+<2018-05-16 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       spm7gIwPUY3ZJsbPGH1G1Kw-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Stone Crabs Flying Tigers @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpL-3i
+
+Shop  https //stza.co/+wYpL-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Stone Crabs
+END:VALARM
+DTSTART:20180516T223500Z
+DTEND:20180517T013500Z
+UID:spm7gIwPUY3ZJsbPGH1G1Kw-@stanza.co
+SUMMARY:Flying Tigers @ Stone Crabs
+DESCRIPTION:Flying Tigers @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpL-3i\n\nShop: https://stza.co/+wYpL-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Stone Crabs
+<2018-05-17 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       WHCl8FZKDQ6jXNvjNsCBBuWX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Stone Crabs Flying Tigers @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpM-3H
+
+Shop  https //stza.co/+wYpM-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Stone Crabs
+END:VALARM
+DTSTART:20180517T223500Z
+DTEND:20180518T013500Z
+UID:WHCl8FZKDQ6jXNvjNsCBBuWX@stanza.co
+SUMMARY:Flying Tigers @ Stone Crabs
+DESCRIPTION:Flying Tigers @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpM-3H\n\nShop: https://stza.co/+wYpM-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tarpons
+<2018-05-18 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       GfEDr0m3YzJuuWMB5CA7b-J_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKOz-3L
+
+Shop  https //stza.co/+wKOz-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180518T223000Z
+DTEND:20180519T013000Z
+UID:GfEDr0m3YzJuuWMB5CA7b-J_@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKOz-3L\n\nShop: https://stza.co/+wKOz-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tarpons
+<2018-05-19 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       n_sb3UJXnneEOm-qJ0pFpYw9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKOB-36
+
+Shop  https //stza.co/+wKOB-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180519T220000Z
+DTEND:20180520T010000Z
+UID:n_sb3UJXnneEOm-qJ0pFpYw9@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKOB-36\n\nShop: https://stza.co/+wKOB-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tarpons
+<2018-05-20 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       YNEy4ovPSDOHmnkTdtZyxNcB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKOC-3J
+
+Shop  https //stza.co/+wKOC-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180520T170000Z
+DTEND:20180520T200000Z
+UID:YNEy4ovPSDOHmnkTdtZyxNcB@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKOC-3J\n\nShop: https://stza.co/+wKOC-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Cardinals
+<2018-05-21 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       yZMLMTquUfFXzqptRgIkb6PB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Cardinals Flying Tigers vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+wKOE-23
+
+Shop  https //stza.co/+wKOE-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Cardinals
+END:VALARM
+DTSTART:20180521T223000Z
+DTEND:20180522T013000Z
+UID:yZMLMTquUfFXzqptRgIkb6PB@stanza.co
+SUMMARY:Flying Tigers vs. Cardinals
+DESCRIPTION:Flying Tigers vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+wKOE-23\n\nShop: https://stza.co/+wKOE-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Cardinals
+<2018-05-22 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       teR9E70ySJhoYZSzPQscOFZP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Cardinals Flying Tigers vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+wKOG-2W
+
+Shop  https //stza.co/+wKOG-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Cardinals
+END:VALARM
+DTSTART:20180522T223000Z
+DTEND:20180523T013000Z
+UID:teR9E70ySJhoYZSzPQscOFZP@stanza.co
+SUMMARY:Flying Tigers vs. Cardinals
+DESCRIPTION:Flying Tigers vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+wKOG-2W\n\nShop: https://stza.co/+wKOG-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Cardinals
+<2018-05-23 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       RU8NGXm3o8Ym8WC7gbx333Y9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Cardinals Flying Tigers vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+wKOJ-3P
+
+Shop  https //stza.co/+wKOJ-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Cardinals
+END:VALARM
+DTSTART:20180523T223000Z
+DTEND:20180524T013000Z
+UID:RU8NGXm3o8Ym8WC7gbx333Y9@stanza.co
+SUMMARY:Flying Tigers vs. Cardinals
+DESCRIPTION:Flying Tigers vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+wKOJ-3P\n\nShop: https://stza.co/+wKOJ-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Blue Jays
+<2018-05-24 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       _vDN0SF3Vmnnmt4ZjDhp-nwd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Blue Jays Flying Tigers @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JQ-3h
+
+Shop  https //stza.co/+y0JQ-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Blue Jays
+END:VALARM
+DTSTART:20180524T223000Z
+DTEND:20180525T013000Z
+UID:_vDN0SF3Vmnnmt4ZjDhp-nwd@stanza.co
+SUMMARY:Flying Tigers @ Blue Jays
+DESCRIPTION:Flying Tigers @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JQ-3h\n\nShop: https://stza.co/+y0JQ-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Blue Jays
+<2018-05-25 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       d9w7p6SoxriRcgWc1_XAOxew@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Blue Jays Flying Tigers @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JR-2o
+
+Shop  https //stza.co/+y0JR-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Blue Jays
+END:VALARM
+DTSTART:20180525T223000Z
+DTEND:20180526T013000Z
+UID:d9w7p6SoxriRcgWc1_XAOxew@stanza.co
+SUMMARY:Flying Tigers @ Blue Jays
+DESCRIPTION:Flying Tigers @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JR-2o\n\nShop: https://stza.co/+y0JR-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Blue Jays
+<2018-05-26 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       vgVC2icpopFBSR4sJg53_rz5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Blue Jays Flying Tigers @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JS-2H
+
+Shop  https //stza.co/+y0JS-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Blue Jays
+END:VALARM
+DTSTART:20180526T223000Z
+DTEND:20180527T013000Z
+UID:vgVC2icpopFBSR4sJg53_rz5@stanza.co
+SUMMARY:Flying Tigers @ Blue Jays
+DESCRIPTION:Flying Tigers @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JS-2H\n\nShop: https://stza.co/+y0JS-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Blue Jays
+<2018-05-27 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       CsrJb2os9MlabGnp2D7wQF9t@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Blue Jays Flying Tigers @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JT-2T
+
+Shop  https //stza.co/+y0JT-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Blue Jays
+END:VALARM
+DTSTART:20180527T170000Z
+DTEND:20180527T200000Z
+UID:CsrJb2os9MlabGnp2D7wQF9t@stanza.co
+SUMMARY:Flying Tigers @ Blue Jays
+DESCRIPTION:Flying Tigers @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JT-2T\n\nShop: https://stza.co/+y0JT-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-05-29 Tue>--<2018-05-28 Mon>
+:PROPERTIES:
+:ID:       b60KyimCiJU_3km_2NO-0wFH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMAD-2Y
+
+Shop  https //stza.co/+vMAD-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180529
+DTEND;VALUE=DATE:20180529
+UID:b60KyimCiJU_3km_2NO-0wFH@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMAD-2Y\n\nShop: https://stza.co/+vMAD-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-05-30 Wed>--<2018-05-29 Tue>
+:PROPERTIES:
+:ID:       _DAhuVWv_6f7WVq5OzNR7oMS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMAE-3S
+
+Shop  https //stza.co/+vMAE-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180530
+DTEND;VALUE=DATE:20180530
+UID:_DAhuVWv_6f7WVq5OzNR7oMS@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMAE-3S\n\nShop: https://stza.co/+vMAE-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-05-31 Thu>--<2018-05-30 Wed>
+:PROPERTIES:
+:ID:       BgCyz0qeTR-dghsXMnxoOuBD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vlLx-31
+
+Shop  https //stza.co/+vlLx-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180531
+UID:BgCyz0qeTR-dghsXMnxoOuBD@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vlLx-31\n\nShop: https://stza.co/+vlLx-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tortugas
+<2018-06-01 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       i1YlaUTyLuheblekZbY0tGsy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tortugas Flying Tigers vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+wKOL-H
+
+Shop  https //stza.co/+wKOL-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tortugas
+END:VALARM
+DTSTART:20180601T223000Z
+DTEND:20180602T013000Z
+UID:i1YlaUTyLuheblekZbY0tGsy@stanza.co
+SUMMARY:Flying Tigers vs. Tortugas
+DESCRIPTION:Flying Tigers vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+wKOL-H\n\nShop: https://stza.co/+wKOL-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tortugas
+<2018-06-02 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       FsoKc0BJ6mHbT5s6rKp1OyCK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tortugas Flying Tigers vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+wKOM-1R
+
+Shop  https //stza.co/+wKOM-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tortugas
+END:VALARM
+DTSTART:20180602T220000Z
+DTEND:20180603T010000Z
+UID:FsoKc0BJ6mHbT5s6rKp1OyCK@stanza.co
+SUMMARY:Flying Tigers vs. Tortugas
+DESCRIPTION:Flying Tigers vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+wKOM-1R\n\nShop: https://stza.co/+wKOM-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tortugas
+<2018-06-03 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       wG8ECc3-2v4K5ghclMvh6kc7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tortugas Flying Tigers vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+wKOO-12
+
+Shop  https //stza.co/+wKOO-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tortugas
+END:VALARM
+DTSTART:20180603T170000Z
+DTEND:20180603T200000Z
+UID:wG8ECc3-2v4K5ghclMvh6kc7@stanza.co
+SUMMARY:Flying Tigers vs. Tortugas
+DESCRIPTION:Flying Tigers vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+wKOO-12\n\nShop: https://stza.co/+wKOO-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Hammerheads
+<2018-06-04 Mon>--<2018-06-03 Sun>
+:PROPERTIES:
+:ID:       RBwL_xyO5mq8_rvUVBtYbyxV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Hammerheads Flying Tigers @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMy7
+
+Follow on MiLB First Pitch  https //stza.co/+vMy7-37
+
+Shop  https //stza.co/+vMy7-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180604
+DTEND;VALUE=DATE:20180604
+UID:RBwL_xyO5mq8_rvUVBtYbyxV@stanza.co
+SUMMARY:Flying Tigers @ Hammerheads
+DESCRIPTION:Flying Tigers @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMy7\n\nFollow on MiLB First Pitch: https://stza.co/+vMy7-37\n\nShop: https://stza.co/+vMy7-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Hammerheads
+<2018-06-05 Tue>--<2018-06-04 Mon>
+:PROPERTIES:
+:ID:       CouF-BGN-S_cFnBaDtVkgEOI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Hammerheads Flying Tigers @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMy8
+
+Follow on MiLB First Pitch  https //stza.co/+vMy8-1E
+
+Shop  https //stza.co/+vMy8-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180605
+DTEND;VALUE=DATE:20180605
+UID:CouF-BGN-S_cFnBaDtVkgEOI@stanza.co
+SUMMARY:Flying Tigers @ Hammerheads
+DESCRIPTION:Flying Tigers @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMy8\n\nFollow on MiLB First Pitch: https://stza.co/+vMy8-1E\n\nShop: https://stza.co/+vMy8-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Hammerheads
+<2018-06-06 Wed>--<2018-06-05 Tue>
+:PROPERTIES:
+:ID:       zLEHh3sVTokEJeBjP1QZn2Pq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Hammerheads Flying Tigers @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMy9
+
+Follow on MiLB First Pitch  https //stza.co/+vMy9-2Z
+
+Shop  https //stza.co/+vMy9-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180606
+DTEND;VALUE=DATE:20180606
+UID:zLEHh3sVTokEJeBjP1QZn2Pq@stanza.co
+SUMMARY:Flying Tigers @ Hammerheads
+DESCRIPTION:Flying Tigers @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMy9\n\nFollow on MiLB First Pitch: https://stza.co/+vMy9-2Z\n\nShop: https://stza.co/+vMy9-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Hammerheads
+<2018-06-07 Thu>--<2018-06-06 Wed>
+:PROPERTIES:
+:ID:       GGHJ8ZXbNpYc4fTWUpvjEtun@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Hammerheads Flying Tigers @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMya
+
+Follow on MiLB First Pitch  https //stza.co/+vMya-2d
+
+Shop  https //stza.co/+vMya-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180607
+DTEND;VALUE=DATE:20180607
+UID:GGHJ8ZXbNpYc4fTWUpvjEtun@stanza.co
+SUMMARY:Flying Tigers @ Hammerheads
+DESCRIPTION:Flying Tigers @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMya\n\nFollow on MiLB First Pitch: https://stza.co/+vMya-2d\n\nShop: https://stza.co/+vMya-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Mets
+<2018-06-08 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       CDry4IPIqQmGKEtVGqSfwy0C@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Mets Flying Tigers vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+wKOR-1r
+
+Shop  https //stza.co/+wKOR-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Mets
+END:VALARM
+DTSTART:20180608T223000Z
+DTEND:20180609T013000Z
+UID:CDry4IPIqQmGKEtVGqSfwy0C@stanza.co
+SUMMARY:Flying Tigers vs. Mets
+DESCRIPTION:Flying Tigers vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+wKOR-1r\n\nShop: https://stza.co/+wKOR-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Mets
+<2018-06-09 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       J3Fz7yMNFyy70gcpvH1PQzj8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Mets Flying Tigers vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+wKOT-p
+
+Shop  https //stza.co/+wKOT-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Mets
+END:VALARM
+DTSTART:20180609T220000Z
+DTEND:20180610T010000Z
+UID:J3Fz7yMNFyy70gcpvH1PQzj8@stanza.co
+SUMMARY:Flying Tigers vs. Mets
+DESCRIPTION:Flying Tigers vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+wKOT-p\n\nShop: https://stza.co/+wKOT-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Mets
+<2018-06-10 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       iqPF2csvxld1GNbVchW_pXSg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Mets Flying Tigers vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+wKOU-30
+
+Shop  https //stza.co/+wKOU-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Mets
+END:VALARM
+DTSTART:20180610T170000Z
+DTEND:20180610T200000Z
+UID:iqPF2csvxld1GNbVchW_pXSg@stanza.co
+SUMMARY:Flying Tigers vs. Mets
+DESCRIPTION:Flying Tigers vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+wKOU-30\n\nShop: https://stza.co/+wKOU-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Hammerheads
+<2018-06-11 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       L4HLo1_-NQ078hdTv1iiBS2c@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Hammerheads Flying Tigers vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+wKOX-1T
+
+Shop  https //stza.co/+wKOX-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Hammerheads
+END:VALARM
+DTSTART:20180611T223000Z
+DTEND:20180612T013000Z
+UID:L4HLo1_-NQ078hdTv1iiBS2c@stanza.co
+SUMMARY:Flying Tigers vs. Hammerheads
+DESCRIPTION:Flying Tigers vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+wKOX-1T\n\nShop: https://stza.co/+wKOX-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Hammerheads
+<2018-06-12 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       ezgd0gFUK4VBCVkUk7n6AM6i@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Hammerheads Flying Tigers vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+wKOY-1K
+
+Shop  https //stza.co/+wKOY-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Hammerheads
+END:VALARM
+DTSTART:20180612T223000Z
+DTEND:20180613T013000Z
+UID:ezgd0gFUK4VBCVkUk7n6AM6i@stanza.co
+SUMMARY:Flying Tigers vs. Hammerheads
+DESCRIPTION:Flying Tigers vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+wKOY-1K\n\nShop: https://stza.co/+wKOY-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Hammerheads
+<2018-06-13 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       D2Aissg-esohkUduHJuu87T7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Hammerheads Flying Tigers vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+wKO_-2u
+
+Shop  https //stza.co/+wKO_-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Hammerheads
+END:VALARM
+DTSTART:20180613T223000Z
+DTEND:20180614T013000Z
+UID:D2Aissg-esohkUduHJuu87T7@stanza.co
+SUMMARY:Flying Tigers vs. Hammerheads
+DESCRIPTION:Flying Tigers vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+wKO_-2u\n\nShop: https://stza.co/+wKO_-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Hammerheads
+<2018-06-14 Thu 09:30-12:30>
+:PROPERTIES:
+:ID:       cWl6jaTautZwCasKLVOEthTH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Hammerheads Flying Tigers vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+wKP1-1o
+
+Shop  https //stza.co/+wKP1-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Hammerheads
+END:VALARM
+DTSTART:20180614T143000Z
+DTEND:20180614T173000Z
+UID:cWl6jaTautZwCasKLVOEthTH@stanza.co
+SUMMARY:Flying Tigers vs. Hammerheads
+DESCRIPTION:Flying Tigers vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+wKP1-1o\n\nShop: https://stza.co/+wKP1-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Stone Crabs
+<2018-06-18 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       S44X5LVqXVjrM97FWNzHvWmA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Stone Crabs Flying Tigers @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpN-Q
+
+Shop  https //stza.co/+wYpN-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Stone Crabs
+END:VALARM
+DTSTART:20180618T223500Z
+DTEND:20180619T013500Z
+UID:S44X5LVqXVjrM97FWNzHvWmA@stanza.co
+SUMMARY:Flying Tigers @ Stone Crabs
+DESCRIPTION:Flying Tigers @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpN-Q\n\nShop: https://stza.co/+wYpN-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Stone Crabs
+<2018-06-19 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       SnshI3T2wFkk3RG7DMNoTipg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Stone Crabs Flying Tigers @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpO-3G
+
+Shop  https //stza.co/+wYpO-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Stone Crabs
+END:VALARM
+DTSTART:20180619T223500Z
+DTEND:20180620T013500Z
+UID:SnshI3T2wFkk3RG7DMNoTipg@stanza.co
+SUMMARY:Flying Tigers @ Stone Crabs
+DESCRIPTION:Flying Tigers @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpO-3G\n\nShop: https://stza.co/+wYpO-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Stone Crabs
+<2018-06-20 Wed 09:05-12:05>
+:PROPERTIES:
+:ID:       XqnUGIMgGig3B3QknIZUeQQY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Stone Crabs Flying Tigers @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpP-s
+
+Shop  https //stza.co/+wYpP-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Stone Crabs
+END:VALARM
+DTSTART:20180620T140500Z
+DTEND:20180620T170500Z
+UID:XqnUGIMgGig3B3QknIZUeQQY@stanza.co
+SUMMARY:Flying Tigers @ Stone Crabs
+DESCRIPTION:Flying Tigers @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpP-s\n\nShop: https://stza.co/+wYpP-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Mets
+<2018-06-21 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       Bfw_40kwMPWWdPVtyds1-LeB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Mets Flying Tigers @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMAx-1D
+
+Shop  https //stza.co/+vMAx-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Mets
+END:VALARM
+DTSTART:20180621T223000Z
+DTEND:20180622T013000Z
+UID:Bfw_40kwMPWWdPVtyds1-LeB@stanza.co
+SUMMARY:Flying Tigers @ Mets
+DESCRIPTION:Flying Tigers @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMAx-1D\n\nShop: https://stza.co/+vMAx-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Mets
+<2018-06-22 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       27Zd_8NCmCVMihwgFBH-IHHP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Mets Flying Tigers @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMAy-1d
+
+Shop  https //stza.co/+vMAy-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Mets
+END:VALARM
+DTSTART:20180622T223000Z
+DTEND:20180623T013000Z
+UID:27Zd_8NCmCVMihwgFBH-IHHP@stanza.co
+SUMMARY:Flying Tigers @ Mets
+DESCRIPTION:Flying Tigers @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMAy-1d\n\nShop: https://stza.co/+vMAy-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Mets
+<2018-06-23 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       3-CyaqIN9lbwJw0GN3s6pZ7O@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Mets Flying Tigers @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMAz-1C
+
+Shop  https //stza.co/+vMAz-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Mets
+END:VALARM
+DTSTART:20180623T223000Z
+DTEND:20180624T013000Z
+UID:3-CyaqIN9lbwJw0GN3s6pZ7O@stanza.co
+SUMMARY:Flying Tigers @ Mets
+DESCRIPTION:Flying Tigers @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMAz-1C\n\nShop: https://stza.co/+vMAz-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Mets
+<2018-06-24 Sun 11:00-14:00>
+:PROPERTIES:
+:ID:       8N_BpiHGc6khzn6Uh-fWfQwM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Mets Flying Tigers @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMAA-2o
+
+Shop  https //stza.co/+vMAA-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Mets
+END:VALARM
+DTSTART:20180624T160000Z
+DTEND:20180624T190000Z
+UID:8N_BpiHGc6khzn6Uh-fWfQwM@stanza.co
+SUMMARY:Flying Tigers @ Mets
+DESCRIPTION:Flying Tigers @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMAA-2o\n\nShop: https://stza.co/+vMAA-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Stone Crabs
+<2018-06-26 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       apsNFeY9QD7xVg-Sk2AuRv5U@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Stone Crabs Flying Tigers vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wKP2-c
+
+Shop  https //stza.co/+wKP2-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Stone Crabs
+END:VALARM
+DTSTART:20180626T223000Z
+DTEND:20180627T013000Z
+UID:apsNFeY9QD7xVg-Sk2AuRv5U@stanza.co
+SUMMARY:Flying Tigers vs. Stone Crabs
+DESCRIPTION:Flying Tigers vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wKP2-c\n\nShop: https://stza.co/+wKP2-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Stone Crabs
+<2018-06-27 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       5jzbtBgffe5ugNDvhowtEi_N@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Stone Crabs Flying Tigers vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wKP4-3
+
+Shop  https //stza.co/+wKP4-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Stone Crabs
+END:VALARM
+DTSTART:20180627T223000Z
+DTEND:20180628T013000Z
+UID:5jzbtBgffe5ugNDvhowtEi_N@stanza.co
+SUMMARY:Flying Tigers vs. Stone Crabs
+DESCRIPTION:Flying Tigers vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wKP4-3\n\nShop: https://stza.co/+wKP4-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Stone Crabs
+<2018-06-28 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       okhzyGU8nmsSbwoJg8oUFEix@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Stone Crabs Flying Tigers vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wKP7-1y
+
+Shop  https //stza.co/+wKP7-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Stone Crabs
+END:VALARM
+DTSTART:20180628T223000Z
+DTEND:20180629T013000Z
+UID:okhzyGU8nmsSbwoJg8oUFEix@stanza.co
+SUMMARY:Flying Tigers vs. Stone Crabs
+DESCRIPTION:Flying Tigers vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wKP7-1y\n\nShop: https://stza.co/+wKP7-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Miracle
+<2018-06-29 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       lKZVIum6DjcKoGFvrfuphWx5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Miracle Flying Tigers @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMda-3I
+
+Shop  https //stza.co/+xMda-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Miracle
+END:VALARM
+DTSTART:20180629T230000Z
+DTEND:20180630T020000Z
+UID:lKZVIum6DjcKoGFvrfuphWx5@stanza.co
+SUMMARY:Flying Tigers @ Miracle
+DESCRIPTION:Flying Tigers @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMda-3I\n\nShop: https://stza.co/+xMda-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Miracle
+<2018-06-30 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       CDQWKz5SrNdCuYgpDutyUlX7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Miracle Flying Tigers @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdb-27
+
+Shop  https //stza.co/+xMdb-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Miracle
+END:VALARM
+DTSTART:20180630T220000Z
+DTEND:20180701T010000Z
+UID:CDQWKz5SrNdCuYgpDutyUlX7@stanza.co
+SUMMARY:Flying Tigers @ Miracle
+DESCRIPTION:Flying Tigers @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdb-27\n\nShop: https://stza.co/+xMdb-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Miracle
+<2018-07-01 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       4McMSWxFqDZclypf-1xjJDQ8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Miracle Flying Tigers @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdc-3
+
+Shop  https //stza.co/+xMdc-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Miracle
+END:VALARM
+DTSTART:20180701T200000Z
+DTEND:20180701T230000Z
+UID:4McMSWxFqDZclypf-1xjJDQ8@stanza.co
+SUMMARY:Flying Tigers @ Miracle
+DESCRIPTION:Flying Tigers @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdc-3\n\nShop: https://stza.co/+xMdc-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Threshers
+<2018-07-02 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       PVVCJAtNUk8ruBAuC88Ygq_f@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Threshers Flying Tigers @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfK-B
+
+Shop  https //stza.co/+xAfK-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Threshers
+END:VALARM
+DTSTART:20180702T230000Z
+DTEND:20180703T020000Z
+UID:PVVCJAtNUk8ruBAuC88Ygq_f@stanza.co
+SUMMARY:Flying Tigers @ Threshers
+DESCRIPTION:Flying Tigers @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfK-B\n\nShop: https://stza.co/+xAfK-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Threshers
+<2018-07-03 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       KtxM4-P2lvZg-g5WOkSE2WWA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Threshers Flying Tigers @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfL-2m
+
+Shop  https //stza.co/+xAfL-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Threshers
+END:VALARM
+DTSTART:20180703T230000Z
+DTEND:20180704T020000Z
+UID:KtxM4-P2lvZg-g5WOkSE2WWA@stanza.co
+SUMMARY:Flying Tigers @ Threshers
+DESCRIPTION:Flying Tigers @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfL-2m\n\nShop: https://stza.co/+xAfL-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Hammerheads
+<2018-07-04 Wed 16:00-19:00>
+:PROPERTIES:
+:ID:       xfeODDpCrzGMP5ze9wepA1o2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Hammerheads Flying Tigers vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+wKP8-19
+
+Shop  https //stza.co/+wKP8-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Hammerheads
+END:VALARM
+DTSTART:20180704T210000Z
+DTEND:20180705T000000Z
+UID:xfeODDpCrzGMP5ze9wepA1o2@stanza.co
+SUMMARY:Flying Tigers vs. Hammerheads
+DESCRIPTION:Flying Tigers vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+wKP8-19\n\nShop: https://stza.co/+wKP8-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Hammerheads
+<2018-07-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       Te-c3tNDb36K4TxXZg6mF5IT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Hammerheads Flying Tigers vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+wKPb-1a
+
+Shop  https //stza.co/+wKPb-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Hammerheads
+END:VALARM
+DTSTART:20180705T223000Z
+DTEND:20180706T013000Z
+UID:Te-c3tNDb36K4TxXZg6mF5IT@stanza.co
+SUMMARY:Flying Tigers vs. Hammerheads
+DESCRIPTION:Flying Tigers vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+wKPb-1a\n\nShop: https://stza.co/+wKPb-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tarpons
+<2018-07-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       GHxtHw3Zzakfoxb92nubVK0y@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKPd-2p
+
+Shop  https //stza.co/+wKPd-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180706T223000Z
+DTEND:20180707T013000Z
+UID:GHxtHw3Zzakfoxb92nubVK0y@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKPd-2p\n\nShop: https://stza.co/+wKPd-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tarpons
+<2018-07-07 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       CD4mX9wMBGpHxGb5KtcWtdSn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKPf-J
+
+Shop  https //stza.co/+wKPf-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180707T220000Z
+DTEND:20180708T010000Z
+UID:CD4mX9wMBGpHxGb5KtcWtdSn@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKPf-J\n\nShop: https://stza.co/+wKPf-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tarpons
+<2018-07-08 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       vSHFz3N9Kzm0gCUoXn3ZSBA8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tarpons Flying Tigers vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+wKPi-1L
+
+Shop  https //stza.co/+wKPi-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tarpons
+END:VALARM
+DTSTART:20180708T170000Z
+DTEND:20180708T200000Z
+UID:vSHFz3N9Kzm0gCUoXn3ZSBA8@stanza.co
+SUMMARY:Flying Tigers vs. Tarpons
+DESCRIPTION:Flying Tigers vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+wKPi-1L\n\nShop: https://stza.co/+wKPi-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Marauders
+<2018-07-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       QR1XhvoMct5NqfnvwgaFwImy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Marauders Flying Tigers @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMxr-1M
+
+Shop  https //stza.co/+vMxr-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Marauders
+END:VALARM
+DTSTART:20180709T223000Z
+DTEND:20180710T013000Z
+UID:QR1XhvoMct5NqfnvwgaFwImy@stanza.co
+SUMMARY:Flying Tigers @ Marauders
+DESCRIPTION:Flying Tigers @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMxr-1M\n\nShop: https://stza.co/+vMxr-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Marauders
+<2018-07-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       f7qiZ3yVjpFvNh28aT8zCcGy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Marauders Flying Tigers @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMxs-1I
+
+Shop  https //stza.co/+vMxs-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Marauders
+END:VALARM
+DTSTART:20180710T223000Z
+DTEND:20180711T013000Z
+UID:f7qiZ3yVjpFvNh28aT8zCcGy@stanza.co
+SUMMARY:Flying Tigers @ Marauders
+DESCRIPTION:Flying Tigers @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMxs-1I\n\nShop: https://stza.co/+vMxs-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Marauders
+<2018-07-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       q-YGbkjeFLGLCiDOzvB4I2gl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Marauders Flying Tigers @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMxt-
+
+Shop  https //stza.co/+vMxt-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Marauders
+END:VALARM
+DTSTART:20180711T223000Z
+DTEND:20180712T013000Z
+UID:q-YGbkjeFLGLCiDOzvB4I2gl@stanza.co
+SUMMARY:Flying Tigers @ Marauders
+DESCRIPTION:Flying Tigers @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMxt-\n\nShop: https://stza.co/+vMxt-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Marauders
+<2018-07-12 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       v6dBcc-aZhR3NXF4A6y1a0VC@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Marauders Flying Tigers @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMxu-O
+
+Shop  https //stza.co/+vMxu-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Marauders
+END:VALARM
+DTSTART:20180712T223000Z
+DTEND:20180713T013000Z
+UID:v6dBcc-aZhR3NXF4A6y1a0VC@stanza.co
+SUMMARY:Flying Tigers @ Marauders
+DESCRIPTION:Flying Tigers @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMxu-O\n\nShop: https://stza.co/+vMxu-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Miracle
+<2018-07-13 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       N5hsDe5B8LLCjaXFbb0h6HRY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Miracle Flying Tigers vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+wKPj-l
+
+Shop  https //stza.co/+wKPj-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Miracle
+END:VALARM
+DTSTART:20180713T223000Z
+DTEND:20180714T013000Z
+UID:N5hsDe5B8LLCjaXFbb0h6HRY@stanza.co
+SUMMARY:Flying Tigers vs. Miracle
+DESCRIPTION:Flying Tigers vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+wKPj-l\n\nShop: https://stza.co/+wKPj-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Miracle
+<2018-07-14 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       WThtLJkFvVEycLWH5ss_lIVq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Miracle Flying Tigers vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+wKPm-P
+
+Shop  https //stza.co/+wKPm-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Miracle
+END:VALARM
+DTSTART:20180714T220000Z
+DTEND:20180715T010000Z
+UID:WThtLJkFvVEycLWH5ss_lIVq@stanza.co
+SUMMARY:Flying Tigers vs. Miracle
+DESCRIPTION:Flying Tigers vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+wKPm-P\n\nShop: https://stza.co/+wKPm-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Miracle
+<2018-07-15 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       dVm7uBR3x3FXFNNgKgy5_153@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Miracle Flying Tigers vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+wKPn-3
+
+Shop  https //stza.co/+wKPn-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Miracle
+END:VALARM
+DTSTART:20180715T170000Z
+DTEND:20180715T200000Z
+UID:dVm7uBR3x3FXFNNgKgy5_153@stanza.co
+SUMMARY:Flying Tigers vs. Miracle
+DESCRIPTION:Flying Tigers vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+wKPn-3\n\nShop: https://stza.co/+wKPn-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Cardinals
+<2018-07-16 Mon>--<2018-07-15 Sun>
+:PROPERTIES:
+:ID:       F0gKGyXWDXDpAKxk4J6LN6ZU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Cardinals Flying Tigers @ Cardinals
+
+Buy tickets here  https //stza.co/~vMAn
+
+Follow on MiLB First Pitch  https //stza.co/+vMAn-28
+
+Shop  https //stza.co/+vMAn-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180716
+UID:F0gKGyXWDXDpAKxk4J6LN6ZU@stanza.co
+SUMMARY:Flying Tigers @ Cardinals
+DESCRIPTION:Flying Tigers @ Cardinals\n\nBuy tickets here: https://stza.co/~vMAn\n\nFollow on MiLB First Pitch: https://stza.co/+vMAn-28\n\nShop: https://stza.co/+vMAn-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Cardinals
+<2018-07-17 Tue>--<2018-07-16 Mon>
+:PROPERTIES:
+:ID:       zjWXuVheQLGQQuhQND2n1ywk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Cardinals Flying Tigers @ Cardinals
+
+Buy tickets here  https //stza.co/~vMAo
+
+Follow on MiLB First Pitch  https //stza.co/+vMAo-y
+
+Shop  https //stza.co/+vMAo-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180717
+DTEND;VALUE=DATE:20180717
+UID:zjWXuVheQLGQQuhQND2n1ywk@stanza.co
+SUMMARY:Flying Tigers @ Cardinals
+DESCRIPTION:Flying Tigers @ Cardinals\n\nBuy tickets here: https://stza.co/~vMAo\n\nFollow on MiLB First Pitch: https://stza.co/+vMAo-y\n\nShop: https://stza.co/+vMAo-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Cardinals
+<2018-07-18 Wed>--<2018-07-17 Tue>
+:PROPERTIES:
+:ID:       vOpTODwKtkt84aW2r9OqShX6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Cardinals Flying Tigers @ Cardinals
+
+Buy tickets here  https //stza.co/~vMAp
+
+Follow on MiLB First Pitch  https //stza.co/+vMAp-1j
+
+Shop  https //stza.co/+vMAp-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180718
+UID:vOpTODwKtkt84aW2r9OqShX6@stanza.co
+SUMMARY:Flying Tigers @ Cardinals
+DESCRIPTION:Flying Tigers @ Cardinals\n\nBuy tickets here: https://stza.co/~vMAp\n\nFollow on MiLB First Pitch: https://stza.co/+vMAp-1j\n\nShop: https://stza.co/+vMAp-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Miracle
+<2018-07-19 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       2pLFX_TM_BkF9ISEVq2eiXaq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Miracle Flying Tigers @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdd-18
+
+Shop  https //stza.co/+xMdd-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Miracle
+END:VALARM
+DTSTART:20180719T230000Z
+DTEND:20180720T020000Z
+UID:2pLFX_TM_BkF9ISEVq2eiXaq@stanza.co
+SUMMARY:Flying Tigers @ Miracle
+DESCRIPTION:Flying Tigers @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdd-18\n\nShop: https://stza.co/+xMdd-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Miracle
+<2018-07-20 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       8bRAeRaf8rMpcISXOjMGkL9D@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Miracle Flying Tigers @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMde-2V
+
+Shop  https //stza.co/+xMde-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Miracle
+END:VALARM
+DTSTART:20180720T230000Z
+DTEND:20180721T020000Z
+UID:8bRAeRaf8rMpcISXOjMGkL9D@stanza.co
+SUMMARY:Flying Tigers @ Miracle
+DESCRIPTION:Flying Tigers @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMde-2V\n\nShop: https://stza.co/+xMde-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Miracle
+<2018-07-21 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       ye7qF05hY7O10_zTcg4XsdVh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Miracle Flying Tigers @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdf-3B
+
+Shop  https //stza.co/+xMdf-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Miracle
+END:VALARM
+DTSTART:20180721T220000Z
+DTEND:20180722T010000Z
+UID:ye7qF05hY7O10_zTcg4XsdVh@stanza.co
+SUMMARY:Flying Tigers @ Miracle
+DESCRIPTION:Flying Tigers @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdf-3B\n\nShop: https://stza.co/+xMdf-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Blue Jays
+<2018-07-23 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       sIy9qO4WeZI0iI7R5ZuFbEh7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Blue Jays Flying Tigers vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+wKPp-1s
+
+Shop  https //stza.co/+wKPp-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Blue Jays
+END:VALARM
+DTSTART:20180723T223000Z
+DTEND:20180724T013000Z
+UID:sIy9qO4WeZI0iI7R5ZuFbEh7@stanza.co
+SUMMARY:Flying Tigers vs. Blue Jays
+DESCRIPTION:Flying Tigers vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+wKPp-1s\n\nShop: https://stza.co/+wKPp-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Blue Jays
+<2018-07-24 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       l-82vG7MrwMQBYR2KZPqLki1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Blue Jays Flying Tigers vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+wKPs-3J
+
+Shop  https //stza.co/+wKPs-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Blue Jays
+END:VALARM
+DTSTART:20180724T223000Z
+DTEND:20180725T013000Z
+UID:l-82vG7MrwMQBYR2KZPqLki1@stanza.co
+SUMMARY:Flying Tigers vs. Blue Jays
+DESCRIPTION:Flying Tigers vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+wKPs-3J\n\nShop: https://stza.co/+wKPs-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Blue Jays
+<2018-07-25 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       fqRoL4jHWoxDyTsYD8iKn7oz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Blue Jays Flying Tigers vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+wKPu-27
+
+Shop  https //stza.co/+wKPu-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Blue Jays
+END:VALARM
+DTSTART:20180725T223000Z
+DTEND:20180726T013000Z
+UID:fqRoL4jHWoxDyTsYD8iKn7oz@stanza.co
+SUMMARY:Flying Tigers vs. Blue Jays
+DESCRIPTION:Flying Tigers vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+wKPu-27\n\nShop: https://stza.co/+wKPu-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Threshers
+<2018-07-26 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       yYB8gP6fQqlHWwdmLqhLScE1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Threshers Flying Tigers @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAfM-1z
+
+Shop  https //stza.co/+xAfM-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Threshers
+END:VALARM
+DTSTART:20180726T230000Z
+DTEND:20180727T020000Z
+UID:yYB8gP6fQqlHWwdmLqhLScE1@stanza.co
+SUMMARY:Flying Tigers @ Threshers
+DESCRIPTION:Flying Tigers @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAfM-1z\n\nShop: https://stza.co/+xAfM-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Threshers
+<2018-07-27 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       fX1IzXKghe2UnGmiJf1zsPuq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Threshers Flying Tigers vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+wKPw-1M
+
+Shop  https //stza.co/+wKPw-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Threshers
+END:VALARM
+DTSTART:20180727T223000Z
+DTEND:20180728T013000Z
+UID:fX1IzXKghe2UnGmiJf1zsPuq@stanza.co
+SUMMARY:Flying Tigers vs. Threshers
+DESCRIPTION:Flying Tigers vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+wKPw-1M\n\nShop: https://stza.co/+wKPw-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Threshers
+<2018-07-28 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       GUYjDAR3sZJDNVm3XyNq3eaf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Threshers Flying Tigers vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+wKPx-2B
+
+Shop  https //stza.co/+wKPx-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Threshers
+END:VALARM
+DTSTART:20180728T220000Z
+DTEND:20180729T010000Z
+UID:GUYjDAR3sZJDNVm3XyNq3eaf@stanza.co
+SUMMARY:Flying Tigers vs. Threshers
+DESCRIPTION:Flying Tigers vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+wKPx-2B\n\nShop: https://stza.co/+wKPx-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Threshers
+<2018-07-29 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       8D5NkWj7rVOFMMQxjCuqkSJ6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Threshers Flying Tigers vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+wKPA-s
+
+Shop  https //stza.co/+wKPA-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Threshers
+END:VALARM
+DTSTART:20180729T170000Z
+DTEND:20180729T200000Z
+UID:8D5NkWj7rVOFMMQxjCuqkSJ6@stanza.co
+SUMMARY:Flying Tigers vs. Threshers
+DESCRIPTION:Flying Tigers vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+wKPA-s\n\nShop: https://stza.co/+wKPA-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Blue Jays
+<2018-07-31 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       gMk7q7ot1SrnJwwARfHEt333@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Blue Jays Flying Tigers @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JU-3G
+
+Shop  https //stza.co/+y0JU-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Blue Jays
+END:VALARM
+DTSTART:20180731T223000Z
+DTEND:20180801T013000Z
+UID:gMk7q7ot1SrnJwwARfHEt333@stanza.co
+SUMMARY:Flying Tigers @ Blue Jays
+DESCRIPTION:Flying Tigers @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JU-3G\n\nShop: https://stza.co/+y0JU-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Blue Jays
+<2018-08-01 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       6_AVMZEpA24EeK9UJwNaRyyd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Blue Jays Flying Tigers @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JV-38
+
+Shop  https //stza.co/+y0JV-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Blue Jays
+END:VALARM
+DTSTART:20180801T223000Z
+DTEND:20180802T013000Z
+UID:6_AVMZEpA24EeK9UJwNaRyyd@stanza.co
+SUMMARY:Flying Tigers @ Blue Jays
+DESCRIPTION:Flying Tigers @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JV-38\n\nShop: https://stza.co/+y0JV-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Blue Jays
+<2018-08-02 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       mSCaFOtc6zRNZBf3C93UidvB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Blue Jays Flying Tigers @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JW-T
+
+Shop  https //stza.co/+y0JW-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Blue Jays
+END:VALARM
+DTSTART:20180802T223000Z
+DTEND:20180803T013000Z
+UID:mSCaFOtc6zRNZBf3C93UidvB@stanza.co
+SUMMARY:Flying Tigers @ Blue Jays
+DESCRIPTION:Flying Tigers @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JW-T\n\nShop: https://stza.co/+y0JW-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       dpbKsnNMfe_WwERejMZhtpCN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vlLJ-2F
+
+Shop  https //stza.co/+vlLJ-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:dpbKsnNMfe_WwERejMZhtpCN@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vlLJ-2F\n\nShop: https://stza.co/+vlLJ-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       ZVqUx3ZoWZ-tUKgRdHchDvzZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vlLR-k
+
+Shop  https //stza.co/+vlLR-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:ZVqUx3ZoWZ-tUKgRdHchDvzZ@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vlLR-k\n\nShop: https://stza.co/+vlLR-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tarpons
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       LjFC5RRgKMaaUtPOC-pkRKZY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tarpons Flying Tigers @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vkLW-2P
+
+Shop  https //stza.co/+vkLW-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:LjFC5RRgKMaaUtPOC-pkRKZY@stanza.co
+SUMMARY:Flying Tigers @ Tarpons
+DESCRIPTION:Flying Tigers @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vkLW-2P\n\nShop: https://stza.co/+vkLW-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Miracle
+<2018-08-06 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       lfa0G2BzuXQrKweLvuTtaIjM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Miracle Flying Tigers vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+wKPB-12
+
+Shop  https //stza.co/+wKPB-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Miracle
+END:VALARM
+DTSTART:20180806T223000Z
+DTEND:20180807T013000Z
+UID:lfa0G2BzuXQrKweLvuTtaIjM@stanza.co
+SUMMARY:Flying Tigers vs. Miracle
+DESCRIPTION:Flying Tigers vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+wKPB-12\n\nShop: https://stza.co/+wKPB-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Miracle
+<2018-08-07 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       c3MbK2pHLqnS3zK34mDah_jf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Miracle Flying Tigers vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+wKPE-1i
+
+Shop  https //stza.co/+wKPE-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Miracle
+END:VALARM
+DTSTART:20180807T223000Z
+DTEND:20180808T013000Z
+UID:c3MbK2pHLqnS3zK34mDah_jf@stanza.co
+SUMMARY:Flying Tigers vs. Miracle
+DESCRIPTION:Flying Tigers vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+wKPE-1i\n\nShop: https://stza.co/+wKPE-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Miracle
+<2018-08-08 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       MSzcmRWBcuNWdEAD5S7TG1ep@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Miracle Flying Tigers vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+wKPF-1R
+
+Shop  https //stza.co/+wKPF-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Miracle
+END:VALARM
+DTSTART:20180808T223000Z
+DTEND:20180809T013000Z
+UID:MSzcmRWBcuNWdEAD5S7TG1ep@stanza.co
+SUMMARY:Flying Tigers vs. Miracle
+DESCRIPTION:Flying Tigers vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+wKPF-1R\n\nShop: https://stza.co/+wKPF-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Cardinals
+<2018-08-09 Thu>--<2018-08-08 Wed>
+:PROPERTIES:
+:ID:       pkHH2-JuntJLzDBFUDWPbu-H@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Cardinals Flying Tigers @ Cardinals
+
+Buy tickets here  https //stza.co/~vMAq
+
+Follow on MiLB First Pitch  https //stza.co/+vMAq-N
+
+Shop  https //stza.co/+vMAq-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+UID:pkHH2-JuntJLzDBFUDWPbu-H@stanza.co
+SUMMARY:Flying Tigers @ Cardinals
+DESCRIPTION:Flying Tigers @ Cardinals\n\nBuy tickets here: https://stza.co/~vMAq\n\nFollow on MiLB First Pitch: https://stza.co/+vMAq-N\n\nShop: https://stza.co/+vMAq-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Cardinals
+<2018-08-10 Fri>--<2018-08-09 Thu>
+:PROPERTIES:
+:ID:       719plvuAV-Jtr9c9cVx32HBp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Cardinals Flying Tigers @ Cardinals
+
+Buy tickets here  https //stza.co/~vMAr
+
+Follow on MiLB First Pitch  https //stza.co/+vMAr-2Q
+
+Shop  https //stza.co/+vMAr-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+UID:719plvuAV-Jtr9c9cVx32HBp@stanza.co
+SUMMARY:Flying Tigers @ Cardinals
+DESCRIPTION:Flying Tigers @ Cardinals\n\nBuy tickets here: https://stza.co/~vMAr\n\nFollow on MiLB First Pitch: https://stza.co/+vMAr-2Q\n\nShop: https://stza.co/+vMAr-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Cardinals
+<2018-08-11 Sat>--<2018-08-10 Fri>
+:PROPERTIES:
+:ID:       P3hpTe-xtt0CNUgiju-AzpaM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Cardinals Flying Tigers @ Cardinals
+
+Buy tickets here  https //stza.co/~vMAs
+
+Follow on MiLB First Pitch  https //stza.co/+vMAs-d
+
+Shop  https //stza.co/+vMAs-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180811
+UID:P3hpTe-xtt0CNUgiju-AzpaM@stanza.co
+SUMMARY:Flying Tigers @ Cardinals
+DESCRIPTION:Flying Tigers @ Cardinals\n\nBuy tickets here: https://stza.co/~vMAs\n\nFollow on MiLB First Pitch: https://stza.co/+vMAs-d\n\nShop: https://stza.co/+vMAs-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Cardinals
+<2018-08-12 Sun>--<2018-08-11 Sat>
+:PROPERTIES:
+:ID:       Kdjqf68Mvycf_QAe7CCdOR9H@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Cardinals Flying Tigers @ Cardinals
+
+Buy tickets here  https //stza.co/~vMAt
+
+Follow on MiLB First Pitch  https //stza.co/+vMAt-G
+
+Shop  https //stza.co/+vMAt-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180812
+UID:Kdjqf68Mvycf_QAe7CCdOR9H@stanza.co
+SUMMARY:Flying Tigers @ Cardinals
+DESCRIPTION:Flying Tigers @ Cardinals\n\nBuy tickets here: https://stza.co/~vMAt\n\nFollow on MiLB First Pitch: https://stza.co/+vMAt-G\n\nShop: https://stza.co/+vMAt-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tortugas
+<2018-08-13 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       rUeUoO9_1emMBJc3QSzNRo4j@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tortugas Flying Tigers vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+wKPH-2f
+
+Shop  https //stza.co/+wKPH-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tortugas
+END:VALARM
+DTSTART:20180813T223000Z
+DTEND:20180814T013000Z
+UID:rUeUoO9_1emMBJc3QSzNRo4j@stanza.co
+SUMMARY:Flying Tigers vs. Tortugas
+DESCRIPTION:Flying Tigers vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+wKPH-2f\n\nShop: https://stza.co/+wKPH-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tortugas
+<2018-08-14 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       VPFhDN9bHjEcnYm7XEUX4G2Y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tortugas Flying Tigers vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+wKPL-c
+
+Shop  https //stza.co/+wKPL-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tortugas
+END:VALARM
+DTSTART:20180814T223000Z
+DTEND:20180815T013000Z
+UID:VPFhDN9bHjEcnYm7XEUX4G2Y@stanza.co
+SUMMARY:Flying Tigers vs. Tortugas
+DESCRIPTION:Flying Tigers vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+wKPL-c\n\nShop: https://stza.co/+wKPL-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tortugas
+<2018-08-15 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       IKoJCy2gGkO0FoYr5htn5PYr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tortugas Flying Tigers vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+wKPM-2X
+
+Shop  https //stza.co/+wKPM-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tortugas
+END:VALARM
+DTSTART:20180815T223000Z
+DTEND:20180816T013000Z
+UID:IKoJCy2gGkO0FoYr5htn5PYr@stanza.co
+SUMMARY:Flying Tigers vs. Tortugas
+DESCRIPTION:Flying Tigers vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+wKPM-2X\n\nShop: https://stza.co/+wKPM-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Tortugas
+<2018-08-16 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       drT89WkvZxpY5FvM0O9UzbZ3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Tortugas Flying Tigers vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+wKPP-h
+
+Shop  https //stza.co/+wKPP-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Tortugas
+END:VALARM
+DTSTART:20180816T223000Z
+DTEND:20180817T013000Z
+UID:drT89WkvZxpY5FvM0O9UzbZ3@stanza.co
+SUMMARY:Flying Tigers vs. Tortugas
+DESCRIPTION:Flying Tigers vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+wKPP-h\n\nShop: https://stza.co/+wKPP-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Fire Frogs
+<2018-08-17 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       K6VJv38mqqLvlatOcMW8v8mx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Fire Frogs Flying Tigers vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+wKPR-1C
+
+Shop  https //stza.co/+wKPR-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Fire Frogs
+END:VALARM
+DTSTART:20180817T223000Z
+DTEND:20180818T013000Z
+UID:K6VJv38mqqLvlatOcMW8v8mx@stanza.co
+SUMMARY:Flying Tigers vs. Fire Frogs
+DESCRIPTION:Flying Tigers vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+wKPR-1C\n\nShop: https://stza.co/+wKPR-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Fire Frogs
+<2018-08-18 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       ktSBnsi2C9rxnhqtlHXovVYp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Fire Frogs Flying Tigers vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+wKPT-1W
+
+Shop  https //stza.co/+wKPT-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Fire Frogs
+END:VALARM
+DTSTART:20180818T220000Z
+DTEND:20180819T010000Z
+UID:ktSBnsi2C9rxnhqtlHXovVYp@stanza.co
+SUMMARY:Flying Tigers vs. Fire Frogs
+DESCRIPTION:Flying Tigers vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+wKPT-1W\n\nShop: https://stza.co/+wKPT-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Fire Frogs
+<2018-08-19 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       UIPTDuFcPmi6V2pMaOCipTO2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Fire Frogs Flying Tigers vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+wKPV-3u
+
+Shop  https //stza.co/+wKPV-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Fire Frogs
+END:VALARM
+DTSTART:20180819T170000Z
+DTEND:20180819T200000Z
+UID:UIPTDuFcPmi6V2pMaOCipTO2@stanza.co
+SUMMARY:Flying Tigers vs. Fire Frogs
+DESCRIPTION:Flying Tigers vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+wKPV-3u\n\nShop: https://stza.co/+wKPV-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tortugas
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       AgQ7l99X-TvLSmo3W7uWra7E@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tortugas Flying Tigers @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMxK-3a
+
+Shop  https //stza.co/+vMxK-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tortugas
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:AgQ7l99X-TvLSmo3W7uWra7E@stanza.co
+SUMMARY:Flying Tigers @ Tortugas
+DESCRIPTION:Flying Tigers @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMxK-3a\n\nShop: https://stza.co/+vMxK-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tortugas
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       lmWDL01nw4TV8_emmaizQHCa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tortugas Flying Tigers @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMxL-3b
+
+Shop  https //stza.co/+vMxL-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tortugas
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:lmWDL01nw4TV8_emmaizQHCa@stanza.co
+SUMMARY:Flying Tigers @ Tortugas
+DESCRIPTION:Flying Tigers @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMxL-3b\n\nShop: https://stza.co/+vMxL-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Tortugas
+<2018-08-23 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       bIGjfi1g1NHYoJud8yLT5lwR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Tortugas Flying Tigers @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMxM-39
+
+Shop  https //stza.co/+vMxM-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Tortugas
+END:VALARM
+DTSTART:20180823T230500Z
+DTEND:20180824T020500Z
+UID:bIGjfi1g1NHYoJud8yLT5lwR@stanza.co
+SUMMARY:Flying Tigers @ Tortugas
+DESCRIPTION:Flying Tigers @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMxM-39\n\nShop: https://stza.co/+vMxM-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Fire Frogs
+<2018-08-24 Fri 17:31-20:31>
+:PROPERTIES:
+:ID:       jCLq3Cx0ViYEhxpks8UfzVVR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Fire Frogs Flying Tigers @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNl
+
+Follow on MiLB First Pitch  https //stza.co/+xWNl-3q
+
+Shop  https //stza.co/+xWNl-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Fire Frogs
+END:VALARM
+DTSTART:20180824T223100Z
+DTEND:20180825T013100Z
+UID:jCLq3Cx0ViYEhxpks8UfzVVR@stanza.co
+SUMMARY:Flying Tigers @ Fire Frogs
+DESCRIPTION:Flying Tigers @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNl\n\nFollow on MiLB First Pitch: https://stza.co/+xWNl-3q\n\nShop: https://stza.co/+xWNl-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Fire Frogs
+<2018-08-25 Sat 17:31-20:31>
+:PROPERTIES:
+:ID:       3e1tY8zaYR8zVk5Xs7o68Y0f@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Fire Frogs Flying Tigers @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNm
+
+Follow on MiLB First Pitch  https //stza.co/+xWNm-G
+
+Shop  https //stza.co/+xWNm-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Fire Frogs
+END:VALARM
+DTSTART:20180825T223100Z
+DTEND:20180826T013100Z
+UID:3e1tY8zaYR8zVk5Xs7o68Y0f@stanza.co
+SUMMARY:Flying Tigers @ Fire Frogs
+DESCRIPTION:Flying Tigers @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNm\n\nFollow on MiLB First Pitch: https://stza.co/+xWNm-G\n\nShop: https://stza.co/+xWNm-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers @ Fire Frogs
+<2018-08-26 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       Vc0mzPfTIsfViPvHMYLkTkA0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers @ Fire Frogs Flying Tigers @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNn
+
+Follow on MiLB First Pitch  https //stza.co/+xWNn-2o
+
+Shop  https //stza.co/+xWNn-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers @ Fire Frogs
+END:VALARM
+DTSTART:20180826T150000Z
+DTEND:20180826T180000Z
+UID:Vc0mzPfTIsfViPvHMYLkTkA0@stanza.co
+SUMMARY:Flying Tigers @ Fire Frogs
+DESCRIPTION:Flying Tigers @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNn\n\nFollow on MiLB First Pitch: https://stza.co/+xWNn-2o\n\nShop: https://stza.co/+xWNn-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Mets
+<2018-08-27 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       pQlpzCA8QCV0GKq-PH0aBYwn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Mets Flying Tigers vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+wKPX-3i
+
+Shop  https //stza.co/+wKPX-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Mets
+END:VALARM
+DTSTART:20180827T223000Z
+DTEND:20180828T013000Z
+UID:pQlpzCA8QCV0GKq-PH0aBYwn@stanza.co
+SUMMARY:Flying Tigers vs. Mets
+DESCRIPTION:Flying Tigers vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+wKPX-3i\n\nShop: https://stza.co/+wKPX-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Mets
+<2018-08-28 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       DvmbR_jOgAKh0XO0jkFcQCmO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Mets Flying Tigers vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+wKPY-2i
+
+Shop  https //stza.co/+wKPY-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Mets
+END:VALARM
+DTSTART:20180828T223000Z
+DTEND:20180829T013000Z
+UID:DvmbR_jOgAKh0XO0jkFcQCmO@stanza.co
+SUMMARY:Flying Tigers vs. Mets
+DESCRIPTION:Flying Tigers vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+wKPY-2i\n\nShop: https://stza.co/+wKPY-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Mets
+<2018-08-29 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       z46H6arsEa0VTrstmskcgTZR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Mets Flying Tigers vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+wKP$-23
+
+Shop  https //stza.co/+wKP$-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Mets
+END:VALARM
+DTSTART:20180829T223000Z
+DTEND:20180830T013000Z
+UID:z46H6arsEa0VTrstmskcgTZR@stanza.co
+SUMMARY:Flying Tigers vs. Mets
+DESCRIPTION:Flying Tigers vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+wKP$-23\n\nShop: https://stza.co/+wKP$-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Mets
+<2018-08-30 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       6_SqOISFrJfR9kPZ6VJ-pUZK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Mets Flying Tigers vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+wKQ1-2n
+
+Shop  https //stza.co/+wKQ1-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Mets
+END:VALARM
+DTSTART:20180830T223000Z
+DTEND:20180831T013000Z
+UID:6_SqOISFrJfR9kPZ6VJ-pUZK@stanza.co
+SUMMARY:Flying Tigers vs. Mets
+DESCRIPTION:Flying Tigers vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+wKQ1-2n\n\nShop: https://stza.co/+wKQ1-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Cardinals
+<2018-08-31 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       -vsZHBe6Fv2H0_tsnrkUGAwA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Cardinals Flying Tigers vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+wKQ2-s
+
+Shop  https //stza.co/+wKQ2-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Cardinals
+END:VALARM
+DTSTART:20180831T223000Z
+DTEND:20180901T013000Z
+UID:-vsZHBe6Fv2H0_tsnrkUGAwA@stanza.co
+SUMMARY:Flying Tigers vs. Cardinals
+DESCRIPTION:Flying Tigers vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+wKQ2-s\n\nShop: https://stza.co/+wKQ2-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Cardinals
+<2018-09-01 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       TmJ6wfiIgYkABUa0uTXc4xYO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Cardinals Flying Tigers vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+wKQ5-1B
+
+Shop  https //stza.co/+wKQ5-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Cardinals
+END:VALARM
+DTSTART:20180901T220000Z
+DTEND:20180902T010000Z
+UID:TmJ6wfiIgYkABUa0uTXc4xYO@stanza.co
+SUMMARY:Flying Tigers vs. Cardinals
+DESCRIPTION:Flying Tigers vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+wKQ5-1B\n\nShop: https://stza.co/+wKQ5-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT
+* Flying Tigers vs. Cardinals
+<2018-09-02 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       bWspZYmo1iBCY0YLLcew7UCF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Flying Tigers vs. Cardinals Flying Tigers vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+wKQ7-h
+
+Shop  https //stza.co/+wKQ7-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Flying Tigers vs. Cardinals
+END:VALARM
+DTSTART:20180902T150000Z
+DTEND:20180902T180000Z
+UID:bWspZYmo1iBCY0YLLcew7UCF@stanza.co
+SUMMARY:Flying Tigers vs. Cardinals
+DESCRIPTION:Flying Tigers vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+wKQ7-h\n\nShop: https://stza.co/+wKQ7-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144539Z
+LAST-MODIFIED:20180213T144539Z
+TRANSP:OPAQUE
+END:VEVENT

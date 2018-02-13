@@ -1,0 +1,5216 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Fightin Phils vs. SeaWolves
+<2018-04-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       taLL_55oHbPGqwO8sDAdzJUv@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLtO
+
+Follow on MiLB First Pitch  https //stza.co/+vLtO-1Z
+
+Shop  https //stza.co/+vLtO-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180405T230500Z
+DTEND:20180406T020500Z
+UID:taLL_55oHbPGqwO8sDAdzJUv@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLtO\n\nFollow on MiLB First Pitch: https://stza.co/+vLtO-1Z\n\nShop: https://stza.co/+vLtO-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. SeaWolves
+<2018-04-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       fO9u_yYsnQYDib_lqEzQNZ01@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLtQ
+
+Follow on MiLB First Pitch  https //stza.co/+vLtQ-1w
+
+Shop  https //stza.co/+vLtQ-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180406T230500Z
+DTEND:20180407T020500Z
+UID:fO9u_yYsnQYDib_lqEzQNZ01@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLtQ\n\nFollow on MiLB First Pitch: https://stza.co/+vLtQ-1w\n\nShop: https://stza.co/+vLtQ-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. SeaWolves
+<2018-04-07 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       WX8iJZXDs13Q7tE19eDynhx2@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLtR
+
+Follow on MiLB First Pitch  https //stza.co/+vLtR-2G
+
+Shop  https //stza.co/+vLtR-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180407T220500Z
+DTEND:20180408T010500Z
+UID:WX8iJZXDs13Q7tE19eDynhx2@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLtR\n\nFollow on MiLB First Pitch: https://stza.co/+vLtR-2G\n\nShop: https://stza.co/+vLtR-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. SeaWolves
+<2018-04-08 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       eI4eOrubxrT35nOhD1H6IrHO@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLtU
+
+Follow on MiLB First Pitch  https //stza.co/+vLtU-B
+
+Shop  https //stza.co/+vLtU-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180408T180500Z
+DTEND:20180408T210500Z
+UID:eI4eOrubxrT35nOhD1H6IrHO@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLtU\n\nFollow on MiLB First Pitch: https://stza.co/+vLtU-B\n\nShop: https://stza.co/+vLtU-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-04-09 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       DKZ68T37baJ0dVde9lswASsR@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtV
+
+Follow on MiLB First Pitch  https //stza.co/+vLtV-2C
+
+Shop  https //stza.co/+vLtV-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180409T223500Z
+DTEND:20180410T013500Z
+UID:DKZ68T37baJ0dVde9lswASsR@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtV\n\nFollow on MiLB First Pitch: https://stza.co/+vLtV-2C\n\nShop: https://stza.co/+vLtV-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-04-10 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       33Estzh13ZxYmEgSBbPk2brH@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtY
+
+Follow on MiLB First Pitch  https //stza.co/+vLtY-3J
+
+Shop  https //stza.co/+vLtY-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180410T223500Z
+DTEND:20180411T013500Z
+UID:33Estzh13ZxYmEgSBbPk2brH@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtY\n\nFollow on MiLB First Pitch: https://stza.co/+vLtY-3J\n\nShop: https://stza.co/+vLtY-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-04-11 Wed 12:05-15:05>
+:PROPERTIES:
+:ID:       b5RBQ6txGnIfHaXW3pmvvZuk@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLt_
+
+Follow on MiLB First Pitch  https //stza.co/+vLt_-10
+
+Shop  https //stza.co/+vLt_-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180411T170500Z
+DTEND:20180411T200500Z
+UID:b5RBQ6txGnIfHaXW3pmvvZuk@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLt_\n\nFollow on MiLB First Pitch: https://stza.co/+vLt_-10\n\nShop: https://stza.co/+vLt_-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-04-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       D6WHXr08RdfE-hpJ1PW1jKHN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vLvZ-E
+
+Shop  https //stza.co/+vLvZ-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180413T230500Z
+DTEND:20180414T020500Z
+UID:D6WHXr08RdfE-hpJ1PW1jKHN@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vLvZ-E\n\nShop: https://stza.co/+vLvZ-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-04-14 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       yQYXEwezrAflgCb1iVpRQ_SZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vLv_-1T
+
+Shop  https //stza.co/+vLv_-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180414T220500Z
+DTEND:20180415T010500Z
+UID:yQYXEwezrAflgCb1iVpRQ_SZ@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vLv_-1T\n\nShop: https://stza.co/+vLv_-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-04-15 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       IKZCE5e2ywXE_6RgHhYASunG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vLv$-2h
+
+Shop  https //stza.co/+vLv$-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180415T170500Z
+DTEND:20180415T200500Z
+UID:IKZCE5e2ywXE_6RgHhYASunG@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vLv$-2h\n\nShop: https://stza.co/+vLv$-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Senators
+<2018-04-16 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       Dgx7BAWnzsO3k8vvfnCUIt7e@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Senators Fightin Phils @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLtj-n
+
+Shop  https //stza.co/+vLtj-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Senators
+END:VALARM
+DTSTART:20180416T223000Z
+DTEND:20180417T013000Z
+UID:Dgx7BAWnzsO3k8vvfnCUIt7e@stanza.co
+SUMMARY:Fightin Phils @ Senators
+DESCRIPTION:Fightin Phils @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLtj-n\n\nShop: https://stza.co/+vLtj-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Senators
+<2018-04-17 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       WBePgeLGh4iVjJ6N9rhv0ujN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Senators Fightin Phils @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLtk-c
+
+Shop  https //stza.co/+vLtk-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Senators
+END:VALARM
+DTSTART:20180417T223000Z
+DTEND:20180418T013000Z
+UID:WBePgeLGh4iVjJ6N9rhv0ujN@stanza.co
+SUMMARY:Fightin Phils @ Senators
+DESCRIPTION:Fightin Phils @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLtk-c\n\nShop: https://stza.co/+vLtk-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Senators
+<2018-04-18 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       5zdGoewMIHEpk1qKurVCDHn7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Senators Fightin Phils @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLtl-R
+
+Shop  https //stza.co/+vLtl-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Senators
+END:VALARM
+DTSTART:20180418T223000Z
+DTEND:20180419T013000Z
+UID:5zdGoewMIHEpk1qKurVCDHn7@stanza.co
+SUMMARY:Fightin Phils @ Senators
+DESCRIPTION:Fightin Phils @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLtl-R\n\nShop: https://stza.co/+vLtl-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Senators
+<2018-04-19 Thu 11:00-14:00>
+:PROPERTIES:
+:ID:       Tz1VmAv6p1cWlYIvAtfnfcrL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Senators Fightin Phils @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLtm-C
+
+Shop  https //stza.co/+vLtm-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Senators
+END:VALARM
+DTSTART:20180419T160000Z
+DTEND:20180419T190000Z
+UID:Tz1VmAv6p1cWlYIvAtfnfcrL@stanza.co
+SUMMARY:Fightin Phils @ Senators
+DESCRIPTION:Fightin Phils @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLtm-C\n\nShop: https://stza.co/+vLtm-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-04-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       3V5w-YtfIVm4vBHJrmxJaApH@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLu0
+
+Follow on MiLB First Pitch  https //stza.co/+vLu0-y
+
+Shop  https //stza.co/+vLu0-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180420T230500Z
+DTEND:20180421T020500Z
+UID:3V5w-YtfIVm4vBHJrmxJaApH@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLu0\n\nFollow on MiLB First Pitch: https://stza.co/+vLu0-y\n\nShop: https://stza.co/+vLu0-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-04-21 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       1vJ981GrXaSQvYwo8gnY6FvS@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLu1
+
+Follow on MiLB First Pitch  https //stza.co/+vLu1-2v
+
+Shop  https //stza.co/+vLu1-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180421T220500Z
+DTEND:20180422T010500Z
+UID:1vJ981GrXaSQvYwo8gnY6FvS@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLu1\n\nFollow on MiLB First Pitch: https://stza.co/+vLu1-2v\n\nShop: https://stza.co/+vLu1-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-04-22 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       AZdJ8p0Dzd0v7OkGQUnXSmEH@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLu4
+
+Follow on MiLB First Pitch  https //stza.co/+vLu4-2W
+
+Shop  https //stza.co/+vLu4-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180422T180500Z
+DTEND:20180422T210500Z
+UID:AZdJ8p0Dzd0v7OkGQUnXSmEH@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLu4\n\nFollow on MiLB First Pitch: https://stza.co/+vLu4-2W\n\nShop: https://stza.co/+vLu4-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. RubberDucks
+<2018-04-23 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       Ro5lBqeujszD8HPV5BeCR-kV@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. RubberDucks Fightin Phils vs. RubberDucks
+
+Buy tickets here  https //stza.co/~vLu6
+
+Follow on MiLB First Pitch  https //stza.co/+vLu6-3O
+
+Shop  https //stza.co/+vLu6-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. RubberDucks
+END:VALARM
+DTSTART:20180423T223500Z
+DTEND:20180424T013500Z
+UID:Ro5lBqeujszD8HPV5BeCR-kV@stanza.co
+SUMMARY:Fightin Phils vs. RubberDucks
+DESCRIPTION:Fightin Phils vs. RubberDucks\n\nBuy tickets here: https://stza.co/~vLu6\n\nFollow on MiLB First Pitch: https://stza.co/+vLu6-3O\n\nShop: https://stza.co/+vLu6-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. RubberDucks
+<2018-04-24 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       KPoyamKMhAcdVQQqSxmUpOyX@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. RubberDucks Fightin Phils vs. RubberDucks
+
+Buy tickets here  https //stza.co/~vLu8
+
+Follow on MiLB First Pitch  https //stza.co/+vLu8-12
+
+Shop  https //stza.co/+vLu8-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. RubberDucks
+END:VALARM
+DTSTART:20180424T223500Z
+DTEND:20180425T013500Z
+UID:KPoyamKMhAcdVQQqSxmUpOyX@stanza.co
+SUMMARY:Fightin Phils vs. RubberDucks
+DESCRIPTION:Fightin Phils vs. RubberDucks\n\nBuy tickets here: https://stza.co/~vLu8\n\nFollow on MiLB First Pitch: https://stza.co/+vLu8-12\n\nShop: https://stza.co/+vLu8-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. RubberDucks
+<2018-04-25 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       qn7-fYdU-F5cvvuo5s3Je4br@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. RubberDucks Fightin Phils vs. RubberDucks
+
+Buy tickets here  https //stza.co/~vLu9
+
+Follow on MiLB First Pitch  https //stza.co/+vLu9-7
+
+Shop  https //stza.co/+vLu9-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. RubberDucks
+END:VALARM
+DTSTART:20180425T223500Z
+DTEND:20180426T013500Z
+UID:qn7-fYdU-F5cvvuo5s3Je4br@stanza.co
+SUMMARY:Fightin Phils vs. RubberDucks
+DESCRIPTION:Fightin Phils vs. RubberDucks\n\nBuy tickets here: https://stza.co/~vLu9\n\nFollow on MiLB First Pitch: https://stza.co/+vLu9-7\n\nShop: https://stza.co/+vLu9-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-04-27 Fri 17:00-20:00>
+:PROPERTIES:
+:ID:       CTbH-eDpJOOYH9xg97XfPPPN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtD
+
+Follow on MiLB First Pitch  https //stza.co/+vLtD-2h
+
+Shop  https //stza.co/+vLtD-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180427T220000Z
+DTEND:20180428T010000Z
+UID:CTbH-eDpJOOYH9xg97XfPPPN@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtD\n\nFollow on MiLB First Pitch: https://stza.co/+vLtD-2h\n\nShop: https://stza.co/+vLtD-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-04-28 Sat 12:00-15:00>
+:PROPERTIES:
+:ID:       RX-HKHZz4_zd9t4SqzBMdK5h@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtE
+
+Follow on MiLB First Pitch  https //stza.co/+vLtE-2M
+
+Shop  https //stza.co/+vLtE-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180428T170000Z
+DTEND:20180428T200000Z
+UID:RX-HKHZz4_zd9t4SqzBMdK5h@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtE\n\nFollow on MiLB First Pitch: https://stza.co/+vLtE-2M\n\nShop: https://stza.co/+vLtE-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-04-29 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       H9nKNUna2kMDbVoLK2uedaWj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtF
+
+Follow on MiLB First Pitch  https //stza.co/+vLtF-I
+
+Shop  https //stza.co/+vLtF-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180429T170000Z
+DTEND:20180429T200000Z
+UID:H9nKNUna2kMDbVoLK2uedaWj@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtF\n\nFollow on MiLB First Pitch: https://stza.co/+vLtF-I\n\nShop: https://stza.co/+vLtF-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-04-30 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       cX23hytpTGNBRk_F9ZsNNMNZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLts-2x
+
+Shop  https //stza.co/+vLts-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180430T223500Z
+DTEND:20180501T013500Z
+UID:cX23hytpTGNBRk_F9ZsNNMNZ@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLts-2x\n\nShop: https://stza.co/+vLts-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-05-01 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       -s8Q27aVRwaUxNC8wvE2PlA6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtt-1g
+
+Shop  https //stza.co/+vLtt-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180501T223500Z
+DTEND:20180502T013500Z
+UID:-s8Q27aVRwaUxNC8wvE2PlA6@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtt-1g\n\nShop: https://stza.co/+vLtt-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-05-02 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       GImIyRKrwmYJoPRXQVXLzp8p@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtu-1N
+
+Shop  https //stza.co/+vLtu-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180502T143500Z
+DTEND:20180502T173500Z
+UID:GImIyRKrwmYJoPRXQVXLzp8p@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtu-1N\n\nShop: https://stza.co/+vLtu-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Flying Squirrels
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       6m890z5aNJbL--IXR7-ATp6n@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Flying Squirrels Fightin Phils vs. Flying Squirrels
+
+Buy tickets here  https //stza.co/~vLuc
+
+Follow on MiLB First Pitch  https //stza.co/+vLuc-3f
+
+Shop  https //stza.co/+vLuc-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Flying Squirrels
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:6m890z5aNJbL--IXR7-ATp6n@stanza.co
+SUMMARY:Fightin Phils vs. Flying Squirrels
+DESCRIPTION:Fightin Phils vs. Flying Squirrels\n\nBuy tickets here: https://stza.co/~vLuc\n\nFollow on MiLB First Pitch: https://stza.co/+vLuc-3f\n\nShop: https://stza.co/+vLuc-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Flying Squirrels
+<2018-05-05 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       hfLQYkcMVhFxCJZNafozo8cT@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Flying Squirrels Fightin Phils vs. Flying Squirrels
+
+Buy tickets here  https //stza.co/~vLue
+
+Follow on MiLB First Pitch  https //stza.co/+vLue-h
+
+Shop  https //stza.co/+vLue-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Flying Squirrels
+END:VALARM
+DTSTART:20180505T220500Z
+DTEND:20180506T010500Z
+UID:hfLQYkcMVhFxCJZNafozo8cT@stanza.co
+SUMMARY:Fightin Phils vs. Flying Squirrels
+DESCRIPTION:Fightin Phils vs. Flying Squirrels\n\nBuy tickets here: https://stza.co/~vLue\n\nFollow on MiLB First Pitch: https://stza.co/+vLue-h\n\nShop: https://stza.co/+vLue-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Flying Squirrels
+<2018-05-06 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       KxLi_a6nG4YH7OfIrJPnQ5pS@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Flying Squirrels Fightin Phils vs. Flying Squirrels
+
+Buy tickets here  https //stza.co/~vLug
+
+Follow on MiLB First Pitch  https //stza.co/+vLug-h
+
+Shop  https //stza.co/+vLug-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Flying Squirrels
+END:VALARM
+DTSTART:20180506T180500Z
+DTEND:20180506T210500Z
+UID:KxLi_a6nG4YH7OfIrJPnQ5pS@stanza.co
+SUMMARY:Fightin Phils vs. Flying Squirrels
+DESCRIPTION:Fightin Phils vs. Flying Squirrels\n\nBuy tickets here: https://stza.co/~vLug\n\nFollow on MiLB First Pitch: https://stza.co/+vLug-h\n\nShop: https://stza.co/+vLug-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-05-07 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       HHDvpZQLQACNqsXe70crsXkN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaU7-3f
+
+Shop  https //stza.co/+vaU7-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180507T230000Z
+DTEND:20180508T020000Z
+UID:HHDvpZQLQACNqsXe70crsXkN@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaU7-3f\n\nShop: https://stza.co/+vaU7-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-05-08 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       NEH8yqZZpvQVpUMiJU3I5E-7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUh-1K
+
+Shop  https //stza.co/+vaUh-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180508T230000Z
+DTEND:20180509T020000Z
+UID:NEH8yqZZpvQVpUMiJU3I5E-7@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUh-1K\n\nShop: https://stza.co/+vaUh-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-05-09 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       kcX9grCAB9pSWJWahYtdkLGP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUo-3b
+
+Shop  https //stza.co/+vaUo-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180509T143000Z
+DTEND:20180509T173000Z
+UID:kcX9grCAB9pSWJWahYtdkLGP@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUo-3b\n\nShop: https://stza.co/+vaUo-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-05-10 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       Ho2tPrb-BgplRgfy5GEsLLR2@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLui
+
+Follow on MiLB First Pitch  https //stza.co/+vLui-e
+
+Shop  https //stza.co/+vLui-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180510T223500Z
+DTEND:20180511T013500Z
+UID:Ho2tPrb-BgplRgfy5GEsLLR2@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLui\n\nFollow on MiLB First Pitch: https://stza.co/+vLui-e\n\nShop: https://stza.co/+vLui-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-05-11 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       o_MkUxkQ66DiPlS0EBQq93e3@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLuj
+
+Follow on MiLB First Pitch  https //stza.co/+vLuj-Y
+
+Shop  https //stza.co/+vLuj-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180511T230500Z
+DTEND:20180512T020500Z
+UID:o_MkUxkQ66DiPlS0EBQq93e3@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLuj\n\nFollow on MiLB First Pitch: https://stza.co/+vLuj-Y\n\nShop: https://stza.co/+vLuj-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-05-12 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       V2b5w_2TGSii92d31baFer69@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLum
+
+Follow on MiLB First Pitch  https //stza.co/+vLum-3B
+
+Shop  https //stza.co/+vLum-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180512T220500Z
+DTEND:20180513T010500Z
+UID:V2b5w_2TGSii92d31baFer69@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLum\n\nFollow on MiLB First Pitch: https://stza.co/+vLum-3B\n\nShop: https://stza.co/+vLum-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-05-13 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       TIZ2hQ6hd4LpB2mxoEWmj_MA@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLun
+
+Follow on MiLB First Pitch  https //stza.co/+vLun-1A
+
+Shop  https //stza.co/+vLun-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180513T180500Z
+DTEND:20180513T210500Z
+UID:TIZ2hQ6hd4LpB2mxoEWmj_MA@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLun\n\nFollow on MiLB First Pitch: https://stza.co/+vLun-1A\n\nShop: https://stza.co/+vLun-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-05-14 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       HQkTHWmwnt7FljqHi1cPbwIc@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLuq
+
+Follow on MiLB First Pitch  https //stza.co/+vLuq-2T
+
+Shop  https //stza.co/+vLuq-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180514T223500Z
+DTEND:20180515T013500Z
+UID:HQkTHWmwnt7FljqHi1cPbwIc@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLuq\n\nFollow on MiLB First Pitch: https://stza.co/+vLuq-2T\n\nShop: https://stza.co/+vLuq-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-05-15 Tue 10:35-13:35>
+:PROPERTIES:
+:ID:       EmQ4BS8Xj5RMajf5fWxQ5JRX@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLur
+
+Follow on MiLB First Pitch  https //stza.co/+vLur-6
+
+Shop  https //stza.co/+vLur-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180515T153500Z
+DTEND:20180515T183500Z
+UID:EmQ4BS8Xj5RMajf5fWxQ5JRX@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLur\n\nFollow on MiLB First Pitch: https://stza.co/+vLur-6\n\nShop: https://stza.co/+vLur-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-05-16 Wed 10:35-13:35>
+:PROPERTIES:
+:ID:       4daMkKgW_Zy1vTOfkO7F9WD_@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLut
+
+Follow on MiLB First Pitch  https //stza.co/+vLut-1o
+
+Shop  https //stza.co/+vLut-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180516T153500Z
+DTEND:20180516T183500Z
+UID:4daMkKgW_Zy1vTOfkO7F9WD_@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLut\n\nFollow on MiLB First Pitch: https://stza.co/+vLut-1o\n\nShop: https://stza.co/+vLut-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ SeaWolves
+<2018-05-18 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       y9b20KeYBDkYXZs1eSQ1GpZO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ SeaWolves Fightin Phils @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+vLtc-3E
+
+Shop  https //stza.co/+vLtc-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ SeaWolves
+END:VALARM
+DTSTART:20180518T220500Z
+DTEND:20180519T010500Z
+UID:y9b20KeYBDkYXZs1eSQ1GpZO@stanza.co
+SUMMARY:Fightin Phils @ SeaWolves
+DESCRIPTION:Fightin Phils @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+vLtc-3E\n\nShop: https://stza.co/+vLtc-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ SeaWolves
+<2018-05-19 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       aZnpqJJPhUOZKz_yZlvRIBnv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ SeaWolves Fightin Phils @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+vLtd-2r
+
+Shop  https //stza.co/+vLtd-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ SeaWolves
+END:VALARM
+DTSTART:20180519T220500Z
+DTEND:20180520T010500Z
+UID:aZnpqJJPhUOZKz_yZlvRIBnv@stanza.co
+SUMMARY:Fightin Phils @ SeaWolves
+DESCRIPTION:Fightin Phils @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+vLtd-2r\n\nShop: https://stza.co/+vLtd-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ SeaWolves
+<2018-05-20 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       Gsc8Vy6cgdRQoBnjb6CkPy6X@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ SeaWolves Fightin Phils @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+vLte-1H
+
+Shop  https //stza.co/+vLte-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ SeaWolves
+END:VALARM
+DTSTART:20180520T173500Z
+DTEND:20180520T203500Z
+UID:Gsc8Vy6cgdRQoBnjb6CkPy6X@stanza.co
+SUMMARY:Fightin Phils @ SeaWolves
+DESCRIPTION:Fightin Phils @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+vLte-1H\n\nShop: https://stza.co/+vLte-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ SeaWolves
+<2018-05-21 Mon 17:05-20:05>
+:PROPERTIES:
+:ID:       sLCgpR1sNvGV-azX8O9G3Hqe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ SeaWolves Fightin Phils @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+vLtf-1j
+
+Shop  https //stza.co/+vLtf-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ SeaWolves
+END:VALARM
+DTSTART:20180521T220500Z
+DTEND:20180522T010500Z
+UID:sLCgpR1sNvGV-azX8O9G3Hqe@stanza.co
+SUMMARY:Fightin Phils @ SeaWolves
+DESCRIPTION:Fightin Phils @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+vLtf-1j\n\nShop: https://stza.co/+vLtf-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-05-22 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       SsdERDrf2_DngIc0eE-shFmF@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLuw
+
+Follow on MiLB First Pitch  https //stza.co/+vLuw-13
+
+Shop  https //stza.co/+vLuw-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180522T223500Z
+DTEND:20180523T013500Z
+UID:SsdERDrf2_DngIc0eE-shFmF@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLuw\n\nFollow on MiLB First Pitch: https://stza.co/+vLuw-13\n\nShop: https://stza.co/+vLuw-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-05-23 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       qS9ZTqR4jDwBX_YvXnaGY34Q@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLuy
+
+Follow on MiLB First Pitch  https //stza.co/+vLuy-1h
+
+Shop  https //stza.co/+vLuy-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180523T223500Z
+DTEND:20180524T013500Z
+UID:qS9ZTqR4jDwBX_YvXnaGY34Q@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLuy\n\nFollow on MiLB First Pitch: https://stza.co/+vLuy-1h\n\nShop: https://stza.co/+vLuy-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-05-24 Thu 10:35-13:35>
+:PROPERTIES:
+:ID:       0Orn2zkRNnPlOI02e_BSIPNW@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLuz
+
+Follow on MiLB First Pitch  https //stza.co/+vLuz-6
+
+Shop  https //stza.co/+vLuz-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180524T153500Z
+DTEND:20180524T183500Z
+UID:0Orn2zkRNnPlOI02e_BSIPNW@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLuz\n\nFollow on MiLB First Pitch: https://stza.co/+vLuz-6\n\nShop: https://stza.co/+vLuz-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-05-25 Fri 17:00-20:00>
+:PROPERTIES:
+:ID:       ff1wTyNbVnWJFMYTMnyASNHh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtG
+
+Follow on MiLB First Pitch  https //stza.co/+vLtG-2M
+
+Shop  https //stza.co/+vLtG-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180525T220000Z
+DTEND:20180526T010000Z
+UID:ff1wTyNbVnWJFMYTMnyASNHh@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtG\n\nFollow on MiLB First Pitch: https://stza.co/+vLtG-2M\n\nShop: https://stza.co/+vLtG-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-05-26 Sat 12:00-15:00>
+:PROPERTIES:
+:ID:       1gRc6U4AOzi7kTFzkERRWMNl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtH
+
+Follow on MiLB First Pitch  https //stza.co/+vLtH-13
+
+Shop  https //stza.co/+vLtH-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180526T170000Z
+DTEND:20180526T200000Z
+UID:1gRc6U4AOzi7kTFzkERRWMNl@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtH\n\nFollow on MiLB First Pitch: https://stza.co/+vLtH-13\n\nShop: https://stza.co/+vLtH-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-05-27 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       yKVfTUGjWZapeiojjHTlkMwf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtI
+
+Follow on MiLB First Pitch  https //stza.co/+vLtI-2
+
+Shop  https //stza.co/+vLtI-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180527T170000Z
+DTEND:20180527T200000Z
+UID:yKVfTUGjWZapeiojjHTlkMwf@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtI\n\nFollow on MiLB First Pitch: https://stza.co/+vLtI-2\n\nShop: https://stza.co/+vLtI-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-05-28 Mon 12:00-15:00>
+:PROPERTIES:
+:ID:       AjZky1fBm9xTxcqOw-q8jwjZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtJ
+
+Follow on MiLB First Pitch  https //stza.co/+vLtJ-1Q
+
+Shop  https //stza.co/+vLtJ-2u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180528T170000Z
+DTEND:20180528T200000Z
+UID:AjZky1fBm9xTxcqOw-q8jwjZ@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtJ\n\nFollow on MiLB First Pitch: https://stza.co/+vLtJ-1Q\n\nShop: https://stza.co/+vLtJ-2u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-05-29 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       9v2oTrc-E0z2ylBALVpsJ1ST@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUw-l
+
+Shop  https //stza.co/+vaUw-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180529T230000Z
+DTEND:20180530T020000Z
+UID:9v2oTrc-E0z2ylBALVpsJ1ST@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUw-l\n\nShop: https://stza.co/+vaUw-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-05-30 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       MC4OtDo_LKrgC0kzWywYIWj8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUF-2B
+
+Shop  https //stza.co/+vaUF-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180530T230000Z
+DTEND:20180531T020000Z
+UID:MC4OtDo_LKrgC0kzWywYIWj8@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUF-2B\n\nShop: https://stza.co/+vaUF-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-05-31 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       ymuMypqY_I6S8mQTeHja5mzn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUL-18
+
+Shop  https //stza.co/+vaUL-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180531T230000Z
+DTEND:20180601T020000Z
+UID:ymuMypqY_I6S8mQTeHja5mzn@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUL-18\n\nShop: https://stza.co/+vaUL-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Flying Squirrels
+<2018-06-01 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Mr1RiEPhIcgcKCyBvWv62flw@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Flying Squirrels Fightin Phils vs. Flying Squirrels
+
+Buy tickets here  https //stza.co/~vLuC
+
+Follow on MiLB First Pitch  https //stza.co/+vLuC-c
+
+Shop  https //stza.co/+vLuC-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Flying Squirrels
+END:VALARM
+DTSTART:20180601T230500Z
+DTEND:20180602T020500Z
+UID:Mr1RiEPhIcgcKCyBvWv62flw@stanza.co
+SUMMARY:Fightin Phils vs. Flying Squirrels
+DESCRIPTION:Fightin Phils vs. Flying Squirrels\n\nBuy tickets here: https://stza.co/~vLuC\n\nFollow on MiLB First Pitch: https://stza.co/+vLuC-c\n\nShop: https://stza.co/+vLuC-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Flying Squirrels
+<2018-06-02 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       wn6xmoDmETtqvT0fSIWgfuaa@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Flying Squirrels Fightin Phils vs. Flying Squirrels
+
+Buy tickets here  https //stza.co/~vLuE
+
+Follow on MiLB First Pitch  https //stza.co/+vLuE-2x
+
+Shop  https //stza.co/+vLuE-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Flying Squirrels
+END:VALARM
+DTSTART:20180602T223500Z
+DTEND:20180603T013500Z
+UID:wn6xmoDmETtqvT0fSIWgfuaa@stanza.co
+SUMMARY:Fightin Phils vs. Flying Squirrels
+DESCRIPTION:Fightin Phils vs. Flying Squirrels\n\nBuy tickets here: https://stza.co/~vLuE\n\nFollow on MiLB First Pitch: https://stza.co/+vLuE-2x\n\nShop: https://stza.co/+vLuE-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Flying Squirrels
+<2018-06-03 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       2POg24RI0yXiwenWSDjRkm8c@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Flying Squirrels Fightin Phils vs. Flying Squirrels
+
+Buy tickets here  https //stza.co/~vLuG
+
+Follow on MiLB First Pitch  https //stza.co/+vLuG-3g
+
+Shop  https //stza.co/+vLuG-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Flying Squirrels
+END:VALARM
+DTSTART:20180603T180500Z
+DTEND:20180603T210500Z
+UID:2POg24RI0yXiwenWSDjRkm8c@stanza.co
+SUMMARY:Fightin Phils vs. Flying Squirrels
+DESCRIPTION:Fightin Phils vs. Flying Squirrels\n\nBuy tickets here: https://stza.co/~vLuG\n\nFollow on MiLB First Pitch: https://stza.co/+vLuG-3g\n\nShop: https://stza.co/+vLuG-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Flying Squirrels
+<2018-06-04 Mon 08:35-11:35>
+:PROPERTIES:
+:ID:       ycQw66Vjk-PJwmyrlOCfuxrk@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Flying Squirrels Fightin Phils vs. Flying Squirrels
+
+Buy tickets here  https //stza.co/~vLuH
+
+Follow on MiLB First Pitch  https //stza.co/+vLuH-1B
+
+Shop  https //stza.co/+vLuH-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Flying Squirrels
+END:VALARM
+DTSTART:20180604T133500Z
+DTEND:20180604T163500Z
+UID:ycQw66Vjk-PJwmyrlOCfuxrk@stanza.co
+SUMMARY:Fightin Phils vs. Flying Squirrels
+DESCRIPTION:Fightin Phils vs. Flying Squirrels\n\nBuy tickets here: https://stza.co/~vLuH\n\nFollow on MiLB First Pitch: https://stza.co/+vLuH-1B\n\nShop: https://stza.co/+vLuH-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Curve
+<2018-06-05 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       b9OsEVkROrBB51nlfwxJkH16@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Curve Fightin Phils @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLt3-2f
+
+Shop  https //stza.co/+vLt3-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Curve
+END:VALARM
+DTSTART:20180605T230000Z
+DTEND:20180606T020000Z
+UID:b9OsEVkROrBB51nlfwxJkH16@stanza.co
+SUMMARY:Fightin Phils @ Curve
+DESCRIPTION:Fightin Phils @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLt3-2f\n\nShop: https://stza.co/+vLt3-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Curve
+<2018-06-06 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       943w9AuLspxc2CCYxylrWI6E@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Curve Fightin Phils @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLt4-3q
+
+Shop  https //stza.co/+vLt4-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Curve
+END:VALARM
+DTSTART:20180606T230000Z
+DTEND:20180607T020000Z
+UID:943w9AuLspxc2CCYxylrWI6E@stanza.co
+SUMMARY:Fightin Phils @ Curve
+DESCRIPTION:Fightin Phils @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLt4-3q\n\nShop: https://stza.co/+vLt4-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Curve
+<2018-06-07 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       KPSgtTsArP1EVohEqjbURA6t@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Curve Fightin Phils @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+vLt5-1y
+
+Shop  https //stza.co/+vLt5-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Curve
+END:VALARM
+DTSTART:20180607T230000Z
+DTEND:20180608T020000Z
+UID:KPSgtTsArP1EVohEqjbURA6t@stanza.co
+SUMMARY:Fightin Phils @ Curve
+DESCRIPTION:Fightin Phils @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+vLt5-1y\n\nShop: https://stza.co/+vLt5-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ SeaWolves
+<2018-06-08 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       JW3eTDmuNXw5a9DtS8T7rSTj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ SeaWolves Fightin Phils @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+vLtg-2r
+
+Shop  https //stza.co/+vLtg-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ SeaWolves
+END:VALARM
+DTSTART:20180608T230500Z
+DTEND:20180609T020500Z
+UID:JW3eTDmuNXw5a9DtS8T7rSTj@stanza.co
+SUMMARY:Fightin Phils @ SeaWolves
+DESCRIPTION:Fightin Phils @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+vLtg-2r\n\nShop: https://stza.co/+vLtg-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ SeaWolves
+<2018-06-09 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       FvU3QUfVTw2T8ejbUX1s7grF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ SeaWolves Fightin Phils @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+vLth-3T
+
+Shop  https //stza.co/+vLth-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ SeaWolves
+END:VALARM
+DTSTART:20180609T230500Z
+DTEND:20180610T020500Z
+UID:FvU3QUfVTw2T8ejbUX1s7grF@stanza.co
+SUMMARY:Fightin Phils @ SeaWolves
+DESCRIPTION:Fightin Phils @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+vLth-3T\n\nShop: https://stza.co/+vLth-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ SeaWolves
+<2018-06-10 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       aB13irI95cL5ZgLIPjmZDU5y@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ SeaWolves Fightin Phils @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+vLti-3M
+
+Shop  https //stza.co/+vLti-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ SeaWolves
+END:VALARM
+DTSTART:20180610T173500Z
+DTEND:20180610T203500Z
+UID:aB13irI95cL5ZgLIPjmZDU5y@stanza.co
+SUMMARY:Fightin Phils @ SeaWolves
+DESCRIPTION:Fightin Phils @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+vLti-3M\n\nShop: https://stza.co/+vLti-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Senators
+<2018-06-12 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       1UyTVNRmkL1GPuyyhP4WWV71@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Senators Fightin Phils vs. Senators
+
+Buy tickets here  https //stza.co/~vLuK
+
+Follow on MiLB First Pitch  https //stza.co/+vLuK-1z
+
+Shop  https //stza.co/+vLuK-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Senators
+END:VALARM
+DTSTART:20180612T230500Z
+DTEND:20180613T020500Z
+UID:1UyTVNRmkL1GPuyyhP4WWV71@stanza.co
+SUMMARY:Fightin Phils vs. Senators
+DESCRIPTION:Fightin Phils vs. Senators\n\nBuy tickets here: https://stza.co/~vLuK\n\nFollow on MiLB First Pitch: https://stza.co/+vLuK-1z\n\nShop: https://stza.co/+vLuK-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Senators
+<2018-06-13 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       nhMEtvWQZemrlugACpKLh-bo@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Senators Fightin Phils vs. Senators
+
+Buy tickets here  https //stza.co/~vLuM
+
+Follow on MiLB First Pitch  https //stza.co/+vLuM-17
+
+Shop  https //stza.co/+vLuM-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Senators
+END:VALARM
+DTSTART:20180613T230500Z
+DTEND:20180614T020500Z
+UID:nhMEtvWQZemrlugACpKLh-bo@stanza.co
+SUMMARY:Fightin Phils vs. Senators
+DESCRIPTION:Fightin Phils vs. Senators\n\nBuy tickets here: https://stza.co/~vLuM\n\nFollow on MiLB First Pitch: https://stza.co/+vLuM-17\n\nShop: https://stza.co/+vLuM-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Senators
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       Ca3XoKKVt6pMww4kMDcPmx0e@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Senators Fightin Phils vs. Senators
+
+Buy tickets here  https //stza.co/~vLuN
+
+Follow on MiLB First Pitch  https //stza.co/+vLuN-3D
+
+Shop  https //stza.co/+vLuN-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Senators
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:Ca3XoKKVt6pMww4kMDcPmx0e@stanza.co
+SUMMARY:Fightin Phils vs. Senators
+DESCRIPTION:Fightin Phils vs. Senators\n\nBuy tickets here: https://stza.co/~vLuN\n\nFollow on MiLB First Pitch: https://stza.co/+vLuN-3D\n\nShop: https://stza.co/+vLuN-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. RubberDucks
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Lv31Q4y24Z4oMF7zh8xX6Dz0@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. RubberDucks Fightin Phils vs. RubberDucks
+
+Buy tickets here  https //stza.co/~vLuQ
+
+Follow on MiLB First Pitch  https //stza.co/+vLuQ-2G
+
+Shop  https //stza.co/+vLuQ-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. RubberDucks
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:Lv31Q4y24Z4oMF7zh8xX6Dz0@stanza.co
+SUMMARY:Fightin Phils vs. RubberDucks
+DESCRIPTION:Fightin Phils vs. RubberDucks\n\nBuy tickets here: https://stza.co/~vLuQ\n\nFollow on MiLB First Pitch: https://stza.co/+vLuQ-2G\n\nShop: https://stza.co/+vLuQ-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. RubberDucks
+<2018-06-16 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       Whd2UhigVovSTnYa6jb9z1Mf@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. RubberDucks Fightin Phils vs. RubberDucks
+
+Buy tickets here  https //stza.co/~vLuS
+
+Follow on MiLB First Pitch  https //stza.co/+vLuS-H
+
+Shop  https //stza.co/+vLuS-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. RubberDucks
+END:VALARM
+DTSTART:20180616T223500Z
+DTEND:20180617T013500Z
+UID:Whd2UhigVovSTnYa6jb9z1Mf@stanza.co
+SUMMARY:Fightin Phils vs. RubberDucks
+DESCRIPTION:Fightin Phils vs. RubberDucks\n\nBuy tickets here: https://stza.co/~vLuS\n\nFollow on MiLB First Pitch: https://stza.co/+vLuS-H\n\nShop: https://stza.co/+vLuS-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. RubberDucks
+<2018-06-17 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       u5NewDHYPfvQURPdUYYPw0gK@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. RubberDucks Fightin Phils vs. RubberDucks
+
+Buy tickets here  https //stza.co/~vLuU
+
+Follow on MiLB First Pitch  https //stza.co/+vLuU-c
+
+Shop  https //stza.co/+vLuU-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. RubberDucks
+END:VALARM
+DTSTART:20180617T210500Z
+DTEND:20180618T000500Z
+UID:u5NewDHYPfvQURPdUYYPw0gK@stanza.co
+SUMMARY:Fightin Phils vs. RubberDucks
+DESCRIPTION:Fightin Phils vs. RubberDucks\n\nBuy tickets here: https://stza.co/~vLuU\n\nFollow on MiLB First Pitch: https://stza.co/+vLuU-c\n\nShop: https://stza.co/+vLuU-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-06-19 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       bij6xKM5r-n4x0CSONB2L78F@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtK
+
+Follow on MiLB First Pitch  https //stza.co/+vLtK-1t
+
+Shop  https //stza.co/+vLtK-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180619T230000Z
+DTEND:20180620T020000Z
+UID:bij6xKM5r-n4x0CSONB2L78F@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtK\n\nFollow on MiLB First Pitch: https://stza.co/+vLtK-1t\n\nShop: https://stza.co/+vLtK-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-06-20 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       qBu4Y0dLM0GBecnL09Dejw4p@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtL
+
+Follow on MiLB First Pitch  https //stza.co/+vLtL-2i
+
+Shop  https //stza.co/+vLtL-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180620T230000Z
+DTEND:20180621T020000Z
+UID:qBu4Y0dLM0GBecnL09Dejw4p@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtL\n\nFollow on MiLB First Pitch: https://stza.co/+vLtL-2i\n\nShop: https://stza.co/+vLtL-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Sea Dogs
+<2018-06-21 Thu 17:00-20:00>
+:PROPERTIES:
+:ID:       ZuVdGYowrMGA8w_oSjyIRGKg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Sea Dogs Fightin Phils @ Sea Dogs
+
+Buy tickets here  https //stza.co/~vLtM
+
+Follow on MiLB First Pitch  https //stza.co/+vLtM-r
+
+Shop  https //stza.co/+vLtM-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Sea Dogs
+END:VALARM
+DTSTART:20180621T220000Z
+DTEND:20180622T010000Z
+UID:ZuVdGYowrMGA8w_oSjyIRGKg@stanza.co
+SUMMARY:Fightin Phils @ Sea Dogs
+DESCRIPTION:Fightin Phils @ Sea Dogs\n\nBuy tickets here: https://stza.co/~vLtM\n\nFollow on MiLB First Pitch: https://stza.co/+vLtM-r\n\nShop: https://stza.co/+vLtM-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       dBHHJxl3Z6EanrxhsJevm6Az@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtv-Q
+
+Shop  https //stza.co/+vLtv-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:dBHHJxl3Z6EanrxhsJevm6Az@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtv-Q\n\nShop: https://stza.co/+vLtv-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       BBiQCXVuN9H681uaz_-iDcgy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtw-q
+
+Shop  https //stza.co/+vLtw-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:BBiQCXVuN9H681uaz_-iDcgy@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtw-q\n\nShop: https://stza.co/+vLtw-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-06-24 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       cFZK75eTLJHsPumss75asVF5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtx-2c
+
+Shop  https //stza.co/+vLtx-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180624T173500Z
+DTEND:20180624T203500Z
+UID:cFZK75eTLJHsPumss75asVF5@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtx-2c\n\nShop: https://stza.co/+vLtx-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. SeaWolves
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       KRDrismXbWvZ79yVRBLjpdT_@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLuV
+
+Follow on MiLB First Pitch  https //stza.co/+vLuV-22
+
+Shop  https //stza.co/+vLuV-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:KRDrismXbWvZ79yVRBLjpdT_@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLuV\n\nFollow on MiLB First Pitch: https://stza.co/+vLuV-22\n\nShop: https://stza.co/+vLuV-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. SeaWolves
+<2018-06-26 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       _FekEGzwpg_TvCMLx1WHa-RO@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLuY
+
+Follow on MiLB First Pitch  https //stza.co/+vLuY-$
+
+Shop  https //stza.co/+vLuY-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180626T230500Z
+DTEND:20180627T020500Z
+UID:_FekEGzwpg_TvCMLx1WHa-RO@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLuY\n\nFollow on MiLB First Pitch: https://stza.co/+vLuY-$\n\nShop: https://stza.co/+vLuY-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. SeaWolves
+<2018-06-27 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       vPZyGMcEKyD-u-i4RRpDdIdD@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLu_
+
+Follow on MiLB First Pitch  https //stza.co/+vLu_-3z
+
+Shop  https //stza.co/+vLu_-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180627T230500Z
+DTEND:20180628T020500Z
+UID:vPZyGMcEKyD-u-i4RRpDdIdD@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLu_\n\nFollow on MiLB First Pitch: https://stza.co/+vLu_-3z\n\nShop: https://stza.co/+vLu_-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. SeaWolves
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       euUdcmCdwq6NHRX3yyrfA0z8@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. SeaWolves Fightin Phils vs. SeaWolves
+
+Buy tickets here  https //stza.co/~vLv0
+
+Follow on MiLB First Pitch  https //stza.co/+vLv0-1a
+
+Shop  https //stza.co/+vLv0-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. SeaWolves
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:euUdcmCdwq6NHRX3yyrfA0z8@stanza.co
+SUMMARY:Fightin Phils vs. SeaWolves
+DESCRIPTION:Fightin Phils vs. SeaWolves\n\nBuy tickets here: https://stza.co/~vLv0\n\nFollow on MiLB First Pitch: https://stza.co/+vLv0-1a\n\nShop: https://stza.co/+vLv0-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       kw59mSFMuyVBesa0S2sqezxx@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLv2
+
+Follow on MiLB First Pitch  https //stza.co/+vLv2-3i
+
+Shop  https //stza.co/+vLv2-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:kw59mSFMuyVBesa0S2sqezxx@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLv2\n\nFollow on MiLB First Pitch: https://stza.co/+vLv2-3i\n\nShop: https://stza.co/+vLv2-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-06-30 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       zzuoa4iKfuXMJRnoiYKA6JZN@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLv4
+
+Follow on MiLB First Pitch  https //stza.co/+vLv4-17
+
+Shop  https //stza.co/+vLv4-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180630T223500Z
+DTEND:20180701T013500Z
+UID:zzuoa4iKfuXMJRnoiYKA6JZN@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLv4\n\nFollow on MiLB First Pitch: https://stza.co/+vLv4-17\n\nShop: https://stza.co/+vLv4-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-07-01 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       88f12m30TAxYsKTwh8Pnpy34@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLv6
+
+Follow on MiLB First Pitch  https //stza.co/+vLv6-3x
+
+Shop  https //stza.co/+vLv6-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180701T210500Z
+DTEND:20180702T000500Z
+UID:88f12m30TAxYsKTwh8Pnpy34@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLv6\n\nFollow on MiLB First Pitch: https://stza.co/+vLv6-3x\n\nShop: https://stza.co/+vLv6-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-07-02 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       QVrtpIYsWHb36-yMqap3YY45@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLv8
+
+Follow on MiLB First Pitch  https //stza.co/+vLv8-u
+
+Shop  https //stza.co/+vLv8-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180702T230500Z
+DTEND:20180703T020500Z
+UID:QVrtpIYsWHb36-yMqap3YY45@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLv8\n\nFollow on MiLB First Pitch: https://stza.co/+vLv8-u\n\nShop: https://stza.co/+vLv8-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-07-03 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       hfshL0mY27Eidtmw3OjOTMkt@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLva
+
+Follow on MiLB First Pitch  https //stza.co/+vLva-3C
+
+Shop  https //stza.co/+vLva-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180703T230500Z
+DTEND:20180704T020500Z
+UID:hfshL0mY27Eidtmw3OjOTMkt@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLva\n\nFollow on MiLB First Pitch: https://stza.co/+vLva-3C\n\nShop: https://stza.co/+vLva-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-07-04 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       BVlkcgkj_So0pC00JrO_b8vu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLty-1V
+
+Shop  https //stza.co/+vLty-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180704T230500Z
+DTEND:20180705T020500Z
+UID:BVlkcgkj_So0pC00JrO_b8vu@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLty-1V\n\nShop: https://stza.co/+vLty-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       l5eFOdCIrV1snY7sGgWR-t2E@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtz-3m
+
+Shop  https //stza.co/+vLtz-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:l5eFOdCIrV1snY7sGgWR-t2E@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtz-3m\n\nShop: https://stza.co/+vLtz-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       U2hiiYQWenoFL-iQAwmgrRqf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtA-2X
+
+Shop  https //stza.co/+vLtA-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:U2hiiYQWenoFL-iQAwmgrRqf@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtA-2X\n\nShop: https://stza.co/+vLtA-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-07-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       B0l0ZioB9JhyW7XBTw1ScCyg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtB-1f
+
+Shop  https //stza.co/+vLtB-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180707T230500Z
+DTEND:20180708T020500Z
+UID:B0l0ZioB9JhyW7XBTw1ScCyg@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtB-1f\n\nShop: https://stza.co/+vLtB-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Fisher Cats
+<2018-07-08 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       Wzv7n0ybHYjxw0NM5WOjVYsp@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Fisher Cats Fightin Phils @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vLtC-3Q
+
+Shop  https //stza.co/+vLtC-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Fisher Cats
+END:VALARM
+DTSTART:20180708T173500Z
+DTEND:20180708T203500Z
+UID:Wzv7n0ybHYjxw0NM5WOjVYsp@stanza.co
+SUMMARY:Fightin Phils @ Fisher Cats
+DESCRIPTION:Fightin Phils @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vLtC-3Q\n\nShop: https://stza.co/+vLtC-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Baysox
+<2018-07-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       vpmJg65FRClltzZjKpO2lvsk@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Baysox Fightin Phils vs. Baysox
+
+Buy tickets here  https //stza.co/~vLvb
+
+Follow on MiLB First Pitch  https //stza.co/+vLvb-3O
+
+Shop  https //stza.co/+vLvb-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Baysox
+END:VALARM
+DTSTART:20180712T230500Z
+DTEND:20180713T020500Z
+UID:vpmJg65FRClltzZjKpO2lvsk@stanza.co
+SUMMARY:Fightin Phils vs. Baysox
+DESCRIPTION:Fightin Phils vs. Baysox\n\nBuy tickets here: https://stza.co/~vLvb\n\nFollow on MiLB First Pitch: https://stza.co/+vLvb-3O\n\nShop: https://stza.co/+vLvb-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Baysox
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Qsa-EGixI0Rs398_OZdTv-JZ@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Baysox Fightin Phils vs. Baysox
+
+Buy tickets here  https //stza.co/~vLve
+
+Follow on MiLB First Pitch  https //stza.co/+vLve-q
+
+Shop  https //stza.co/+vLve-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Baysox
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:Qsa-EGixI0Rs398_OZdTv-JZ@stanza.co
+SUMMARY:Fightin Phils vs. Baysox
+DESCRIPTION:Fightin Phils vs. Baysox\n\nBuy tickets here: https://stza.co/~vLve\n\nFollow on MiLB First Pitch: https://stza.co/+vLve-q\n\nShop: https://stza.co/+vLve-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Baysox
+<2018-07-14 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       p1JRHtTw6IFzjasUltvvDFbO@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Baysox Fightin Phils vs. Baysox
+
+Buy tickets here  https //stza.co/~vLvg
+
+Follow on MiLB First Pitch  https //stza.co/+vLvg-
+
+Shop  https //stza.co/+vLvg-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Baysox
+END:VALARM
+DTSTART:20180714T223500Z
+DTEND:20180715T013500Z
+UID:p1JRHtTw6IFzjasUltvvDFbO@stanza.co
+SUMMARY:Fightin Phils vs. Baysox
+DESCRIPTION:Fightin Phils vs. Baysox\n\nBuy tickets here: https://stza.co/~vLvg\n\nFollow on MiLB First Pitch: https://stza.co/+vLvg-\n\nShop: https://stza.co/+vLvg-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Baysox
+<2018-07-15 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       o7A_5k_zSzO_jCkhN51bNNBT@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Baysox Fightin Phils vs. Baysox
+
+Buy tickets here  https //stza.co/~vLvh
+
+Follow on MiLB First Pitch  https //stza.co/+vLvh-13
+
+Shop  https //stza.co/+vLvh-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Baysox
+END:VALARM
+DTSTART:20180715T180500Z
+DTEND:20180715T210500Z
+UID:o7A_5k_zSzO_jCkhN51bNNBT@stanza.co
+SUMMARY:Fightin Phils vs. Baysox
+DESCRIPTION:Fightin Phils vs. Baysox\n\nBuy tickets here: https://stza.co/~vLvh\n\nFollow on MiLB First Pitch: https://stza.co/+vLvh-13\n\nShop: https://stza.co/+vLvh-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Yard Goats
+<2018-07-16 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       Cjx5lvnt9Gp6UJj7ZE7BOBl2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Yard Goats Fightin Phils @ Yard Goats
+
+Buy tickets here  https //stza.co/~vLtp
+
+Follow on MiLB First Pitch  https //stza.co/+vLtp-3l
+
+Shop  https //stza.co/+vLtp-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Yard Goats
+END:VALARM
+DTSTART:20180716T230500Z
+DTEND:20180717T020500Z
+UID:Cjx5lvnt9Gp6UJj7ZE7BOBl2@stanza.co
+SUMMARY:Fightin Phils @ Yard Goats
+DESCRIPTION:Fightin Phils @ Yard Goats\n\nBuy tickets here: https://stza.co/~vLtp\n\nFollow on MiLB First Pitch: https://stza.co/+vLtp-3l\n\nShop: https://stza.co/+vLtp-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Yard Goats
+<2018-07-17 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       XcVsqy3pIvKicX9iNahyM3t-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Yard Goats Fightin Phils @ Yard Goats
+
+Buy tickets here  https //stza.co/~vLtq
+
+Follow on MiLB First Pitch  https //stza.co/+vLtq-1y
+
+Shop  https //stza.co/+vLtq-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Yard Goats
+END:VALARM
+DTSTART:20180717T230500Z
+DTEND:20180718T020500Z
+UID:XcVsqy3pIvKicX9iNahyM3t-@stanza.co
+SUMMARY:Fightin Phils @ Yard Goats
+DESCRIPTION:Fightin Phils @ Yard Goats\n\nBuy tickets here: https://stza.co/~vLtq\n\nFollow on MiLB First Pitch: https://stza.co/+vLtq-1y\n\nShop: https://stza.co/+vLtq-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Yard Goats
+<2018-07-18 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       QNA_pgL3mxiYq8abxasufM0m@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Yard Goats Fightin Phils @ Yard Goats
+
+Buy tickets here  https //stza.co/~vLtr
+
+Follow on MiLB First Pitch  https //stza.co/+vLtr-25
+
+Shop  https //stza.co/+vLtr-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Yard Goats
+END:VALARM
+DTSTART:20180718T160500Z
+DTEND:20180718T190500Z
+UID:QNA_pgL3mxiYq8abxasufM0m@stanza.co
+SUMMARY:Fightin Phils @ Yard Goats
+DESCRIPTION:Fightin Phils @ Yard Goats\n\nBuy tickets here: https://stza.co/~vLtr\n\nFollow on MiLB First Pitch: https://stza.co/+vLtr-25\n\nShop: https://stza.co/+vLtr-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       aPYZOHvloxknugdZRxdsfBds@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLvj
+
+Follow on MiLB First Pitch  https //stza.co/+vLvj-R
+
+Shop  https //stza.co/+vLvj-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:aPYZOHvloxknugdZRxdsfBds@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLvj\n\nFollow on MiLB First Pitch: https://stza.co/+vLvj-R\n\nShop: https://stza.co/+vLvj-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       NZZ57IY9AnqpHlmQ88KEI44J@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLvl
+
+Follow on MiLB First Pitch  https //stza.co/+vLvl-2x
+
+Shop  https //stza.co/+vLvl-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:NZZ57IY9AnqpHlmQ88KEI44J@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLvl\n\nFollow on MiLB First Pitch: https://stza.co/+vLvl-2x\n\nShop: https://stza.co/+vLvl-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-07-21 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       GmERJsCLw5cr775Vu0yy6RdZ@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLvo
+
+Follow on MiLB First Pitch  https //stza.co/+vLvo-13
+
+Shop  https //stza.co/+vLvo-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180721T223500Z
+DTEND:20180722T013500Z
+UID:GmERJsCLw5cr775Vu0yy6RdZ@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLvo\n\nFollow on MiLB First Pitch: https://stza.co/+vLvo-13\n\nShop: https://stza.co/+vLvo-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Curve
+<2018-07-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       4cPITGAfWeM5we0O850aylln@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Curve Fightin Phils vs. Curve
+
+Buy tickets here  https //stza.co/~vLvq
+
+Follow on MiLB First Pitch  https //stza.co/+vLvq-2n
+
+Shop  https //stza.co/+vLvq-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Curve
+END:VALARM
+DTSTART:20180722T210500Z
+DTEND:20180723T000500Z
+UID:4cPITGAfWeM5we0O850aylln@stanza.co
+SUMMARY:Fightin Phils vs. Curve
+DESCRIPTION:Fightin Phils vs. Curve\n\nBuy tickets here: https://stza.co/~vLvq\n\nFollow on MiLB First Pitch: https://stza.co/+vLvq-2n\n\nShop: https://stza.co/+vLvq-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-07-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       -BWF-1CAh0M1tEMFccqbMY9G@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLvr
+
+Follow on MiLB First Pitch  https //stza.co/+vLvr-1o
+
+Shop  https //stza.co/+vLvr-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180723T230500Z
+DTEND:20180724T020500Z
+UID:-BWF-1CAh0M1tEMFccqbMY9G@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLvr\n\nFollow on MiLB First Pitch: https://stza.co/+vLvr-1o\n\nShop: https://stza.co/+vLvr-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       GpTglXhCFHPIF7lqJN6QQTw3@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLvt
+
+Follow on MiLB First Pitch  https //stza.co/+vLvt-2q
+
+Shop  https //stza.co/+vLvt-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:GpTglXhCFHPIF7lqJN6QQTw3@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLvt\n\nFollow on MiLB First Pitch: https://stza.co/+vLvt-2q\n\nShop: https://stza.co/+vLvt-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Fisher Cats
+<2018-07-25 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       ow-bnUaOg6kSJaaONbJ_2nZe@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Fisher Cats Fightin Phils vs. Fisher Cats
+
+Buy tickets here  https //stza.co/~vLvw
+
+Follow on MiLB First Pitch  https //stza.co/+vLvw-3f
+
+Shop  https //stza.co/+vLvw-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Fisher Cats
+END:VALARM
+DTSTART:20180725T160500Z
+DTEND:20180725T190500Z
+UID:ow-bnUaOg6kSJaaONbJ_2nZe@stanza.co
+SUMMARY:Fightin Phils vs. Fisher Cats
+DESCRIPTION:Fightin Phils vs. Fisher Cats\n\nBuy tickets here: https://stza.co/~vLvw\n\nFollow on MiLB First Pitch: https://stza.co/+vLvw-3f\n\nShop: https://stza.co/+vLvw-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-07-26 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       0dYOHCh9Ux0_L5OWhwxtatmN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vLw0-v
+
+Shop  https //stza.co/+vLw0-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180726T223500Z
+DTEND:20180727T013500Z
+UID:0dYOHCh9Ux0_L5OWhwxtatmN@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vLw0-v\n\nShop: https://stza.co/+vLw0-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-07-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       WWpExtLWX_eBzVFnh3xRqMut@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vaT7-1m
+
+Shop  https //stza.co/+vaT7-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180727T230500Z
+DTEND:20180728T020500Z
+UID:WWpExtLWX_eBzVFnh3xRqMut@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vaT7-1m\n\nShop: https://stza.co/+vaT7-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-07-28 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       XXjzk868eo1NqKQSpx0YuXTY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vaTi-20
+
+Shop  https //stza.co/+vaTi-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180728T220500Z
+DTEND:20180729T010500Z
+UID:XXjzk868eo1NqKQSpx0YuXTY@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vaTi-20\n\nShop: https://stza.co/+vaTi-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-07-29 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       xW5Pj20ximBpL5D1Lr778OyL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vaTr-2E
+
+Shop  https //stza.co/+vaTr-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180729T170500Z
+DTEND:20180729T200500Z
+UID:xW5Pj20ximBpL5D1Lr778OyL@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vaTr-2E\n\nShop: https://stza.co/+vaTr-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Thunder
+<2018-07-31 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       mM3qbVn0Z7TCjBb4_PfjcpuC@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Thunder Fightin Phils vs. Thunder
+
+Buy tickets here  https //stza.co/~vLvy
+
+Follow on MiLB First Pitch  https //stza.co/+vLvy-2L
+
+Shop  https //stza.co/+vLvy-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Thunder
+END:VALARM
+DTSTART:20180731T230500Z
+DTEND:20180801T020500Z
+UID:mM3qbVn0Z7TCjBb4_PfjcpuC@stanza.co
+SUMMARY:Fightin Phils vs. Thunder
+DESCRIPTION:Fightin Phils vs. Thunder\n\nBuy tickets here: https://stza.co/~vLvy\n\nFollow on MiLB First Pitch: https://stza.co/+vLvy-2L\n\nShop: https://stza.co/+vLvy-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Thunder
+<2018-08-01 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       xRA575L3UM8YNVYvXm2oryXm@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Thunder Fightin Phils vs. Thunder
+
+Buy tickets here  https //stza.co/~vLvA
+
+Follow on MiLB First Pitch  https //stza.co/+vLvA-27
+
+Shop  https //stza.co/+vLvA-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Thunder
+END:VALARM
+DTSTART:20180801T230500Z
+DTEND:20180802T020500Z
+UID:xRA575L3UM8YNVYvXm2oryXm@stanza.co
+SUMMARY:Fightin Phils vs. Thunder
+DESCRIPTION:Fightin Phils vs. Thunder\n\nBuy tickets here: https://stza.co/~vLvA\n\nFollow on MiLB First Pitch: https://stza.co/+vLvA-27\n\nShop: https://stza.co/+vLvA-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Thunder
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       iec9WjP2_aPropH1DuxMVyNC@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Thunder Fightin Phils vs. Thunder
+
+Buy tickets here  https //stza.co/~vLvB
+
+Follow on MiLB First Pitch  https //stza.co/+vLvB-3l
+
+Shop  https //stza.co/+vLvB-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Thunder
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:iec9WjP2_aPropH1DuxMVyNC@stanza.co
+SUMMARY:Fightin Phils vs. Thunder
+DESCRIPTION:Fightin Phils vs. Thunder\n\nBuy tickets here: https://stza.co/~vLvB\n\nFollow on MiLB First Pitch: https://stza.co/+vLvB-3l\n\nShop: https://stza.co/+vLvB-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Baysox
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       yIbNxUMc0nfI_A-wYAyMrztO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Baysox Fightin Phils @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLt9-N
+
+Shop  https //stza.co/+vLt9-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Baysox
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:yIbNxUMc0nfI_A-wYAyMrztO@stanza.co
+SUMMARY:Fightin Phils @ Baysox
+DESCRIPTION:Fightin Phils @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLt9-N\n\nShop: https://stza.co/+vLt9-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Baysox
+<2018-08-04 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       09DRFAgPZ6qJLAet0RHBT8H6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Baysox Fightin Phils @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLta-1W
+
+Shop  https //stza.co/+vLta-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Baysox
+END:VALARM
+DTSTART:20180804T223500Z
+DTEND:20180805T013500Z
+UID:09DRFAgPZ6qJLAet0RHBT8H6@stanza.co
+SUMMARY:Fightin Phils @ Baysox
+DESCRIPTION:Fightin Phils @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLta-1W\n\nShop: https://stza.co/+vLta-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Baysox
+<2018-08-05 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       VBG2433l5M1tbYYyt38zHE2R@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Baysox Fightin Phils @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+vLtb-2H
+
+Shop  https //stza.co/+vLtb-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Baysox
+END:VALARM
+DTSTART:20180805T173500Z
+DTEND:20180805T203500Z
+UID:VBG2433l5M1tbYYyt38zHE2R@stanza.co
+SUMMARY:Fightin Phils @ Baysox
+DESCRIPTION:Fightin Phils @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+vLtb-2H\n\nShop: https://stza.co/+vLtb-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ RubberDucks
+<2018-08-07 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       0EtVlKS_2jS9EM47MsWSK5Hh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ RubberDucks Fightin Phils @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLt0-2D
+
+Shop  https //stza.co/+vLt0-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ RubberDucks
+END:VALARM
+DTSTART:20180807T230500Z
+DTEND:20180808T020500Z
+UID:0EtVlKS_2jS9EM47MsWSK5Hh@stanza.co
+SUMMARY:Fightin Phils @ RubberDucks
+DESCRIPTION:Fightin Phils @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLt0-2D\n\nShop: https://stza.co/+vLt0-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ RubberDucks
+<2018-08-08 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       FbSN83tM0WlaGjcj9sbkysSZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ RubberDucks Fightin Phils @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLt1-2A
+
+Shop  https //stza.co/+vLt1-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ RubberDucks
+END:VALARM
+DTSTART:20180808T230500Z
+DTEND:20180809T020500Z
+UID:FbSN83tM0WlaGjcj9sbkysSZ@stanza.co
+SUMMARY:Fightin Phils @ RubberDucks
+DESCRIPTION:Fightin Phils @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLt1-2A\n\nShop: https://stza.co/+vLt1-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ RubberDucks
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       fWcYIaSBPUjQYqxcLAL-rf16@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ RubberDucks Fightin Phils @ RubberDucks
+
+Follow on MiLB First Pitch  https //stza.co/+vLt2-1X
+
+Shop  https //stza.co/+vLt2-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ RubberDucks
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:fWcYIaSBPUjQYqxcLAL-rf16@stanza.co
+SUMMARY:Fightin Phils @ RubberDucks
+DESCRIPTION:Fightin Phils @ RubberDucks\n\nFollow on MiLB First Pitch: https://stza.co/+vLt2-1X\n\nShop: https://stza.co/+vLt2-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Rumble Ponies
+<2018-08-10 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       XlE2Ow1GZv0wTT3J1j_UxPEX@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Rumble Ponies Fightin Phils vs. Rumble Ponies
+
+Buy tickets here  https //stza.co/~vLvE
+
+Follow on MiLB First Pitch  https //stza.co/+vLvE-30
+
+Shop  https //stza.co/+vLvE-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Rumble Ponies
+END:VALARM
+DTSTART:20180810T230500Z
+DTEND:20180811T020500Z
+UID:XlE2Ow1GZv0wTT3J1j_UxPEX@stanza.co
+SUMMARY:Fightin Phils vs. Rumble Ponies
+DESCRIPTION:Fightin Phils vs. Rumble Ponies\n\nBuy tickets here: https://stza.co/~vLvE\n\nFollow on MiLB First Pitch: https://stza.co/+vLvE-30\n\nShop: https://stza.co/+vLvE-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Rumble Ponies
+<2018-08-11 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       9HGMOv8veyYOes7ZvmkxQSMw@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Rumble Ponies Fightin Phils vs. Rumble Ponies
+
+Buy tickets here  https //stza.co/~vLvG
+
+Follow on MiLB First Pitch  https //stza.co/+vLvG-3i
+
+Shop  https //stza.co/+vLvG-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Rumble Ponies
+END:VALARM
+DTSTART:20180811T223500Z
+DTEND:20180812T013500Z
+UID:9HGMOv8veyYOes7ZvmkxQSMw@stanza.co
+SUMMARY:Fightin Phils vs. Rumble Ponies
+DESCRIPTION:Fightin Phils vs. Rumble Ponies\n\nBuy tickets here: https://stza.co/~vLvG\n\nFollow on MiLB First Pitch: https://stza.co/+vLvG-3i\n\nShop: https://stza.co/+vLvG-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Rumble Ponies
+<2018-08-12 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       2Jn3zqUsjbyP56kKcof2oBop@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Rumble Ponies Fightin Phils vs. Rumble Ponies
+
+Buy tickets here  https //stza.co/~vLvH
+
+Follow on MiLB First Pitch  https //stza.co/+vLvH-18
+
+Shop  https //stza.co/+vLvH-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Rumble Ponies
+END:VALARM
+DTSTART:20180812T210500Z
+DTEND:20180813T000500Z
+UID:2Jn3zqUsjbyP56kKcof2oBop@stanza.co
+SUMMARY:Fightin Phils vs. Rumble Ponies
+DESCRIPTION:Fightin Phils vs. Rumble Ponies\n\nBuy tickets here: https://stza.co/~vLvH\n\nFollow on MiLB First Pitch: https://stza.co/+vLvH-18\n\nShop: https://stza.co/+vLvH-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       AAOMF02U5PRiVQ8hXnylj9Y7@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLvJ
+
+Follow on MiLB First Pitch  https //stza.co/+vLvJ-37
+
+Shop  https //stza.co/+vLvJ-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:AAOMF02U5PRiVQ8hXnylj9Y7@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLvJ\n\nFollow on MiLB First Pitch: https://stza.co/+vLvJ-37\n\nShop: https://stza.co/+vLvJ-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       N9k4_zByk6qeOrV-yQr5lgGb@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLvL
+
+Follow on MiLB First Pitch  https //stza.co/+vLvL-S
+
+Shop  https //stza.co/+vLvL-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:N9k4_zByk6qeOrV-yQr5lgGb@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLvL\n\nFollow on MiLB First Pitch: https://stza.co/+vLvL-S\n\nShop: https://stza.co/+vLvL-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Yard Goats
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       TkT3Xsnj7gAhV4VwSqTbX6HB@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Yard Goats Fightin Phils vs. Yard Goats
+
+Buy tickets here  https //stza.co/~vLvN
+
+Follow on MiLB First Pitch  https //stza.co/+vLvN-3e
+
+Shop  https //stza.co/+vLvN-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Yard Goats
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:TkT3Xsnj7gAhV4VwSqTbX6HB@stanza.co
+SUMMARY:Fightin Phils vs. Yard Goats
+DESCRIPTION:Fightin Phils vs. Yard Goats\n\nBuy tickets here: https://stza.co/~vLvN\n\nFollow on MiLB First Pitch: https://stza.co/+vLvN-3e\n\nShop: https://stza.co/+vLvN-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Rumble Ponies
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       1EQE6VP9Ltm2P1_epOE2hQTK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Rumble Ponies Fightin Phils @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLt6-2v
+
+Shop  https //stza.co/+vLt6-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Rumble Ponies
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:1EQE6VP9Ltm2P1_epOE2hQTK@stanza.co
+SUMMARY:Fightin Phils @ Rumble Ponies
+DESCRIPTION:Fightin Phils @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLt6-2v\n\nShop: https://stza.co/+vLt6-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Rumble Ponies
+<2018-08-18 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       hqU8hR4pzc0O8S_YHu2uQBuy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Rumble Ponies Fightin Phils @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLt7-2L
+
+Shop  https //stza.co/+vLt7-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Rumble Ponies
+END:VALARM
+DTSTART:20180818T220500Z
+DTEND:20180819T010500Z
+UID:hqU8hR4pzc0O8S_YHu2uQBuy@stanza.co
+SUMMARY:Fightin Phils @ Rumble Ponies
+DESCRIPTION:Fightin Phils @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLt7-2L\n\nShop: https://stza.co/+vLt7-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Rumble Ponies
+<2018-08-19 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       ULhFMuHkMs-citAu4K1b8xwX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Rumble Ponies Fightin Phils @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+vLt8-2B
+
+Shop  https //stza.co/+vLt8-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Rumble Ponies
+END:VALARM
+DTSTART:20180819T180500Z
+DTEND:20180819T210500Z
+UID:ULhFMuHkMs-citAu4K1b8xwX@stanza.co
+SUMMARY:Fightin Phils @ Rumble Ponies
+DESCRIPTION:Fightin Phils @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+vLt8-2B\n\nShop: https://stza.co/+vLt8-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Senators
+<2018-08-20 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       hsy3QZlYSApyXtn7DM936_nJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Senators Fightin Phils @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLtn-F
+
+Shop  https //stza.co/+vLtn-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Senators
+END:VALARM
+DTSTART:20180820T223000Z
+DTEND:20180821T013000Z
+UID:hsy3QZlYSApyXtn7DM936_nJ@stanza.co
+SUMMARY:Fightin Phils @ Senators
+DESCRIPTION:Fightin Phils @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLtn-F\n\nShop: https://stza.co/+vLtn-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Senators
+<2018-08-21 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       _Es-hq_f1wtiHrxm3gd6rnzl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Senators Fightin Phils @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+vLto-2q
+
+Shop  https //stza.co/+vLto-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Senators
+END:VALARM
+DTSTART:20180821T223000Z
+DTEND:20180822T013000Z
+UID:_Es-hq_f1wtiHrxm3gd6rnzl@stanza.co
+SUMMARY:Fightin Phils @ Senators
+DESCRIPTION:Fightin Phils @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+vLto-2q\n\nShop: https://stza.co/+vLto-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Thunder
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       dyZipyUJ_sz0zDorn9xz5q24@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Thunder Fightin Phils vs. Thunder
+
+Buy tickets here  https //stza.co/~vLvQ
+
+Follow on MiLB First Pitch  https //stza.co/+vLvQ-1y
+
+Shop  https //stza.co/+vLvQ-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Thunder
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:dyZipyUJ_sz0zDorn9xz5q24@stanza.co
+SUMMARY:Fightin Phils vs. Thunder
+DESCRIPTION:Fightin Phils vs. Thunder\n\nBuy tickets here: https://stza.co/~vLvQ\n\nFollow on MiLB First Pitch: https://stza.co/+vLvQ-1y\n\nShop: https://stza.co/+vLvQ-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Thunder
+<2018-08-23 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       z3sOfdfrm5e_Xc1ehgJq8iqz@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Thunder Fightin Phils vs. Thunder
+
+Buy tickets here  https //stza.co/~vLvR
+
+Follow on MiLB First Pitch  https //stza.co/+vLvR-2L
+
+Shop  https //stza.co/+vLvR-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Thunder
+END:VALARM
+DTSTART:20180823T230500Z
+DTEND:20180824T020500Z
+UID:z3sOfdfrm5e_Xc1ehgJq8iqz@stanza.co
+SUMMARY:Fightin Phils vs. Thunder
+DESCRIPTION:Fightin Phils vs. Thunder\n\nBuy tickets here: https://stza.co/~vLvR\n\nFollow on MiLB First Pitch: https://stza.co/+vLvR-2L\n\nShop: https://stza.co/+vLvR-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       pxssF54YfdhABiKr28LROM_h@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLvU
+
+Follow on MiLB First Pitch  https //stza.co/+vLvU-B
+
+Shop  https //stza.co/+vLvU-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:pxssF54YfdhABiKr28LROM_h@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLvU\n\nFollow on MiLB First Pitch: https://stza.co/+vLvU-B\n\nShop: https://stza.co/+vLvU-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-08-25 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       vSNLfTA7FzYRV_aDLFX0RhX6@stanza.co
+:LOCATION: Need something fun to do tonight? Get Fightin Phils tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLvV
+
+Follow on MiLB First Pitch  https //stza.co/+vLvV-3U
+
+Shop  https //stza.co/+vLvV-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180825T223500Z
+DTEND:20180826T013500Z
+UID:vSNLfTA7FzYRV_aDLFX0RhX6@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLvV\n\nFollow on MiLB First Pitch: https://stza.co/+vLvV-3U\n\nShop: https://stza.co/+vLvV-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Fightin Phils tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils vs. Sea Dogs
+<2018-08-26 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       ZKdZ6uMqj34s90WctfAm9-QZ@stanza.co
+:LOCATION: Don’t miss out! Fightin Phils tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils vs. Sea Dogs Fightin Phils vs. Sea Dogs
+
+Buy tickets here  https //stza.co/~vLvY
+
+Follow on MiLB First Pitch  https //stza.co/+vLvY-1C
+
+Shop  https //stza.co/+vLvY-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils vs. Sea Dogs
+END:VALARM
+DTSTART:20180826T180500Z
+DTEND:20180826T210500Z
+UID:ZKdZ6uMqj34s90WctfAm9-QZ@stanza.co
+SUMMARY:Fightin Phils vs. Sea Dogs
+DESCRIPTION:Fightin Phils vs. Sea Dogs\n\nBuy tickets here: https://stza.co/~vLvY\n\nFollow on MiLB First Pitch: https://stza.co/+vLvY-1C\n\nShop: https://stza.co/+vLvY-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Fightin Phils tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-08-27 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       GL5ah3Y9cE-ZKXsGcDuQHOnZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vaTA-2$
+
+Shop  https //stza.co/+vaTA-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180827T223500Z
+DTEND:20180828T013500Z
+UID:GL5ah3Y9cE-ZKXsGcDuQHOnZ@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vaTA-2$\n\nShop: https://stza.co/+vaTA-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-08-28 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       JJPxFwTwSlEhJoYKquQ9aTYz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vaTJ-3E
+
+Shop  https //stza.co/+vaTJ-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180828T223500Z
+DTEND:20180829T013500Z
+UID:JJPxFwTwSlEhJoYKquQ9aTYz@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vaTJ-3E\n\nShop: https://stza.co/+vaTJ-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-08-29 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       w1C5LJSk4nNvMaNYA-x9zU5U@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vaTU-1X
+
+Shop  https //stza.co/+vaTU-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180829T223500Z
+DTEND:20180830T013500Z
+UID:w1C5LJSk4nNvMaNYA-x9zU5U@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vaTU-1X\n\nShop: https://stza.co/+vaTU-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Flying Squirrels
+<2018-08-30 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       S9DWvnpM51CVVS7lD2e6CQKG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Flying Squirrels Fightin Phils @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+vaT$-1Z
+
+Shop  https //stza.co/+vaT$-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Flying Squirrels
+END:VALARM
+DTSTART:20180830T223500Z
+DTEND:20180831T013500Z
+UID:S9DWvnpM51CVVS7lD2e6CQKG@stanza.co
+SUMMARY:Fightin Phils @ Flying Squirrels
+DESCRIPTION:Fightin Phils @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+vaT$-1Z\n\nShop: https://stza.co/+vaT$-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-08-31 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       iZ4xTa492N1O4p-fEtGzA9KX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUM-2e
+
+Shop  https //stza.co/+vaUM-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180831T230000Z
+DTEND:20180901T020000Z
+UID:iZ4xTa492N1O4p-fEtGzA9KX@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUM-2e\n\nShop: https://stza.co/+vaUM-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-09-01 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       3QNkIwL7vpPzUum4oo-GTnc2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUO-h
+
+Shop  https //stza.co/+vaUO-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180901T230000Z
+DTEND:20180902T020000Z
+UID:3QNkIwL7vpPzUum4oo-GTnc2@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUO-h\n\nShop: https://stza.co/+vaUO-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-09-02 Sun 18:00-21:00>
+:PROPERTIES:
+:ID:       FGW2qVG-91JFseD8plGE7a6u@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUP-4
+
+Shop  https //stza.co/+vaUP-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180902T230000Z
+DTEND:20180903T020000Z
+UID:FGW2qVG-91JFseD8plGE7a6u@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUP-4\n\nShop: https://stza.co/+vaUP-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT
+* Fightin Phils @ Thunder
+<2018-09-03 Mon 12:00-15:00>
+:PROPERTIES:
+:ID:       1QKgDBGq5Zms65-ccxCLPn9P@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Fightin Phils @ Thunder Fightin Phils @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+vaUQ-1I
+
+Shop  https //stza.co/+vaUQ-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fightin Phils @ Thunder
+END:VALARM
+DTSTART:20180903T170000Z
+DTEND:20180903T200000Z
+UID:1QKgDBGq5Zms65-ccxCLPn9P@stanza.co
+SUMMARY:Fightin Phils @ Thunder
+DESCRIPTION:Fightin Phils @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+vaUQ-1I\n\nShop: https://stza.co/+vaUQ-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144553Z
+LAST-MODIFIED:20180213T144553Z
+TRANSP:OPAQUE
+END:VEVENT

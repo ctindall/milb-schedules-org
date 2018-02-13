@@ -1,0 +1,2746 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Brewers @ Voyagers
+<2018-06-15 Fri>--<2018-06-14 Thu>
+:PROPERTIES:
+:ID:       q5OlC4I_Xx-WbZKPrwBdiVpj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCxc-15
+
+Shop  https //stza.co/+xCxc-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180615
+DTEND;VALUE=DATE:20180615
+UID:q5OlC4I_Xx-WbZKPrwBdiVpj@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCxc-15\n\nShop: https://stza.co/+xCxc-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-06-16 Sat>--<2018-06-15 Fri>
+:PROPERTIES:
+:ID:       3_73CVdPtyjdyFf26PneK1Vm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCuZ-37
+
+Shop  https //stza.co/+xCuZ-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180616
+DTEND;VALUE=DATE:20180616
+UID:3_73CVdPtyjdyFf26PneK1Vm@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCuZ-37\n\nShop: https://stza.co/+xCuZ-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-06-17 Sun>--<2018-06-16 Sat>
+:PROPERTIES:
+:ID:       _j-2GmgqWio7CNBNjz6cCpcb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCu$-u
+
+Shop  https //stza.co/+xCu$-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180617
+DTEND;VALUE=DATE:20180617
+UID:_j-2GmgqWio7CNBNjz6cCpcb@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCu$-u\n\nShop: https://stza.co/+xCu$-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Voyagers
+<2018-06-18 Mon>--<2018-06-17 Sun>
+:PROPERTIES:
+:ID:       r140bxnBcq90SZfpS4zTQL75@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCxd-3B
+
+Shop  https //stza.co/+xCxd-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180618
+UID:r140bxnBcq90SZfpS4zTQL75@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCxd-3B\n\nShop: https://stza.co/+xCxd-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-06-19 Tue>--<2018-06-18 Mon>
+:PROPERTIES:
+:ID:       Zs_1249MBP5MfQTD1ibLSu_R@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCwV-12
+
+Shop  https //stza.co/+xCwV-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180619
+UID:Zs_1249MBP5MfQTD1ibLSu_R@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCwV-12\n\nShop: https://stza.co/+xCwV-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-06-20 Wed>--<2018-06-19 Tue>
+:PROPERTIES:
+:ID:       hg-ezcWt1Jk6cp0y8lJgq2Qq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCwW-3v
+
+Shop  https //stza.co/+xCwW-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180620
+UID:hg-ezcWt1Jk6cp0y8lJgq2Qq@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCwW-3v\n\nShop: https://stza.co/+xCwW-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-06-21 Thu>--<2018-06-20 Wed>
+:PROPERTIES:
+:ID:       M8W6jzRYiLcRZnwMnCqQed53@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCwZ-3v
+
+Shop  https //stza.co/+xCwZ-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180621
+UID:M8W6jzRYiLcRZnwMnCqQed53@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCwZ-3v\n\nShop: https://stza.co/+xCwZ-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       zkobc_6XZux7bmfZoz8aU5_u@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCv2-s
+
+Shop  https //stza.co/+xCv2-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:zkobc_6XZux7bmfZoz8aU5_u@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCv2-s\n\nShop: https://stza.co/+xCv2-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       _YLyhao7dDyoQqktQ35iHrhA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCv4-1v
+
+Shop  https //stza.co/+xCv4-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:_YLyhao7dDyoQqktQ35iHrhA@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCv4-1v\n\nShop: https://stza.co/+xCv4-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       O7bR1ZQcngShvZryf2-wFQ_J@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCv7-1T
+
+Shop  https //stza.co/+xCv7-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:O7bR1ZQcngShvZryf2-wFQ_J@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCv7-1T\n\nShop: https://stza.co/+xCv7-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-06-25 Mon>--<2018-06-24 Sun>
+:PROPERTIES:
+:ID:       m7hAlA-JRrifRz6Itn7FVDny@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCv9-36
+
+Shop  https //stza.co/+xCv9-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180625
+DTEND;VALUE=DATE:20180625
+UID:m7hAlA-JRrifRz6Itn7FVDny@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCv9-36\n\nShop: https://stza.co/+xCv9-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       F4TuYV4OHWrQ_W5FAGDPjBs1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCvd-1m
+
+Shop  https //stza.co/+xCvd-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:F4TuYV4OHWrQ_W5FAGDPjBs1@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCvd-1m\n\nShop: https://stza.co/+xCvd-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-06-27 Wed>--<2018-06-26 Tue>
+:PROPERTIES:
+:ID:       OOjXeevS_okLaq8mB0FZ4uIo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCvh-3_
+
+Shop  https //stza.co/+xCvh-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180627
+UID:OOjXeevS_okLaq8mB0FZ4uIo@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCvh-3_\n\nShop: https://stza.co/+xCvh-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-06-28 Thu 20:05-23:05>
+:PROPERTIES:
+:ID:       km6wAPeZCswZAc4edWARAZiP@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOC-I
+
+Shop  https //stza.co/+xSOC-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180629T010500Z
+DTEND:20180629T040500Z
+UID:km6wAPeZCswZAc4edWARAZiP@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOC-I\n\nShop: https://stza.co/+xSOC-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-06-29 Fri 20:05-23:05>
+:PROPERTIES:
+:ID:       LdPrglpxDQtK8xabnVs0IUkh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOD-D
+
+Shop  https //stza.co/+xSOD-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180630T010500Z
+DTEND:20180630T040500Z
+UID:LdPrglpxDQtK8xabnVs0IUkh@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOD-D\n\nShop: https://stza.co/+xSOD-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Voyagers
+<2018-06-30 Sat>--<2018-06-29 Fri>
+:PROPERTIES:
+:ID:       ElU7ZBYAz1678dfkyYZ6BzWO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCxf-28
+
+Shop  https //stza.co/+xCxf-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180630
+UID:ElU7ZBYAz1678dfkyYZ6BzWO@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCxf-28\n\nShop: https://stza.co/+xCxf-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Voyagers
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       LpuvUmCMuWkkErVFwuz7MR8S@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCxg-1g
+
+Shop  https //stza.co/+xCxg-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:LpuvUmCMuWkkErVFwuz7MR8S@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCxg-1g\n\nShop: https://stza.co/+xCxg-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-07-02 Mon>--<2018-07-01 Sun>
+:PROPERTIES:
+:ID:       IU30UjHw3fK1jduNanG0zz0j@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCvi-3y
+
+Shop  https //stza.co/+xCvi-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180702
+UID:IU30UjHw3fK1jduNanG0zz0j@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCvi-3y\n\nShop: https://stza.co/+xCvi-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-07-03 Tue>--<2018-07-02 Mon>
+:PROPERTIES:
+:ID:       Qyl6oc0KZrN3PHSjMmRzNNo3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCvk-2Q
+
+Shop  https //stza.co/+xCvk-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180703
+DTEND;VALUE=DATE:20180703
+UID:Qyl6oc0KZrN3PHSjMmRzNNo3@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCvk-2Q\n\nShop: https://stza.co/+xCvk-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-07-04 Wed 17:05-20:05>
+:PROPERTIES:
+:ID:       meTwkqgrnXbDiQEHik12Zs65@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOE-2T
+
+Shop  https //stza.co/+xSOE-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180704T220500Z
+DTEND:20180705T010500Z
+UID:meTwkqgrnXbDiQEHik12Zs65@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOE-2T\n\nShop: https://stza.co/+xSOE-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-07-05 Thu 20:05-23:05>
+:PROPERTIES:
+:ID:       8Th70qpfsaznVr5SV_EKBMl2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOF-1Q
+
+Shop  https //stza.co/+xSOF-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180706T010500Z
+DTEND:20180706T040500Z
+UID:8Th70qpfsaznVr5SV_EKBMl2@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOF-1Q\n\nShop: https://stza.co/+xSOF-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-07-06 Fri 20:05-23:05>
+:PROPERTIES:
+:ID:       5qNn0dbPAteY3YXlLsrzqqTr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOG-2D
+
+Shop  https //stza.co/+xSOG-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180707T010500Z
+DTEND:20180707T040500Z
+UID:5qNn0dbPAteY3YXlLsrzqqTr@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOG-2D\n\nShop: https://stza.co/+xSOG-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       8I57YoTZF-NBHePcjWfISBIR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCvn-2z
+
+Shop  https //stza.co/+xCvn-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:8I57YoTZF-NBHePcjWfISBIR@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCvn-2z\n\nShop: https://stza.co/+xCvn-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-07-08 Sun>--<2018-07-07 Sat>
+:PROPERTIES:
+:ID:       WsIJAdKdQ_VdwznD0rgtWoiY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCvq-1s
+
+Shop  https //stza.co/+xCvq-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180708
+DTEND;VALUE=DATE:20180708
+UID:WsIJAdKdQ_VdwznD0rgtWoiY@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCvq-1s\n\nShop: https://stza.co/+xCvq-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Chukars
+<2018-07-10 Tue 20:15-23:15>
+:PROPERTIES:
+:ID:       YGnhJ2f1A1WdJJrTdDBZOb0Y@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Chukars Brewers @ Chukars
+
+Follow on MiLB First Pitch  https //stza.co/+xZUL-3U
+
+Shop  https //stza.co/+xZUL-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Chukars
+END:VALARM
+DTSTART:20180711T011500Z
+DTEND:20180711T041500Z
+UID:YGnhJ2f1A1WdJJrTdDBZOb0Y@stanza.co
+SUMMARY:Brewers @ Chukars
+DESCRIPTION:Brewers @ Chukars\n\nFollow on MiLB First Pitch: https://stza.co/+xZUL-3U\n\nShop: https://stza.co/+xZUL-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Chukars
+<2018-07-11 Wed 20:15-23:15>
+:PROPERTIES:
+:ID:       jVQJ92gXUICOX1bQF6yRpI3S@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Chukars Brewers @ Chukars
+
+Follow on MiLB First Pitch  https //stza.co/+xZUM-3z
+
+Shop  https //stza.co/+xZUM-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Chukars
+END:VALARM
+DTSTART:20180712T011500Z
+DTEND:20180712T041500Z
+UID:jVQJ92gXUICOX1bQF6yRpI3S@stanza.co
+SUMMARY:Brewers @ Chukars
+DESCRIPTION:Brewers @ Chukars\n\nFollow on MiLB First Pitch: https://stza.co/+xZUM-3z\n\nShop: https://stza.co/+xZUM-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Chukars
+<2018-07-12 Thu 20:15-23:15>
+:PROPERTIES:
+:ID:       KAdVirM2qCDrRUju7Ak_E1gp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Chukars Brewers @ Chukars
+
+Follow on MiLB First Pitch  https //stza.co/+xZUN-1a
+
+Shop  https //stza.co/+xZUN-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Chukars
+END:VALARM
+DTSTART:20180713T011500Z
+DTEND:20180713T041500Z
+UID:KAdVirM2qCDrRUju7Ak_E1gp@stanza.co
+SUMMARY:Brewers @ Chukars
+DESCRIPTION:Brewers @ Chukars\n\nFollow on MiLB First Pitch: https://stza.co/+xZUN-1a\n\nShop: https://stza.co/+xZUN-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Chukars
+<2018-07-13 Fri 20:15-23:15>
+:PROPERTIES:
+:ID:       bqLjx90u-B0ewKZkZqlRGaIH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Chukars Brewers @ Chukars
+
+Follow on MiLB First Pitch  https //stza.co/+xZUO-1m
+
+Shop  https //stza.co/+xZUO-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Chukars
+END:VALARM
+DTSTART:20180714T011500Z
+DTEND:20180714T041500Z
+UID:bqLjx90u-B0ewKZkZqlRGaIH@stanza.co
+SUMMARY:Brewers @ Chukars
+DESCRIPTION:Brewers @ Chukars\n\nFollow on MiLB First Pitch: https://stza.co/+xZUO-1m\n\nShop: https://stza.co/+xZUO-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Raptors
+<2018-07-14 Sat 20:00-23:00>
+:PROPERTIES:
+:ID:       ri_3veGYYnH2MFpjtAPRiT2H@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Raptors Brewers @ Raptors
+
+Follow on MiLB First Pitch  https //stza.co/+x$7_-3r
+
+Shop  https //stza.co/+x$7_-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Raptors
+END:VALARM
+DTSTART:20180715T010000Z
+DTEND:20180715T040000Z
+UID:ri_3veGYYnH2MFpjtAPRiT2H@stanza.co
+SUMMARY:Brewers @ Raptors
+DESCRIPTION:Brewers @ Raptors\n\nFollow on MiLB First Pitch: https://stza.co/+x$7_-3r\n\nShop: https://stza.co/+x$7_-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Raptors
+<2018-07-15 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       Kcp_BZUOW6RLgXDz5uktA6R1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Raptors Brewers @ Raptors
+
+Follow on MiLB First Pitch  https //stza.co/+x$7$-2r
+
+Shop  https //stza.co/+x$7$-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Raptors
+END:VALARM
+DTSTART:20180715T220000Z
+DTEND:20180716T010000Z
+UID:Kcp_BZUOW6RLgXDz5uktA6R1@stanza.co
+SUMMARY:Brewers @ Raptors
+DESCRIPTION:Brewers @ Raptors\n\nFollow on MiLB First Pitch: https://stza.co/+x$7$-2r\n\nShop: https://stza.co/+x$7$-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Raptors
+<2018-07-16 Mon 20:00-23:00>
+:PROPERTIES:
+:ID:       OAnIagjBGxFHb2qQ1HP6XBRv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Raptors Brewers @ Raptors
+
+Follow on MiLB First Pitch  https //stza.co/+x$80-2C
+
+Shop  https //stza.co/+x$80-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Raptors
+END:VALARM
+DTSTART:20180717T010000Z
+DTEND:20180717T040000Z
+UID:OAnIagjBGxFHb2qQ1HP6XBRv@stanza.co
+SUMMARY:Brewers @ Raptors
+DESCRIPTION:Brewers @ Raptors\n\nFollow on MiLB First Pitch: https://stza.co/+x$80-2C\n\nShop: https://stza.co/+x$80-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Chukars
+<2018-07-18 Wed>--<2018-07-17 Tue>
+:PROPERTIES:
+:ID:       WrRWalbViKdqPvQXeqvGxaP9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Chukars Brewers vs. Chukars
+
+Follow on MiLB First Pitch  https //stza.co/+xCvs-3w
+
+Shop  https //stza.co/+xCvs-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Chukars
+END:VALARM
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180718
+UID:WrRWalbViKdqPvQXeqvGxaP9@stanza.co
+SUMMARY:Brewers vs. Chukars
+DESCRIPTION:Brewers vs. Chukars\n\nFollow on MiLB First Pitch: https://stza.co/+xCvs-3w\n\nShop: https://stza.co/+xCvs-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Chukars
+<2018-07-19 Thu>--<2018-07-18 Wed>
+:PROPERTIES:
+:ID:       _BUufM9yF0Wc7WXvzG9EJ_wU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Chukars Brewers vs. Chukars
+
+Follow on MiLB First Pitch  https //stza.co/+xCvv-1o
+
+Shop  https //stza.co/+xCvv-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Chukars
+END:VALARM
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180719
+UID:_BUufM9yF0Wc7WXvzG9EJ_wU@stanza.co
+SUMMARY:Brewers vs. Chukars
+DESCRIPTION:Brewers vs. Chukars\n\nFollow on MiLB First Pitch: https://stza.co/+xCvv-1o\n\nShop: https://stza.co/+xCvv-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Chukars
+<2018-07-20 Fri>--<2018-07-19 Thu>
+:PROPERTIES:
+:ID:       oX9O5NLUsv0_8UWbIRVgirp6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Chukars Brewers vs. Chukars
+
+Follow on MiLB First Pitch  https //stza.co/+xCvw-T
+
+Shop  https //stza.co/+xCvw-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Chukars
+END:VALARM
+DTSTART;VALUE=DATE:20180720
+DTEND;VALUE=DATE:20180720
+UID:oX9O5NLUsv0_8UWbIRVgirp6@stanza.co
+SUMMARY:Brewers vs. Chukars
+DESCRIPTION:Brewers vs. Chukars\n\nFollow on MiLB First Pitch: https://stza.co/+xCvw-T\n\nShop: https://stza.co/+xCvw-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Raptors
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       uWI-qx8LL8xHu2DzTp4zgbSa@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Raptors Brewers vs. Raptors
+
+Follow on MiLB First Pitch  https //stza.co/+xCvA-2c
+
+Shop  https //stza.co/+xCvA-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Raptors
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:uWI-qx8LL8xHu2DzTp4zgbSa@stanza.co
+SUMMARY:Brewers vs. Raptors
+DESCRIPTION:Brewers vs. Raptors\n\nFollow on MiLB First Pitch: https://stza.co/+xCvA-2c\n\nShop: https://stza.co/+xCvA-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Raptors
+<2018-07-22 Sun>--<2018-07-21 Sat>
+:PROPERTIES:
+:ID:       iYQ0oaMY1UoGQY73l-X3SbRs@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Raptors Brewers vs. Raptors
+
+Follow on MiLB First Pitch  https //stza.co/+xCvB-9
+
+Shop  https //stza.co/+xCvB-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Raptors
+END:VALARM
+DTSTART;VALUE=DATE:20180722
+DTEND;VALUE=DATE:20180722
+UID:iYQ0oaMY1UoGQY73l-X3SbRs@stanza.co
+SUMMARY:Brewers vs. Raptors
+DESCRIPTION:Brewers vs. Raptors\n\nFollow on MiLB First Pitch: https://stza.co/+xCvB-9\n\nShop: https://stza.co/+xCvB-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Raptors
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       gTcAaZJPQ3FuTsRC4MkT3Yrt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Raptors Brewers vs. Raptors
+
+Follow on MiLB First Pitch  https //stza.co/+xCvD-1R
+
+Shop  https //stza.co/+xCvD-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Raptors
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:gTcAaZJPQ3FuTsRC4MkT3Yrt@stanza.co
+SUMMARY:Brewers vs. Raptors
+DESCRIPTION:Brewers vs. Raptors\n\nFollow on MiLB First Pitch: https://stza.co/+xCvD-1R\n\nShop: https://stza.co/+xCvD-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Raptors
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       bQ7kIvFn5r2SdgCwUnnh9OV8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Raptors Brewers vs. Raptors
+
+Follow on MiLB First Pitch  https //stza.co/+xCvG-1
+
+Shop  https //stza.co/+xCvG-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Raptors
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:bQ7kIvFn5r2SdgCwUnnh9OV8@stanza.co
+SUMMARY:Brewers vs. Raptors
+DESCRIPTION:Brewers vs. Raptors\n\nFollow on MiLB First Pitch: https://stza.co/+xCvG-1\n\nShop: https://stza.co/+xCvG-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Voyagers
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       o-p2Rb0hQtcom644313ADF0q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCxh-27
+
+Shop  https //stza.co/+xCxh-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:o-p2Rb0hQtcom644313ADF0q@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCxh-27\n\nShop: https://stza.co/+xCxh-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Voyagers
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       jWOLmT-bZUK5nBjAXMwQBOMN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCxj-3f
+
+Shop  https //stza.co/+xCxj-2u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:jWOLmT-bZUK5nBjAXMwQBOMN@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCxj-3f\n\nShop: https://stza.co/+xCxj-2u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Voyagers
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       _h-hFm-rlsm7CYXEKbLK7_Bm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCxk-3Z
+
+Shop  https //stza.co/+xCxk-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:_h-hFm-rlsm7CYXEKbLK7_Bm@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCxk-3Z\n\nShop: https://stza.co/+xCxk-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Voyagers
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       -qIXsUAUhMbW7vJiSCiRMLs3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Voyagers Brewers @ Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xBHn-1z
+
+Shop  https //stza.co/+xBHn-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:-qIXsUAUhMbW7vJiSCiRMLs3@stanza.co
+SUMMARY:Brewers @ Voyagers
+DESCRIPTION:Brewers @ Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xBHn-1z\n\nShop: https://stza.co/+xBHn-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-07-30 Mon>--<2018-07-29 Sun>
+:PROPERTIES:
+:ID:       QXxoR7sLEMN1Av6_QG8KHfgo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCvJ-k
+
+Shop  https //stza.co/+xCvJ-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180730
+DTEND;VALUE=DATE:20180730
+UID:QXxoR7sLEMN1Av6_QG8KHfgo@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCvJ-k\n\nShop: https://stza.co/+xCvJ-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-07-31 Tue>--<2018-07-30 Mon>
+:PROPERTIES:
+:ID:       hbdvC-s9xPuda8KRJ4DRezkJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCvK-W
+
+Shop  https //stza.co/+xCvK-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180731
+DTEND;VALUE=DATE:20180731
+UID:hbdvC-s9xPuda8KRJ4DRezkJ@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCvK-W\n\nShop: https://stza.co/+xCvK-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-08-01 Wed>--<2018-07-31 Tue>
+:PROPERTIES:
+:ID:       1nHzYhnWYEbOwwjClMmlXkya@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCw_-2A
+
+Shop  https //stza.co/+xCw_-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180801
+UID:1nHzYhnWYEbOwwjClMmlXkya@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCw_-2A\n\nShop: https://stza.co/+xCw_-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-08-02 Thu>--<2018-08-01 Wed>
+:PROPERTIES:
+:ID:       yIdupN9eW_e6KdNlSDTPxoNU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCw$-2_
+
+Shop  https //stza.co/+xCw$-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180802
+UID:yIdupN9eW_e6KdNlSDTPxoNU@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCw$-2_\n\nShop: https://stza.co/+xCw$-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       lDuGv0BvD9cVP5WebBvEsQqh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCvN-2r
+
+Shop  https //stza.co/+xCvN-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:lDuGv0BvD9cVP5WebBvEsQqh@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCvN-2r\n\nShop: https://stza.co/+xCvN-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       PKfNYZEFpO2MvXr_kInMxd3v@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCvR-j
+
+Shop  https //stza.co/+xCvR-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:PKfNYZEFpO2MvXr_kInMxd3v@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCvR-j\n\nShop: https://stza.co/+xCvR-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Mustangs
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       Ldt8BiG2NF0Zpqy-coqOz9QJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Mustangs Brewers vs. Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xCvS-2x
+
+Shop  https //stza.co/+xCvS-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Mustangs
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:Ldt8BiG2NF0Zpqy-coqOz9QJ@stanza.co
+SUMMARY:Brewers vs. Mustangs
+DESCRIPTION:Brewers vs. Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xCvS-2x\n\nShop: https://stza.co/+xCvS-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Rockies
+<2018-08-09 Thu 19:40-22:40>
+:PROPERTIES:
+:ID:       soXyObXnAJSDVdz7hpU1XbXq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Rockies Brewers @ Rockies
+
+Follow on MiLB First Pitch  https //stza.co/+xJ88-w
+
+Shop  https //stza.co/+xJ88-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Rockies
+END:VALARM
+DTSTART:20180810T004000Z
+DTEND:20180810T034000Z
+UID:soXyObXnAJSDVdz7hpU1XbXq@stanza.co
+SUMMARY:Brewers @ Rockies
+DESCRIPTION:Brewers @ Rockies\n\nFollow on MiLB First Pitch: https://stza.co/+xJ88-w\n\nShop: https://stza.co/+xJ88-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Rockies
+<2018-08-10 Fri 19:40-22:40>
+:PROPERTIES:
+:ID:       BZiSO4OwT7y3cW8mjmq3-RWO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Rockies Brewers @ Rockies
+
+Follow on MiLB First Pitch  https //stza.co/+xJ89-22
+
+Shop  https //stza.co/+xJ89-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Rockies
+END:VALARM
+DTSTART:20180811T004000Z
+DTEND:20180811T034000Z
+UID:BZiSO4OwT7y3cW8mjmq3-RWO@stanza.co
+SUMMARY:Brewers @ Rockies
+DESCRIPTION:Brewers @ Rockies\n\nFollow on MiLB First Pitch: https://stza.co/+xJ89-22\n\nShop: https://stza.co/+xJ89-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Rockies
+<2018-08-11 Sat 19:40-22:40>
+:PROPERTIES:
+:ID:       3flbekDf8IQ-0YytSeYT1UIt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Rockies Brewers @ Rockies
+
+Follow on MiLB First Pitch  https //stza.co/+xJ8a-3
+
+Shop  https //stza.co/+xJ8a-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Rockies
+END:VALARM
+DTSTART:20180812T004000Z
+DTEND:20180812T034000Z
+UID:3flbekDf8IQ-0YytSeYT1UIt@stanza.co
+SUMMARY:Brewers @ Rockies
+DESCRIPTION:Brewers @ Rockies\n\nFollow on MiLB First Pitch: https://stza.co/+xJ8a-3\n\nShop: https://stza.co/+xJ8a-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Rockies
+<2018-08-12 Sun 18:00-21:00>
+:PROPERTIES:
+:ID:       fYHlyD5fzJERVQWcJfPpQ3v9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Rockies Brewers @ Rockies
+
+Follow on MiLB First Pitch  https //stza.co/+xJ8b-h
+
+Shop  https //stza.co/+xJ8b-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Rockies
+END:VALARM
+DTSTART:20180812T230000Z
+DTEND:20180813T020000Z
+UID:fYHlyD5fzJERVQWcJfPpQ3v9@stanza.co
+SUMMARY:Brewers @ Rockies
+DESCRIPTION:Brewers @ Rockies\n\nFollow on MiLB First Pitch: https://stza.co/+xJ8b-h\n\nShop: https://stza.co/+xJ8b-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Owlz
+<2018-08-13 Mon 20:05-23:05>
+:PROPERTIES:
+:ID:       5020hUfJbkAx-2nSNwxaHCOS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Owlz Brewers @ Owlz
+
+Follow on MiLB First Pitch  https //stza.co/+xPBf-1
+
+Shop  https //stza.co/+xPBf-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Owlz
+END:VALARM
+DTSTART:20180814T010500Z
+DTEND:20180814T040500Z
+UID:5020hUfJbkAx-2nSNwxaHCOS@stanza.co
+SUMMARY:Brewers @ Owlz
+DESCRIPTION:Brewers @ Owlz\n\nFollow on MiLB First Pitch: https://stza.co/+xPBf-1\n\nShop: https://stza.co/+xPBf-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Owlz
+<2018-08-14 Tue 20:05-23:05>
+:PROPERTIES:
+:ID:       AYTccfFBtLjD3G4JRrnxreuk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Owlz Brewers @ Owlz
+
+Follow on MiLB First Pitch  https //stza.co/+xPBg-1R
+
+Shop  https //stza.co/+xPBg-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Owlz
+END:VALARM
+DTSTART:20180815T010500Z
+DTEND:20180815T040500Z
+UID:AYTccfFBtLjD3G4JRrnxreuk@stanza.co
+SUMMARY:Brewers @ Owlz
+DESCRIPTION:Brewers @ Owlz\n\nFollow on MiLB First Pitch: https://stza.co/+xPBg-1R\n\nShop: https://stza.co/+xPBg-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Owlz
+<2018-08-15 Wed 20:05-23:05>
+:PROPERTIES:
+:ID:       SX6P7DUPBqt1RLO3O19rhGs5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Owlz Brewers @ Owlz
+
+Follow on MiLB First Pitch  https //stza.co/+xPBh-15
+
+Shop  https //stza.co/+xPBh-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Owlz
+END:VALARM
+DTSTART:20180816T010500Z
+DTEND:20180816T040500Z
+UID:SX6P7DUPBqt1RLO3O19rhGs5@stanza.co
+SUMMARY:Brewers @ Owlz
+DESCRIPTION:Brewers @ Owlz\n\nFollow on MiLB First Pitch: https://stza.co/+xPBh-15\n\nShop: https://stza.co/+xPBh-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Rockies
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       eJWwZODxFfxvnGJ6AqpsRcDH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Rockies Brewers vs. Rockies
+
+Follow on MiLB First Pitch  https //stza.co/+xCvV-3j
+
+Shop  https //stza.co/+xCvV-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Rockies
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:eJWwZODxFfxvnGJ6AqpsRcDH@stanza.co
+SUMMARY:Brewers vs. Rockies
+DESCRIPTION:Brewers vs. Rockies\n\nFollow on MiLB First Pitch: https://stza.co/+xCvV-3j\n\nShop: https://stza.co/+xCvV-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Rockies
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       CbP1YI6wILz0kNsOQ_3SDf-N@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Rockies Brewers vs. Rockies
+
+Follow on MiLB First Pitch  https //stza.co/+xCvX-23
+
+Shop  https //stza.co/+xCvX-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Rockies
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:CbP1YI6wILz0kNsOQ_3SDf-N@stanza.co
+SUMMARY:Brewers vs. Rockies
+DESCRIPTION:Brewers vs. Rockies\n\nFollow on MiLB First Pitch: https://stza.co/+xCvX-23\n\nShop: https://stza.co/+xCvX-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Rockies
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       5wINuF5LCleTczD6FyHd2sMG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Rockies Brewers vs. Rockies
+
+Follow on MiLB First Pitch  https //stza.co/+xCv$-H
+
+Shop  https //stza.co/+xCv$-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Rockies
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:5wINuF5LCleTczD6FyHd2sMG@stanza.co
+SUMMARY:Brewers vs. Rockies
+DESCRIPTION:Brewers vs. Rockies\n\nFollow on MiLB First Pitch: https://stza.co/+xCv$-H\n\nShop: https://stza.co/+xCv$-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Owlz
+<2018-08-20 Mon>--<2018-08-19 Sun>
+:PROPERTIES:
+:ID:       q6-cIy2JNv1Y5lXfrbMLMv5j@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Owlz Brewers vs. Owlz
+
+Follow on MiLB First Pitch  https //stza.co/+xCw0-3E
+
+Shop  https //stza.co/+xCw0-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Owlz
+END:VALARM
+DTSTART;VALUE=DATE:20180820
+DTEND;VALUE=DATE:20180820
+UID:q6-cIy2JNv1Y5lXfrbMLMv5j@stanza.co
+SUMMARY:Brewers vs. Owlz
+DESCRIPTION:Brewers vs. Owlz\n\nFollow on MiLB First Pitch: https://stza.co/+xCw0-3E\n\nShop: https://stza.co/+xCw0-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Owlz
+<2018-08-21 Tue>--<2018-08-20 Mon>
+:PROPERTIES:
+:ID:       05L1rOzG4qhjTdGCd3nb2A7i@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Owlz Brewers vs. Owlz
+
+Follow on MiLB First Pitch  https //stza.co/+xCw2-2f
+
+Shop  https //stza.co/+xCw2-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Owlz
+END:VALARM
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180821
+UID:05L1rOzG4qhjTdGCd3nb2A7i@stanza.co
+SUMMARY:Brewers vs. Owlz
+DESCRIPTION:Brewers vs. Owlz\n\nFollow on MiLB First Pitch: https://stza.co/+xCw2-2f\n\nShop: https://stza.co/+xCw2-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Owlz
+<2018-08-22 Wed>--<2018-08-21 Tue>
+:PROPERTIES:
+:ID:       hEr0RkDpQLDGJm2mTnjlTRbE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Owlz Brewers vs. Owlz
+
+Follow on MiLB First Pitch  https //stza.co/+xCw4-11
+
+Shop  https //stza.co/+xCw4-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Owlz
+END:VALARM
+DTSTART;VALUE=DATE:20180822
+DTEND;VALUE=DATE:20180822
+UID:hEr0RkDpQLDGJm2mTnjlTRbE@stanza.co
+SUMMARY:Brewers vs. Owlz
+DESCRIPTION:Brewers vs. Owlz\n\nFollow on MiLB First Pitch: https://stza.co/+xCw4-11\n\nShop: https://stza.co/+xCw4-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Owlz
+<2018-08-23 Thu>--<2018-08-22 Wed>
+:PROPERTIES:
+:ID:       qhN8QSUHsmPRac92sRxoRqX6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Owlz Brewers vs. Owlz
+
+Follow on MiLB First Pitch  https //stza.co/+xCw9-3Q
+
+Shop  https //stza.co/+xCw9-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Owlz
+END:VALARM
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180823
+UID:qhN8QSUHsmPRac92sRxoRqX6@stanza.co
+SUMMARY:Brewers vs. Owlz
+DESCRIPTION:Brewers vs. Owlz\n\nFollow on MiLB First Pitch: https://stza.co/+xCw9-3Q\n\nShop: https://stza.co/+xCw9-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-08-24 Fri 20:05-23:05>
+:PROPERTIES:
+:ID:       tto8kmAvauvdv82udxJQPEm1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOH-17
+
+Shop  https //stza.co/+xSOH-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180825T010500Z
+DTEND:20180825T040500Z
+UID:tto8kmAvauvdv82udxJQPEm1@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOH-17\n\nShop: https://stza.co/+xSOH-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-08-25 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       vUsdl2bIY3nyXRuyYW8Xo0kR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOI-1k
+
+Shop  https //stza.co/+xSOI-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180826T000500Z
+DTEND:20180826T030500Z
+UID:vUsdl2bIY3nyXRuyYW8Xo0kR@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOI-1k\n\nShop: https://stza.co/+xSOI-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Mustangs
+<2018-08-26 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       9Vk3pbzrL5r2RpFWKhKNsTl9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Mustangs Brewers @ Mustangs
+
+Follow on MiLB First Pitch  https //stza.co/+xSOJ-n
+
+Shop  https //stza.co/+xSOJ-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Mustangs
+END:VALARM
+DTSTART:20180826T190500Z
+DTEND:20180826T220500Z
+UID:9Vk3pbzrL5r2RpFWKhKNsTl9@stanza.co
+SUMMARY:Brewers @ Mustangs
+DESCRIPTION:Brewers @ Mustangs\n\nFollow on MiLB First Pitch: https://stza.co/+xSOJ-n\n\nShop: https://stza.co/+xSOJ-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       3-FYK0II4fHlomIPJePJaDcO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCwa-c
+
+Shop  https //stza.co/+xCwa-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:3-FYK0II4fHlomIPJePJaDcO@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCwa-c\n\nShop: https://stza.co/+xCwa-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       zy-c8KlVyNIVF0qbj4DO_Inb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCwc-1W
+
+Shop  https //stza.co/+xCwc-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:zy-c8KlVyNIVF0qbj4DO_Inb@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCwc-1W\n\nShop: https://stza.co/+xCwc-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-08-30 Thu>--<2018-08-29 Wed>
+:PROPERTIES:
+:ID:       w2K5J6n6PpAhYW9ocj45_ERv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCwe-32
+
+Shop  https //stza.co/+xCwe-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180830
+UID:w2K5J6n6PpAhYW9ocj45_ERv@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCwe-32\n\nShop: https://stza.co/+xCwe-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Voyagers
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       7lqRazMnbEGSZUiNMiN107E8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Voyagers Brewers vs. Voyagers
+
+Follow on MiLB First Pitch  https //stza.co/+xCwi-E
+
+Shop  https //stza.co/+xCwi-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Voyagers
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:7lqRazMnbEGSZUiNMiN107E8@stanza.co
+SUMMARY:Brewers vs. Voyagers
+DESCRIPTION:Brewers vs. Voyagers\n\nFollow on MiLB First Pitch: https://stza.co/+xCwi-E\n\nShop: https://stza.co/+xCwi-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       wWIkXWoZNf2BoHz23YfSmHl7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCwk-23
+
+Shop  https //stza.co/+xCwk-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:wWIkXWoZNf2BoHz23YfSmHl7@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCwk-23\n\nShop: https://stza.co/+xCwk-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       dx7NqJyoInjL5qxzFXVqK0o4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCwm-2Q
+
+Shop  https //stza.co/+xCwm-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:dx7NqJyoInjL5qxzFXVqK0o4@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCwm-2Q\n\nShop: https://stza.co/+xCwm-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers vs. Osprey
+<2018-09-03 Mon>--<2018-09-02 Sun>
+:PROPERTIES:
+:ID:       tjfGjUswxPPTehkgC5x1ZsAm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers vs. Osprey Brewers vs. Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCwp-1f
+
+Shop  https //stza.co/+xCwp-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Brewers vs. Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180903
+DTEND;VALUE=DATE:20180903
+UID:tjfGjUswxPPTehkgC5x1ZsAm@stanza.co
+SUMMARY:Brewers vs. Osprey
+DESCRIPTION:Brewers vs. Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCwp-1f\n\nShop: https://stza.co/+xCwp-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-09-04 Tue>--<2018-09-03 Mon>
+:PROPERTIES:
+:ID:       LDH0CLmM92ibYtIKGQzGHv90@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCx0-3O
+
+Shop  https //stza.co/+xCx0-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180904
+DTEND;VALUE=DATE:20180904
+UID:LDH0CLmM92ibYtIKGQzGHv90@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCx0-3O\n\nShop: https://stza.co/+xCx0-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-09-05 Wed>--<2018-09-04 Tue>
+:PROPERTIES:
+:ID:       2J31f0kz2rwLq4lC5_XJwgV7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCx1-3u
+
+Shop  https //stza.co/+xCx1-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180905
+DTEND;VALUE=DATE:20180905
+UID:2J31f0kz2rwLq4lC5_XJwgV7@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCx1-3u\n\nShop: https://stza.co/+xCx1-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT
+* Brewers @ Osprey
+<2018-09-06 Thu>--<2018-09-05 Wed>
+:PROPERTIES:
+:ID:       GRDxdTmEAJ9GjiDSj8iOsNLK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Brewers @ Osprey Brewers @ Osprey
+
+Follow on MiLB First Pitch  https //stza.co/+xCx4-1X
+
+Shop  https //stza.co/+xCx4-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brewers @ Osprey
+END:VALARM
+DTSTART;VALUE=DATE:20180906
+DTEND;VALUE=DATE:20180906
+UID:GRDxdTmEAJ9GjiDSj8iOsNLK@stanza.co
+SUMMARY:Brewers @ Osprey
+DESCRIPTION:Brewers @ Osprey\n\nFollow on MiLB First Pitch: https://stza.co/+xCx4-1X\n\nShop: https://stza.co/+xCx4-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144532Z
+LAST-MODIFIED:20180213T144532Z
+TRANSP:OPAQUE
+END:VEVENT

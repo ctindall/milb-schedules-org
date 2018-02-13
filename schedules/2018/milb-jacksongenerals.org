@@ -1,0 +1,5050 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Generals @ Smokies
+<2018-04-02 Mon 10:30-13:30>
+:PROPERTIES:
+:ID:       aYQ8VDpkC6kjsU9layh9f0Z0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTk-3T
+
+Shop  https //stza.co/+xVTk-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180402T153000Z
+DTEND:20180402T183000Z
+UID:aYQ8VDpkC6kjsU9layh9f0Z0@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTk-3T\n\nShop: https://stza.co/+xVTk-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Jumbo Shrimp
+<2018-04-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       oicVXxSoLTebsIM2lj1PHxOX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Jumbo Shrimp Generals vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+wCOa-2c
+
+Shop  https //stza.co/+wCOa-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180405T230500Z
+DTEND:20180406T020500Z
+UID:oicVXxSoLTebsIM2lj1PHxOX@stanza.co
+SUMMARY:Generals vs. Jumbo Shrimp
+DESCRIPTION:Generals vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+wCOa-2c\n\nShop: https://stza.co/+wCOa-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Jumbo Shrimp
+<2018-04-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Slh3puEdTImt3H9ce_f-OSdS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Jumbo Shrimp Generals vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+wCOd-v
+
+Shop  https //stza.co/+wCOd-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180406T230500Z
+DTEND:20180407T020500Z
+UID:Slh3puEdTImt3H9ce_f-OSdS@stanza.co
+SUMMARY:Generals vs. Jumbo Shrimp
+DESCRIPTION:Generals vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+wCOd-v\n\nShop: https://stza.co/+wCOd-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Jumbo Shrimp
+<2018-04-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       gK8D1jzX2ibqa0a6WI1cz2U_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Jumbo Shrimp Generals vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+wCOe-3E
+
+Shop  https //stza.co/+wCOe-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180407T230500Z
+DTEND:20180408T020500Z
+UID:gK8D1jzX2ibqa0a6WI1cz2U_@stanza.co
+SUMMARY:Generals vs. Jumbo Shrimp
+DESCRIPTION:Generals vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+wCOe-3E\n\nShop: https://stza.co/+wCOe-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Jumbo Shrimp
+<2018-04-08 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       Yk_S3Nvs4-rhdQjgT24XwUPK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Jumbo Shrimp Generals vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+wCOg-2x
+
+Shop  https //stza.co/+wCOg-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180408T190500Z
+DTEND:20180408T220500Z
+UID:Yk_S3Nvs4-rhdQjgT24XwUPK@stanza.co
+SUMMARY:Generals vs. Jumbo Shrimp
+DESCRIPTION:Generals vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+wCOg-2x\n\nShop: https://stza.co/+wCOg-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Jumbo Shrimp
+<2018-04-09 Mon 11:05-14:05>
+:PROPERTIES:
+:ID:       njqEtueLbCpbg0IouznxIEhK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Jumbo Shrimp Generals vs. Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+wCOi-1$
+
+Shop  https //stza.co/+wCOi-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Jumbo Shrimp
+END:VALARM
+DTSTART:20180409T160500Z
+DTEND:20180409T190500Z
+UID:njqEtueLbCpbg0IouznxIEhK@stanza.co
+SUMMARY:Generals vs. Jumbo Shrimp
+DESCRIPTION:Generals vs. Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+wCOi-1$\n\nShop: https://stza.co/+wCOi-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-04-11 Wed 10:30-13:30>
+:PROPERTIES:
+:ID:       Fj9_3ghkKDZIsBF7J-NnElYv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTj-1g
+
+Shop  https //stza.co/+xVTj-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180411T153000Z
+DTEND:20180411T183000Z
+UID:Fj9_3ghkKDZIsBF7J-NnElYv@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTj-1g\n\nShop: https://stza.co/+xVTj-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-04-13 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       lzEW59NZPh7THW6vNNPLYQr-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTl-1Y
+
+Shop  https //stza.co/+xVTl-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180413T230000Z
+DTEND:20180414T020000Z
+UID:lzEW59NZPh7THW6vNNPLYQr-@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTl-1Y\n\nShop: https://stza.co/+xVTl-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-04-14 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       UwPcKy2y7SGFBBdMwzLk4W8k@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTm-1h
+
+Shop  https //stza.co/+xVTm-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180414T230000Z
+DTEND:20180415T020000Z
+UID:UwPcKy2y7SGFBBdMwzLk4W8k@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTm-1h\n\nShop: https://stza.co/+xVTm-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-04-15 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       6RLPmdWmGVy2_fG2TlcH6i6h@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTn-2t
+
+Shop  https //stza.co/+xVTn-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180415T180000Z
+DTEND:20180415T210000Z
+UID:6RLPmdWmGVy2_fG2TlcH6i6h@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTn-2t\n\nShop: https://stza.co/+xVTn-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-04-16 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       7NFktCVAlZhinUVedNDOgsJc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCOl-t
+
+Shop  https //stza.co/+wCOl-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180416T230500Z
+DTEND:20180417T020500Z
+UID:7NFktCVAlZhinUVedNDOgsJc@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCOl-t\n\nShop: https://stza.co/+wCOl-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-04-17 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       qWT_owC2EopV4Afr69jnc2z4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCOm-3z
+
+Shop  https //stza.co/+wCOm-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180417T230500Z
+DTEND:20180418T020500Z
+UID:qWT_owC2EopV4Afr69jnc2z4@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCOm-3z\n\nShop: https://stza.co/+wCOm-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-04-18 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       _Yw5Ih2Wt5ruEIS7ABmAOFdW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCOo-l
+
+Shop  https //stza.co/+wCOo-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180418T160500Z
+DTEND:20180418T190500Z
+UID:_Yw5Ih2Wt5ruEIS7ABmAOFdW@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCOo-l\n\nShop: https://stza.co/+wCOo-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-04-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       kfppRzV3UrFRnLbiO_YbqA3F@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCOr-2i
+
+Shop  https //stza.co/+wCOr-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180419T230500Z
+DTEND:20180420T020500Z
+UID:kfppRzV3UrFRnLbiO_YbqA3F@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCOr-2i\n\nShop: https://stza.co/+wCOr-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-04-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       qrOfzmxD6bhVwgdSvH7mxNBE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCOt-E
+
+Shop  https //stza.co/+wCOt-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180420T230500Z
+DTEND:20180421T020500Z
+UID:qrOfzmxD6bhVwgdSvH7mxNBE@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCOt-E\n\nShop: https://stza.co/+wCOt-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-04-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       se4BJr_DCF8csx7QZ8A-qGG_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCOv-3b
+
+Shop  https //stza.co/+wCOv-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180421T230500Z
+DTEND:20180422T020500Z
+UID:se4BJr_DCF8csx7QZ8A-qGG_@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCOv-3b\n\nShop: https://stza.co/+wCOv-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-04-22 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       1L1WWziNVdRUPfK3XV6S_ddN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCOx-_
+
+Shop  https //stza.co/+wCOx-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180422T190500Z
+DTEND:20180422T220500Z
+UID:1L1WWziNVdRUPfK3XV6S_ddN@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCOx-_\n\nShop: https://stza.co/+wCOx-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-04-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       9W1IOPdbHItAEa16s0SUlknc@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCOy-2i
+
+Shop  https //stza.co/+wCOy-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180423T230500Z
+DTEND:20180424T020500Z
+UID:9W1IOPdbHItAEa16s0SUlknc@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCOy-2i\n\nShop: https://stza.co/+wCOy-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-04-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       emSOfx2ZItsvAuxxCsTbXiIr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCOB-19
+
+Shop  https //stza.co/+wCOB-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180424T230500Z
+DTEND:20180425T020500Z
+UID:emSOfx2ZItsvAuxxCsTbXiIr@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCOB-19\n\nShop: https://stza.co/+wCOB-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-04-25 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       mrTEVKU92g2LhuIOREt-RbAe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCOC-31
+
+Shop  https //stza.co/+wCOC-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180425T160500Z
+DTEND:20180425T190500Z
+UID:mrTEVKU92g2LhuIOREt-RbAe@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCOC-31\n\nShop: https://stza.co/+wCOC-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Braves
+<2018-04-26 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       ouUBvktlf-K3VbwlUGV3zGNz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Braves Generals @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLHV-2D
+
+Shop  https //stza.co/+vLHV-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Braves
+END:VALARM
+DTSTART:20180427T000000Z
+DTEND:20180427T030000Z
+UID:ouUBvktlf-K3VbwlUGV3zGNz@stanza.co
+SUMMARY:Generals @ Braves
+DESCRIPTION:Generals @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLHV-2D\n\nShop: https://stza.co/+vLHV-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Braves
+<2018-04-27 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       8RXdizIcsJNsPUFZpH1ZTSYz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Braves Generals @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLHW-35
+
+Shop  https //stza.co/+vLHW-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Braves
+END:VALARM
+DTSTART:20180428T000000Z
+DTEND:20180428T030000Z
+UID:8RXdizIcsJNsPUFZpH1ZTSYz@stanza.co
+SUMMARY:Generals @ Braves
+DESCRIPTION:Generals @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLHW-35\n\nShop: https://stza.co/+vLHW-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Braves
+<2018-04-28 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       dbhzPFAXPLcuMa0bfMO8l0pG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Braves Generals @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLHX-3H
+
+Shop  https //stza.co/+vLHX-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Braves
+END:VALARM
+DTSTART:20180428T230000Z
+DTEND:20180429T020000Z
+UID:dbhzPFAXPLcuMa0bfMO8l0pG@stanza.co
+SUMMARY:Generals @ Braves
+DESCRIPTION:Generals @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLHX-3H\n\nShop: https://stza.co/+vLHX-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Braves
+<2018-04-29 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       V5ZQKRMnf5GTpK4AzHxplTwe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Braves Generals @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLHY-37
+
+Shop  https //stza.co/+vLHY-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Braves
+END:VALARM
+DTSTART:20180429T180000Z
+DTEND:20180429T210000Z
+UID:V5ZQKRMnf5GTpK4AzHxplTwe@stanza.co
+SUMMARY:Generals @ Braves
+DESCRIPTION:Generals @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLHY-37\n\nShop: https://stza.co/+vLHY-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Braves
+<2018-04-30 Mon 10:35-13:35>
+:PROPERTIES:
+:ID:       KrDY54wdhrlTBypiOQQkn7N6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Braves Generals @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vLHZ-1$
+
+Shop  https //stza.co/+vLHZ-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Braves
+END:VALARM
+DTSTART:20180430T153500Z
+DTEND:20180430T183500Z
+UID:KrDY54wdhrlTBypiOQQkn7N6@stanza.co
+SUMMARY:Generals @ Braves
+DESCRIPTION:Generals @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vLHZ-1$\n\nShop: https://stza.co/+vLHZ-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-05-02 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       OYYHcXoAG_3M2xm1rylpv5jj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCOE-D
+
+Shop  https //stza.co/+wCOE-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180502T230500Z
+DTEND:20180503T020500Z
+UID:OYYHcXoAG_3M2xm1rylpv5jj@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCOE-D\n\nShop: https://stza.co/+wCOE-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-05-03 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       sUppQ9U2Ili4hZVhi13sIenL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCOG-2Y
+
+Shop  https //stza.co/+wCOG-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180503T230500Z
+DTEND:20180504T020500Z
+UID:sUppQ9U2Ili4hZVhi13sIenL@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCOG-2Y\n\nShop: https://stza.co/+wCOG-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       8swizfwyqd3V-wTyUSFJ45-N@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCOJ-2g
+
+Shop  https //stza.co/+wCOJ-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:8swizfwyqd3V-wTyUSFJ45-N@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCOJ-2g\n\nShop: https://stza.co/+wCOJ-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-05-05 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       MKKMZg6bou7ZYOLQPyvtG_6d@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCOK-3K
+
+Shop  https //stza.co/+wCOK-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180505T230500Z
+DTEND:20180506T020500Z
+UID:MKKMZg6bou7ZYOLQPyvtG_6d@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCOK-3K\n\nShop: https://stza.co/+wCOK-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-05-06 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       8vZvxtBWXJOmOwGarCYpKRzp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCOM-3N
+
+Shop  https //stza.co/+wCOM-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180506T190500Z
+DTEND:20180506T220500Z
+UID:8vZvxtBWXJOmOwGarCYpKRzp@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCOM-3N\n\nShop: https://stza.co/+wCOM-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-05-07 Mon 18:15-21:15>
+:PROPERTIES:
+:ID:       8VnOnO4GScP0-Scf7B7K9a2g@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEJ-V
+
+Shop  https //stza.co/+wKEJ-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180507T231500Z
+DTEND:20180508T021500Z
+UID:8VnOnO4GScP0-Scf7B7K9a2g@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEJ-V\n\nShop: https://stza.co/+wKEJ-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-05-08 Tue 18:15-21:15>
+:PROPERTIES:
+:ID:       iAHyA5DTcZ1dUNvPNulw-lyh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEK-1n
+
+Shop  https //stza.co/+wKEK-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180508T231500Z
+DTEND:20180509T021500Z
+UID:iAHyA5DTcZ1dUNvPNulw-lyh@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEK-1n\n\nShop: https://stza.co/+wKEK-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-05-09 Wed 18:15-21:15>
+:PROPERTIES:
+:ID:       LOMH2lv3F575DXKdXPR7PglV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEL-1M
+
+Shop  https //stza.co/+wKEL-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180509T231500Z
+DTEND:20180510T021500Z
+UID:LOMH2lv3F575DXKdXPR7PglV@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEL-1M\n\nShop: https://stza.co/+wKEL-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-05-10 Thu 18:15-21:15>
+:PROPERTIES:
+:ID:       P4FwW5alDE2YZOKUeA1fooKB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEM-
+
+Shop  https //stza.co/+wKEM-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180510T231500Z
+DTEND:20180511T021500Z
+UID:P4FwW5alDE2YZOKUeA1fooKB@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEM-\n\nShop: https://stza.co/+wKEM-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-05-11 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       54PwIpafwhXKO7_UgexPymNU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEN-1J
+
+Shop  https //stza.co/+wKEN-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180511T231500Z
+DTEND:20180512T021500Z
+UID:54PwIpafwhXKO7_UgexPymNU@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEN-1J\n\nShop: https://stza.co/+wKEN-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Braves
+<2018-05-12 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       hCBKAQ2yt33x5Pph9Zbn9RuS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Braves Generals vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+wCOP-K
+
+Shop  https //stza.co/+wCOP-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Braves
+END:VALARM
+DTSTART:20180512T230500Z
+DTEND:20180513T020500Z
+UID:hCBKAQ2yt33x5Pph9Zbn9RuS@stanza.co
+SUMMARY:Generals vs. Braves
+DESCRIPTION:Generals vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+wCOP-K\n\nShop: https://stza.co/+wCOP-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Braves
+<2018-05-13 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       EED32B9wK2ngnMnG3aHYCLOh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Braves Generals vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+wCOQ-1I
+
+Shop  https //stza.co/+wCOQ-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Braves
+END:VALARM
+DTSTART:20180513T190500Z
+DTEND:20180513T220500Z
+UID:EED32B9wK2ngnMnG3aHYCLOh@stanza.co
+SUMMARY:Generals vs. Braves
+DESCRIPTION:Generals vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+wCOQ-1I\n\nShop: https://stza.co/+wCOQ-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Braves
+<2018-05-14 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       UX-wM_AOch0RCA8t7O4YmMUk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Braves Generals vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+wCOT-3d
+
+Shop  https //stza.co/+wCOT-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Braves
+END:VALARM
+DTSTART:20180514T230500Z
+DTEND:20180515T020500Z
+UID:UX-wM_AOch0RCA8t7O4YmMUk@stanza.co
+SUMMARY:Generals vs. Braves
+DESCRIPTION:Generals vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+wCOT-3d\n\nShop: https://stza.co/+wCOT-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Braves
+<2018-05-15 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       3TL8X9nOdtCtdqgU6euZOIU4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Braves Generals vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+wCOU-2J
+
+Shop  https //stza.co/+wCOU-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Braves
+END:VALARM
+DTSTART:20180515T230500Z
+DTEND:20180516T020500Z
+UID:3TL8X9nOdtCtdqgU6euZOIU4@stanza.co
+SUMMARY:Generals vs. Braves
+DESCRIPTION:Generals vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+wCOU-2J\n\nShop: https://stza.co/+wCOU-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Braves
+<2018-05-16 Wed 12:05-15:05>
+:PROPERTIES:
+:ID:       Mcqzt0fF2sjg_ovP2PoPTcd3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Braves Generals vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+wCOW-2R
+
+Shop  https //stza.co/+wCOW-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Braves
+END:VALARM
+DTSTART:20180516T170500Z
+DTEND:20180516T200500Z
+UID:Mcqzt0fF2sjg_ovP2PoPTcd3@stanza.co
+SUMMARY:Generals vs. Braves
+DESCRIPTION:Generals vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+wCOW-2R\n\nShop: https://stza.co/+wCOW-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Blue Wahoos
+<2018-05-17 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       NgPynZmY5UcapDOBIm5egzdO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Blue Wahoos Generals @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wx7L-16
+
+Shop  https //stza.co/+wx7L-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Blue Wahoos
+END:VALARM
+DTSTART:20180517T233500Z
+DTEND:20180518T023500Z
+UID:NgPynZmY5UcapDOBIm5egzdO@stanza.co
+SUMMARY:Generals @ Blue Wahoos
+DESCRIPTION:Generals @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wx7L-16\n\nShop: https://stza.co/+wx7L-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Blue Wahoos
+<2018-05-18 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       E3rWhhkZIRfmc4c97AhnZbCX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Blue Wahoos Generals @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wx7N-2D
+
+Shop  https //stza.co/+wx7N-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Blue Wahoos
+END:VALARM
+DTSTART:20180518T233500Z
+DTEND:20180519T023500Z
+UID:E3rWhhkZIRfmc4c97AhnZbCX@stanza.co
+SUMMARY:Generals @ Blue Wahoos
+DESCRIPTION:Generals @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wx7N-2D\n\nShop: https://stza.co/+wx7N-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Blue Wahoos
+<2018-05-19 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       AktpUacKToKKN_kay_8cldo1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Blue Wahoos Generals @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wx7O-r
+
+Shop  https //stza.co/+wx7O-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Blue Wahoos
+END:VALARM
+DTSTART:20180519T230500Z
+DTEND:20180520T020500Z
+UID:AktpUacKToKKN_kay_8cldo1@stanza.co
+SUMMARY:Generals @ Blue Wahoos
+DESCRIPTION:Generals @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wx7O-r\n\nShop: https://stza.co/+wx7O-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Blue Wahoos
+<2018-05-20 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       USTyorzkxC8Pjakrs6GWOdsD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Blue Wahoos Generals @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wx7P-23
+
+Shop  https //stza.co/+wx7P-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Blue Wahoos
+END:VALARM
+DTSTART:20180520T220500Z
+DTEND:20180521T010500Z
+UID:USTyorzkxC8Pjakrs6GWOdsD@stanza.co
+SUMMARY:Generals @ Blue Wahoos
+DESCRIPTION:Generals @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wx7P-23\n\nShop: https://stza.co/+wx7P-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Blue Wahoos
+<2018-05-21 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       Nxx5PqTs5jlcIeFEUmmB3Hka@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Blue Wahoos Generals @ Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wx7Q-M
+
+Shop  https //stza.co/+wx7Q-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Blue Wahoos
+END:VALARM
+DTSTART:20180521T233500Z
+DTEND:20180522T023500Z
+UID:Nxx5PqTs5jlcIeFEUmmB3Hka@stanza.co
+SUMMARY:Generals @ Blue Wahoos
+DESCRIPTION:Generals @ Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wx7Q-M\n\nShop: https://stza.co/+wx7Q-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-05-23 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       WnrI6T67V583RC6Mc8I4qt_0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCOY-2m
+
+Shop  https //stza.co/+wCOY-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180523T230500Z
+DTEND:20180524T020500Z
+UID:WnrI6T67V583RC6Mc8I4qt_0@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCOY-2m\n\nShop: https://stza.co/+wCOY-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-05-24 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       16K0lXx6MC9BDlMiJZh2ftgr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCO$-1H
+
+Shop  https //stza.co/+wCO$-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180524T230500Z
+DTEND:20180525T020500Z
+UID:16K0lXx6MC9BDlMiJZh2ftgr@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCO$-1H\n\nShop: https://stza.co/+wCO$-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-05-25 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       g8IZaDqtW63h9GTy0I--oa4_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCP1-2K
+
+Shop  https //stza.co/+wCP1-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180525T230500Z
+DTEND:20180526T020500Z
+UID:g8IZaDqtW63h9GTy0I--oa4_@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCP1-2K\n\nShop: https://stza.co/+wCP1-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-05-26 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       HLh9gOztgFjfWdf27XtOgLND@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCP3-1E
+
+Shop  https //stza.co/+wCP3-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180526T230500Z
+DTEND:20180527T020500Z
+UID:HLh9gOztgFjfWdf27XtOgLND@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCP3-1E\n\nShop: https://stza.co/+wCP3-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Barons
+<2018-05-27 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       xRjoCq9VsJ8P-tby5cGjDKP4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Barons Generals vs. Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wCP4-1I
+
+Shop  https //stza.co/+wCP4-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Barons
+END:VALARM
+DTSTART:20180527T190500Z
+DTEND:20180527T220500Z
+UID:xRjoCq9VsJ8P-tby5cGjDKP4@stanza.co
+SUMMARY:Generals vs. Barons
+DESCRIPTION:Generals vs. Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wCP4-1I\n\nShop: https://stza.co/+wCP4-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-05-29 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       pEeKBbXIyfmEpp02J7yTl4xg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLI3-2_
+
+Shop  https //stza.co/+vLI3-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180529T233500Z
+DTEND:20180530T023500Z
+UID:pEeKBbXIyfmEpp02J7yTl4xg@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLI3-2_\n\nShop: https://stza.co/+vLI3-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-05-30 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       htXE5F2AhOW9QfH0_j2vQ_oO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLI4-17
+
+Shop  https //stza.co/+vLI4-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180530T233500Z
+DTEND:20180531T023500Z
+UID:htXE5F2AhOW9QfH0_j2vQ_oO@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLI4-17\n\nShop: https://stza.co/+vLI4-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-05-31 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       vN8lP5B4OSPBthR1s6XaSE6t@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLI5-2r
+
+Shop  https //stza.co/+vLI5-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180531T233500Z
+DTEND:20180601T023500Z
+UID:vN8lP5B4OSPBthR1s6XaSE6t@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLI5-2r\n\nShop: https://stza.co/+vLI5-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-06-01 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       56-Tsw7JmRrhtqawpKeq9hsC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLI6-3b
+
+Shop  https //stza.co/+vLI6-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180601T233500Z
+DTEND:20180602T023500Z
+UID:56-Tsw7JmRrhtqawpKeq9hsC@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLI6-3b\n\nShop: https://stza.co/+vLI6-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-06-02 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       F6pIUe1CPmhP2LsfznPif0N0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLI7-1X
+
+Shop  https //stza.co/+vLI7-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180602T230500Z
+DTEND:20180603T020500Z
+UID:F6pIUe1CPmhP2LsfznPif0N0@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLI7-1X\n\nShop: https://stza.co/+vLI7-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-06-03 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       AdG2MTCLGnKGFsplIAsjhklY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCP7-1o
+
+Shop  https //stza.co/+wCP7-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180603T230500Z
+DTEND:20180604T020500Z
+UID:AdG2MTCLGnKGFsplIAsjhklY@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCP7-1o\n\nShop: https://stza.co/+wCP7-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-06-04 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       utcgrsWV1AhbksrhEGq1pdCZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCP9-2U
+
+Shop  https //stza.co/+wCP9-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180604T230500Z
+DTEND:20180605T020500Z
+UID:utcgrsWV1AhbksrhEGq1pdCZ@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCP9-2U\n\nShop: https://stza.co/+wCP9-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-06-05 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       6TRJoHQ7ktCNCuvU4sEpPnPr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPb-6
+
+Shop  https //stza.co/+wCPb-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180605T230500Z
+DTEND:20180606T020500Z
+UID:6TRJoHQ7ktCNCuvU4sEpPnPr@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPb-6\n\nShop: https://stza.co/+wCPb-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-06-06 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       F8CP-e2mqS9Lt1z4ZBdBIg0E@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPd-2P
+
+Shop  https //stza.co/+wCPd-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180606T230500Z
+DTEND:20180607T020500Z
+UID:F8CP-e2mqS9Lt1z4ZBdBIg0E@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPd-2P\n\nShop: https://stza.co/+wCPd-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-06-07 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       YfNY2C8a6eXRZvvpib-YzR5M@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPe-1U
+
+Shop  https //stza.co/+wCPe-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180607T230500Z
+DTEND:20180608T020500Z
+UID:YfNY2C8a6eXRZvvpib-YzR5M@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPe-1U\n\nShop: https://stza.co/+wCPe-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ BayBears
+<2018-06-08 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       nv8qbfvMCGmKdXRbVHZgs6Yc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ BayBears Generals @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$PJ-26
+
+Shop  https //stza.co/+v$PJ-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ BayBears
+END:VALARM
+DTSTART:20180609T000500Z
+DTEND:20180609T030500Z
+UID:nv8qbfvMCGmKdXRbVHZgs6Yc@stanza.co
+SUMMARY:Generals @ BayBears
+DESCRIPTION:Generals @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$PJ-26\n\nShop: https://stza.co/+v$PJ-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ BayBears
+<2018-06-09 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       LVzCt-bwAQHJKnZ4c4Zi77-9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ BayBears Generals @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$PK-2Y
+
+Shop  https //stza.co/+v$PK-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ BayBears
+END:VALARM
+DTSTART:20180610T000500Z
+DTEND:20180610T030500Z
+UID:LVzCt-bwAQHJKnZ4c4Zi77-9@stanza.co
+SUMMARY:Generals @ BayBears
+DESCRIPTION:Generals @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$PK-2Y\n\nShop: https://stza.co/+v$PK-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ BayBears
+<2018-06-10 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       SUbtDr2BIWH6CqrcumIsLOQA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ BayBears Generals @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$PL-1L
+
+Shop  https //stza.co/+v$PL-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ BayBears
+END:VALARM
+DTSTART:20180610T220500Z
+DTEND:20180611T010500Z
+UID:SUbtDr2BIWH6CqrcumIsLOQA@stanza.co
+SUMMARY:Generals @ BayBears
+DESCRIPTION:Generals @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$PL-1L\n\nShop: https://stza.co/+v$PL-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ BayBears
+<2018-06-11 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       oSVcwl8gf7YDC_4t7ArSOpSA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ BayBears Generals @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$PM-3B
+
+Shop  https //stza.co/+v$PM-28
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ BayBears
+END:VALARM
+DTSTART:20180611T233500Z
+DTEND:20180612T023500Z
+UID:oSVcwl8gf7YDC_4t7ArSOpSA@stanza.co
+SUMMARY:Generals @ BayBears
+DESCRIPTION:Generals @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$PM-3B\n\nShop: https://stza.co/+v$PM-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ BayBears
+<2018-06-12 Tue 12:05-15:05>
+:PROPERTIES:
+:ID:       oz8nFQkxAayZYjS__bpiMpo3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ BayBears Generals @ BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+v$PN-3p
+
+Shop  https //stza.co/+v$PN-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ BayBears
+END:VALARM
+DTSTART:20180612T170500Z
+DTEND:20180612T200500Z
+UID:oz8nFQkxAayZYjS__bpiMpo3@stanza.co
+SUMMARY:Generals @ BayBears
+DESCRIPTION:Generals @ BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+v$PN-3p\n\nShop: https://stza.co/+v$PN-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Jumbo Shrimp
+<2018-06-13 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       MNZzQZWnwEJNPrd75mTIn0ZX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Jumbo Shrimp Generals @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLHQ-1$
+
+Shop  https //stza.co/+vLHQ-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180613T230500Z
+DTEND:20180614T020500Z
+UID:MNZzQZWnwEJNPrd75mTIn0ZX@stanza.co
+SUMMARY:Generals @ Jumbo Shrimp
+DESCRIPTION:Generals @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLHQ-1$\n\nShop: https://stza.co/+vLHQ-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Jumbo Shrimp
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       D6rzD8GveXrPcp4sCSg_NmyZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Jumbo Shrimp Generals @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLHR-3l
+
+Shop  https //stza.co/+vLHR-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:D6rzD8GveXrPcp4sCSg_NmyZ@stanza.co
+SUMMARY:Generals @ Jumbo Shrimp
+DESCRIPTION:Generals @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLHR-3l\n\nShop: https://stza.co/+vLHR-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Jumbo Shrimp
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Y8kOy7Y8Au19AZzMPa-CwFZT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Jumbo Shrimp Generals @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLHS-s
+
+Shop  https //stza.co/+vLHS-1_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:Y8kOy7Y8Au19AZzMPa-CwFZT@stanza.co
+SUMMARY:Generals @ Jumbo Shrimp
+DESCRIPTION:Generals @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLHS-s\n\nShop: https://stza.co/+vLHS-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Jumbo Shrimp
+<2018-06-16 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       JTk11_brvjJ1_vzdc15Mon_k@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Jumbo Shrimp Generals @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLHT-R
+
+Shop  https //stza.co/+vLHT-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180616T223500Z
+DTEND:20180617T013500Z
+UID:JTk11_brvjJ1_vzdc15Mon_k@stanza.co
+SUMMARY:Generals @ Jumbo Shrimp
+DESCRIPTION:Generals @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLHT-R\n\nShop: https://stza.co/+vLHT-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Jumbo Shrimp
+<2018-06-17 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       zbUlD1lG8Ns9A9y8SZ27E6fL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Jumbo Shrimp Generals @ Jumbo Shrimp
+
+Follow on MiLB First Pitch  https //stza.co/+vLHU-3F
+
+Shop  https //stza.co/+vLHU-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Jumbo Shrimp
+END:VALARM
+DTSTART:20180617T190500Z
+DTEND:20180617T220500Z
+UID:zbUlD1lG8Ns9A9y8SZ27E6fL@stanza.co
+SUMMARY:Generals @ Jumbo Shrimp
+DESCRIPTION:Generals @ Jumbo Shrimp\n\nFollow on MiLB First Pitch: https://stza.co/+vLHU-3F\n\nShop: https://stza.co/+vLHU-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Blue Wahoos
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       bDn7JbrXB89Zft6sSZFOlwLr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Blue Wahoos Generals vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wCPh-K
+
+Shop  https //stza.co/+wCPh-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Blue Wahoos
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:bDn7JbrXB89Zft6sSZFOlwLr@stanza.co
+SUMMARY:Generals vs. Blue Wahoos
+DESCRIPTION:Generals vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wCPh-K\n\nShop: https://stza.co/+wCPh-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Blue Wahoos
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       _w2rEjdJdMQDsd7R_RNn5gfK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Blue Wahoos Generals vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wCPk-34
+
+Shop  https //stza.co/+wCPk-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Blue Wahoos
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:_w2rEjdJdMQDsd7R_RNn5gfK@stanza.co
+SUMMARY:Generals vs. Blue Wahoos
+DESCRIPTION:Generals vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wCPk-34\n\nShop: https://stza.co/+wCPk-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Blue Wahoos
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       iqgCdSPOyN7UBcx6nYmPbjNq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Blue Wahoos Generals vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wCPn-3V
+
+Shop  https //stza.co/+wCPn-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Blue Wahoos
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:iqgCdSPOyN7UBcx6nYmPbjNq@stanza.co
+SUMMARY:Generals vs. Blue Wahoos
+DESCRIPTION:Generals vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wCPn-3V\n\nShop: https://stza.co/+wCPn-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Blue Wahoos
+<2018-06-24 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       lp3e6cLNhhPFwdoGOYXAj0EJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Blue Wahoos Generals vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wCPp-y
+
+Shop  https //stza.co/+wCPp-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Blue Wahoos
+END:VALARM
+DTSTART:20180624T230500Z
+DTEND:20180625T020500Z
+UID:lp3e6cLNhhPFwdoGOYXAj0EJ@stanza.co
+SUMMARY:Generals vs. Blue Wahoos
+DESCRIPTION:Generals vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wCPp-y\n\nShop: https://stza.co/+wCPp-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Blue Wahoos
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       UvvBryLz7PlTY84xfSoCCggi@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Blue Wahoos Generals vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wCPq-T
+
+Shop  https //stza.co/+wCPq-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Blue Wahoos
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:UvvBryLz7PlTY84xfSoCCggi@stanza.co
+SUMMARY:Generals vs. Blue Wahoos
+DESCRIPTION:Generals vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wCPq-T\n\nShop: https://stza.co/+wCPq-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Blue Wahoos
+<2018-06-26 Tue 12:05-15:05>
+:PROPERTIES:
+:ID:       FzwKZr9UYNf2GATvizoyHI_l@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Blue Wahoos Generals vs. Blue Wahoos
+
+Follow on MiLB First Pitch  https //stza.co/+wCPs-2$
+
+Shop  https //stza.co/+wCPs-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Blue Wahoos
+END:VALARM
+DTSTART:20180626T170500Z
+DTEND:20180626T200500Z
+UID:FzwKZr9UYNf2GATvizoyHI_l@stanza.co
+SUMMARY:Generals vs. Blue Wahoos
+DESCRIPTION:Generals vs. Blue Wahoos\n\nFollow on MiLB First Pitch: https://stza.co/+wCPs-2$\n\nShop: https://stza.co/+wCPs-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-06-28 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       SAD8qpAI7zMZ0tUM6Kajm5ii@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXk-26
+
+Shop  https //stza.co/+wFXk-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180629T000500Z
+DTEND:20180629T030500Z
+UID:SAD8qpAI7zMZ0tUM6Kajm5ii@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXk-26\n\nShop: https://stza.co/+wFXk-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-06-29 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       m9m0ejgmV_IA65wz3Ae_zBwE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXl-c
+
+Shop  https //stza.co/+wFXl-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180630T000500Z
+DTEND:20180630T030500Z
+UID:m9m0ejgmV_IA65wz3Ae_zBwE@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXl-c\n\nShop: https://stza.co/+wFXl-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-06-30 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       GE4RmmkPctyfZIQ9jOLH_RWg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXm-b
+
+Shop  https //stza.co/+wFXm-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180630T233000Z
+DTEND:20180701T023000Z
+UID:GE4RmmkPctyfZIQ9jOLH_RWg@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXm-b\n\nShop: https://stza.co/+wFXm-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-01 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       bsf6BaGPCykx6X3d-fjcjPhw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXn-2u
+
+Shop  https //stza.co/+wFXn-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180701T200000Z
+DTEND:20180701T230000Z
+UID:bsf6BaGPCykx6X3d-fjcjPhw@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXn-2u\n\nShop: https://stza.co/+wFXn-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-02 Mon 19:05-22:05>
+:PROPERTIES:
+:ID:       6B61YI85bk7rDK9Nn5cqc8vo@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXo-26
+
+Shop  https //stza.co/+wFXo-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180703T000500Z
+DTEND:20180703T030500Z
+UID:6B61YI85bk7rDK9Nn5cqc8vo@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXo-26\n\nShop: https://stza.co/+wFXo-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-03 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       AeGKjU98rcFNwSLAkhnBWLA0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+xM62-3R
+
+Shop  https //stza.co/+xM62-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180703T233000Z
+DTEND:20180704T023000Z
+UID:AeGKjU98rcFNwSLAkhnBWLA0@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+xM62-3R\n\nShop: https://stza.co/+xM62-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-07-04 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       30MVwarQ9yZzCzsyxb0vnVwf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPv-31
+
+Shop  https //stza.co/+wCPv-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180704T230500Z
+DTEND:20180705T020500Z
+UID:30MVwarQ9yZzCzsyxb0vnVwf@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPv-31\n\nShop: https://stza.co/+wCPv-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       h5zHJTtJmRkqbwSyGxV85PVM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPx-22
+
+Shop  https //stza.co/+wCPx-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:h5zHJTtJmRkqbwSyGxV85PVM@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPx-22\n\nShop: https://stza.co/+wCPx-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       sSjIKsP4yF9hKMqEQbWSvz7j@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPz-q
+
+Shop  https //stza.co/+wCPz-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:sSjIKsP4yF9hKMqEQbWSvz7j@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPz-q\n\nShop: https://stza.co/+wCPz-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-07-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       ZfDzhDaqgPYrfwNc5VUbBHHS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPA-2E
+
+Shop  https //stza.co/+wCPA-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180707T230500Z
+DTEND:20180708T020500Z
+UID:ZfDzhDaqgPYrfwNc5VUbBHHS@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPA-2E\n\nShop: https://stza.co/+wCPA-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Shuckers
+<2018-07-08 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       JLTNMivyRB9TQTy1g5c-gJVp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Shuckers Generals @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLFa-2O
+
+Shop  https //stza.co/+vLFa-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Shuckers
+END:VALARM
+DTSTART:20180708T210500Z
+DTEND:20180709T000500Z
+UID:JLTNMivyRB9TQTy1g5c-gJVp@stanza.co
+SUMMARY:Generals @ Shuckers
+DESCRIPTION:Generals @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLFa-2O\n\nShop: https://stza.co/+vLFa-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Shuckers
+<2018-07-09 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       uIxviI9zlupny1LJzol7Dgni@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Shuckers Generals @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLFb-12
+
+Shop  https //stza.co/+vLFb-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Shuckers
+END:VALARM
+DTSTART:20180709T233500Z
+DTEND:20180710T023500Z
+UID:uIxviI9zlupny1LJzol7Dgni@stanza.co
+SUMMARY:Generals @ Shuckers
+DESCRIPTION:Generals @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLFb-12\n\nShop: https://stza.co/+vLFb-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Shuckers
+<2018-07-10 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       m0aDktpfS7nHAZd9gH2F-32k@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Shuckers Generals @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLFc-1n
+
+Shop  https //stza.co/+vLFc-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Shuckers
+END:VALARM
+DTSTART:20180710T233500Z
+DTEND:20180711T023500Z
+UID:m0aDktpfS7nHAZd9gH2F-32k@stanza.co
+SUMMARY:Generals @ Shuckers
+DESCRIPTION:Generals @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLFc-1n\n\nShop: https://stza.co/+vLFc-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Shuckers
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       c7WsZ_rgEk4MWEgjxMLOksTk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Shuckers Generals @ Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+vLFd-N
+
+Shop  https //stza.co/+vLFd-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Shuckers
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:c7WsZ_rgEk4MWEgjxMLOksTk@stanza.co
+SUMMARY:Generals @ Shuckers
+DESCRIPTION:Generals @ Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+vLFd-N\n\nShop: https://stza.co/+vLFd-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. BayBears
+<2018-07-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       4BhbtnAeBquMgPIQw9oqMImD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. BayBears Generals vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+wCPD-G
+
+Shop  https //stza.co/+wCPD-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. BayBears
+END:VALARM
+DTSTART:20180712T230500Z
+DTEND:20180713T020500Z
+UID:4BhbtnAeBquMgPIQw9oqMImD@stanza.co
+SUMMARY:Generals vs. BayBears
+DESCRIPTION:Generals vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+wCPD-G\n\nShop: https://stza.co/+wCPD-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. BayBears
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Ocdzmswbpf30xAAlgCpiCA5U@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. BayBears Generals vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+wCPE-15
+
+Shop  https //stza.co/+wCPE-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. BayBears
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:Ocdzmswbpf30xAAlgCpiCA5U@stanza.co
+SUMMARY:Generals vs. BayBears
+DESCRIPTION:Generals vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+wCPE-15\n\nShop: https://stza.co/+wCPE-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. BayBears
+<2018-07-14 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       MpqhcaXgJ0-M-MDjJWdFCnjJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. BayBears Generals vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+wCPG-20
+
+Shop  https //stza.co/+wCPG-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. BayBears
+END:VALARM
+DTSTART:20180714T230500Z
+DTEND:20180715T020500Z
+UID:MpqhcaXgJ0-M-MDjJWdFCnjJ@stanza.co
+SUMMARY:Generals vs. BayBears
+DESCRIPTION:Generals vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+wCPG-20\n\nShop: https://stza.co/+wCPG-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. BayBears
+<2018-07-15 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       5RQjAdJpmVysrsZ72RQPYH-C@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. BayBears Generals vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+wCPJ-4
+
+Shop  https //stza.co/+wCPJ-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. BayBears
+END:VALARM
+DTSTART:20180715T230500Z
+DTEND:20180716T020500Z
+UID:5RQjAdJpmVysrsZ72RQPYH-C@stanza.co
+SUMMARY:Generals vs. BayBears
+DESCRIPTION:Generals vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+wCPJ-4\n\nShop: https://stza.co/+wCPJ-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. BayBears
+<2018-07-16 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       iJWGQ1WW-LsLV_TKnPXa4I3-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. BayBears Generals vs. BayBears
+
+Follow on MiLB First Pitch  https //stza.co/+wCPL-3F
+
+Shop  https //stza.co/+wCPL-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. BayBears
+END:VALARM
+DTSTART:20180716T230500Z
+DTEND:20180717T020500Z
+UID:iJWGQ1WW-LsLV_TKnPXa4I3-@stanza.co
+SUMMARY:Generals vs. BayBears
+DESCRIPTION:Generals vs. BayBears\n\nFollow on MiLB First Pitch: https://stza.co/+wCPL-3F\n\nShop: https://stza.co/+wCPL-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-18 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       0A3xpWtmIqXuK1lQS2nLB8mb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXq-31
+
+Shop  https //stza.co/+wFXq-2X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180719T000500Z
+DTEND:20180719T030500Z
+UID:0A3xpWtmIqXuK1lQS2nLB8mb@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXq-31\n\nShop: https://stza.co/+wFXq-2X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-19 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       ncWKH4htXtEbkYtTGz2cmmD7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXr-1x
+
+Shop  https //stza.co/+wFXr-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180720T000500Z
+DTEND:20180720T030500Z
+UID:ncWKH4htXtEbkYtTGz2cmmD7@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXr-1x\n\nShop: https://stza.co/+wFXr-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-20 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       2DYPHD3Udq7ICEjr6x8YibRZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXs-2L
+
+Shop  https //stza.co/+wFXs-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180721T000500Z
+DTEND:20180721T030500Z
+UID:2DYPHD3Udq7ICEjr6x8YibRZ@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXs-2L\n\nShop: https://stza.co/+wFXs-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-21 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       277DiCjjjDjwNxzfsjSekzVq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXt-P
+
+Shop  https //stza.co/+wFXt-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180721T233000Z
+DTEND:20180722T023000Z
+UID:277DiCjjjDjwNxzfsjSekzVq@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXt-P\n\nShop: https://stza.co/+wFXt-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-07-22 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       nBf7N1Cj-J8ywwryYS9j6kyh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXu-3h
+
+Shop  https //stza.co/+wFXu-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180722T200000Z
+DTEND:20180722T230000Z
+UID:nBf7N1Cj-J8ywwryYS9j6kyh@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXu-3h\n\nShop: https://stza.co/+wFXu-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Shuckers
+<2018-07-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       ghaFI2EP75JZTximcfdHpkFe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Shuckers Generals vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+wCPN-2J
+
+Shop  https //stza.co/+wCPN-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Shuckers
+END:VALARM
+DTSTART:20180723T230500Z
+DTEND:20180724T020500Z
+UID:ghaFI2EP75JZTximcfdHpkFe@stanza.co
+SUMMARY:Generals vs. Shuckers
+DESCRIPTION:Generals vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+wCPN-2J\n\nShop: https://stza.co/+wCPN-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Shuckers
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       cYRQLnRO63KpMBh9gp8k51Dd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Shuckers Generals vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+wCPP-2a
+
+Shop  https //stza.co/+wCPP-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Shuckers
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:cYRQLnRO63KpMBh9gp8k51Dd@stanza.co
+SUMMARY:Generals vs. Shuckers
+DESCRIPTION:Generals vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+wCPP-2a\n\nShop: https://stza.co/+wCPP-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Shuckers
+<2018-07-25 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       No5acOMwAznS5VHAoF2bibqu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Shuckers Generals vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+wCPQ-2T
+
+Shop  https //stza.co/+wCPQ-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Shuckers
+END:VALARM
+DTSTART:20180725T230500Z
+DTEND:20180726T020500Z
+UID:No5acOMwAznS5VHAoF2bibqu@stanza.co
+SUMMARY:Generals vs. Shuckers
+DESCRIPTION:Generals vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+wCPQ-2T\n\nShop: https://stza.co/+wCPQ-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Shuckers
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       SvBFM3W2U0OtsZGEztUw7sbI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Shuckers Generals vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+wCPT-1l
+
+Shop  https //stza.co/+wCPT-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Shuckers
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:SvBFM3W2U0OtsZGEztUw7sbI@stanza.co
+SUMMARY:Generals vs. Shuckers
+DESCRIPTION:Generals vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+wCPT-1l\n\nShop: https://stza.co/+wCPT-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Shuckers
+<2018-07-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       15nvwQklfdzwIscaSSfK375_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Shuckers Generals vs. Shuckers
+
+Follow on MiLB First Pitch  https //stza.co/+wCPV-3y
+
+Shop  https //stza.co/+wCPV-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Shuckers
+END:VALARM
+DTSTART:20180727T230500Z
+DTEND:20180728T020500Z
+UID:15nvwQklfdzwIscaSSfK375_@stanza.co
+SUMMARY:Generals vs. Shuckers
+DESCRIPTION:Generals vs. Shuckers\n\nFollow on MiLB First Pitch: https://stza.co/+wCPV-3y\n\nShop: https://stza.co/+wCPV-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-07-28 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       AzqZb7hbkg45I6RJ1eHaySl8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLI8-1d
+
+Shop  https //stza.co/+vLI8-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180728T230500Z
+DTEND:20180729T020500Z
+UID:AzqZb7hbkg45I6RJ1eHaySl8@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLI8-1d\n\nShop: https://stza.co/+vLI8-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-07-29 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       OHgH2Nk46ggvcTGVFNUf_CCX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLI9-12
+
+Shop  https //stza.co/+vLI9-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180729T220500Z
+DTEND:20180730T010500Z
+UID:OHgH2Nk46ggvcTGVFNUf_CCX@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLI9-12\n\nShop: https://stza.co/+vLI9-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-07-30 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       aHdd4e1ohZz0QVIDqY3k31RB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLIa-22
+
+Shop  https //stza.co/+vLIa-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180730T233500Z
+DTEND:20180731T023500Z
+UID:aHdd4e1ohZz0QVIDqY3k31RB@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLIa-22\n\nShop: https://stza.co/+vLIa-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-07-31 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       B2b1XZ3OD_ii13xEPafLBsbZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLIb-22
+
+Shop  https //stza.co/+vLIb-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180731T233500Z
+DTEND:20180801T023500Z
+UID:B2b1XZ3OD_ii13xEPafLBsbZ@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLIb-22\n\nShop: https://stza.co/+vLIb-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Biscuits
+<2018-08-01 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       G3MudjTdIsgNVeUFXNBmjrdo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Biscuits Generals @ Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+vLIc-b
+
+Shop  https //stza.co/+vLIc-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Biscuits
+END:VALARM
+DTSTART:20180801T233500Z
+DTEND:20180802T023500Z
+UID:G3MudjTdIsgNVeUFXNBmjrdo@stanza.co
+SUMMARY:Generals @ Biscuits
+DESCRIPTION:Generals @ Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+vLIc-b\n\nShop: https://stza.co/+vLIc-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       U70ozJFVAgnJxuBrtOcpkHs3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCPY-2M
+
+Shop  https //stza.co/+wCPY-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:U70ozJFVAgnJxuBrtOcpkHs3@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCPY-2M\n\nShop: https://stza.co/+wCPY-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       OPoLPUyWd-geFkHfmKoI7G4-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCP$-3A
+
+Shop  https //stza.co/+wCP$-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:OPoLPUyWd-geFkHfmKoI7G4-@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCP$-3A\n\nShop: https://stza.co/+wCP$-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-08-04 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       gReflwHpkrN-RCOfXyzWiCuW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCQ0-7
+
+Shop  https //stza.co/+wCQ0-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180804T230500Z
+DTEND:20180805T020500Z
+UID:gReflwHpkrN-RCOfXyzWiCuW@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCQ0-7\n\nShop: https://stza.co/+wCQ0-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-08-05 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       9bquzq1gLKR-gN8xbOt2e6XC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCQ2-31
+
+Shop  https //stza.co/+wCQ2-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180805T230500Z
+DTEND:20180806T020500Z
+UID:9bquzq1gLKR-gN8xbOt2e6XC@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCQ2-31\n\nShop: https://stza.co/+wCQ2-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Smokies
+<2018-08-06 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       9VQwVrXvBKL_G8wrDk1gN5gg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Smokies Generals vs. Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+wCQ4-3b
+
+Shop  https //stza.co/+wCQ4-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Smokies
+END:VALARM
+DTSTART:20180806T230500Z
+DTEND:20180807T020500Z
+UID:9VQwVrXvBKL_G8wrDk1gN5gg@stanza.co
+SUMMARY:Generals vs. Smokies
+DESCRIPTION:Generals vs. Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+wCQ4-3b\n\nShop: https://stza.co/+wCQ4-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-08-08 Wed 18:15-21:15>
+:PROPERTIES:
+:ID:       4Vnofla9SwDRFT-pgpTC_GHL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEO-3j
+
+Shop  https //stza.co/+wKEO-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180808T231500Z
+DTEND:20180809T021500Z
+UID:4Vnofla9SwDRFT-pgpTC_GHL@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEO-3j\n\nShop: https://stza.co/+wKEO-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-08-09 Thu 18:15-21:15>
+:PROPERTIES:
+:ID:       Xh1MAniu9LF4BDzpmPGR3t7s@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEP-1k
+
+Shop  https //stza.co/+wKEP-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180809T231500Z
+DTEND:20180810T021500Z
+UID:Xh1MAniu9LF4BDzpmPGR3t7s@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEP-1k\n\nShop: https://stza.co/+wKEP-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-08-10 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       8rN4T92pDsNyrQd5MdSTgSSp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKEQ-1n
+
+Shop  https //stza.co/+wKEQ-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180810T231500Z
+DTEND:20180811T021500Z
+UID:8rN4T92pDsNyrQd5MdSTgSSp@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKEQ-1n\n\nShop: https://stza.co/+wKEQ-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-08-11 Sat 18:15-21:15>
+:PROPERTIES:
+:ID:       IOyXzLaQTHeQ8olEN0sLNZrV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKER-2Z
+
+Shop  https //stza.co/+wKER-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180811T231500Z
+DTEND:20180812T021500Z
+UID:IOyXzLaQTHeQ8olEN0sLNZrV@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKER-2Z\n\nShop: https://stza.co/+wKER-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Lookouts
+<2018-08-12 Sun 13:15-16:15>
+:PROPERTIES:
+:ID:       PObCCmoKY2xeECzsz2Mds8B9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Lookouts Generals @ Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wKES-M
+
+Shop  https //stza.co/+wKES-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Lookouts
+END:VALARM
+DTSTART:20180812T181500Z
+DTEND:20180812T211500Z
+UID:PObCCmoKY2xeECzsz2Mds8B9@stanza.co
+SUMMARY:Generals @ Lookouts
+DESCRIPTION:Generals @ Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wKES-M\n\nShop: https://stza.co/+wKES-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       LnI2oLwy3_yq0wdgD9-lnFa8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCQ8-o
+
+Shop  https //stza.co/+wCQ8-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:LnI2oLwy3_yq0wdgD9-lnFa8@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCQ8-o\n\nShop: https://stza.co/+wCQ8-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       nXowHzBIiDHxgP4o6uO-Les3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCQa-1b
+
+Shop  https //stza.co/+wCQa-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:nXowHzBIiDHxgP4o6uO-Les3@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCQa-1b\n\nShop: https://stza.co/+wCQa-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       tmqOVEdkqW2Kx7Gs-phet1wO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCQb-2V
+
+Shop  https //stza.co/+wCQb-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:tmqOVEdkqW2Kx7Gs-phet1wO@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCQb-2V\n\nShop: https://stza.co/+wCQb-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Ts3Jf8CATl17-np0ulfshjtZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCQe-2c
+
+Shop  https //stza.co/+wCQe-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:Ts3Jf8CATl17-np0ulfshjtZ@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCQe-2c\n\nShop: https://stza.co/+wCQe-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Biscuits
+<2018-08-18 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       lVnoXPJH-fL8Fpk3YEbteSBc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Biscuits Generals vs. Biscuits
+
+Follow on MiLB First Pitch  https //stza.co/+wCQg-3y
+
+Shop  https //stza.co/+wCQg-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Biscuits
+END:VALARM
+DTSTART:20180818T230500Z
+DTEND:20180819T020500Z
+UID:lVnoXPJH-fL8Fpk3YEbteSBc@stanza.co
+SUMMARY:Generals vs. Biscuits
+DESCRIPTION:Generals vs. Biscuits\n\nFollow on MiLB First Pitch: https://stza.co/+wCQg-3y\n\nShop: https://stza.co/+wCQg-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-08-19 Sun 16:30-19:30>
+:PROPERTIES:
+:ID:       87XnI7wF77nJFFRghAyKpeHt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTo-3P
+
+Shop  https //stza.co/+xVTo-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180819T213000Z
+DTEND:20180820T003000Z
+UID:87XnI7wF77nJFFRghAyKpeHt@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTo-3P\n\nShop: https://stza.co/+xVTo-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-08-20 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       WRUhmXDZcdzAstLimyNHFLt8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTp-3W
+
+Shop  https //stza.co/+xVTp-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180820T230000Z
+DTEND:20180821T020000Z
+UID:WRUhmXDZcdzAstLimyNHFLt8@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTp-3W\n\nShop: https://stza.co/+xVTp-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-08-21 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       5aAxZKZML7vy3yYHYU6Rt4CK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTq-2y
+
+Shop  https //stza.co/+xVTq-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180821T230000Z
+DTEND:20180822T020000Z
+UID:5aAxZKZML7vy3yYHYU6Rt4CK@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTq-2y\n\nShop: https://stza.co/+xVTq-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-08-22 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       uNAG3O9HWazaBu_CcvW7EdpH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTr-Q
+
+Shop  https //stza.co/+xVTr-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180822T230000Z
+DTEND:20180823T020000Z
+UID:uNAG3O9HWazaBu_CcvW7EdpH@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTr-Q\n\nShop: https://stza.co/+xVTr-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Smokies
+<2018-08-23 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       FYBDK_cwCRfiTJJgtI2eDpph@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Smokies Generals @ Smokies
+
+Follow on MiLB First Pitch  https //stza.co/+xVTs-2K
+
+Shop  https //stza.co/+xVTs-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Smokies
+END:VALARM
+DTSTART:20180823T230000Z
+DTEND:20180824T020000Z
+UID:FYBDK_cwCRfiTJJgtI2eDpph@stanza.co
+SUMMARY:Generals @ Smokies
+DESCRIPTION:Generals @ Smokies\n\nFollow on MiLB First Pitch: https://stza.co/+xVTs-2K\n\nShop: https://stza.co/+xVTs-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-08-24 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       V3Y1X8VQ6uDt-vZgWNu_l97H@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXv-3w
+
+Shop  https //stza.co/+wFXv-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180825T000500Z
+DTEND:20180825T030500Z
+UID:V3Y1X8VQ6uDt-vZgWNu_l97H@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXv-3w\n\nShop: https://stza.co/+wFXv-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-08-25 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       _FR7pgMVttVLHt_qvhWgM-r5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXw-C
+
+Shop  https //stza.co/+wFXw-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180825T233000Z
+DTEND:20180826T023000Z
+UID:_FR7pgMVttVLHt_qvhWgM-r5@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXw-C\n\nShop: https://stza.co/+wFXw-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-08-26 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       Oi3JE0h3XI6Ng3eaHss1AFjJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXx-X
+
+Shop  https //stza.co/+wFXx-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180826T200000Z
+DTEND:20180826T230000Z
+UID:Oi3JE0h3XI6Ng3eaHss1AFjJ@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXx-X\n\nShop: https://stza.co/+wFXx-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-08-27 Mon 19:05-22:05>
+:PROPERTIES:
+:ID:       9FcX9tUUL5gnmzjlnXq05EzK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXy-3H
+
+Shop  https //stza.co/+wFXy-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180828T000500Z
+DTEND:20180828T030500Z
+UID:9FcX9tUUL5gnmzjlnXq05EzK@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXy-3H\n\nShop: https://stza.co/+wFXy-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals @ Barons
+<2018-08-28 Tue 19:05-22:05>
+:PROPERTIES:
+:ID:       uPWMy6UxKW3G8xnEV3KBXLWu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals @ Barons Generals @ Barons
+
+Follow on MiLB First Pitch  https //stza.co/+wFXz-1N
+
+Shop  https //stza.co/+wFXz-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Generals @ Barons
+END:VALARM
+DTSTART:20180829T000500Z
+DTEND:20180829T030500Z
+UID:uPWMy6UxKW3G8xnEV3KBXLWu@stanza.co
+SUMMARY:Generals @ Barons
+DESCRIPTION:Generals @ Barons\n\nFollow on MiLB First Pitch: https://stza.co/+wFXz-1N\n\nShop: https://stza.co/+wFXz-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-08-30 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       Fb0VAQ07ohcj2jvZbCZb8hfI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCQi-1i
+
+Shop  https //stza.co/+wCQi-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180830T230500Z
+DTEND:20180831T020500Z
+UID:Fb0VAQ07ohcj2jvZbCZb8hfI@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCQi-1i\n\nShop: https://stza.co/+wCQi-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-08-31 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       9VnoB2Ypv11uu1RPvSWesL3e@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCQl-g
+
+Shop  https //stza.co/+wCQl-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180831T230500Z
+DTEND:20180901T020500Z
+UID:9VnoB2Ypv11uu1RPvSWesL3e@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCQl-g\n\nShop: https://stza.co/+wCQl-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-09-01 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       9zb9uPlkXJegJEDvLwKsWIfB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCQn-a
+
+Shop  https //stza.co/+wCQn-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180901T230500Z
+DTEND:20180902T020500Z
+UID:9zb9uPlkXJegJEDvLwKsWIfB@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCQn-a\n\nShop: https://stza.co/+wCQn-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-09-02 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       fn85SjZ6SdtVPyut0UefYWzX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCQp-d
+
+Shop  https //stza.co/+wCQp-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180902T190500Z
+DTEND:20180902T220500Z
+UID:fn85SjZ6SdtVPyut0UefYWzX@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCQp-d\n\nShop: https://stza.co/+wCQp-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT
+* Generals vs. Lookouts
+<2018-09-03 Mon 14:05-17:05>
+:PROPERTIES:
+:ID:       pGVuDe_DmQqirEm2YOlPxf5W@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Generals vs. Lookouts Generals vs. Lookouts
+
+Follow on MiLB First Pitch  https //stza.co/+wCQr-1j
+
+Shop  https //stza.co/+wCQr-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Generals vs. Lookouts
+END:VALARM
+DTSTART:20180903T190500Z
+DTEND:20180903T220500Z
+UID:pGVuDe_DmQqirEm2YOlPxf5W@stanza.co
+SUMMARY:Generals vs. Lookouts
+DESCRIPTION:Generals vs. Lookouts\n\nFollow on MiLB First Pitch: https://stza.co/+wCQr-1j\n\nShop: https://stza.co/+wCQr-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144535Z
+LAST-MODIFIED:20180213T144535Z
+TRANSP:OPAQUE
+END:VEVENT

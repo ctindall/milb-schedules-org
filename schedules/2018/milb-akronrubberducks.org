@@ -1,0 +1,5110 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* RubberDucks Single Game Tickets On-Sale
+<2018-02-19 Mon 09:00-10:00>
+:PROPERTIES:
+:ID:       mmzAlZk4fK27zRAZIEqdB578@stanza.co
+:LOCATION: Canal Park\, South Main Street\, Akron\, OH\, USA
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks Single Game Tickets On-Sale $11 Adult (13-59) / $10 Youth (3-12) / $10Senior (60+)
+
+Single Game Tickets https //stza.co/+y1kt-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks Single Game Tickets On-Sale
+END:VALARM
+DTSTART:20180219T150000Z
+DTEND:20180219T160000Z
+UID:mmzAlZk4fK27zRAZIEqdB578@stanza.co
+SUMMARY:RubberDucks Single Game Tickets On-Sale
+DESCRIPTION:$11 Adult (13-59) / $10 Youth (3-12) / $10Senior (60+)\n\nSingle Game Tickets https://stza.co/+y1kt-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Canal Park\, South Main Street\, Akron\, OH\, USA
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-04-05 Thu 17:00-20:00>
+:PROPERTIES:
+:ID:       b5uvRGe4RFi2D1DRkF7Gkd8h@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6yq-2o
+
+Shop  https //stza.co/+v6yq-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180405T220000Z
+DTEND:20180406T010000Z
+UID:b5uvRGe4RFi2D1DRkF7Gkd8h@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6yq-2o\n\nShop: https://stza.co/+v6yq-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-04-06 Fri 17:00-20:00>
+:PROPERTIES:
+:ID:       oj0VRRca4P08feo_jrNmMiSF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6yE-3W
+
+Shop  https //stza.co/+v6yE-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180406T220000Z
+DTEND:20180407T010000Z
+UID:oj0VRRca4P08feo_jrNmMiSF@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6yE-3W\n\nShop: https://stza.co/+v6yE-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-04-07 Sat 15:00-18:00>
+:PROPERTIES:
+:ID:       V048yksx5Lg7o25a2m_fkrdn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6yW-1m
+
+Shop  https //stza.co/+v6yW-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180407T200000Z
+DTEND:20180407T230000Z
+UID:V048yksx5Lg7o25a2m_fkrdn@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6yW-1m\n\nShop: https://stza.co/+v6yW-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-04-08 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       PYXhkxOJer3KODXcLIN1td3z@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6zb-1e
+
+Shop  https //stza.co/+v6zb-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180408T180000Z
+DTEND:20180408T210000Z
+UID:PYXhkxOJer3KODXcLIN1td3z@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6zb-1e\n\nShop: https://stza.co/+v6zb-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Rumble Ponies
+<2018-04-09 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       hoj-FYAiC0WCyMpFr8t6szSK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Rumble Ponies RubberDucks @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6Bf-1e
+
+Shop  https //stza.co/+v6Bf-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Rumble Ponies
+END:VALARM
+DTSTART:20180409T223500Z
+DTEND:20180410T013500Z
+UID:hoj-FYAiC0WCyMpFr8t6szSK@stanza.co
+SUMMARY:RubberDucks @ Rumble Ponies
+DESCRIPTION:RubberDucks @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6Bf-1e\n\nShop: https://stza.co/+v6Bf-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Rumble Ponies
+<2018-04-10 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       jOf2j-_J0XLwazqdv9cxHtZR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Rumble Ponies RubberDucks @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6By-3t
+
+Shop  https //stza.co/+v6By-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Rumble Ponies
+END:VALARM
+DTSTART:20180410T223500Z
+DTEND:20180411T013500Z
+UID:jOf2j-_J0XLwazqdv9cxHtZR@stanza.co
+SUMMARY:RubberDucks @ Rumble Ponies
+DESCRIPTION:RubberDucks @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6By-3t\n\nShop: https://stza.co/+v6By-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Rumble Ponies
+<2018-04-11 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       LFtez2ImP5zriBnMepob6kYX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Rumble Ponies RubberDucks @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6BO-21
+
+Shop  https //stza.co/+v6BO-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Rumble Ponies
+END:VALARM
+DTSTART:20180411T223500Z
+DTEND:20180412T013500Z
+UID:LFtez2ImP5zriBnMepob6kYX@stanza.co
+SUMMARY:RubberDucks @ Rumble Ponies
+DESCRIPTION:RubberDucks @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6BO-21\n\nShop: https://stza.co/+v6BO-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Thunder
+<2018-04-13 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       GDde9aR-Wcd1FeXQ1Yo8TANe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Thunder RubberDucks vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6ip-s
+
+Shop  https //stza.co/+v6ip-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Thunder
+END:VALARM
+DTSTART:20180413T223500Z
+DTEND:20180414T013500Z
+UID:GDde9aR-Wcd1FeXQ1Yo8TANe@stanza.co
+SUMMARY:RubberDucks vs. Thunder
+DESCRIPTION:RubberDucks vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6ip-s\n\nShop: https://stza.co/+v6ip-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Thunder
+<2018-04-14 Sat 13:05-16:05>
+:PROPERTIES:
+:ID:       EDtBC8tzKkNPvBJPC8JEsEFq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Thunder RubberDucks vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6iq-1Z
+
+Shop  https //stza.co/+v6iq-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Thunder
+END:VALARM
+DTSTART:20180414T180500Z
+DTEND:20180414T210500Z
+UID:EDtBC8tzKkNPvBJPC8JEsEFq@stanza.co
+SUMMARY:RubberDucks vs. Thunder
+DESCRIPTION:RubberDucks vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6iq-1Z\n\nShop: https://stza.co/+v6iq-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Thunder
+<2018-04-15 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       TKyiaF27XPehsPa6hskbVudl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Thunder RubberDucks vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6it-o
+
+Shop  https //stza.co/+v6it-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Thunder
+END:VALARM
+DTSTART:20180415T180500Z
+DTEND:20180415T210500Z
+UID:TKyiaF27XPehsPa6hskbVudl@stanza.co
+SUMMARY:RubberDucks vs. Thunder
+DESCRIPTION:RubberDucks vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6it-o\n\nShop: https://stza.co/+v6it-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-04-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       oB9fhLknFUqlI6q33NZZmIC-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6iu-V
+
+Shop  https //stza.co/+v6iu-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180416T223500Z
+DTEND:20180417T013500Z
+UID:oB9fhLknFUqlI6q33NZZmIC-@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6iu-V\n\nShop: https://stza.co/+v6iu-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-04-17 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       buUzUSYuQAp0i9V6uvA1ei0F@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6iw-13
+
+Shop  https //stza.co/+v6iw-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180417T223500Z
+DTEND:20180418T013500Z
+UID:buUzUSYuQAp0i9V6uvA1ei0F@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6iw-13\n\nShop: https://stza.co/+v6iw-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-04-18 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       vODstqAeC6mQcpNczks2xBSQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6iy-2Q
+
+Shop  https //stza.co/+v6iy-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180418T223500Z
+DTEND:20180419T013500Z
+UID:vODstqAeC6mQcpNczks2xBSQ@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6iy-2Q\n\nShop: https://stza.co/+v6iy-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-04-19 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       _f1otplqpOzTnMXJZVEbVDCJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6iA-3_
+
+Shop  https //stza.co/+v6iA-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180419T223500Z
+DTEND:20180420T013500Z
+UID:_f1otplqpOzTnMXJZVEbVDCJ@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6iA-3_\n\nShop: https://stza.co/+v6iA-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-04-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       0YUeZmbQQAZS7CszcxvwMPsM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6CX-1F
+
+Shop  https //stza.co/+v6CX-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180420T230500Z
+DTEND:20180421T020500Z
+UID:0YUeZmbQQAZS7CszcxvwMPsM@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6CX-1F\n\nShop: https://stza.co/+v6CX-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-04-21 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       arwHNqZ2ZvIFYGtJDquZa1nQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6Df-J
+
+Shop  https //stza.co/+v6Df-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180421T223500Z
+DTEND:20180422T013500Z
+UID:arwHNqZ2ZvIFYGtJDquZa1nQ@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6Df-J\n\nShop: https://stza.co/+v6Df-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-04-22 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       NFRSsoa3u-NAJK5z-AOJPmlK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6Dw-p
+
+Shop  https //stza.co/+v6Dw-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180422T173500Z
+DTEND:20180422T203500Z
+UID:NFRSsoa3u-NAJK5z-AOJPmlK@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6Dw-p\n\nShop: https://stza.co/+v6Dw-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fightin Phils
+<2018-04-23 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       BVtBiVbSSYoIZG7aST7KQrgt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fightin Phils RubberDucks @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v6Ko
+
+Follow on MiLB First Pitch  https //stza.co/+v6Ko-27
+
+Shop  https //stza.co/+v6Ko-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fightin Phils
+END:VALARM
+DTSTART:20180423T223500Z
+DTEND:20180424T013500Z
+UID:BVtBiVbSSYoIZG7aST7KQrgt@stanza.co
+SUMMARY:RubberDucks @ Fightin Phils
+DESCRIPTION:RubberDucks @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v6Ko\n\nFollow on MiLB First Pitch: https://stza.co/+v6Ko-27\n\nShop: https://stza.co/+v6Ko-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fightin Phils
+<2018-04-24 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       8MbITNxzS0_A_1PNt5IdnH24@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fightin Phils RubberDucks @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v6Kx
+
+Follow on MiLB First Pitch  https //stza.co/+v6Kx-1B
+
+Shop  https //stza.co/+v6Kx-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fightin Phils
+END:VALARM
+DTSTART:20180424T223500Z
+DTEND:20180425T013500Z
+UID:8MbITNxzS0_A_1PNt5IdnH24@stanza.co
+SUMMARY:RubberDucks @ Fightin Phils
+DESCRIPTION:RubberDucks @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v6Kx\n\nFollow on MiLB First Pitch: https://stza.co/+v6Kx-1B\n\nShop: https://stza.co/+v6Kx-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fightin Phils
+<2018-04-25 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       Hb0qLGbS2YMXC7rJGVt9UbXu@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fightin Phils RubberDucks @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v6KH
+
+Follow on MiLB First Pitch  https //stza.co/+v6KH-2X
+
+Shop  https //stza.co/+v6KH-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fightin Phils
+END:VALARM
+DTSTART:20180425T223500Z
+DTEND:20180426T013500Z
+UID:Hb0qLGbS2YMXC7rJGVt9UbXu@stanza.co
+SUMMARY:RubberDucks @ Fightin Phils
+DESCRIPTION:RubberDucks @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v6KH\n\nFollow on MiLB First Pitch: https://stza.co/+v6KH-2X\n\nShop: https://stza.co/+v6KH-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-04-27 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       7WsdBl7pOjxxm0sYbZNwc68H@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6iD-B
+
+Shop  https //stza.co/+v6iD-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180427T223500Z
+DTEND:20180428T013500Z
+UID:7WsdBl7pOjxxm0sYbZNwc68H@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6iD-B\n\nShop: https://stza.co/+v6iD-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-04-28 Sat 13:05-16:05>
+:PROPERTIES:
+:ID:       dLFrvAv7u-XbKm6W7ZnuSXCY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6iF-12
+
+Shop  https //stza.co/+v6iF-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180428T180500Z
+DTEND:20180428T210500Z
+UID:dLFrvAv7u-XbKm6W7ZnuSXCY@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6iF-12\n\nShop: https://stza.co/+v6iF-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-04-29 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       -vAujaH-MCdfETG1W8jr4JMV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6iH-1e
+
+Shop  https //stza.co/+v6iH-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180429T180500Z
+DTEND:20180429T210500Z
+UID:-vAujaH-MCdfETG1W8jr4JMV@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6iH-1e\n\nShop: https://stza.co/+v6iH-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Rumble Ponies
+<2018-04-30 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       A3fEtb91Dy3oB-GWugYMxLNe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Rumble Ponies RubberDucks vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6iI-3f
+
+Shop  https //stza.co/+v6iI-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Rumble Ponies
+END:VALARM
+DTSTART:20180430T223500Z
+DTEND:20180501T013500Z
+UID:A3fEtb91Dy3oB-GWugYMxLNe@stanza.co
+SUMMARY:RubberDucks vs. Rumble Ponies
+DESCRIPTION:RubberDucks vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6iI-3f\n\nShop: https://stza.co/+v6iI-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Rumble Ponies
+<2018-05-01 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       J-dhiunMcrfJ_gOk4wj6Y2Z-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Rumble Ponies RubberDucks vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6iK-30
+
+Shop  https //stza.co/+v6iK-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Rumble Ponies
+END:VALARM
+DTSTART:20180501T223500Z
+DTEND:20180502T013500Z
+UID:J-dhiunMcrfJ_gOk4wj6Y2Z-@stanza.co
+SUMMARY:RubberDucks vs. Rumble Ponies
+DESCRIPTION:RubberDucks vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6iK-30\n\nShop: https://stza.co/+v6iK-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Rumble Ponies
+<2018-05-02 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       cg6zuntn0rgXBsRYrZPkXppy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Rumble Ponies RubberDucks vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6iN-3h
+
+Shop  https //stza.co/+v6iN-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Rumble Ponies
+END:VALARM
+DTSTART:20180502T223500Z
+DTEND:20180503T013500Z
+UID:cg6zuntn0rgXBsRYrZPkXppy@stanza.co
+SUMMARY:RubberDucks vs. Rumble Ponies
+DESCRIPTION:RubberDucks vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6iN-3h\n\nShop: https://stza.co/+v6iN-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-05-03 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       t-F67TJ3vWQU6yNiLG1qQ8fl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6DQ-2g
+
+Shop  https //stza.co/+v6DQ-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180503T223500Z
+DTEND:20180504T013500Z
+UID:t-F67TJ3vWQU6yNiLG1qQ8fl@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6DQ-2g\n\nShop: https://stza.co/+v6DQ-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       uBbVyT2KYGi3mexJYuFhH_-q@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6E9-2j
+
+Shop  https //stza.co/+v6E9-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:uBbVyT2KYGi3mexJYuFhH_-q@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6E9-2j\n\nShop: https://stza.co/+v6E9-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-05-05 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       Fr9ZFHANhKqUtp5tFZXIf7qq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6Er-2f
+
+Shop  https //stza.co/+v6Er-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180505T223500Z
+DTEND:20180506T013500Z
+UID:Fr9ZFHANhKqUtp5tFZXIf7qq@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6Er-2f\n\nShop: https://stza.co/+v6Er-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-05-06 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       fPOPT5oq92Mpfa0PJtQEG7xj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6EN-z
+
+Shop  https //stza.co/+v6EN-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180506T173500Z
+DTEND:20180506T203500Z
+UID:fPOPT5oq92Mpfa0PJtQEG7xj@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6EN-z\n\nShop: https://stza.co/+v6EN-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-05-07 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       33zH_Pkr0n-WyRpIJvVqKHvb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6Lk-2y
+
+Shop  https //stza.co/+v6Lk-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180507T223500Z
+DTEND:20180508T013500Z
+UID:33zH_Pkr0n-WyRpIJvVqKHvb@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6Lk-2y\n\nShop: https://stza.co/+v6Lk-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-05-08 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       ug0FaPrJ73o_ftSqDE5Wsl3y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6Lu-2u
+
+Shop  https //stza.co/+v6Lu-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180508T223500Z
+DTEND:20180509T013500Z
+UID:ug0FaPrJ73o_ftSqDE5Wsl3y@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6Lu-2u\n\nShop: https://stza.co/+v6Lu-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-05-09 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       nBCJ58rzTPoni57r-ueft0cA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6LE-3L
+
+Shop  https //stza.co/+v6LE-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180509T160500Z
+DTEND:20180509T190500Z
+UID:nBCJ58rzTPoni57r-ueft0cA@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6LE-3L\n\nShop: https://stza.co/+v6LE-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-05-10 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       TUwuSIthDLbCxfeMJvX7X55h@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6iO-r
+
+Shop  https //stza.co/+v6iO-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180510T223500Z
+DTEND:20180511T013500Z
+UID:TUwuSIthDLbCxfeMJvX7X55h@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6iO-r\n\nShop: https://stza.co/+v6iO-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-05-11 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       klYvCvQiZa3ktP3X1FXYaFNk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6iQ-B
+
+Shop  https //stza.co/+v6iQ-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180511T223500Z
+DTEND:20180512T013500Z
+UID:klYvCvQiZa3ktP3X1FXYaFNk@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6iQ-B\n\nShop: https://stza.co/+v6iQ-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-05-12 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       ZNqpsZg2BkDzZTIw9GvT4tpt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6iT-1u
+
+Shop  https //stza.co/+v6iT-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180512T223500Z
+DTEND:20180513T013500Z
+UID:ZNqpsZg2BkDzZTIw9GvT4tpt@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6iT-1u\n\nShop: https://stza.co/+v6iT-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-05-13 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       cLk12Pd6fCjJTLwOTfd4aIz6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6iV-2B
+
+Shop  https //stza.co/+v6iV-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180513T180500Z
+DTEND:20180513T210500Z
+UID:cLk12Pd6fCjJTLwOTfd4aIz6@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6iV-2B\n\nShop: https://stza.co/+v6iV-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Thunder
+<2018-05-14 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       iBqW9OxwMIrWY_t6yBbhlwUw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Thunder RubberDucks @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6Mz-3D
+
+Shop  https //stza.co/+v6Mz-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Thunder
+END:VALARM
+DTSTART:20180514T230000Z
+DTEND:20180515T020000Z
+UID:iBqW9OxwMIrWY_t6yBbhlwUw@stanza.co
+SUMMARY:RubberDucks @ Thunder
+DESCRIPTION:RubberDucks @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6Mz-3D\n\nShop: https://stza.co/+v6Mz-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Thunder
+<2018-05-15 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       8kIX84WC_HM20LAJGATix1Zb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Thunder RubberDucks @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6MF-1F
+
+Shop  https //stza.co/+v6MF-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Thunder
+END:VALARM
+DTSTART:20180515T230000Z
+DTEND:20180516T020000Z
+UID:8kIX84WC_HM20LAJGATix1Zb@stanza.co
+SUMMARY:RubberDucks @ Thunder
+DESCRIPTION:RubberDucks @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6MF-1F\n\nShop: https://stza.co/+v6MF-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Thunder
+<2018-05-16 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       QlCfB1jWCZY-98432yRmygy9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Thunder RubberDucks @ Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6MP-1F
+
+Shop  https //stza.co/+v6MP-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Thunder
+END:VALARM
+DTSTART:20180516T143000Z
+DTEND:20180516T173000Z
+UID:QlCfB1jWCZY-98432yRmygy9@stanza.co
+SUMMARY:RubberDucks @ Thunder
+DESCRIPTION:RubberDucks @ Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6MP-1F\n\nShop: https://stza.co/+v6MP-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Yard Goats
+<2018-05-17 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       -P_JdlhEFCBnLJPY3qmOMPvC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Yard Goats RubberDucks @ Yard Goats
+
+Buy tickets here  https //stza.co/~v6IQ
+
+Follow on MiLB First Pitch  https //stza.co/+v6IQ-G
+
+Shop  https //stza.co/+v6IQ-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Yard Goats
+END:VALARM
+DTSTART:20180517T230500Z
+DTEND:20180518T020500Z
+UID:-P_JdlhEFCBnLJPY3qmOMPvC@stanza.co
+SUMMARY:RubberDucks @ Yard Goats
+DESCRIPTION:RubberDucks @ Yard Goats\n\nBuy tickets here: https://stza.co/~v6IQ\n\nFollow on MiLB First Pitch: https://stza.co/+v6IQ-G\n\nShop: https://stza.co/+v6IQ-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Yard Goats
+<2018-05-18 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       KtPaX8IifdaVhkHQ_CmPqP9c@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Yard Goats RubberDucks @ Yard Goats
+
+Buy tickets here  https //stza.co/~v6I$
+
+Follow on MiLB First Pitch  https //stza.co/+v6I$-11
+
+Shop  https //stza.co/+v6I$-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Yard Goats
+END:VALARM
+DTSTART:20180518T230500Z
+DTEND:20180519T020500Z
+UID:KtPaX8IifdaVhkHQ_CmPqP9c@stanza.co
+SUMMARY:RubberDucks @ Yard Goats
+DESCRIPTION:RubberDucks @ Yard Goats\n\nBuy tickets here: https://stza.co/~v6I$\n\nFollow on MiLB First Pitch: https://stza.co/+v6I$-11\n\nShop: https://stza.co/+v6I$-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Yard Goats
+<2018-05-19 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       g6e1yp1l2hOILeupVt2nlNub@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Yard Goats RubberDucks @ Yard Goats
+
+Buy tickets here  https //stza.co/~v6Ja
+
+Follow on MiLB First Pitch  https //stza.co/+v6Ja-1w
+
+Shop  https //stza.co/+v6Ja-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Yard Goats
+END:VALARM
+DTSTART:20180519T220500Z
+DTEND:20180520T010500Z
+UID:g6e1yp1l2hOILeupVt2nlNub@stanza.co
+SUMMARY:RubberDucks @ Yard Goats
+DESCRIPTION:RubberDucks @ Yard Goats\n\nBuy tickets here: https://stza.co/~v6Ja\n\nFollow on MiLB First Pitch: https://stza.co/+v6Ja-1w\n\nShop: https://stza.co/+v6Ja-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Yard Goats
+<2018-05-20 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       wWVtcYU4jmuLrLudTNrM-ZqM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Yard Goats RubberDucks @ Yard Goats
+
+Buy tickets here  https //stza.co/~v6Jl
+
+Follow on MiLB First Pitch  https //stza.co/+v6Jl-2t
+
+Shop  https //stza.co/+v6Jl-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Yard Goats
+END:VALARM
+DTSTART:20180520T170500Z
+DTEND:20180520T200500Z
+UID:wWVtcYU4jmuLrLudTNrM-ZqM@stanza.co
+SUMMARY:RubberDucks @ Yard Goats
+DESCRIPTION:RubberDucks @ Yard Goats\n\nBuy tickets here: https://stza.co/~v6Jl\n\nFollow on MiLB First Pitch: https://stza.co/+v6Jl-2t\n\nShop: https://stza.co/+v6Jl-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Thunder
+<2018-05-22 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       5HZJF3u-2EwWiAx5yJ2V4Nq8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Thunder RubberDucks vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6iW-f
+
+Shop  https //stza.co/+v6iW-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Thunder
+END:VALARM
+DTSTART:20180522T223500Z
+DTEND:20180523T013500Z
+UID:5HZJF3u-2EwWiAx5yJ2V4Nq8@stanza.co
+SUMMARY:RubberDucks vs. Thunder
+DESCRIPTION:RubberDucks vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6iW-f\n\nShop: https://stza.co/+v6iW-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Thunder
+<2018-05-23 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       USVqFCwjvgGxrOQ0DjijbQS5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Thunder RubberDucks vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6iZ-3n
+
+Shop  https //stza.co/+v6iZ-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Thunder
+END:VALARM
+DTSTART:20180523T143500Z
+DTEND:20180523T173500Z
+UID:USVqFCwjvgGxrOQ0DjijbQS5@stanza.co
+SUMMARY:RubberDucks vs. Thunder
+DESCRIPTION:RubberDucks vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6iZ-3n\n\nShop: https://stza.co/+v6iZ-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Thunder
+<2018-05-24 Thu 09:35-12:35>
+:PROPERTIES:
+:ID:       563dvQZXQHiV8jWJu7PZM7cU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Thunder RubberDucks vs. Thunder
+
+Follow on MiLB First Pitch  https //stza.co/+v6i$-3C
+
+Shop  https //stza.co/+v6i$-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Thunder
+END:VALARM
+DTSTART:20180524T143500Z
+DTEND:20180524T173500Z
+UID:563dvQZXQHiV8jWJu7PZM7cU@stanza.co
+SUMMARY:RubberDucks vs. Thunder
+DESCRIPTION:RubberDucks vs. Thunder\n\nFollow on MiLB First Pitch: https://stza.co/+v6i$-3C\n\nShop: https://stza.co/+v6i$-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-05-25 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       Qs4sZvFniqOqKEhq9zREyk_q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6j0-12
+
+Shop  https //stza.co/+v6j0-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180525T223500Z
+DTEND:20180526T013500Z
+UID:Qs4sZvFniqOqKEhq9zREyk_q@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6j0-12\n\nShop: https://stza.co/+v6j0-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-05-26 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       pJICl_27Vn5dsgU6lQ5Jmflb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6j2-2Z
+
+Shop  https //stza.co/+v6j2-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180526T223500Z
+DTEND:20180527T013500Z
+UID:pJICl_27Vn5dsgU6lQ5Jmflb@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6j2-2Z\n\nShop: https://stza.co/+v6j2-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-05-27 Sun 17:35-20:35>
+:PROPERTIES:
+:ID:       P1jsucf44VhRzcBRyWsaqIxl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6j4-3Z
+
+Shop  https //stza.co/+v6j4-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180527T223500Z
+DTEND:20180528T013500Z
+UID:P1jsucf44VhRzcBRyWsaqIxl@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6j4-3Z\n\nShop: https://stza.co/+v6j4-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-05-28 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       peWFlAtjr0rv4HGkpJoejuQs@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6j6-A
+
+Shop  https //stza.co/+v6j6-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180528T170500Z
+DTEND:20180528T200500Z
+UID:peWFlAtjr0rv4HGkpJoejuQs@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6j6-A\n\nShop: https://stza.co/+v6j6-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-05-29 Tue 17:00-20:00>
+:PROPERTIES:
+:ID:       EsdMJ44WO5do9RiN8KgMMIwg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6zu-d
+
+Shop  https //stza.co/+v6zu-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180529T220000Z
+DTEND:20180530T010000Z
+UID:EsdMJ44WO5do9RiN8KgMMIwg@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6zu-d\n\nShop: https://stza.co/+v6zu-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-05-30 Wed 17:00-20:00>
+:PROPERTIES:
+:ID:       04QoZEiiJXQDFz3o9hlJWqwj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6zP-20
+
+Shop  https //stza.co/+v6zP-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180530T220000Z
+DTEND:20180531T010000Z
+UID:04QoZEiiJXQDFz3o9hlJWqwj@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6zP-20\n\nShop: https://stza.co/+v6zP-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-05-31 Thu 09:30-12:30>
+:PROPERTIES:
+:ID:       cTS3MG31x4SXdyAmnHUI8SuS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6A2-i
+
+Shop  https //stza.co/+v6A2-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180531T143000Z
+DTEND:20180531T173000Z
+UID:cTS3MG31x4SXdyAmnHUI8SuS@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6A2-i\n\nShop: https://stza.co/+v6A2-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-06-01 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       prhbT7CNg7Hg8t0GLFwjAc4y@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6j8-2X
+
+Shop  https //stza.co/+v6j8-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180601T230500Z
+DTEND:20180602T020500Z
+UID:prhbT7CNg7Hg8t0GLFwjAc4y@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6j8-2X\n\nShop: https://stza.co/+v6j8-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-06-02 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       nZJeyrmNcj-s4KhmR3T_8Rox@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6ja-3i
+
+Shop  https //stza.co/+v6ja-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180602T230500Z
+DTEND:20180603T020500Z
+UID:nZJeyrmNcj-s4KhmR3T_8Rox@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6ja-3i\n\nShop: https://stza.co/+v6ja-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-06-03 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       UvJ8eGAhJQsAHnyLSby3nnek@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6jd-1G
+
+Shop  https //stza.co/+v6jd-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180603T180500Z
+DTEND:20180603T210500Z
+UID:UvJ8eGAhJQsAHnyLSby3nnek@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6jd-1G\n\nShop: https://stza.co/+v6jd-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fisher Cats
+<2018-06-05 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       xj0PSrjm_ydoZZbWY03AeC77@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fisher Cats RubberDucks @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+v6Jw-3C
+
+Shop  https //stza.co/+v6Jw-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fisher Cats
+END:VALARM
+DTSTART:20180605T223500Z
+DTEND:20180606T013500Z
+UID:xj0PSrjm_ydoZZbWY03AeC77@stanza.co
+SUMMARY:RubberDucks @ Fisher Cats
+DESCRIPTION:RubberDucks @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+v6Jw-3C\n\nShop: https://stza.co/+v6Jw-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fisher Cats
+<2018-06-06 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       oSS0DPxozpuVnsmjHYNBDbZy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fisher Cats RubberDucks @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+v6JF-2x
+
+Shop  https //stza.co/+v6JF-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fisher Cats
+END:VALARM
+DTSTART:20180606T143500Z
+DTEND:20180606T173500Z
+UID:oSS0DPxozpuVnsmjHYNBDbZy@stanza.co
+SUMMARY:RubberDucks @ Fisher Cats
+DESCRIPTION:RubberDucks @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+v6JF-2x\n\nShop: https://stza.co/+v6JF-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fisher Cats
+<2018-06-07 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       AHAvPFHpuUQ7XOV0P10BgH55@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fisher Cats RubberDucks @ Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+v6JP-h
+
+Shop  https //stza.co/+v6JP-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fisher Cats
+END:VALARM
+DTSTART:20180607T223500Z
+DTEND:20180608T013500Z
+UID:AHAvPFHpuUQ7XOV0P10BgH55@stanza.co
+SUMMARY:RubberDucks @ Fisher Cats
+DESCRIPTION:RubberDucks @ Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+v6JP-h\n\nShop: https://stza.co/+v6JP-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Sea Dogs
+<2018-06-08 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       lqpGvh-wj2I09hWDvMDbmwJj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Sea Dogs RubberDucks @ Sea Dogs
+
+Buy tickets here  https //stza.co/~v6JY
+
+Follow on MiLB First Pitch  https //stza.co/+v6JY-$
+
+Shop  https //stza.co/+v6JY-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Sea Dogs
+END:VALARM
+DTSTART:20180608T230000Z
+DTEND:20180609T020000Z
+UID:lqpGvh-wj2I09hWDvMDbmwJj@stanza.co
+SUMMARY:RubberDucks @ Sea Dogs
+DESCRIPTION:RubberDucks @ Sea Dogs\n\nBuy tickets here: https://stza.co/~v6JY\n\nFollow on MiLB First Pitch: https://stza.co/+v6JY-$\n\nShop: https://stza.co/+v6JY-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Sea Dogs
+<2018-06-09 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       8QMqNswZmQDYg5m1uPo3ASgA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Sea Dogs RubberDucks @ Sea Dogs
+
+Buy tickets here  https //stza.co/~v6K6
+
+Follow on MiLB First Pitch  https //stza.co/+v6K6-1I
+
+Shop  https //stza.co/+v6K6-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Sea Dogs
+END:VALARM
+DTSTART:20180609T220000Z
+DTEND:20180610T010000Z
+UID:8QMqNswZmQDYg5m1uPo3ASgA@stanza.co
+SUMMARY:RubberDucks @ Sea Dogs
+DESCRIPTION:RubberDucks @ Sea Dogs\n\nBuy tickets here: https://stza.co/~v6K6\n\nFollow on MiLB First Pitch: https://stza.co/+v6K6-1I\n\nShop: https://stza.co/+v6K6-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Sea Dogs
+<2018-06-10 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       gMyWxo8-jQejslB3_Yn3hw9m@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Sea Dogs RubberDucks @ Sea Dogs
+
+Buy tickets here  https //stza.co/~v6Kg
+
+Follow on MiLB First Pitch  https //stza.co/+v6Kg-3R
+
+Shop  https //stza.co/+v6Kg-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Sea Dogs
+END:VALARM
+DTSTART:20180610T170000Z
+DTEND:20180610T200000Z
+UID:gMyWxo8-jQejslB3_Yn3hw9m@stanza.co
+SUMMARY:RubberDucks @ Sea Dogs
+DESCRIPTION:RubberDucks @ Sea Dogs\n\nBuy tickets here: https://stza.co/~v6Kg\n\nFollow on MiLB First Pitch: https://stza.co/+v6Kg-3R\n\nShop: https://stza.co/+v6Kg-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Fisher Cats
+<2018-06-12 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       lvgkC4lgoxMf8wv22a2KdNGL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Fisher Cats RubberDucks vs. Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+v6je-2v
+
+Shop  https //stza.co/+v6je-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Fisher Cats
+END:VALARM
+DTSTART:20180612T230500Z
+DTEND:20180613T020500Z
+UID:lvgkC4lgoxMf8wv22a2KdNGL@stanza.co
+SUMMARY:RubberDucks vs. Fisher Cats
+DESCRIPTION:RubberDucks vs. Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+v6je-2v\n\nShop: https://stza.co/+v6je-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Fisher Cats
+<2018-06-13 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       sK-eb51z4W18mn-nIojpOB-E@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Fisher Cats RubberDucks vs. Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+v6jg-2g
+
+Shop  https //stza.co/+v6jg-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Fisher Cats
+END:VALARM
+DTSTART:20180613T230500Z
+DTEND:20180614T020500Z
+UID:sK-eb51z4W18mn-nIojpOB-E@stanza.co
+SUMMARY:RubberDucks vs. Fisher Cats
+DESCRIPTION:RubberDucks vs. Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+v6jg-2g\n\nShop: https://stza.co/+v6jg-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Fisher Cats
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       b0C-NUaZPdW0WWdvhWBeFD2x@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Fisher Cats RubberDucks vs. Fisher Cats
+
+Follow on MiLB First Pitch  https //stza.co/+v6jj-3e
+
+Shop  https //stza.co/+v6jj-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Fisher Cats
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:b0C-NUaZPdW0WWdvhWBeFD2x@stanza.co
+SUMMARY:RubberDucks vs. Fisher Cats
+DESCRIPTION:RubberDucks vs. Fisher Cats\n\nFollow on MiLB First Pitch: https://stza.co/+v6jj-3e\n\nShop: https://stza.co/+v6jj-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fightin Phils
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       rHifSE0AJAJkwQuu6akrvzAt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fightin Phils RubberDucks @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v6KS
+
+Follow on MiLB First Pitch  https //stza.co/+v6KS-2$
+
+Shop  https //stza.co/+v6KS-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fightin Phils
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:rHifSE0AJAJkwQuu6akrvzAt@stanza.co
+SUMMARY:RubberDucks @ Fightin Phils
+DESCRIPTION:RubberDucks @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v6KS\n\nFollow on MiLB First Pitch: https://stza.co/+v6KS-2$\n\nShop: https://stza.co/+v6KS-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fightin Phils
+<2018-06-16 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       kHPrx4D2ZO5SrHrXkKItnnIh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fightin Phils RubberDucks @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v6L0
+
+Follow on MiLB First Pitch  https //stza.co/+v6L0-2B
+
+Shop  https //stza.co/+v6L0-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fightin Phils
+END:VALARM
+DTSTART:20180616T223500Z
+DTEND:20180617T013500Z
+UID:kHPrx4D2ZO5SrHrXkKItnnIh@stanza.co
+SUMMARY:RubberDucks @ Fightin Phils
+DESCRIPTION:RubberDucks @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v6L0\n\nFollow on MiLB First Pitch: https://stza.co/+v6L0-2B\n\nShop: https://stza.co/+v6L0-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Fightin Phils
+<2018-06-17 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       8r0qIpxkXZf474ZCvNNtlGlq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Fightin Phils RubberDucks @ Fightin Phils
+
+Buy tickets here  https //stza.co/~v6La
+
+Follow on MiLB First Pitch  https //stza.co/+v6La-o
+
+Shop  https //stza.co/+v6La-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Fightin Phils
+END:VALARM
+DTSTART:20180617T210500Z
+DTEND:20180618T000500Z
+UID:8r0qIpxkXZf474ZCvNNtlGlq@stanza.co
+SUMMARY:RubberDucks @ Fightin Phils
+DESCRIPTION:RubberDucks @ Fightin Phils\n\nBuy tickets here: https://stza.co/~v6La\n\nFollow on MiLB First Pitch: https://stza.co/+v6La-o\n\nShop: https://stza.co/+v6La-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Yard Goats
+<2018-06-19 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       o9DJkVTLGabNwN6vnt6uIp7J@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Yard Goats RubberDucks vs. Yard Goats
+
+Follow on MiLB First Pitch  https //stza.co/+v6jl-14
+
+Shop  https //stza.co/+v6jl-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Yard Goats
+END:VALARM
+DTSTART:20180619T230500Z
+DTEND:20180620T020500Z
+UID:o9DJkVTLGabNwN6vnt6uIp7J@stanza.co
+SUMMARY:RubberDucks vs. Yard Goats
+DESCRIPTION:RubberDucks vs. Yard Goats\n\nFollow on MiLB First Pitch: https://stza.co/+v6jl-14\n\nShop: https://stza.co/+v6jl-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Yard Goats
+<2018-06-20 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       lJB5hir15AsISLAL5Vb51i5c@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Yard Goats RubberDucks vs. Yard Goats
+
+Follow on MiLB First Pitch  https //stza.co/+v6kH-3K
+
+Shop  https //stza.co/+v6kH-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Yard Goats
+END:VALARM
+DTSTART:20180620T230500Z
+DTEND:20180621T020500Z
+UID:lJB5hir15AsISLAL5Vb51i5c@stanza.co
+SUMMARY:RubberDucks vs. Yard Goats
+DESCRIPTION:RubberDucks vs. Yard Goats\n\nFollow on MiLB First Pitch: https://stza.co/+v6kH-3K\n\nShop: https://stza.co/+v6kH-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Yard Goats
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       l9k7p8SgbNWo_oTN3Xs4JlHH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Yard Goats RubberDucks vs. Yard Goats
+
+Follow on MiLB First Pitch  https //stza.co/+v6mX-14
+
+Shop  https //stza.co/+v6mX-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Yard Goats
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:l9k7p8SgbNWo_oTN3Xs4JlHH@stanza.co
+SUMMARY:RubberDucks vs. Yard Goats
+DESCRIPTION:RubberDucks vs. Yard Goats\n\nFollow on MiLB First Pitch: https://stza.co/+v6mX-14\n\nShop: https://stza.co/+v6mX-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Senators
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       x3Nk8ePYFYb6fGQdLOtMe1Nx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Senators RubberDucks vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6ng-18
+
+Shop  https //stza.co/+v6ng-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Senators
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:x3Nk8ePYFYb6fGQdLOtMe1Nx@stanza.co
+SUMMARY:RubberDucks vs. Senators
+DESCRIPTION:RubberDucks vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6ng-18\n\nShop: https://stza.co/+v6ng-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Senators
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       6XGa2vIK6iJWu-X4Ke7V0FG-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Senators RubberDucks vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6nA-8
+
+Shop  https //stza.co/+v6nA-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Senators
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:6XGa2vIK6iJWu-X4Ke7V0FG-@stanza.co
+SUMMARY:RubberDucks vs. Senators
+DESCRIPTION:RubberDucks vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6nA-8\n\nShop: https://stza.co/+v6nA-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Senators
+<2018-06-24 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       v7G3cv1Qk11JsQTfwuvnNMOA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Senators RubberDucks vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6nQ-1D
+
+Shop  https //stza.co/+v6nQ-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Senators
+END:VALARM
+DTSTART:20180624T180500Z
+DTEND:20180624T210500Z
+UID:v7G3cv1Qk11JsQTfwuvnNMOA@stanza.co
+SUMMARY:RubberDucks vs. Senators
+DESCRIPTION:RubberDucks vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6nQ-1D\n\nShop: https://stza.co/+v6nQ-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       RI7shk_GRmFOjciXSwe3mcls@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6F2-2i
+
+Shop  https //stza.co/+v6F2-28
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:RI7shk_GRmFOjciXSwe3mcls@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6F2-2i\n\nShop: https://stza.co/+v6F2-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-06-26 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       MVVkMIC-c9BAJ7Ngcnit2dZ5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6Fj-29
+
+Shop  https //stza.co/+v6Fj-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180626T230500Z
+DTEND:20180627T020500Z
+UID:MVVkMIC-c9BAJ7Ngcnit2dZ5@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6Fj-29\n\nShop: https://stza.co/+v6Fj-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-06-27 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       NESbY6WCLD6YJxcBVf2CacoC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6FB-1l
+
+Shop  https //stza.co/+v6FB-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180627T230500Z
+DTEND:20180628T020500Z
+UID:NESbY6WCLD6YJxcBVf2CacoC@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6FB-1l\n\nShop: https://stza.co/+v6FB-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Baysox
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       hotX74A5qIsJfum7wOZXYWVL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Baysox RubberDucks @ Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6FP-I
+
+Shop  https //stza.co/+v6FP-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Baysox
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:hotX74A5qIsJfum7wOZXYWVL@stanza.co
+SUMMARY:RubberDucks @ Baysox
+DESCRIPTION:RubberDucks @ Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6FP-I\n\nShop: https://stza.co/+v6FP-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       LD0E3WXxtpyVAQXsIOUA3l-h@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6oa-3u
+
+Shop  https //stza.co/+v6oa-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:LD0E3WXxtpyVAQXsIOUA3l-h@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6oa-3u\n\nShop: https://stza.co/+v6oa-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-06-30 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       ENtoG-obDihiLO8il1gvP4JG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6op-3X
+
+Shop  https //stza.co/+v6op-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180630T230500Z
+DTEND:20180701T020500Z
+UID:ENtoG-obDihiLO8il1gvP4JG@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6op-3X\n\nShop: https://stza.co/+v6op-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-07-01 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       MTDt0Mt0m0cMuZHk-nRuZlHF@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6oL-U
+
+Shop  https //stza.co/+v6oL-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180701T180500Z
+DTEND:20180701T210500Z
+UID:MTDt0Mt0m0cMuZHk-nRuZlHF@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6oL-U\n\nShop: https://stza.co/+v6oL-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-07-02 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       PPBo39eInIT3bI3JIJ_BzxBb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6p3-M
+
+Shop  https //stza.co/+v6p3-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180702T230500Z
+DTEND:20180703T020500Z
+UID:PPBo39eInIT3bI3JIJ_BzxBb@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6p3-M\n\nShop: https://stza.co/+v6p3-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-07-03 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       94Fkr7Ano52HdRKbGkzXXahP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6pm-1X
+
+Shop  https //stza.co/+v6pm-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180703T230500Z
+DTEND:20180704T020500Z
+UID:94Fkr7Ano52HdRKbGkzXXahP@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6pm-1X\n\nShop: https://stza.co/+v6pm-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-07-04 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       fyKaVrAF7BIcicjLG9dW8tPP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6LO-B
+
+Shop  https //stza.co/+v6LO-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180704T223500Z
+DTEND:20180705T013500Z
+UID:fyKaVrAF7BIcicjLG9dW8tPP@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6LO-B\n\nShop: https://stza.co/+v6LO-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-07-05 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       4QBqDR6-fVKi4RJ4JdcB9iO5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6LY-3n
+
+Shop  https //stza.co/+v6LY-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180705T223500Z
+DTEND:20180706T013500Z
+UID:4QBqDR6-fVKi4RJ4JdcB9iO5@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6LY-3n\n\nShop: https://stza.co/+v6LY-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       VhvHw2XlzQjGTaWS60bhgTCO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6M5-R
+
+Shop  https //stza.co/+v6M5-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:VhvHw2XlzQjGTaWS60bhgTCO@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6M5-R\n\nShop: https://stza.co/+v6M5-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-07-07 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       4UDKH40npWrMF-kwKWgtJzvL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6Mg-1j
+
+Shop  https //stza.co/+v6Mg-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180707T220500Z
+DTEND:20180708T010500Z
+UID:4UDKH40npWrMF-kwKWgtJzvL@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6Mg-1j\n\nShop: https://stza.co/+v6Mg-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Flying Squirrels
+<2018-07-08 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       AfXfI3TB1OB_BwawHuVW2y4i@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Flying Squirrels RubberDucks @ Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6Mq-z
+
+Shop  https //stza.co/+v6Mq-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Flying Squirrels
+END:VALARM
+DTSTART:20180708T170500Z
+DTEND:20180708T200500Z
+UID:AfXfI3TB1OB_BwawHuVW2y4i@stanza.co
+SUMMARY:RubberDucks @ Flying Squirrels
+DESCRIPTION:RubberDucks @ Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6Mq-z\n\nShop: https://stza.co/+v6Mq-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Rumble Ponies
+<2018-07-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       xLLzG7OhiCXqdvDmFus146Ez@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Rumble Ponies RubberDucks vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6pE-3t
+
+Shop  https //stza.co/+v6pE-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Rumble Ponies
+END:VALARM
+DTSTART:20180712T230500Z
+DTEND:20180713T020500Z
+UID:xLLzG7OhiCXqdvDmFus146Ez@stanza.co
+SUMMARY:RubberDucks vs. Rumble Ponies
+DESCRIPTION:RubberDucks vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6pE-3t\n\nShop: https://stza.co/+v6pE-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Rumble Ponies
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       G5wUXp3P6mXaz52k_c1ufvjA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Rumble Ponies RubberDucks vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6pP-X
+
+Shop  https //stza.co/+v6pP-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Rumble Ponies
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:G5wUXp3P6mXaz52k_c1ufvjA@stanza.co
+SUMMARY:RubberDucks vs. Rumble Ponies
+DESCRIPTION:RubberDucks vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6pP-X\n\nShop: https://stza.co/+v6pP-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Rumble Ponies
+<2018-07-14 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       7XKQ2KJTFEL2VwTLZLj0IJpC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Rumble Ponies RubberDucks vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6qf-3S
+
+Shop  https //stza.co/+v6qf-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Rumble Ponies
+END:VALARM
+DTSTART:20180714T230500Z
+DTEND:20180715T020500Z
+UID:7XKQ2KJTFEL2VwTLZLj0IJpC@stanza.co
+SUMMARY:RubberDucks vs. Rumble Ponies
+DESCRIPTION:RubberDucks vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6qf-3S\n\nShop: https://stza.co/+v6qf-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Rumble Ponies
+<2018-07-15 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       y3p1MLl_JiHLKKwxG9vcTc4q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Rumble Ponies RubberDucks vs. Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6qy-o
+
+Shop  https //stza.co/+v6qy-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Rumble Ponies
+END:VALARM
+DTSTART:20180715T180500Z
+DTEND:20180715T210500Z
+UID:y3p1MLl_JiHLKKwxG9vcTc4q@stanza.co
+SUMMARY:RubberDucks vs. Rumble Ponies
+DESCRIPTION:RubberDucks vs. Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6qy-o\n\nShop: https://stza.co/+v6qy-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Senators
+<2018-07-16 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       k7zdbHTil8rSKzjKxKx41KmJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Senators RubberDucks @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6HM-V
+
+Shop  https //stza.co/+v6HM-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Senators
+END:VALARM
+DTSTART:20180716T223000Z
+DTEND:20180717T013000Z
+UID:k7zdbHTil8rSKzjKxKx41KmJ@stanza.co
+SUMMARY:RubberDucks @ Senators
+DESCRIPTION:RubberDucks @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6HM-V\n\nShop: https://stza.co/+v6HM-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Senators
+<2018-07-17 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       oYyqlxyqiJb5b4d053ciFd1a@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Senators RubberDucks @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6HW-23
+
+Shop  https //stza.co/+v6HW-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Senators
+END:VALARM
+DTSTART:20180717T223000Z
+DTEND:20180718T013000Z
+UID:oYyqlxyqiJb5b4d053ciFd1a@stanza.co
+SUMMARY:RubberDucks @ Senators
+DESCRIPTION:RubberDucks @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6HW-23\n\nShop: https://stza.co/+v6HW-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Senators
+<2018-07-18 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       Ky_O9JF1cUw6iLbS0m-a1Jvk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Senators RubberDucks @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6I6-2S
+
+Shop  https //stza.co/+v6I6-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Senators
+END:VALARM
+DTSTART:20180718T160000Z
+DTEND:20180718T190000Z
+UID:Ky_O9JF1cUw6iLbS0m-a1Jvk@stanza.co
+SUMMARY:RubberDucks @ Senators
+DESCRIPTION:RubberDucks @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6I6-2S\n\nShop: https://stza.co/+v6I6-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       nN_qZ2ItJlccZi-faByRXrIt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6qQ-O
+
+Shop  https //stza.co/+v6qQ-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:nN_qZ2ItJlccZi-faByRXrIt@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6qQ-O\n\nShop: https://stza.co/+v6qQ-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       SgLFcEVINbqV_1ZNHcpIZ1jd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6r9-3X
+
+Shop  https //stza.co/+v6r9-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:SgLFcEVINbqV_1ZNHcpIZ1jd@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6r9-3X\n\nShop: https://stza.co/+v6r9-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-07-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       E19TV-02d107sPTzkKx9bEE6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6ru-1m
+
+Shop  https //stza.co/+v6ru-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180721T230500Z
+DTEND:20180722T020500Z
+UID:E19TV-02d107sPTzkKx9bEE6@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6ru-1m\n\nShop: https://stza.co/+v6ru-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Flying Squirrels
+<2018-07-22 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       kE-F2NxPgDZUsUEleOIpFnU2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Flying Squirrels RubberDucks vs. Flying Squirrels
+
+Follow on MiLB First Pitch  https //stza.co/+v6rP-1o
+
+Shop  https //stza.co/+v6rP-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Flying Squirrels
+END:VALARM
+DTSTART:20180722T180500Z
+DTEND:20180722T210500Z
+UID:kE-F2NxPgDZUsUEleOIpFnU2@stanza.co
+SUMMARY:RubberDucks vs. Flying Squirrels
+DESCRIPTION:RubberDucks vs. Flying Squirrels\n\nFollow on MiLB First Pitch: https://stza.co/+v6rP-1o\n\nShop: https://stza.co/+v6rP-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-07-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       PNdUDuS1UI52TJK-Bi1YGffY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6s3-O
+
+Shop  https //stza.co/+v6s3-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180723T230500Z
+DTEND:20180724T020500Z
+UID:PNdUDuS1UI52TJK-Bi1YGffY@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6s3-O\n\nShop: https://stza.co/+v6s3-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       dy2OINFpaQhyaOrYchdgK-Q-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6so-2w
+
+Shop  https //stza.co/+v6so-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:dy2OINFpaQhyaOrYchdgK-Q-@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6so-2w\n\nShop: https://stza.co/+v6so-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Curve
+<2018-07-25 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       OzMwNYqeWDeyGBSrP3jmLlE0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Curve RubberDucks vs. Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6sB-2I
+
+Shop  https //stza.co/+v6sB-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Curve
+END:VALARM
+DTSTART:20180725T160500Z
+DTEND:20180725T190500Z
+UID:OzMwNYqeWDeyGBSrP3jmLlE0@stanza.co
+SUMMARY:RubberDucks vs. Curve
+DESCRIPTION:RubberDucks vs. Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6sB-2I\n\nShop: https://stza.co/+v6sB-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       XjWitmpZiBJcU20l-hj3Bub6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6F$-o
+
+Shop  https //stza.co/+v6F$-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:XjWitmpZiBJcU20l-hj3Bub6@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6F$-o\n\nShop: https://stza.co/+v6F$-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-07-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       FkGOfnFKIb7IQHf_2UYL9c62@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6Gc-1R
+
+Shop  https //stza.co/+v6Gc-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180727T230500Z
+DTEND:20180728T020500Z
+UID:FkGOfnFKIb7IQHf_2UYL9c62@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6Gc-1R\n\nShop: https://stza.co/+v6Gc-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-07-28 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       jlXyTtsDAtHZqrAXXLeIrSo9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6Gp-28
+
+Shop  https //stza.co/+v6Gp-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180728T230500Z
+DTEND:20180729T020500Z
+UID:jlXyTtsDAtHZqrAXXLeIrSo9@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6Gp-28\n\nShop: https://stza.co/+v6Gp-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-07-29 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       LC6u3msBvlM4haFW2aRNoZvn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6GA-31
+
+Shop  https //stza.co/+v6GA-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180729T173500Z
+DTEND:20180729T203500Z
+UID:LC6u3msBvlM4haFW2aRNoZvn@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6GA-31\n\nShop: https://stza.co/+v6GA-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-07-31 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       -DLXZFxiO25vUCks4veYHTzC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6sV-w
+
+Shop  https //stza.co/+v6sV-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180731T230500Z
+DTEND:20180801T020500Z
+UID:-DLXZFxiO25vUCks4veYHTzC@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6sV-w\n\nShop: https://stza.co/+v6sV-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-08-01 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       vJAFjfyJHvFZJ9Nb5dmM28aL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6tg-c
+
+Shop  https //stza.co/+v6tg-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180801T230500Z
+DTEND:20180802T020500Z
+UID:vJAFjfyJHvFZJ9Nb5dmM28aL@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6tg-c\n\nShop: https://stza.co/+v6tg-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       GgWy6chp0LSOS8juqyZpM9fq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6ty-m
+
+Shop  https //stza.co/+v6ty-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:GgWy6chp0LSOS8juqyZpM9fq@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6ty-m\n\nShop: https://stza.co/+v6ty-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-08-03 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       wEGgbDUdAuwRh1stI4hMaQv5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6Ao-1V
+
+Shop  https //stza.co/+v6Ao-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180803T230000Z
+DTEND:20180804T020000Z
+UID:wEGgbDUdAuwRh1stI4hMaQv5@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6Ao-1V\n\nShop: https://stza.co/+v6Ao-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-08-04 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       QQRseiN4va-De8aVY3A5hgdh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6AC-3O
+
+Shop  https //stza.co/+v6AC-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180804T220000Z
+DTEND:20180805T010000Z
+UID:QQRseiN4va-De8aVY3A5hgdh@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6AC-3O\n\nShop: https://stza.co/+v6AC-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Curve
+<2018-08-05 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       vQyq_8mDFo2TOgVIo1SO9aCA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Curve RubberDucks @ Curve
+
+Follow on MiLB First Pitch  https //stza.co/+v6AT-3a
+
+Shop  https //stza.co/+v6AT-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Curve
+END:VALARM
+DTSTART:20180805T220000Z
+DTEND:20180806T010000Z
+UID:vQyq_8mDFo2TOgVIo1SO9aCA@stanza.co
+SUMMARY:RubberDucks @ Curve
+DESCRIPTION:RubberDucks @ Curve\n\nFollow on MiLB First Pitch: https://stza.co/+v6AT-3a\n\nShop: https://stza.co/+v6AT-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Fightin Phils
+<2018-08-07 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       _uWPJVtrs_VnYbguHcY9Irid@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Fightin Phils RubberDucks vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+v6tQ-2t
+
+Shop  https //stza.co/+v6tQ-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Fightin Phils
+END:VALARM
+DTSTART:20180807T230500Z
+DTEND:20180808T020500Z
+UID:_uWPJVtrs_VnYbguHcY9Irid@stanza.co
+SUMMARY:RubberDucks vs. Fightin Phils
+DESCRIPTION:RubberDucks vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+v6tQ-2t\n\nShop: https://stza.co/+v6tQ-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Fightin Phils
+<2018-08-08 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       Hej4S7f6IUAzCp3h9f2GZfnE@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Fightin Phils RubberDucks vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+v6u9-1C
+
+Shop  https //stza.co/+v6u9-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Fightin Phils
+END:VALARM
+DTSTART:20180808T230500Z
+DTEND:20180809T020500Z
+UID:Hej4S7f6IUAzCp3h9f2GZfnE@stanza.co
+SUMMARY:RubberDucks vs. Fightin Phils
+DESCRIPTION:RubberDucks vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+v6u9-1C\n\nShop: https://stza.co/+v6u9-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Fightin Phils
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       2JOJeFmTEmuBs9RHfYeOrRgd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Fightin Phils RubberDucks vs. Fightin Phils
+
+Follow on MiLB First Pitch  https //stza.co/+v6uu-22
+
+Shop  https //stza.co/+v6uu-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Fightin Phils
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:2JOJeFmTEmuBs9RHfYeOrRgd@stanza.co
+SUMMARY:RubberDucks vs. Fightin Phils
+DESCRIPTION:RubberDucks vs. Fightin Phils\n\nFollow on MiLB First Pitch: https://stza.co/+v6uu-22\n\nShop: https://stza.co/+v6uu-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Sea Dogs
+<2018-08-10 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       fb9t7Bee3VjUZpunjQYgjSaa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Sea Dogs RubberDucks vs. Sea Dogs
+
+Follow on MiLB First Pitch  https //stza.co/+v6uI-39
+
+Shop  https //stza.co/+v6uI-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Sea Dogs
+END:VALARM
+DTSTART:20180810T230500Z
+DTEND:20180811T020500Z
+UID:fb9t7Bee3VjUZpunjQYgjSaa@stanza.co
+SUMMARY:RubberDucks vs. Sea Dogs
+DESCRIPTION:RubberDucks vs. Sea Dogs\n\nFollow on MiLB First Pitch: https://stza.co/+v6uI-39\n\nShop: https://stza.co/+v6uI-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Sea Dogs
+<2018-08-11 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       eNp7WUgBVnyTk4aKvUUt4PMY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Sea Dogs RubberDucks vs. Sea Dogs
+
+Follow on MiLB First Pitch  https //stza.co/+v6v1-2R
+
+Shop  https //stza.co/+v6v1-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Sea Dogs
+END:VALARM
+DTSTART:20180811T230500Z
+DTEND:20180812T020500Z
+UID:eNp7WUgBVnyTk4aKvUUt4PMY@stanza.co
+SUMMARY:RubberDucks vs. Sea Dogs
+DESCRIPTION:RubberDucks vs. Sea Dogs\n\nFollow on MiLB First Pitch: https://stza.co/+v6v1-2R\n\nShop: https://stza.co/+v6v1-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Sea Dogs
+<2018-08-12 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       VIV6C0dlVqufHaAhphpGPMvm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Sea Dogs RubberDucks vs. Sea Dogs
+
+Follow on MiLB First Pitch  https //stza.co/+v6ve-2l
+
+Shop  https //stza.co/+v6ve-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Sea Dogs
+END:VALARM
+DTSTART:20180812T180500Z
+DTEND:20180812T210500Z
+UID:VIV6C0dlVqufHaAhphpGPMvm@stanza.co
+SUMMARY:RubberDucks vs. Sea Dogs
+DESCRIPTION:RubberDucks vs. Sea Dogs\n\nFollow on MiLB First Pitch: https://stza.co/+v6ve-2l\n\nShop: https://stza.co/+v6ve-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Rumble Ponies
+<2018-08-14 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       KX7uG_YzVrlZqmF2-_qpoc30@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Rumble Ponies RubberDucks @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6C4-g
+
+Shop  https //stza.co/+v6C4-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Rumble Ponies
+END:VALARM
+DTSTART:20180814T223500Z
+DTEND:20180815T013500Z
+UID:KX7uG_YzVrlZqmF2-_qpoc30@stanza.co
+SUMMARY:RubberDucks @ Rumble Ponies
+DESCRIPTION:RubberDucks @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6C4-g\n\nShop: https://stza.co/+v6C4-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Rumble Ponies
+<2018-08-15 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       73aRRdRFTui71ipJHs2IaL0U@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Rumble Ponies RubberDucks @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6Cq-o
+
+Shop  https //stza.co/+v6Cq-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Rumble Ponies
+END:VALARM
+DTSTART:20180815T223500Z
+DTEND:20180816T013500Z
+UID:73aRRdRFTui71ipJHs2IaL0U@stanza.co
+SUMMARY:RubberDucks @ Rumble Ponies
+DESCRIPTION:RubberDucks @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6Cq-o\n\nShop: https://stza.co/+v6Cq-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Rumble Ponies
+<2018-08-16 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       0xY__5L0bYXl7pHTcITL5sZw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Rumble Ponies RubberDucks @ Rumble Ponies
+
+Follow on MiLB First Pitch  https //stza.co/+v6CG-c
+
+Shop  https //stza.co/+v6CG-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Rumble Ponies
+END:VALARM
+DTSTART:20180816T223500Z
+DTEND:20180817T013500Z
+UID:0xY__5L0bYXl7pHTcITL5sZw@stanza.co
+SUMMARY:RubberDucks @ Rumble Ponies
+DESCRIPTION:RubberDucks @ Rumble Ponies\n\nFollow on MiLB First Pitch: https://stza.co/+v6CG-c\n\nShop: https://stza.co/+v6CG-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Senators
+<2018-08-17 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       bf5HOJa-rYxP77aCW-riR3Ei@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Senators RubberDucks @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6Ii-26
+
+Shop  https //stza.co/+v6Ii-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Senators
+END:VALARM
+DTSTART:20180817T230000Z
+DTEND:20180818T020000Z
+UID:bf5HOJa-rYxP77aCW-riR3Ei@stanza.co
+SUMMARY:RubberDucks @ Senators
+DESCRIPTION:RubberDucks @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6Ii-26\n\nShop: https://stza.co/+v6Ii-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Senators
+<2018-08-18 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       KKLX8gHjLQjU6zC80Uv65GGY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Senators RubberDucks @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6Is-3T
+
+Shop  https //stza.co/+v6Is-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Senators
+END:VALARM
+DTSTART:20180818T220000Z
+DTEND:20180819T010000Z
+UID:KKLX8gHjLQjU6zC80Uv65GGY@stanza.co
+SUMMARY:RubberDucks @ Senators
+DESCRIPTION:RubberDucks @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6Is-3T\n\nShop: https://stza.co/+v6Is-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ Senators
+<2018-08-19 Sun 12:30-15:30>
+:PROPERTIES:
+:ID:       YxcfSwxShTQsOFr1uGN2LRNL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ Senators RubberDucks @ Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6ID-V
+
+Shop  https //stza.co/+v6ID-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ Senators
+END:VALARM
+DTSTART:20180819T173000Z
+DTEND:20180819T203000Z
+UID:YxcfSwxShTQsOFr1uGN2LRNL@stanza.co
+SUMMARY:RubberDucks @ Senators
+DESCRIPTION:RubberDucks @ Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6ID-V\n\nShop: https://stza.co/+v6ID-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-08-20 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       JLLgEtT72zPSQHahaNAqCi0J@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6GM-I
+
+Shop  https //stza.co/+v6GM-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180820T230500Z
+DTEND:20180821T020500Z
+UID:JLLgEtT72zPSQHahaNAqCi0J@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6GM-I\n\nShop: https://stza.co/+v6GM-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       W4Ak_onZ12NiY9XdblGX2wXP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6GZ-3B
+
+Shop  https //stza.co/+v6GZ-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:W4Ak_onZ12NiY9XdblGX2wXP@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6GZ-3B\n\nShop: https://stza.co/+v6GZ-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       OlLmQQZ7Pt5-5Pz9ZdRKB4Zq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6vC-35
+
+Shop  https //stza.co/+v6vC-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:OlLmQQZ7Pt5-5Pz9ZdRKB4Zq@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6vC-35\n\nShop: https://stza.co/+v6vC-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. SeaWolves
+<2018-08-23 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       vcGBcdjdw1aOMAhpGJRxLLVZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. SeaWolves RubberDucks vs. SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6vW-3X
+
+Shop  https //stza.co/+v6vW-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. SeaWolves
+END:VALARM
+DTSTART:20180823T230500Z
+DTEND:20180824T020500Z
+UID:vcGBcdjdw1aOMAhpGJRxLLVZ@stanza.co
+SUMMARY:RubberDucks vs. SeaWolves
+DESCRIPTION:RubberDucks vs. SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6vW-3X\n\nShop: https://stza.co/+v6vW-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Senators
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       60owtKTv1FYWyfnuXV_onT7i@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Senators RubberDucks vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6wg-P
+
+Shop  https //stza.co/+v6wg-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Senators
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:60owtKTv1FYWyfnuXV_onT7i@stanza.co
+SUMMARY:RubberDucks vs. Senators
+DESCRIPTION:RubberDucks vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6wg-P\n\nShop: https://stza.co/+v6wg-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Senators
+<2018-08-25 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       tOSA0MknGQqHZmQQWg4uVCyq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Senators RubberDucks vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6wy-2k
+
+Shop  https //stza.co/+v6wy-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Senators
+END:VALARM
+DTSTART:20180825T230500Z
+DTEND:20180826T020500Z
+UID:tOSA0MknGQqHZmQQWg4uVCyq@stanza.co
+SUMMARY:RubberDucks vs. Senators
+DESCRIPTION:RubberDucks vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6wy-2k\n\nShop: https://stza.co/+v6wy-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Senators
+<2018-08-26 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       iAK3jy5G4mGz0XDlFsXFeVs3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Senators RubberDucks vs. Senators
+
+Follow on MiLB First Pitch  https //stza.co/+v6wP-2S
+
+Shop  https //stza.co/+v6wP-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Senators
+END:VALARM
+DTSTART:20180826T180500Z
+DTEND:20180826T210500Z
+UID:iAK3jy5G4mGz0XDlFsXFeVs3@stanza.co
+SUMMARY:RubberDucks vs. Senators
+DESCRIPTION:RubberDucks vs. Senators\n\nFollow on MiLB First Pitch: https://stza.co/+v6wP-2S\n\nShop: https://stza.co/+v6wP-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-08-27 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       hJ-f-GpA5EE5VVGREIFwER-w@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6x9-3M
+
+Shop  https //stza.co/+v6x9-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180827T230500Z
+DTEND:20180828T020500Z
+UID:hJ-f-GpA5EE5VVGREIFwER-w@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6x9-3M\n\nShop: https://stza.co/+v6x9-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-08-28 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       CQhNr_s4s3cjxC3a7mTWa0GL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6xu-i
+
+Shop  https //stza.co/+v6xu-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180828T230500Z
+DTEND:20180829T020500Z
+UID:CQhNr_s4s3cjxC3a7mTWa0GL@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6xu-i\n\nShop: https://stza.co/+v6xu-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-08-29 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       rOagOuEbUYXwinjntnnhq4KI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6xO-3u
+
+Shop  https //stza.co/+v6xO-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180829T230500Z
+DTEND:20180830T020500Z
+UID:rOagOuEbUYXwinjntnnhq4KI@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6xO-3u\n\nShop: https://stza.co/+v6xO-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks vs. Baysox
+<2018-08-30 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       Rmx6X4X3X_J0jDMQ5Vygytag@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks vs. Baysox RubberDucks vs. Baysox
+
+Follow on MiLB First Pitch  https //stza.co/+v6ya-3J
+
+Shop  https //stza.co/+v6ya-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks vs. Baysox
+END:VALARM
+DTSTART:20180830T230500Z
+DTEND:20180831T020500Z
+UID:Rmx6X4X3X_J0jDMQ5Vygytag@stanza.co
+SUMMARY:RubberDucks vs. Baysox
+DESCRIPTION:RubberDucks vs. Baysox\n\nFollow on MiLB First Pitch: https://stza.co/+v6ya-3J\n\nShop: https://stza.co/+v6ya-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-08-31 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       ML2FrxRu2juYx78V4-fERxTn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6Ha-3z
+
+Shop  https //stza.co/+v6Ha-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180831T230500Z
+DTEND:20180901T020500Z
+UID:ML2FrxRu2juYx78V4-fERxTn@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6Ha-3z\n\nShop: https://stza.co/+v6Ha-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-09-01 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       _NRuVj4sjVUWnrKm_n1oNHJ3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6Hf-1O
+
+Shop  https //stza.co/+v6Hf-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180901T220500Z
+DTEND:20180902T010500Z
+UID:_NRuVj4sjVUWnrKm_n1oNHJ3@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6Hf-1O\n\nShop: https://stza.co/+v6Hf-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-09-02 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       SLPmz_lw17V6sK85HdsZKGMl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6Hp-3m
+
+Shop  https //stza.co/+v6Hp-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180902T220500Z
+DTEND:20180903T010500Z
+UID:SLPmz_lw17V6sK85HdsZKGMl@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6Hp-3m\n\nShop: https://stza.co/+v6Hp-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT
+* RubberDucks @ SeaWolves
+<2018-09-03 Mon 12:35-15:35>
+:PROPERTIES:
+:ID:       97AXxB1eEqAzNY9f4r8k6CRo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+RubberDucks @ SeaWolves RubberDucks @ SeaWolves
+
+Follow on MiLB First Pitch  https //stza.co/+v6HB-e
+
+Shop  https //stza.co/+v6HB-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:RubberDucks @ SeaWolves
+END:VALARM
+DTSTART:20180903T173500Z
+DTEND:20180903T203500Z
+UID:97AXxB1eEqAzNY9f4r8k6CRo@stanza.co
+SUMMARY:RubberDucks @ SeaWolves
+DESCRIPTION:RubberDucks @ SeaWolves\n\nFollow on MiLB First Pitch: https://stza.co/+v6HB-e\n\nShop: https://stza.co/+v6HB-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144500Z
+LAST-MODIFIED:20180213T144500Z
+TRANSP:OPAQUE
+END:VEVENT

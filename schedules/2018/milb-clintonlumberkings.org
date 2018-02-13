@@ -1,0 +1,5076 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* LumberKings @ Cougars
+<2018-04-05 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       FGYVEVl-bsKOtMrEf4MRKnyt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cougars LumberKings @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBqs-3D
+
+Shop  https //stza.co/+xBqs-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cougars
+END:VALARM
+DTSTART:20180405T233000Z
+DTEND:20180406T023000Z
+UID:FGYVEVl-bsKOtMrEf4MRKnyt@stanza.co
+SUMMARY:LumberKings @ Cougars
+DESCRIPTION:LumberKings @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBqs-3D\n\nShop: https://stza.co/+xBqs-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cougars
+<2018-04-06 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       o5cvTMYgx_AG233OWclyzqY8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cougars LumberKings @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBqt-3g
+
+Shop  https //stza.co/+xBqt-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cougars
+END:VALARM
+DTSTART:20180406T233000Z
+DTEND:20180407T023000Z
+UID:o5cvTMYgx_AG233OWclyzqY8@stanza.co
+SUMMARY:LumberKings @ Cougars
+DESCRIPTION:LumberKings @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBqt-3g\n\nShop: https://stza.co/+xBqt-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-04-07 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       UFjd8r6LWxld1koMY51xQ0z4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMXO-2i
+
+Shop  https //stza.co/+vMXO-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180407T233000Z
+DTEND:20180408T023000Z
+UID:UFjd8r6LWxld1koMY51xQ0z4@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMXO-2i\n\nShop: https://stza.co/+vMXO-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-04-08 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       bbIMxFvfwE1C1xxiLnNJj3y3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMXQ-3T
+
+Shop  https //stza.co/+vMXQ-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180408T190000Z
+DTEND:20180408T220000Z
+UID:bbIMxFvfwE1C1xxiLnNJj3y3@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMXQ-3T\n\nShop: https://stza.co/+vMXQ-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-04-09 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       Jj8pqWw1r8WSYhLpn9gBYI27@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMXS-3
+
+Shop  https //stza.co/+vMXS-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180409T233000Z
+DTEND:20180410T023000Z
+UID:Jj8pqWw1r8WSYhLpn9gBYI27@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMXS-3\n\nShop: https://stza.co/+vMXS-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-04-10 Tue>--<2018-04-09 Mon>
+:PROPERTIES:
+:ID:       tuYW_MCJfY2wmm0wlllW2Pmt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMXU-2_
+
+Shop  https //stza.co/+vMXU-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART;VALUE=DATE:20180410
+DTEND;VALUE=DATE:20180410
+UID:tuYW_MCJfY2wmm0wlllW2Pmt@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMXU-2_\n\nShop: https://stza.co/+vMXU-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-04-11 Wed>--<2018-04-10 Tue>
+:PROPERTIES:
+:ID:       poD67imZpwRfYPEadaCmACla@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMXW-2q
+
+Shop  https //stza.co/+vMXW-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART;VALUE=DATE:20180411
+DTEND;VALUE=DATE:20180411
+UID:poD67imZpwRfYPEadaCmACla@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMXW-2q\n\nShop: https://stza.co/+vMXW-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-04-12 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       fF87YKW2Keb0VfzI3VFibbUY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xVYs-5
+
+Shop  https //stza.co/+xVYs-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180412T233000Z
+DTEND:20180413T023000Z
+UID:fF87YKW2Keb0VfzI3VFibbUY@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xVYs-5\n\nShop: https://stza.co/+xVYs-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-04-13 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       m46zxlTdWjoqSlr-IoYhnqj_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXD
+
+Follow on MiLB First Pitch  https //stza.co/+vMXD-1L
+
+Shop  https //stza.co/+vMXD-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180413T233500Z
+DTEND:20180414T023500Z
+UID:m46zxlTdWjoqSlr-IoYhnqj_@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXD\n\nFollow on MiLB First Pitch: https://stza.co/+vMXD-1L\n\nShop: https://stza.co/+vMXD-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-04-14 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       WWePAPzXLRYToLWMDK461-Tk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXE
+
+Follow on MiLB First Pitch  https //stza.co/+vMXE-1d
+
+Shop  https //stza.co/+vMXE-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180414T220500Z
+DTEND:20180415T010500Z
+UID:WWePAPzXLRYToLWMDK461-Tk@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXE\n\nFollow on MiLB First Pitch: https://stza.co/+vMXE-1d\n\nShop: https://stza.co/+vMXE-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-04-15 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       yF-2B2i02nfrXW7bG-0Bno_w@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXF
+
+Follow on MiLB First Pitch  https //stza.co/+vMXF-3C
+
+Shop  https //stza.co/+vMXF-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180415T190500Z
+DTEND:20180415T220500Z
+UID:yF-2B2i02nfrXW7bG-0Bno_w@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXF\n\nFollow on MiLB First Pitch: https://stza.co/+vMXF-3C\n\nShop: https://stza.co/+vMXF-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-04-17 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       Dj_kkMSkgFw4xaf3157YnmZX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMXZ-1P
+
+Shop  https //stza.co/+vMXZ-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180417T233000Z
+DTEND:20180418T023000Z
+UID:Dj_kkMSkgFw4xaf3157YnmZX@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMXZ-1P\n\nShop: https://stza.co/+vMXZ-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-04-18 Wed>--<2018-04-17 Tue>
+:PROPERTIES:
+:ID:       uhgaKTiFzMlFbuaShgS8SVjy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMX$-J
+
+Shop  https //stza.co/+vMX$-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART;VALUE=DATE:20180418
+DTEND;VALUE=DATE:20180418
+UID:uhgaKTiFzMlFbuaShgS8SVjy@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMX$-J\n\nShop: https://stza.co/+vMX$-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-04-19 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       95FXs_ytOXp7VB2tpyLGBTI3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xVYv-d
+
+Shop  https //stza.co/+xVYv-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180419T233000Z
+DTEND:20180420T023000Z
+UID:95FXs_ytOXp7VB2tpyLGBTI3@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xVYv-d\n\nShop: https://stza.co/+xVYv-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Snappers
+<2018-04-20 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       0yI9-tlmzgi__m4R_t9Kq7Qe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Snappers LumberKings vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+vMY4-32
+
+Shop  https //stza.co/+vMY4-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Snappers
+END:VALARM
+DTSTART:20180420T233000Z
+DTEND:20180421T023000Z
+UID:0yI9-tlmzgi__m4R_t9Kq7Qe@stanza.co
+SUMMARY:LumberKings vs. Snappers
+DESCRIPTION:LumberKings vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+vMY4-32\n\nShop: https://stza.co/+vMY4-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Snappers
+<2018-04-21 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       Ibw6zFCwW68Cdn9hM2YtjUsg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Snappers LumberKings vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+vMY6-1W
+
+Shop  https //stza.co/+vMY6-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Snappers
+END:VALARM
+DTSTART:20180421T233000Z
+DTEND:20180422T023000Z
+UID:Ibw6zFCwW68Cdn9hM2YtjUsg@stanza.co
+SUMMARY:LumberKings vs. Snappers
+DESCRIPTION:LumberKings vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+vMY6-1W\n\nShop: https://stza.co/+vMY6-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Snappers
+<2018-04-22 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       JHLJMnrt0MoN9AWZQbXn8xem@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Snappers LumberKings vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+vMY7-3j
+
+Shop  https //stza.co/+vMY7-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Snappers
+END:VALARM
+DTSTART:20180422T190000Z
+DTEND:20180422T220000Z
+UID:JHLJMnrt0MoN9AWZQbXn8xem@stanza.co
+SUMMARY:LumberKings vs. Snappers
+DESCRIPTION:LumberKings vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+vMY7-3j\n\nShop: https://stza.co/+vMY7-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-04-23 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       jog6h-Ksu9Yenp8S6f7DxoNC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vM_u-x
+
+Shop  https //stza.co/+vM_u-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180423T233500Z
+DTEND:20180424T023500Z
+UID:jog6h-Ksu9Yenp8S6f7DxoNC@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vM_u-x\n\nShop: https://stza.co/+vM_u-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-04-24 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       EnXe7k_H-DB4hzHVeuAyOMLS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vM_v-1J
+
+Shop  https //stza.co/+vM_v-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180424T233500Z
+DTEND:20180425T023500Z
+UID:EnXe7k_H-DB4hzHVeuAyOMLS@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vM_v-1J\n\nShop: https://stza.co/+vM_v-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-04-25 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       kXoaeg3KmPCtsPA55AbGSrSZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vM_w-2F
+
+Shop  https //stza.co/+vM_w-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180425T233500Z
+DTEND:20180426T023500Z
+UID:kXoaeg3KmPCtsPA55AbGSrSZ@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vM_w-2F\n\nShop: https://stza.co/+vM_w-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-04-26 Thu 12:05-15:05>
+:PROPERTIES:
+:ID:       IiAnY0kIWR-jnrSWAhh8sdBY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vpCG-C
+
+Shop  https //stza.co/+vpCG-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180426T170500Z
+DTEND:20180426T200500Z
+UID:IiAnY0kIWR-jnrSWAhh8sdBY@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vpCG-C\n\nShop: https://stza.co/+vpCG-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-04-27 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       kqEq3zG8hJMrC3eitvVJ4RmL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLv-2Q
+
+Shop  https //stza.co/+wSLv-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180427T233000Z
+DTEND:20180428T023000Z
+UID:kqEq3zG8hJMrC3eitvVJ4RmL@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLv-2Q\n\nShop: https://stza.co/+wSLv-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-04-28 Sat 16:00-19:00>
+:PROPERTIES:
+:ID:       WZGK_YICSkmlzUBAyDgtlvIN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLw-e
+
+Shop  https //stza.co/+wSLw-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180428T210000Z
+DTEND:20180429T000000Z
+UID:WZGK_YICSkmlzUBAyDgtlvIN@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLw-e\n\nShop: https://stza.co/+wSLw-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-04-29 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       SfMMIW75dTf--3UjY1PTU9yl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLx-15
+
+Shop  https //stza.co/+wSLx-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180429T190000Z
+DTEND:20180429T220000Z
+UID:SfMMIW75dTf--3UjY1PTU9yl@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLx-15\n\nShop: https://stza.co/+wSLx-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Hot Rods
+<2018-05-01 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       vwbdvSN3OpuC_WrDVxblZwhz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Hot Rods LumberKings vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vMYa-1O
+
+Shop  https //stza.co/+vMYa-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Hot Rods
+END:VALARM
+DTSTART:20180501T233000Z
+DTEND:20180502T023000Z
+UID:vwbdvSN3OpuC_WrDVxblZwhz@stanza.co
+SUMMARY:LumberKings vs. Hot Rods
+DESCRIPTION:LumberKings vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vMYa-1O\n\nShop: https://stza.co/+vMYa-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Hot Rods
+<2018-05-02 Wed>--<2018-05-01 Tue>
+:PROPERTIES:
+:ID:       -C6axlsp_hshAg6tW2sI4vf3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Hot Rods LumberKings vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vMYc-a
+
+Shop  https //stza.co/+vMYc-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Hot Rods
+END:VALARM
+DTSTART;VALUE=DATE:20180502
+DTEND;VALUE=DATE:20180502
+UID:-C6axlsp_hshAg6tW2sI4vf3@stanza.co
+SUMMARY:LumberKings vs. Hot Rods
+DESCRIPTION:LumberKings vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vMYc-a\n\nShop: https://stza.co/+vMYc-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Hot Rods
+<2018-05-03 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       aOwWiej7uIecZf97mU98iQxC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Hot Rods LumberKings vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+xVYx-b
+
+Shop  https //stza.co/+xVYx-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Hot Rods
+END:VALARM
+DTSTART:20180503T233000Z
+DTEND:20180504T023000Z
+UID:aOwWiej7uIecZf97mU98iQxC@stanza.co
+SUMMARY:LumberKings vs. Hot Rods
+DESCRIPTION:LumberKings vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+xVYx-b\n\nShop: https://stza.co/+xVYx-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Dragons
+<2018-05-04 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       LRVAMOWwsdyfEAh0xrhJDBOx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Dragons LumberKings vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vMYg-1X
+
+Shop  https //stza.co/+vMYg-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Dragons
+END:VALARM
+DTSTART:20180504T233000Z
+DTEND:20180505T023000Z
+UID:LRVAMOWwsdyfEAh0xrhJDBOx@stanza.co
+SUMMARY:LumberKings vs. Dragons
+DESCRIPTION:LumberKings vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vMYg-1X\n\nShop: https://stza.co/+vMYg-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Dragons
+<2018-05-05 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       _7GqLsbA_4vCFZ1ZLmeMr0uc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Dragons LumberKings vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vMYh-q
+
+Shop  https //stza.co/+vMYh-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Dragons
+END:VALARM
+DTSTART:20180505T233000Z
+DTEND:20180506T023000Z
+UID:_7GqLsbA_4vCFZ1ZLmeMr0uc@stanza.co
+SUMMARY:LumberKings vs. Dragons
+DESCRIPTION:LumberKings vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vMYh-q\n\nShop: https://stza.co/+vMYh-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Dragons
+<2018-05-06 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       LgB1Tct63MVD319zQRWAz57N@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Dragons LumberKings vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vMYj-1B
+
+Shop  https //stza.co/+vMYj-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Dragons
+END:VALARM
+DTSTART:20180506T190000Z
+DTEND:20180506T220000Z
+UID:LgB1Tct63MVD319zQRWAz57N@stanza.co
+SUMMARY:LumberKings vs. Dragons
+DESCRIPTION:LumberKings vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vMYj-1B\n\nShop: https://stza.co/+vMYj-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Whitecaps
+<2018-05-07 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       nk19ur4tSVMiW_GttnRHddEN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Whitecaps LumberKings @ Whitecaps
+
+Buy tickets here  https //stza.co/~vM_r
+
+Follow on MiLB First Pitch  https //stza.co/+vM_r-33
+
+Shop  https //stza.co/+vM_r-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Whitecaps
+END:VALARM
+DTSTART:20180507T230500Z
+DTEND:20180508T020500Z
+UID:nk19ur4tSVMiW_GttnRHddEN@stanza.co
+SUMMARY:LumberKings @ Whitecaps
+DESCRIPTION:LumberKings @ Whitecaps\n\nBuy tickets here: https://stza.co/~vM_r\n\nFollow on MiLB First Pitch: https://stza.co/+vM_r-33\n\nShop: https://stza.co/+vM_r-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Whitecaps
+<2018-05-08 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       vNjQJeECjba9B_PifZbZAm-k@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Whitecaps LumberKings @ Whitecaps
+
+Buy tickets here  https //stza.co/~vM_s
+
+Follow on MiLB First Pitch  https //stza.co/+vM_s-1Z
+
+Shop  https //stza.co/+vM_s-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Whitecaps
+END:VALARM
+DTSTART:20180508T230500Z
+DTEND:20180509T020500Z
+UID:vNjQJeECjba9B_PifZbZAm-k@stanza.co
+SUMMARY:LumberKings @ Whitecaps
+DESCRIPTION:LumberKings @ Whitecaps\n\nBuy tickets here: https://stza.co/~vM_s\n\nFollow on MiLB First Pitch: https://stza.co/+vM_s-1Z\n\nShop: https://stza.co/+vM_s-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Whitecaps
+<2018-05-09 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       xoAK1aPFxW3vKgsHLakA3Oiy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Whitecaps LumberKings @ Whitecaps
+
+Buy tickets here  https //stza.co/~vM_t
+
+Follow on MiLB First Pitch  https //stza.co/+vM_t-3b
+
+Shop  https //stza.co/+vM_t-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Whitecaps
+END:VALARM
+DTSTART:20180509T160000Z
+DTEND:20180509T190000Z
+UID:xoAK1aPFxW3vKgsHLakA3Oiy@stanza.co
+SUMMARY:LumberKings @ Whitecaps
+DESCRIPTION:LumberKings @ Whitecaps\n\nBuy tickets here: https://stza.co/~vM_t\n\nFollow on MiLB First Pitch: https://stza.co/+vM_t-3b\n\nShop: https://stza.co/+vM_t-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cubs
+<2018-05-10 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       viQ0pFDn2YDpqp5C9PTeL3Sy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cubs LumberKings @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vM_o-D
+
+Shop  https //stza.co/+vM_o-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cubs
+END:VALARM
+DTSTART:20180510T230500Z
+DTEND:20180511T020500Z
+UID:viQ0pFDn2YDpqp5C9PTeL3Sy@stanza.co
+SUMMARY:LumberKings @ Cubs
+DESCRIPTION:LumberKings @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vM_o-D\n\nShop: https://stza.co/+vM_o-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cubs
+<2018-05-11 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       4YOBom8LOz-Vcp4ueBygCH-I@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cubs LumberKings @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vM_p-2o
+
+Shop  https //stza.co/+vM_p-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cubs
+END:VALARM
+DTSTART:20180511T233500Z
+DTEND:20180512T023500Z
+UID:4YOBom8LOz-Vcp4ueBygCH-I@stanza.co
+SUMMARY:LumberKings @ Cubs
+DESCRIPTION:LumberKings @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vM_p-2o\n\nShop: https://stza.co/+vM_p-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cubs
+<2018-05-12 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       xXftxdU_g6gkXTShDqlj-RQ-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cubs LumberKings @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vM_q-s
+
+Shop  https //stza.co/+vM_q-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cubs
+END:VALARM
+DTSTART:20180512T230500Z
+DTEND:20180513T020500Z
+UID:xXftxdU_g6gkXTShDqlj-RQ-@stanza.co
+SUMMARY:LumberKings @ Cubs
+DESCRIPTION:LumberKings @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vM_q-s\n\nShop: https://stza.co/+vM_q-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-05-14 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       NniyYIUKXpRDNk4mWSQe5PEN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBqG-1H
+
+Shop  https //stza.co/+xBqG-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180514T230000Z
+DTEND:20180515T020000Z
+UID:NniyYIUKXpRDNk4mWSQe5PEN@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBqG-1H\n\nShop: https://stza.co/+xBqG-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-05-15 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       JLb4WrhiEYZildP_h4AEZRCN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBqL-3F
+
+Shop  https //stza.co/+xBqL-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180515T160000Z
+DTEND:20180515T190000Z
+UID:JLb4WrhiEYZildP_h4AEZRCN@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBqL-3F\n\nShop: https://stza.co/+xBqL-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-05-16 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       2rAAiGow-K2ydHaPFVsG-5XX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBqM-35
+
+Shop  https //stza.co/+xBqM-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180516T160000Z
+DTEND:20180516T190000Z
+UID:2rAAiGow-K2ydHaPFVsG-5XX@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBqM-35\n\nShop: https://stza.co/+xBqM-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-05-17 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       g_d8F-Bm4RWF8IQQIqmwqNrM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBqN-2f
+
+Shop  https //stza.co/+xBqN-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180517T233000Z
+DTEND:20180518T023000Z
+UID:g_d8F-Bm4RWF8IQQIqmwqNrM@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBqN-2f\n\nShop: https://stza.co/+xBqN-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Kernels
+<2018-05-18 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       RGrjbEl17cpgIhOgQl_viWyH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Kernels LumberKings vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vMYm-2k
+
+Shop  https //stza.co/+vMYm-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Kernels
+END:VALARM
+DTSTART:20180518T233000Z
+DTEND:20180519T023000Z
+UID:RGrjbEl17cpgIhOgQl_viWyH@stanza.co
+SUMMARY:LumberKings vs. Kernels
+DESCRIPTION:LumberKings vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vMYm-2k\n\nShop: https://stza.co/+vMYm-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Kernels
+<2018-05-19 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       LMXEXBYI9zkE295RvtlwpkO-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Kernels LumberKings vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vMYo-3M
+
+Shop  https //stza.co/+vMYo-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Kernels
+END:VALARM
+DTSTART:20180519T233000Z
+DTEND:20180520T023000Z
+UID:LMXEXBYI9zkE295RvtlwpkO-@stanza.co
+SUMMARY:LumberKings vs. Kernels
+DESCRIPTION:LumberKings vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vMYo-3M\n\nShop: https://stza.co/+vMYo-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Kernels
+<2018-05-20 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       iOJI1m99oS-Z-4ZLFgvp8Z-C@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Kernels LumberKings vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vMYq-3A
+
+Shop  https //stza.co/+vMYq-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Kernels
+END:VALARM
+DTSTART:20180520T190000Z
+DTEND:20180520T220000Z
+UID:iOJI1m99oS-Z-4ZLFgvp8Z-C@stanza.co
+SUMMARY:LumberKings vs. Kernels
+DESCRIPTION:LumberKings vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vMYq-3A\n\nShop: https://stza.co/+vMYq-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-05-21 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       _w59NDEmZtpRRvXBgOtPT-je@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMYs-1k
+
+Shop  https //stza.co/+vMYs-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180521T233000Z
+DTEND:20180522T023000Z
+UID:_w59NDEmZtpRRvXBgOtPT-je@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMYs-1k\n\nShop: https://stza.co/+vMYs-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-05-22 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       i1xCUfAjUydP0TdBsgWOaNJw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMYu-3W
+
+Shop  https //stza.co/+vMYu-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180522T233000Z
+DTEND:20180523T023000Z
+UID:i1xCUfAjUydP0TdBsgWOaNJw@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMYu-3W\n\nShop: https://stza.co/+vMYu-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-05-23 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       mwgDunHjQEuqWoirxKaTLVgT@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMYw-2f
+
+Shop  https //stza.co/+vMYw-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180523T233000Z
+DTEND:20180524T023000Z
+UID:mwgDunHjQEuqWoirxKaTLVgT@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMYw-2f\n\nShop: https://stza.co/+vMYw-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-05-24 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       pe5PW0DT-pDO4LtlkWsb9jal@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMYy-3F
+
+Shop  https //stza.co/+vMYy-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180524T233000Z
+DTEND:20180525T023000Z
+UID:pe5PW0DT-pDO4LtlkWsb9jal@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMYy-3F\n\nShop: https://stza.co/+vMYy-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-05-25 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       r4NMDpVnwvhb3RbG7S_vWZhP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXG
+
+Follow on MiLB First Pitch  https //stza.co/+vMXG-1Z
+
+Shop  https //stza.co/+vMXG-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180525T233500Z
+DTEND:20180526T023500Z
+UID:r4NMDpVnwvhb3RbG7S_vWZhP@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXG\n\nFollow on MiLB First Pitch: https://stza.co/+vMXG-1Z\n\nShop: https://stza.co/+vMXG-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-05-26 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       Anr3VgIt4WOlgSAQrLlfypMD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXH
+
+Follow on MiLB First Pitch  https //stza.co/+vMXH-2N
+
+Shop  https //stza.co/+vMXH-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180526T233500Z
+DTEND:20180527T023500Z
+UID:Anr3VgIt4WOlgSAQrLlfypMD@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXH\n\nFollow on MiLB First Pitch: https://stza.co/+vMXH-2N\n\nShop: https://stza.co/+vMXH-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-05-27 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       S_pZE88OhaW1JmcX4Cq21Xqe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXI
+
+Follow on MiLB First Pitch  https //stza.co/+vMXI-1H
+
+Shop  https //stza.co/+vMXI-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180527T190500Z
+DTEND:20180527T220500Z
+UID:S_pZE88OhaW1JmcX4Cq21Xqe@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXI\n\nFollow on MiLB First Pitch: https://stza.co/+vMXI-1H\n\nShop: https://stza.co/+vMXI-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-05-28 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       6MdlYgqjzsez2hMXIjU6cQ0b@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~w0O0
+
+Follow on MiLB First Pitch  https //stza.co/+w0O0-3g
+
+Shop  https //stza.co/+w0O0-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180528T170500Z
+DTEND:20180528T200500Z
+UID:6MdlYgqjzsez2hMXIjU6cQ0b@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~w0O0\n\nFollow on MiLB First Pitch: https://stza.co/+w0O0-3g\n\nShop: https://stza.co/+w0O0-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. River Bandits
+<2018-05-29 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       snQkQCfLeZUzQrnbryHDsaya@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. River Bandits LumberKings vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vMYA-3G
+
+Shop  https //stza.co/+vMYA-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. River Bandits
+END:VALARM
+DTSTART:20180529T233000Z
+DTEND:20180530T023000Z
+UID:snQkQCfLeZUzQrnbryHDsaya@stanza.co
+SUMMARY:LumberKings vs. River Bandits
+DESCRIPTION:LumberKings vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vMYA-3G\n\nShop: https://stza.co/+vMYA-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. River Bandits
+<2018-05-30 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       85yUTf1GTAovfPNczU7yao0L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. River Bandits LumberKings vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vMYB-P
+
+Shop  https //stza.co/+vMYB-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. River Bandits
+END:VALARM
+DTSTART:20180530T233000Z
+DTEND:20180531T023000Z
+UID:85yUTf1GTAovfPNczU7yao0L@stanza.co
+SUMMARY:LumberKings vs. River Bandits
+DESCRIPTION:LumberKings vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vMYB-P\n\nShop: https://stza.co/+vMYB-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. River Bandits
+<2018-05-31 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       ZQe_jU_GS6gFO_c3GbiNm_Ml@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. River Bandits LumberKings vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vMYE-1V
+
+Shop  https //stza.co/+vMYE-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. River Bandits
+END:VALARM
+DTSTART:20180531T233000Z
+DTEND:20180601T023000Z
+UID:ZQe_jU_GS6gFO_c3GbiNm_Ml@stanza.co
+SUMMARY:LumberKings vs. River Bandits
+DESCRIPTION:LumberKings vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vMYE-1V\n\nShop: https://stza.co/+vMYE-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Chiefs
+<2018-06-01 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       hFrTuiiWqVR8mHZaMtVE54li@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Chiefs LumberKings vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vMYF-1K
+
+Shop  https //stza.co/+vMYF-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Chiefs
+END:VALARM
+DTSTART:20180601T233000Z
+DTEND:20180602T023000Z
+UID:hFrTuiiWqVR8mHZaMtVE54li@stanza.co
+SUMMARY:LumberKings vs. Chiefs
+DESCRIPTION:LumberKings vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vMYF-1K\n\nShop: https://stza.co/+vMYF-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Chiefs
+<2018-06-02 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       1jkz6ys0YT8dapfdxQzG43vw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Chiefs LumberKings vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vMYI-36
+
+Shop  https //stza.co/+vMYI-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Chiefs
+END:VALARM
+DTSTART:20180602T233000Z
+DTEND:20180603T023000Z
+UID:1jkz6ys0YT8dapfdxQzG43vw@stanza.co
+SUMMARY:LumberKings vs. Chiefs
+DESCRIPTION:LumberKings vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vMYI-36\n\nShop: https://stza.co/+vMYI-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Chiefs
+<2018-06-03 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       uUUKbgsWphhluRPrQmtEX52_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Chiefs LumberKings vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vMYK-B
+
+Shop  https //stza.co/+vMYK-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Chiefs
+END:VALARM
+DTSTART:20180603T190000Z
+DTEND:20180603T220000Z
+UID:uUUKbgsWphhluRPrQmtEX52_@stanza.co
+SUMMARY:LumberKings vs. Chiefs
+DESCRIPTION:LumberKings vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vMYK-B\n\nShop: https://stza.co/+vMYK-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-06-05 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       IpdLlvx09b-MewRd9QXvL35A@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBp_-3h
+
+Shop  https //stza.co/+xBp_-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180605T233000Z
+DTEND:20180606T023000Z
+UID:IpdLlvx09b-MewRd9QXvL35A@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBp_-3h\n\nShop: https://stza.co/+xBp_-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-06-06 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       B5FK91gbdpwZVfo-8dq2AnJR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBq3-3x
+
+Shop  https //stza.co/+xBq3-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180606T233000Z
+DTEND:20180607T023000Z
+UID:B5FK91gbdpwZVfo-8dq2AnJR@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBq3-3x\n\nShop: https://stza.co/+xBq3-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-06-07 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       GQH3o051Erxb7MbO7E5G8OOU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBq4-3y
+
+Shop  https //stza.co/+xBq4-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180607T233000Z
+DTEND:20180608T023000Z
+UID:GQH3o051Erxb7MbO7E5G8OOU@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBq4-3y\n\nShop: https://stza.co/+xBq4-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-08 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       yB98eDX4ZSa5FHPhMovvjMsr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYM-1g
+
+Shop  https //stza.co/+vMYM-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180608T233000Z
+DTEND:20180609T023000Z
+UID:yB98eDX4ZSa5FHPhMovvjMsr@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYM-1g\n\nShop: https://stza.co/+vMYM-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-09 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       AzcGCIZhp1TQadNsCnbEeMq1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYN-13
+
+Shop  https //stza.co/+vMYN-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180609T233000Z
+DTEND:20180610T023000Z
+UID:AzcGCIZhp1TQadNsCnbEeMq1@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYN-13\n\nShop: https://stza.co/+vMYN-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-10 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       BmY_ZZ1PGzBcrJESL-EUM5Et@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYP-X
+
+Shop  https //stza.co/+vMYP-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180610T190000Z
+DTEND:20180610T220000Z
+UID:BmY_ZZ1PGzBcrJESL-EUM5Et@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYP-X\n\nShop: https://stza.co/+vMYP-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-11 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       jhj-5qL7acyG_2EjYN4vewun@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYS-2P
+
+Shop  https //stza.co/+vMYS-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180611T233000Z
+DTEND:20180612T023000Z
+UID:jhj-5qL7acyG_2EjYN4vewun@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYS-2P\n\nShop: https://stza.co/+vMYS-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ River Bandits
+<2018-06-12 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       rw6RyRzlfG51U-OEihKVnLuI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ River Bandits LumberKings @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxnk-2U
+
+Shop  https //stza.co/+wxnk-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ River Bandits
+END:VALARM
+DTSTART:20180612T233500Z
+DTEND:20180613T023500Z
+UID:rw6RyRzlfG51U-OEihKVnLuI@stanza.co
+SUMMARY:LumberKings @ River Bandits
+DESCRIPTION:LumberKings @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxnk-2U\n\nShop: https://stza.co/+wxnk-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ River Bandits
+<2018-06-13 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       YQdj1xHVswnjwoYe5UShZWz4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ River Bandits LumberKings @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxnl-6
+
+Shop  https //stza.co/+wxnl-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ River Bandits
+END:VALARM
+DTSTART:20180613T233500Z
+DTEND:20180614T023500Z
+UID:YQdj1xHVswnjwoYe5UShZWz4@stanza.co
+SUMMARY:LumberKings @ River Bandits
+DESCRIPTION:LumberKings @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxnl-6\n\nShop: https://stza.co/+wxnl-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ River Bandits
+<2018-06-14 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       s8UtYFUw_fkZZ6SKGvyx_3Tp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ River Bandits LumberKings @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxnm-36
+
+Shop  https //stza.co/+wxnm-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ River Bandits
+END:VALARM
+DTSTART:20180614T233500Z
+DTEND:20180615T023500Z
+UID:s8UtYFUw_fkZZ6SKGvyx_3Tp@stanza.co
+SUMMARY:LumberKings @ River Bandits
+DESCRIPTION:LumberKings @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxnm-36\n\nShop: https://stza.co/+wxnm-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-06-15 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       vesIThw2mTH2OjHKWvtgJOJn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLy-1c
+
+Shop  https //stza.co/+wSLy-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180616T000000Z
+DTEND:20180616T030000Z
+UID:vesIThw2mTH2OjHKWvtgJOJn@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLy-1c\n\nShop: https://stza.co/+wSLy-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-06-16 Sat 19:00-22:00>
+:PROPERTIES:
+:ID:       JMg6GAII9-dNer0WCZnss2GD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLz-u
+
+Shop  https //stza.co/+wSLz-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180617T000000Z
+DTEND:20180617T030000Z
+UID:JMg6GAII9-dNer0WCZnss2GD@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLz-u\n\nShop: https://stza.co/+wSLz-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-06-17 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       0lbKyKUqMAT5JLYOOdCnvbni@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLA-2x
+
+Shop  https //stza.co/+wSLA-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180617T190000Z
+DTEND:20180617T220000Z
+UID:0lbKyKUqMAT5JLYOOdCnvbni@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLA-2x\n\nShop: https://stza.co/+wSLA-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-21 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       6ekxwSAfjnYbOeQyEnFVi3e9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYT-A
+
+Shop  https //stza.co/+vMYT-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180621T233000Z
+DTEND:20180622T023000Z
+UID:6ekxwSAfjnYbOeQyEnFVi3e9@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYT-A\n\nShop: https://stza.co/+vMYT-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-22 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       FOtDOwmjHBStGw13FK6a52S9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYW-3t
+
+Shop  https //stza.co/+vMYW-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180622T233000Z
+DTEND:20180623T023000Z
+UID:FOtDOwmjHBStGw13FK6a52S9@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYW-3t\n\nShop: https://stza.co/+vMYW-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-23 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       QnaUn1oNdOls-5mCIlreF2Qs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYX-36
+
+Shop  https //stza.co/+vMYX-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180623T233000Z
+DTEND:20180624T023000Z
+UID:QnaUn1oNdOls-5mCIlreF2Qs@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYX-36\n\nShop: https://stza.co/+vMYX-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-06-24 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       X7dg8cUHE8Y6F7cA91AmpLSO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMYZ-1w
+
+Shop  https //stza.co/+vMYZ-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180624T190000Z
+DTEND:20180624T220000Z
+UID:X7dg8cUHE8Y6F7cA91AmpLSO@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMYZ-1w\n\nShop: https://stza.co/+vMYZ-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-06-25 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       WV5N3tDuP4fU-HLWMPckmKTA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMZ0-1H
+
+Shop  https //stza.co/+vMZ0-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180625T233000Z
+DTEND:20180626T023000Z
+UID:WV5N3tDuP4fU-HLWMPckmKTA@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMZ0-1H\n\nShop: https://stza.co/+vMZ0-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-06-26 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       k_JGMNuQU7LXDu0GKG7NC_7A@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMZ2-7
+
+Shop  https //stza.co/+vMZ2-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180626T233000Z
+DTEND:20180627T023000Z
+UID:k_JGMNuQU7LXDu0GKG7NC_7A@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMZ2-7\n\nShop: https://stza.co/+vMZ2-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Bees
+<2018-06-27 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       aFFti0kZmeessun4MBLfY_su@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Bees LumberKings vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vMZ3-2_
+
+Shop  https //stza.co/+vMZ3-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Bees
+END:VALARM
+DTSTART:20180627T233000Z
+DTEND:20180628T023000Z
+UID:aFFti0kZmeessun4MBLfY_su@stanza.co
+SUMMARY:LumberKings vs. Bees
+DESCRIPTION:LumberKings vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vMZ3-2_\n\nShop: https://stza.co/+vMZ3-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-06-28 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       mIrumgnim5JL3ifRBM8P6MJk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vpCH-2B
+
+Shop  https //stza.co/+vpCH-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180629T000500Z
+DTEND:20180629T030500Z
+UID:mIrumgnim5JL3ifRBM8P6MJk@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vpCH-2B\n\nShop: https://stza.co/+vpCH-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-06-29 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       APs-lC1Bvd_qcpdS-cuwcfJY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vpCI-X
+
+Shop  https //stza.co/+vpCI-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180630T000500Z
+DTEND:20180630T030500Z
+UID:APs-lC1Bvd_qcpdS-cuwcfJY@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vpCI-X\n\nShop: https://stza.co/+vpCI-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-06-30 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       4CubAmtaxTyy9zHA14IS_edT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vp28-2X
+
+Shop  https //stza.co/+vp28-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180630T233500Z
+DTEND:20180701T023500Z
+UID:4CubAmtaxTyy9zHA14IS_edT@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vp28-2X\n\nShop: https://stza.co/+vp28-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Timber Rattlers
+<2018-07-01 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       wtYxyHrcXhNNuHkJV7CZ8lvj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Timber Rattlers LumberKings @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vp2d-2g
+
+Shop  https //stza.co/+vp2d-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Timber Rattlers
+END:VALARM
+DTSTART:20180701T180500Z
+DTEND:20180701T210500Z
+UID:wtYxyHrcXhNNuHkJV7CZ8lvj@stanza.co
+SUMMARY:LumberKings @ Timber Rattlers
+DESCRIPTION:LumberKings @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vp2d-2g\n\nShop: https://stza.co/+vp2d-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cougars
+<2018-07-02 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       u5Gh2aiirRw-BVrbC9AqWhiY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cougars LumberKings @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBqu-2m
+
+Shop  https //stza.co/+xBqu-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cougars
+END:VALARM
+DTSTART:20180702T233000Z
+DTEND:20180703T023000Z
+UID:u5Gh2aiirRw-BVrbC9AqWhiY@stanza.co
+SUMMARY:LumberKings @ Cougars
+DESCRIPTION:LumberKings @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBqu-2m\n\nShop: https://stza.co/+xBqu-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cougars
+<2018-07-03 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       8Ps7y1LZ4dwLRlAnD726yIkt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cougars LumberKings @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBqv-1F
+
+Shop  https //stza.co/+xBqv-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cougars
+END:VALARM
+DTSTART:20180703T233000Z
+DTEND:20180704T023000Z
+UID:8Ps7y1LZ4dwLRlAnD726yIkt@stanza.co
+SUMMARY:LumberKings @ Cougars
+DESCRIPTION:LumberKings @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBqv-1F\n\nShop: https://stza.co/+xBqv-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-07-04 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       Kbx6OhdYZ6XC_etfgHqSjuV2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMZ6-1u
+
+Shop  https //stza.co/+vMZ6-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180704T233000Z
+DTEND:20180705T023000Z
+UID:Kbx6OhdYZ6XC_etfgHqSjuV2@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMZ6-1u\n\nShop: https://stza.co/+vMZ6-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Cougars
+<2018-07-05 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       Fxw4-O4mY92aPHdeXXcGczRO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Cougars LumberKings vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vMZ8-3I
+
+Shop  https //stza.co/+vMZ8-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Cougars
+END:VALARM
+DTSTART:20180705T233000Z
+DTEND:20180706T023000Z
+UID:Fxw4-O4mY92aPHdeXXcGczRO@stanza.co
+SUMMARY:LumberKings vs. Cougars
+DESCRIPTION:LumberKings vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vMZ8-3I\n\nShop: https://stza.co/+vMZ8-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-07-06 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       ZVPCHuC_f9WnWAQimPgXWzka@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLB-3s
+
+Shop  https //stza.co/+wSLB-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180707T000000Z
+DTEND:20180707T030000Z
+UID:ZVPCHuC_f9WnWAQimPgXWzka@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLB-3s\n\nShop: https://stza.co/+wSLB-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-07-07 Sat 19:00-22:00>
+:PROPERTIES:
+:ID:       Ha2K50V46VWZnoqFAZ3lwMOC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLD-r
+
+Shop  https //stza.co/+wSLD-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180708T000000Z
+DTEND:20180708T030000Z
+UID:Ha2K50V46VWZnoqFAZ3lwMOC@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLD-r\n\nShop: https://stza.co/+wSLD-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-07-08 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       umrW1WVKzL4UC02aQ6KJ4Rsi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLF-I
+
+Shop  https //stza.co/+wSLF-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180708T190000Z
+DTEND:20180708T220000Z
+UID:umrW1WVKzL4UC02aQ6KJ4Rsi@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLF-I\n\nShop: https://stza.co/+wSLF-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Snappers
+<2018-07-09 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       xOkutBXa2MHFYAj95EJMNkKQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Snappers LumberKings @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSLG-o
+
+Shop  https //stza.co/+wSLG-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Snappers
+END:VALARM
+DTSTART:20180710T000000Z
+DTEND:20180710T030000Z
+UID:xOkutBXa2MHFYAj95EJMNkKQ@stanza.co
+SUMMARY:LumberKings @ Snappers
+DESCRIPTION:LumberKings @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSLG-o\n\nShop: https://stza.co/+wSLG-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Loons
+<2018-07-11 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       d5EQXrC67txtVKWiQeHAi5c0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Loons LumberKings vs. Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vMZa-3Z
+
+Shop  https //stza.co/+vMZa-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Loons
+END:VALARM
+DTSTART:20180711T233000Z
+DTEND:20180712T023000Z
+UID:d5EQXrC67txtVKWiQeHAi5c0@stanza.co
+SUMMARY:LumberKings vs. Loons
+DESCRIPTION:LumberKings vs. Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vMZa-3Z\n\nShop: https://stza.co/+vMZa-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Loons
+<2018-07-12 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       7xxTt6R5jgT5QlyksgE54ysW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Loons LumberKings vs. Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vMZb-3M
+
+Shop  https //stza.co/+vMZb-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Loons
+END:VALARM
+DTSTART:20180712T233000Z
+DTEND:20180713T023000Z
+UID:7xxTt6R5jgT5QlyksgE54ysW@stanza.co
+SUMMARY:LumberKings vs. Loons
+DESCRIPTION:LumberKings vs. Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vMZb-3M\n\nShop: https://stza.co/+vMZb-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Loons
+<2018-07-13 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       JYlpPUt8P3YpYE-6n5_HlSNY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Loons LumberKings vs. Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vMZe-25
+
+Shop  https //stza.co/+vMZe-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Loons
+END:VALARM
+DTSTART:20180713T233000Z
+DTEND:20180714T023000Z
+UID:JYlpPUt8P3YpYE-6n5_HlSNY@stanza.co
+SUMMARY:LumberKings vs. Loons
+DESCRIPTION:LumberKings vs. Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vMZe-25\n\nShop: https://stza.co/+vMZe-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Lugnuts
+<2018-07-14 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       mcxPawoEEoKK5bGYXrLhvR-C@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Lugnuts LumberKings vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vMZg-C
+
+Shop  https //stza.co/+vMZg-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Lugnuts
+END:VALARM
+DTSTART:20180714T233000Z
+DTEND:20180715T023000Z
+UID:mcxPawoEEoKK5bGYXrLhvR-C@stanza.co
+SUMMARY:LumberKings vs. Lugnuts
+DESCRIPTION:LumberKings vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vMZg-C\n\nShop: https://stza.co/+vMZg-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Lugnuts
+<2018-07-15 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       JVcpQpAaF8lcoywj9SEqxiqo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Lugnuts LumberKings vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vMZh-y
+
+Shop  https //stza.co/+vMZh-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Lugnuts
+END:VALARM
+DTSTART:20180715T190000Z
+DTEND:20180715T220000Z
+UID:JVcpQpAaF8lcoywj9SEqxiqo@stanza.co
+SUMMARY:LumberKings vs. Lugnuts
+DESCRIPTION:LumberKings vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vMZh-y\n\nShop: https://stza.co/+vMZh-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Lugnuts
+<2018-07-16 Mon 11:00-14:00>
+:PROPERTIES:
+:ID:       wIQmRM7sCyqhiIgKn06CUMc-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Lugnuts LumberKings vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vMZj-x
+
+Shop  https //stza.co/+vMZj-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Lugnuts
+END:VALARM
+DTSTART:20180716T160000Z
+DTEND:20180716T190000Z
+UID:wIQmRM7sCyqhiIgKn06CUMc-@stanza.co
+SUMMARY:LumberKings vs. Lugnuts
+DESCRIPTION:LumberKings vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vMZj-x\n\nShop: https://stza.co/+vMZj-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Captains
+<2018-07-18 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       HzDTNNsYMarcMTjyvNMkUD3g@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Captains LumberKings @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBqD-2H
+
+Shop  https //stza.co/+xBqD-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Captains
+END:VALARM
+DTSTART:20180718T230000Z
+DTEND:20180719T020000Z
+UID:HzDTNNsYMarcMTjyvNMkUD3g@stanza.co
+SUMMARY:LumberKings @ Captains
+DESCRIPTION:LumberKings @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBqD-2H\n\nShop: https://stza.co/+xBqD-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Captains
+<2018-07-19 Thu 10:00-13:00>
+:PROPERTIES:
+:ID:       9rb7jf1Wex8nYGflJ6NzxZNu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Captains LumberKings @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBqE-1k
+
+Shop  https //stza.co/+xBqE-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Captains
+END:VALARM
+DTSTART:20180719T150000Z
+DTEND:20180719T180000Z
+UID:9rb7jf1Wex8nYGflJ6NzxZNu@stanza.co
+SUMMARY:LumberKings @ Captains
+DESCRIPTION:LumberKings @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBqE-1k\n\nShop: https://stza.co/+xBqE-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Captains
+<2018-07-20 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       zUxfBjl1D5Md2H3vi0LxHNdb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Captains LumberKings @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBqF-1E
+
+Shop  https //stza.co/+xBqF-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Captains
+END:VALARM
+DTSTART:20180720T230000Z
+DTEND:20180721T020000Z
+UID:zUxfBjl1D5Md2H3vi0LxHNdb@stanza.co
+SUMMARY:LumberKings @ Captains
+DESCRIPTION:LumberKings @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBqF-1E\n\nShop: https://stza.co/+xBqF-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ TinCaps
+<2018-07-21 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       AIm_ja837LqXxT6FIpauOWgW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ TinCaps LumberKings @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+y7Ak-v
+
+Shop  https //stza.co/+y7Ak-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ TinCaps
+END:VALARM
+DTSTART:20180721T220500Z
+DTEND:20180722T010500Z
+UID:AIm_ja837LqXxT6FIpauOWgW@stanza.co
+SUMMARY:LumberKings @ TinCaps
+DESCRIPTION:LumberKings @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+y7Ak-v\n\nShop: https://stza.co/+y7Ak-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ TinCaps
+<2018-07-22 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       nycqD9RSmsrjFd-v7ticXhQU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ TinCaps LumberKings @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMZ_-2t
+
+Shop  https //stza.co/+vMZ_-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ TinCaps
+END:VALARM
+DTSTART:20180722T170500Z
+DTEND:20180722T200500Z
+UID:nycqD9RSmsrjFd-v7ticXhQU@stanza.co
+SUMMARY:LumberKings @ TinCaps
+DESCRIPTION:LumberKings @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMZ_-2t\n\nShop: https://stza.co/+vMZ_-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ TinCaps
+<2018-07-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       RImtzLywbr0P3Gcv3d-aZ5u0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ TinCaps LumberKings @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMZ$-n
+
+Shop  https //stza.co/+vMZ$-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ TinCaps
+END:VALARM
+DTSTART:20180723T230500Z
+DTEND:20180724T020500Z
+UID:RImtzLywbr0P3Gcv3d-aZ5u0@stanza.co
+SUMMARY:LumberKings @ TinCaps
+DESCRIPTION:LumberKings @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMZ$-n\n\nShop: https://stza.co/+vMZ$-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-07-25 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       X2lQ8fOzA33LLo-1YO0FDkeA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXK
+
+Follow on MiLB First Pitch  https //stza.co/+vMXK-1g
+
+Shop  https //stza.co/+vMXK-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180725T233500Z
+DTEND:20180726T023500Z
+UID:X2lQ8fOzA33LLo-1YO0FDkeA@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXK\n\nFollow on MiLB First Pitch: https://stza.co/+vMXK-1g\n\nShop: https://stza.co/+vMXK-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-07-26 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       v09H8VqbFoYJxaeYkUurHMVB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXL
+
+Follow on MiLB First Pitch  https //stza.co/+vMXL-U
+
+Shop  https //stza.co/+vMXL-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180726T233500Z
+DTEND:20180727T023500Z
+UID:v09H8VqbFoYJxaeYkUurHMVB@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXL\n\nFollow on MiLB First Pitch: https://stza.co/+vMXL-U\n\nShop: https://stza.co/+vMXL-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Kernels
+<2018-07-27 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       MOUwlgohvLho44HEG8mCi6YK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Kernels LumberKings @ Kernels
+
+Buy tickets here  https //stza.co/~vMXM
+
+Follow on MiLB First Pitch  https //stza.co/+vMXM-u
+
+Shop  https //stza.co/+vMXM-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Kernels
+END:VALARM
+DTSTART:20180727T233500Z
+DTEND:20180728T023500Z
+UID:MOUwlgohvLho44HEG8mCi6YK@stanza.co
+SUMMARY:LumberKings @ Kernels
+DESCRIPTION:LumberKings @ Kernels\n\nBuy tickets here: https://stza.co/~vMXM\n\nFollow on MiLB First Pitch: https://stza.co/+vMXM-u\n\nShop: https://stza.co/+vMXM-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Chiefs
+<2018-07-28 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       FkvWUBjd24hsJ5MMHcnTtiWJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Chiefs LumberKings vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vMZl-3m
+
+Shop  https //stza.co/+vMZl-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Chiefs
+END:VALARM
+DTSTART:20180728T233000Z
+DTEND:20180729T023000Z
+UID:FkvWUBjd24hsJ5MMHcnTtiWJ@stanza.co
+SUMMARY:LumberKings vs. Chiefs
+DESCRIPTION:LumberKings vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vMZl-3m\n\nShop: https://stza.co/+vMZl-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Chiefs
+<2018-07-29 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       -B4VdBdYXDMD0Qwl-6VUKY2u@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Chiefs LumberKings vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vMZn-3z
+
+Shop  https //stza.co/+vMZn-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Chiefs
+END:VALARM
+DTSTART:20180729T190000Z
+DTEND:20180729T220000Z
+UID:-B4VdBdYXDMD0Qwl-6VUKY2u@stanza.co
+SUMMARY:LumberKings vs. Chiefs
+DESCRIPTION:LumberKings vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vMZn-3z\n\nShop: https://stza.co/+vMZn-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Chiefs
+<2018-07-30 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       fngE3yiXBqplLtPxq1zvUATV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Chiefs LumberKings vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vMZq-3k
+
+Shop  https //stza.co/+vMZq-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Chiefs
+END:VALARM
+DTSTART:20180730T233000Z
+DTEND:20180731T023000Z
+UID:fngE3yiXBqplLtPxq1zvUATV@stanza.co
+SUMMARY:LumberKings vs. Chiefs
+DESCRIPTION:LumberKings vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vMZq-3k\n\nShop: https://stza.co/+vMZq-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Chiefs
+<2018-07-31 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       8ShS60P3e0XDCynatZYwje5F@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Chiefs LumberKings vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vMZs-3s
+
+Shop  https //stza.co/+vMZs-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Chiefs
+END:VALARM
+DTSTART:20180731T233000Z
+DTEND:20180801T023000Z
+UID:8ShS60P3e0XDCynatZYwje5F@stanza.co
+SUMMARY:LumberKings vs. Chiefs
+DESCRIPTION:LumberKings vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vMZs-3s\n\nShop: https://stza.co/+vMZs-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ River Bandits
+<2018-08-01 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       32J1C460vbkwIlyh-5UvrR90@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ River Bandits LumberKings @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxnn-2S
+
+Shop  https //stza.co/+wxnn-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ River Bandits
+END:VALARM
+DTSTART:20180801T233500Z
+DTEND:20180802T023500Z
+UID:32J1C460vbkwIlyh-5UvrR90@stanza.co
+SUMMARY:LumberKings @ River Bandits
+DESCRIPTION:LumberKings @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxnn-2S\n\nShop: https://stza.co/+wxnn-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ River Bandits
+<2018-08-02 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       4Ix-zzo1mbR7p8MWPIBZX3lG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ River Bandits LumberKings @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxno-w
+
+Shop  https //stza.co/+wxno-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ River Bandits
+END:VALARM
+DTSTART:20180802T233500Z
+DTEND:20180803T023500Z
+UID:4Ix-zzo1mbR7p8MWPIBZX3lG@stanza.co
+SUMMARY:LumberKings @ River Bandits
+DESCRIPTION:LumberKings @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxno-w\n\nShop: https://stza.co/+wxno-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ River Bandits
+<2018-08-03 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       hLKoeIXktKgnud5snDlhSQnI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ River Bandits LumberKings @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxnr-1c
+
+Shop  https //stza.co/+wxnr-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ River Bandits
+END:VALARM
+DTSTART:20180803T233500Z
+DTEND:20180804T023500Z
+UID:hLKoeIXktKgnud5snDlhSQnI@stanza.co
+SUMMARY:LumberKings @ River Bandits
+DESCRIPTION:LumberKings @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxnr-1c\n\nShop: https://stza.co/+wxnr-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-08-04 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       T5k91qz9FOuSycnGVdQUHde1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZu-2T
+
+Shop  https //stza.co/+vMZu-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180804T233000Z
+DTEND:20180805T023000Z
+UID:T5k91qz9FOuSycnGVdQUHde1@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZu-2T\n\nShop: https://stza.co/+vMZu-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-08-05 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       phBuBVuiFwbJw5K4DVskYsnr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZv-b
+
+Shop  https //stza.co/+vMZv-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180805T190000Z
+DTEND:20180805T220000Z
+UID:phBuBVuiFwbJw5K4DVskYsnr@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZv-b\n\nShop: https://stza.co/+vMZv-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-08-06 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       CNB8TUc4h0533bzsHYd_l1iC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZx-3h
+
+Shop  https //stza.co/+vMZx-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180806T233000Z
+DTEND:20180807T023000Z
+UID:CNB8TUc4h0533bzsHYd_l1iC@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZx-3h\n\nShop: https://stza.co/+vMZx-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Kernels
+<2018-08-08 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       MR_MlsBcn0O0juK_G1onYUMf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Kernels LumberKings vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vMZz-1E
+
+Shop  https //stza.co/+vMZz-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Kernels
+END:VALARM
+DTSTART:20180808T233000Z
+DTEND:20180809T023000Z
+UID:MR_MlsBcn0O0juK_G1onYUMf@stanza.co
+SUMMARY:LumberKings vs. Kernels
+DESCRIPTION:LumberKings vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vMZz-1E\n\nShop: https://stza.co/+vMZz-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Kernels
+<2018-08-09 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       FXSpQntIo-68z0n6MBOtHQ3N@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Kernels LumberKings vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vMZC-1y
+
+Shop  https //stza.co/+vMZC-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Kernels
+END:VALARM
+DTSTART:20180809T233000Z
+DTEND:20180810T023000Z
+UID:FXSpQntIo-68z0n6MBOtHQ3N@stanza.co
+SUMMARY:LumberKings vs. Kernels
+DESCRIPTION:LumberKings vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vMZC-1y\n\nShop: https://stza.co/+vMZC-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Kernels
+<2018-08-10 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       ka6nQ4UYQE_L4qtAvxdAWvJ4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Kernels LumberKings vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vMZD-g
+
+Shop  https //stza.co/+vMZD-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Kernels
+END:VALARM
+DTSTART:20180810T233000Z
+DTEND:20180811T023000Z
+UID:ka6nQ4UYQE_L4qtAvxdAWvJ4@stanza.co
+SUMMARY:LumberKings vs. Kernels
+DESCRIPTION:LumberKings vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vMZD-g\n\nShop: https://stza.co/+vMZD-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-08-11 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       oYVKVQhqcccA54TpogBcUCjx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBqO-X
+
+Shop  https //stza.co/+xBqO-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180811T233000Z
+DTEND:20180812T023000Z
+UID:oYVKVQhqcccA54TpogBcUCjx@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBqO-X\n\nShop: https://stza.co/+xBqO-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-08-12 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       gSbKBLDKthSsI3LyYi9Ir7Cs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBqP-33
+
+Shop  https //stza.co/+xBqP-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180812T190000Z
+DTEND:20180812T220000Z
+UID:gSbKBLDKthSsI3LyYi9Ir7Cs@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBqP-33\n\nShop: https://stza.co/+xBqP-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-08-13 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       phIfxv8uR45xeow-cwKIQYf8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBqS-2p
+
+Shop  https //stza.co/+xBqS-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180814T000000Z
+DTEND:20180814T030000Z
+UID:phIfxv8uR45xeow-cwKIQYf8@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBqS-2p\n\nShop: https://stza.co/+xBqS-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Chiefs
+<2018-08-14 Tue 19:00-22:00>
+:PROPERTIES:
+:ID:       Bs2so4CEpc2X15MYc02xdOJv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Chiefs LumberKings @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xAv9-k
+
+Shop  https //stza.co/+xAv9-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Chiefs
+END:VALARM
+DTSTART:20180815T000000Z
+DTEND:20180815T030000Z
+UID:Bs2so4CEpc2X15MYc02xdOJv@stanza.co
+SUMMARY:LumberKings @ Chiefs
+DESCRIPTION:LumberKings @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xAv9-k\n\nShop: https://stza.co/+xAv9-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Snappers
+<2018-08-15 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       k-ls-6pKGv1HaHtIHDzkzd95@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Snappers LumberKings vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZF-30
+
+Shop  https //stza.co/+vMZF-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Snappers
+END:VALARM
+DTSTART:20180815T233000Z
+DTEND:20180816T023000Z
+UID:k-ls-6pKGv1HaHtIHDzkzd95@stanza.co
+SUMMARY:LumberKings vs. Snappers
+DESCRIPTION:LumberKings vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZF-30\n\nShop: https://stza.co/+vMZF-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Snappers
+<2018-08-16 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       zivnf9xOKTgTLq1wOS76WhFq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Snappers LumberKings vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZI-1_
+
+Shop  https //stza.co/+vMZI-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Snappers
+END:VALARM
+DTSTART:20180816T233000Z
+DTEND:20180817T023000Z
+UID:zivnf9xOKTgTLq1wOS76WhFq@stanza.co
+SUMMARY:LumberKings vs. Snappers
+DESCRIPTION:LumberKings vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZI-1_\n\nShop: https://stza.co/+vMZI-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Snappers
+<2018-08-17 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       YavfuYCAV1E3fLw_u_Y133wq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Snappers LumberKings vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZK-1I
+
+Shop  https //stza.co/+vMZK-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Snappers
+END:VALARM
+DTSTART:20180817T233000Z
+DTEND:20180818T023000Z
+UID:YavfuYCAV1E3fLw_u_Y133wq@stanza.co
+SUMMARY:LumberKings vs. Snappers
+DESCRIPTION:LumberKings vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZK-1I\n\nShop: https://stza.co/+vMZK-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cougars
+<2018-08-18 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       BI8XgeVeaBgEXFE_ahEuknDL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cougars LumberKings @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBqw-23
+
+Shop  https //stza.co/+xBqw-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cougars
+END:VALARM
+DTSTART:20180818T233000Z
+DTEND:20180819T023000Z
+UID:BI8XgeVeaBgEXFE_ahEuknDL@stanza.co
+SUMMARY:LumberKings @ Cougars
+DESCRIPTION:LumberKings @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBqw-23\n\nShop: https://stza.co/+xBqw-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cougars
+<2018-08-19 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       KNMrgML2r52uYyvmIeBoXZng@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cougars LumberKings @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBqB-2o
+
+Shop  https //stza.co/+xBqB-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cougars
+END:VALARM
+DTSTART:20180819T180000Z
+DTEND:20180819T210000Z
+UID:KNMrgML2r52uYyvmIeBoXZng@stanza.co
+SUMMARY:LumberKings @ Cougars
+DESCRIPTION:LumberKings @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBqB-2o\n\nShop: https://stza.co/+xBqB-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Cougars
+<2018-08-20 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       tjkikH7f0TMaSQET_9GslGCq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Cougars LumberKings @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBqC-22
+
+Shop  https //stza.co/+xBqC-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Cougars
+END:VALARM
+DTSTART:20180820T233000Z
+DTEND:20180821T023000Z
+UID:tjkikH7f0TMaSQET_9GslGCq@stanza.co
+SUMMARY:LumberKings @ Cougars
+DESCRIPTION:LumberKings @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBqC-22\n\nShop: https://stza.co/+xBqC-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-08-21 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       MzUC0dImoveumzynxDkHM3oA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBq5-12
+
+Shop  https //stza.co/+xBq5-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180821T233000Z
+DTEND:20180822T023000Z
+UID:MzUC0dImoveumzynxDkHM3oA@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBq5-12\n\nShop: https://stza.co/+xBq5-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-08-22 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       lKE2540cYBig4J00Raq8aT2Z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBq6-x
+
+Shop  https //stza.co/+xBq6-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180822T233000Z
+DTEND:20180823T023000Z
+UID:lKE2540cYBig4J00Raq8aT2Z@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBq6-x\n\nShop: https://stza.co/+xBq6-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-08-23 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       E4BskgoqEpbBuhQgXe-vLNIu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBq7-3t
+
+Shop  https //stza.co/+xBq7-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180823T233000Z
+DTEND:20180824T023000Z
+UID:E4BskgoqEpbBuhQgXe-vLNIu@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBq7-3t\n\nShop: https://stza.co/+xBq7-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-08-24 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       CD6Dqgb0Y6mFckv0_Zez87sI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZL-2s
+
+Shop  https //stza.co/+vMZL-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180824T233000Z
+DTEND:20180825T023000Z
+UID:CD6Dqgb0Y6mFckv0_Zez87sI@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZL-2s\n\nShop: https://stza.co/+vMZL-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-08-25 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       U4gCXqXYR81k3ppMjm5ilf-c@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZO-7
+
+Shop  https //stza.co/+vMZO-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180825T233000Z
+DTEND:20180826T023000Z
+UID:U4gCXqXYR81k3ppMjm5ilf-c@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZO-7\n\nShop: https://stza.co/+vMZO-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-08-26 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       uPQ12zNf1BmGeNUqNqCk4UcD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZQ-c
+
+Shop  https //stza.co/+vMZQ-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180826T190000Z
+DTEND:20180826T220000Z
+UID:uPQ12zNf1BmGeNUqNqCk4UcD@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZQ-c\n\nShop: https://stza.co/+vMZQ-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. Timber Rattlers
+<2018-08-27 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       Ftq0nQJ2Zz6ghRVKv8zujrqj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. Timber Rattlers LumberKings vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMZS-31
+
+Shop  https //stza.co/+vMZS-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. Timber Rattlers
+END:VALARM
+DTSTART:20180827T233000Z
+DTEND:20180828T023000Z
+UID:Ftq0nQJ2Zz6ghRVKv8zujrqj@stanza.co
+SUMMARY:LumberKings vs. Timber Rattlers
+DESCRIPTION:LumberKings vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMZS-31\n\nShop: https://stza.co/+vMZS-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. River Bandits
+<2018-08-29 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       u9YjfZ_8CNyTin6WmvSlxBWw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. River Bandits LumberKings vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vMZT-A
+
+Shop  https //stza.co/+vMZT-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. River Bandits
+END:VALARM
+DTSTART:20180829T233000Z
+DTEND:20180830T023000Z
+UID:u9YjfZ_8CNyTin6WmvSlxBWw@stanza.co
+SUMMARY:LumberKings vs. River Bandits
+DESCRIPTION:LumberKings vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vMZT-A\n\nShop: https://stza.co/+vMZT-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. River Bandits
+<2018-08-30 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       ieVZwojtBrC9lWy-Uo4v1yDy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. River Bandits LumberKings vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vMZV-13
+
+Shop  https //stza.co/+vMZV-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. River Bandits
+END:VALARM
+DTSTART:20180830T233000Z
+DTEND:20180831T023000Z
+UID:ieVZwojtBrC9lWy-Uo4v1yDy@stanza.co
+SUMMARY:LumberKings vs. River Bandits
+DESCRIPTION:LumberKings vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vMZV-13\n\nShop: https://stza.co/+vMZV-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings vs. River Bandits
+<2018-08-31 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       XkqGT6t2fyWRydyYOU5ixg6I@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings vs. River Bandits LumberKings vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vMZY-13
+
+Shop  https //stza.co/+vMZY-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings vs. River Bandits
+END:VALARM
+DTSTART:20180831T233000Z
+DTEND:20180901T023000Z
+UID:XkqGT6t2fyWRydyYOU5ixg6I@stanza.co
+SUMMARY:LumberKings vs. River Bandits
+DESCRIPTION:LumberKings vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vMZY-13\n\nShop: https://stza.co/+vMZY-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-09-01 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       RPsvJyRdI25qkygj-GQirGmd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBqa-1y
+
+Shop  https //stza.co/+xBqa-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180901T233000Z
+DTEND:20180902T023000Z
+UID:RPsvJyRdI25qkygj-GQirGmd@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBqa-1y\n\nShop: https://stza.co/+xBqa-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-09-02 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       H5ghGIsOGyJhd8sCCh2Vmv78@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBqd-24
+
+Shop  https //stza.co/+xBqd-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180902T190000Z
+DTEND:20180902T220000Z
+UID:H5ghGIsOGyJhd8sCCh2Vmv78@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBqd-24\n\nShop: https://stza.co/+xBqd-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT
+* LumberKings @ Bees
+<2018-09-03 Mon 14:00-17:00>
+:PROPERTIES:
+:ID:       pHNnd4ur0uU9hLv-nUbVM7-A@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+LumberKings @ Bees LumberKings @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBqe-3P
+
+Shop  https //stza.co/+xBqe-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LumberKings @ Bees
+END:VALARM
+DTSTART:20180903T190000Z
+DTEND:20180903T220000Z
+UID:pHNnd4ur0uU9hLv-nUbVM7-A@stanza.co
+SUMMARY:LumberKings @ Bees
+DESCRIPTION:LumberKings @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBqe-3P\n\nShop: https://stza.co/+xBqe-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144514Z
+LAST-MODIFIED:20180213T144514Z
+TRANSP:OPAQUE
+END:VEVENT

@@ -1,0 +1,4800 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Tarpons @ Flying Tigers
+<2018-04-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       n44TuDbWCbWe-l47iA3Ctqc6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAhP-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180405T223000Z
+DTEND:20180406T013000Z
+UID:n44TuDbWCbWe-l47iA3Ctqc6@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAhP-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Flying Tigers
+<2018-04-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       tOs9FUWkC8bB9Np7Y85492WM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAhR-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180406T223000Z
+DTEND:20180407T013000Z
+UID:tOs9FUWkC8bB9Np7Y85492WM@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAhR-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-04-07 Sat>--<2018-04-06 Fri>
+:PROPERTIES:
+:ID:       E1_zMeXd5y9WbwXZkWE58M7i@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAim-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180407
+UID:E1_zMeXd5y9WbwXZkWE58M7i@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAim-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-04-08 Sun>--<2018-04-07 Sat>
+:PROPERTIES:
+:ID:       jLEo0AeUXiLBixB94oj0lCEN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAiq-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180408
+UID:jLEo0AeUXiLBixB94oj0lCEN@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAiq-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Mets
+<2018-04-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       rGiMN9yWPLRuH0o3TwjxEOYJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Mets Tarpons @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAia-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Mets
+END:VALARM
+DTSTART:20180409T223000Z
+DTEND:20180410T013000Z
+UID:rGiMN9yWPLRuH0o3TwjxEOYJ@stanza.co
+SUMMARY:Tarpons @ Mets
+DESCRIPTION:Tarpons @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAia-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Mets
+<2018-04-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       sb3aWtW3R5AJflIdBJopyQE-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Mets Tarpons @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAib-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Mets
+END:VALARM
+DTSTART:20180410T223000Z
+DTEND:20180411T013000Z
+UID:sb3aWtW3R5AJflIdBJopyQE-@stanza.co
+SUMMARY:Tarpons @ Mets
+DESCRIPTION:Tarpons @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAib-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Mets
+<2018-04-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       pCjUmPu3DgB9d7E_24CKo7d1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Mets Tarpons @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAid-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Mets
+END:VALARM
+DTSTART:20180411T223000Z
+DTEND:20180412T013000Z
+UID:pCjUmPu3DgB9d7E_24CKo7d1@stanza.co
+SUMMARY:Tarpons @ Mets
+DESCRIPTION:Tarpons @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAid-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Mets
+<2018-04-12 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       Nj_EWSiAk6iv-w0wHdx1Yd2c@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Mets Tarpons @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAif-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Mets
+END:VALARM
+DTSTART:20180412T223000Z
+DTEND:20180413T013000Z
+UID:Nj_EWSiAk6iv-w0wHdx1Yd2c@stanza.co
+SUMMARY:Tarpons @ Mets
+DESCRIPTION:Tarpons @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAif-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Miracle
+<2018-04-13 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       0SRZYSPIo264MIf0eYgjFKGG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Miracle Tarpons @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdy-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Miracle
+END:VALARM
+DTSTART:20180413T230000Z
+DTEND:20180414T020000Z
+UID:0SRZYSPIo264MIf0eYgjFKGG@stanza.co
+SUMMARY:Tarpons @ Miracle
+DESCRIPTION:Tarpons @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdy-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Miracle
+<2018-04-14 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       FDOvpbnCLPOYz4_rDrg1puRQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Miracle Tarpons @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdz-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Miracle
+END:VALARM
+DTSTART:20180414T220000Z
+DTEND:20180415T010000Z
+UID:FDOvpbnCLPOYz4_rDrg1puRQ@stanza.co
+SUMMARY:Tarpons @ Miracle
+DESCRIPTION:Tarpons @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdz-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Miracle
+<2018-04-15 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       pvZsJjZjA3VxE-RXGXqkKyes@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Miracle Tarpons @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdA-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Miracle
+END:VALARM
+DTSTART:20180415T200000Z
+DTEND:20180415T230000Z
+UID:pvZsJjZjA3VxE-RXGXqkKyes@stanza.co
+SUMMARY:Tarpons @ Miracle
+DESCRIPTION:Tarpons @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdA-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Tortugas
+<2018-04-17 Tue>--<2018-04-16 Mon>
+:PROPERTIES:
+:ID:       99qtTFj0PyRNXJJ1iDpcn5Ub@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Tortugas Tarpons vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAit-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180417
+DTEND;VALUE=DATE:20180417
+UID:99qtTFj0PyRNXJJ1iDpcn5Ub@stanza.co
+SUMMARY:Tarpons vs. Tortugas
+DESCRIPTION:Tarpons vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAit-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Tortugas
+<2018-04-18 Wed>--<2018-04-17 Tue>
+:PROPERTIES:
+:ID:       pct3QQ_H4lKbQf1rNAVGQ9et@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Tortugas Tarpons vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAiw-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180418
+DTEND;VALUE=DATE:20180418
+UID:pct3QQ_H4lKbQf1rNAVGQ9et@stanza.co
+SUMMARY:Tarpons vs. Tortugas
+DESCRIPTION:Tarpons vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAiw-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Tortugas
+<2018-04-19 Thu>--<2018-04-18 Wed>
+:PROPERTIES:
+:ID:       QF5a7o4tT8vXnCORaGFlPGAN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Tortugas Tarpons vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAiy-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180419
+DTEND;VALUE=DATE:20180419
+UID:QF5a7o4tT8vXnCORaGFlPGAN@stanza.co
+SUMMARY:Tarpons vs. Tortugas
+DESCRIPTION:Tarpons vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAiy-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-04-20 Fri>--<2018-04-19 Thu>
+:PROPERTIES:
+:ID:       TCKKJN3bPCJeqxY1XoVkLmZT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAiB-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180420
+DTEND;VALUE=DATE:20180420
+UID:TCKKJN3bPCJeqxY1XoVkLmZT@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAiB-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-04-21 Sat>--<2018-04-20 Fri>
+:PROPERTIES:
+:ID:       1Of1Bt0MwxZFkS3Vr-SEM0ts@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAiE-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180421
+DTEND;VALUE=DATE:20180421
+UID:1Of1Bt0MwxZFkS3Vr-SEM0ts@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAiE-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-04-22 Sun>--<2018-04-21 Sat>
+:PROPERTIES:
+:ID:       1EMRkZ0sdqzxj2HD4D9-rX2V@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAiH-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180422
+DTEND;VALUE=DATE:20180422
+UID:1EMRkZ0sdqzxj2HD4D9-rX2V@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAiH-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Marauders
+<2018-04-23 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       tojV5kl4kEx3Utt39lRbcu0L@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Marauders Tarpons @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAgf-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Marauders
+END:VALARM
+DTSTART:20180423T223000Z
+DTEND:20180424T013000Z
+UID:tojV5kl4kEx3Utt39lRbcu0L@stanza.co
+SUMMARY:Tarpons @ Marauders
+DESCRIPTION:Tarpons @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAgf-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Marauders
+<2018-04-24 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       jkiM609MMefU1mPD1LvuDLfI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Marauders Tarpons @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAgg-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Marauders
+END:VALARM
+DTSTART:20180424T223000Z
+DTEND:20180425T013000Z
+UID:jkiM609MMefU1mPD1LvuDLfI@stanza.co
+SUMMARY:Tarpons @ Marauders
+DESCRIPTION:Tarpons @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAgg-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Marauders
+<2018-04-25 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       mUs8CDc6ss2Zc7VFoL4uW2qQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Marauders Tarpons @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAgh-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Marauders
+END:VALARM
+DTSTART:20180425T223000Z
+DTEND:20180426T013000Z
+UID:mUs8CDc6ss2Zc7VFoL4uW2qQ@stanza.co
+SUMMARY:Tarpons @ Marauders
+DESCRIPTION:Tarpons @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAgh-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Stone Crabs
+<2018-04-26 Thu>--<2018-04-25 Wed>
+:PROPERTIES:
+:ID:       v4omVxy68YrwxGEKIHSGsXvm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Stone Crabs Tarpons vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAiK-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180426
+UID:v4omVxy68YrwxGEKIHSGsXvm@stanza.co
+SUMMARY:Tarpons vs. Stone Crabs
+DESCRIPTION:Tarpons vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAiK-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Stone Crabs
+<2018-04-27 Fri>--<2018-04-26 Thu>
+:PROPERTIES:
+:ID:       xkVhaPIDTfAt2smxWBWsERc_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Stone Crabs Tarpons vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAiM-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180427
+UID:xkVhaPIDTfAt2smxWBWsERc_@stanza.co
+SUMMARY:Tarpons vs. Stone Crabs
+DESCRIPTION:Tarpons vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAiM-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Stone Crabs
+<2018-04-28 Sat>--<2018-04-27 Fri>
+:PROPERTIES:
+:ID:       6dG-oLOR-7Rff9t6PyExUKIf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Stone Crabs Tarpons vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAiP-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180428
+UID:6dG-oLOR-7Rff9t6PyExUKIf@stanza.co
+SUMMARY:Tarpons vs. Stone Crabs
+DESCRIPTION:Tarpons vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAiP-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Stone Crabs
+<2018-04-29 Sun>--<2018-04-28 Sat>
+:PROPERTIES:
+:ID:       Vgc9PxiwWUkjI8EPVHWjKbr3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Stone Crabs Tarpons vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAiT-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180429
+UID:Vgc9PxiwWUkjI8EPVHWjKbr3@stanza.co
+SUMMARY:Tarpons vs. Stone Crabs
+DESCRIPTION:Tarpons vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAiT-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Miracle
+<2018-05-01 Tue>--<2018-04-30 Mon>
+:PROPERTIES:
+:ID:       P_fE-AazTrzOf1s91Za0vBNY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Miracle Tarpons vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xAiZ-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180501
+DTEND;VALUE=DATE:20180501
+UID:P_fE-AazTrzOf1s91Za0vBNY@stanza.co
+SUMMARY:Tarpons vs. Miracle
+DESCRIPTION:Tarpons vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xAiZ-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Miracle
+<2018-05-02 Wed>--<2018-05-01 Tue>
+:PROPERTIES:
+:ID:       IW3nQ7gPG4MUaw22KnFKglVZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Miracle Tarpons vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xAi$-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180502
+DTEND;VALUE=DATE:20180502
+UID:IW3nQ7gPG4MUaw22KnFKglVZ@stanza.co
+SUMMARY:Tarpons vs. Miracle
+DESCRIPTION:Tarpons vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xAi$-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Miracle
+<2018-05-03 Thu>--<2018-05-02 Wed>
+:PROPERTIES:
+:ID:       Abk1rtyXBkR0rYiMEtN20L4w@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Miracle Tarpons vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xAj2-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180503
+DTEND;VALUE=DATE:20180503
+UID:Abk1rtyXBkR0rYiMEtN20L4w@stanza.co
+SUMMARY:Tarpons vs. Miracle
+DESCRIPTION:Tarpons vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xAj2-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Fire Frogs
+<2018-05-04 Fri 17:31-20:31>
+:PROPERTIES:
+:ID:       dbiDgcaF7dZxtYjM-ZY-Gw9a@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Fire Frogs Tarpons @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWND
+
+Follow on MiLB First Pitch  https //stza.co/+xWND-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Fire Frogs
+END:VALARM
+DTSTART:20180504T223100Z
+DTEND:20180505T013100Z
+UID:dbiDgcaF7dZxtYjM-ZY-Gw9a@stanza.co
+SUMMARY:Tarpons @ Fire Frogs
+DESCRIPTION:Tarpons @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWND\n\nFollow on MiLB First Pitch: https://stza.co/+xWND-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Fire Frogs
+<2018-05-05 Sat 16:00-19:00>
+:PROPERTIES:
+:ID:       9mn57oTbaYb2WyfKMIes10o0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Fire Frogs Tarpons @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNE
+
+Follow on MiLB First Pitch  https //stza.co/+xWNE-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Fire Frogs
+END:VALARM
+DTSTART:20180505T210000Z
+DTEND:20180506T000000Z
+UID:9mn57oTbaYb2WyfKMIes10o0@stanza.co
+SUMMARY:Tarpons @ Fire Frogs
+DESCRIPTION:Tarpons @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNE\n\nFollow on MiLB First Pitch: https://stza.co/+xWNE-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Fire Frogs
+<2018-05-06 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       l9ArraBv_3XuuijIMgdiGXuU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Fire Frogs Tarpons @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNF
+
+Follow on MiLB First Pitch  https //stza.co/+xWNF-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Fire Frogs
+END:VALARM
+DTSTART:20180506T150000Z
+DTEND:20180506T180000Z
+UID:l9ArraBv_3XuuijIMgdiGXuU@stanza.co
+SUMMARY:Tarpons @ Fire Frogs
+DESCRIPTION:Tarpons @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNF\n\nFollow on MiLB First Pitch: https://stza.co/+xWNF-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Tortugas
+<2018-05-07 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       22f5tzD-nuL87YQOuXuVUcpm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Tortugas Tarpons @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAgS-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Tortugas
+END:VALARM
+DTSTART:20180507T230500Z
+DTEND:20180508T020500Z
+UID:22f5tzD-nuL87YQOuXuVUcpm@stanza.co
+SUMMARY:Tarpons @ Tortugas
+DESCRIPTION:Tarpons @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAgS-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Tortugas
+<2018-05-08 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       2cSE5U9DieCbkVmWViaZmAHW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Tortugas Tarpons @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAgT-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Tortugas
+END:VALARM
+DTSTART:20180508T230500Z
+DTEND:20180509T020500Z
+UID:2cSE5U9DieCbkVmWViaZmAHW@stanza.co
+SUMMARY:Tarpons @ Tortugas
+DESCRIPTION:Tarpons @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAgT-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Tortugas
+<2018-05-09 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       puR5JMtWlbqqaS57VhgfWMIH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Tortugas Tarpons @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAgV-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Tortugas
+END:VALARM
+DTSTART:20180509T143500Z
+DTEND:20180509T173500Z
+UID:puR5JMtWlbqqaS57VhgfWMIH@stanza.co
+SUMMARY:Tarpons @ Tortugas
+DESCRIPTION:Tarpons @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAgV-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Fire Frogs
+<2018-05-10 Thu>--<2018-05-09 Wed>
+:PROPERTIES:
+:ID:       _ldwSAh1SYr_WEzeokw8qXIW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Fire Frogs Tarpons vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+xAj7-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180510
+DTEND;VALUE=DATE:20180510
+UID:_ldwSAh1SYr_WEzeokw8qXIW@stanza.co
+SUMMARY:Tarpons vs. Fire Frogs
+DESCRIPTION:Tarpons vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+xAj7-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Fire Frogs
+<2018-05-11 Fri>--<2018-05-10 Thu>
+:PROPERTIES:
+:ID:       _EXLx075JWBVbf3foiuCyfrD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Fire Frogs Tarpons vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+xAjb-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180511
+DTEND;VALUE=DATE:20180511
+UID:_EXLx075JWBVbf3foiuCyfrD@stanza.co
+SUMMARY:Tarpons vs. Fire Frogs
+DESCRIPTION:Tarpons vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+xAjb-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Fire Frogs
+<2018-05-12 Sat>--<2018-05-11 Fri>
+:PROPERTIES:
+:ID:       lWvGf5yduG_rbnLvWgyAuhcc@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Fire Frogs Tarpons vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+xAjf-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180512
+DTEND;VALUE=DATE:20180512
+UID:lWvGf5yduG_rbnLvWgyAuhcc@stanza.co
+SUMMARY:Tarpons vs. Fire Frogs
+DESCRIPTION:Tarpons vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+xAjf-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Blue Jays
+<2018-05-14 Mon>--<2018-05-13 Sun>
+:PROPERTIES:
+:ID:       vjOg_RxKokv-R6F7PhNg5ILk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Blue Jays Tarpons vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xAjj-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180514
+DTEND;VALUE=DATE:20180514
+UID:vjOg_RxKokv-R6F7PhNg5ILk@stanza.co
+SUMMARY:Tarpons vs. Blue Jays
+DESCRIPTION:Tarpons vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xAjj-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Blue Jays
+<2018-05-15 Tue>--<2018-05-14 Mon>
+:PROPERTIES:
+:ID:       h4WhMzJ4Z5qdBR7QogYGi7rr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Blue Jays Tarpons vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xAjm-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180515
+DTEND;VALUE=DATE:20180515
+UID:h4WhMzJ4Z5qdBR7QogYGi7rr@stanza.co
+SUMMARY:Tarpons vs. Blue Jays
+DESCRIPTION:Tarpons vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xAjm-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Blue Jays
+<2018-05-16 Wed>--<2018-05-15 Tue>
+:PROPERTIES:
+:ID:       zPjtE2k7_DftOsHXYeC_Txdz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Blue Jays Tarpons vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xAjs-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180516
+DTEND;VALUE=DATE:20180516
+UID:zPjtE2k7_DftOsHXYeC_Txdz@stanza.co
+SUMMARY:Tarpons vs. Blue Jays
+DESCRIPTION:Tarpons vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xAjs-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Blue Jays
+<2018-05-17 Thu>--<2018-05-16 Wed>
+:PROPERTIES:
+:ID:       NBYpRM8-wm9kuDySztKmNglH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Blue Jays Tarpons vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xAjv-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180517
+DTEND;VALUE=DATE:20180517
+UID:NBYpRM8-wm9kuDySztKmNglH@stanza.co
+SUMMARY:Tarpons vs. Blue Jays
+DESCRIPTION:Tarpons vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xAjv-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Flying Tigers
+<2018-05-18 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       csenXqQQkfidgqLARVTrMNgZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAhT-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180518T223000Z
+DTEND:20180519T013000Z
+UID:csenXqQQkfidgqLARVTrMNgZ@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAhT-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Flying Tigers
+<2018-05-19 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       Zwb3dgIHHfPmGPABgtc1KfiO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAhV-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180519T220000Z
+DTEND:20180520T010000Z
+UID:Zwb3dgIHHfPmGPABgtc1KfiO@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAhV-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Flying Tigers
+<2018-05-20 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       xC2fOsL2K2PMxjE94rwI5dDw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAhX-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180520T170000Z
+DTEND:20180520T200000Z
+UID:xC2fOsL2K2PMxjE94rwI5dDw@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAhX-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Stone Crabs
+<2018-05-21 Mon>--<2018-05-20 Sun>
+:PROPERTIES:
+:ID:       9Eyr6c_frE8fHQ0t6OIGgFXa@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Stone Crabs Tarpons vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAjA-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180521
+DTEND;VALUE=DATE:20180521
+UID:9Eyr6c_frE8fHQ0t6OIGgFXa@stanza.co
+SUMMARY:Tarpons vs. Stone Crabs
+DESCRIPTION:Tarpons vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAjA-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Stone Crabs
+<2018-05-22 Tue>--<2018-05-21 Mon>
+:PROPERTIES:
+:ID:       g7a72pFKOpC4NH3OgZngVodL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Stone Crabs Tarpons vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAjD-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180522
+DTEND;VALUE=DATE:20180522
+UID:g7a72pFKOpC4NH3OgZngVodL@stanza.co
+SUMMARY:Tarpons vs. Stone Crabs
+DESCRIPTION:Tarpons vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAjD-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Stone Crabs
+<2018-05-23 Wed>--<2018-05-22 Tue>
+:PROPERTIES:
+:ID:       ij_9yL_cNsLeVo0IB3NKpd5H@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Stone Crabs Tarpons vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAjJ-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180523
+DTEND;VALUE=DATE:20180523
+UID:ij_9yL_cNsLeVo0IB3NKpd5H@stanza.co
+SUMMARY:Tarpons vs. Stone Crabs
+DESCRIPTION:Tarpons vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAjJ-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Fire Frogs
+<2018-05-24 Thu 17:31-20:31>
+:PROPERTIES:
+:ID:       j9Y0_d4hYZDLSoYXR4WY4oOV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Fire Frogs Tarpons @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNG
+
+Follow on MiLB First Pitch  https //stza.co/+xWNG-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Fire Frogs
+END:VALARM
+DTSTART:20180524T223100Z
+DTEND:20180525T013100Z
+UID:j9Y0_d4hYZDLSoYXR4WY4oOV@stanza.co
+SUMMARY:Tarpons @ Fire Frogs
+DESCRIPTION:Tarpons @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNG\n\nFollow on MiLB First Pitch: https://stza.co/+xWNG-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Fire Frogs
+<2018-05-25 Fri 17:31-20:31>
+:PROPERTIES:
+:ID:       Cgxnsa6cVGt3dLIlF00KreGI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Fire Frogs Tarpons @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNH
+
+Follow on MiLB First Pitch  https //stza.co/+xWNH-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Fire Frogs
+END:VALARM
+DTSTART:20180525T223100Z
+DTEND:20180526T013100Z
+UID:Cgxnsa6cVGt3dLIlF00KreGI@stanza.co
+SUMMARY:Tarpons @ Fire Frogs
+DESCRIPTION:Tarpons @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNH\n\nFollow on MiLB First Pitch: https://stza.co/+xWNH-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Fire Frogs
+<2018-05-26 Sat 16:00-19:00>
+:PROPERTIES:
+:ID:       sNBoM6FHECe5Nypo1YnjAXQZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Fire Frogs Tarpons @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNI
+
+Follow on MiLB First Pitch  https //stza.co/+xWNI-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Fire Frogs
+END:VALARM
+DTSTART:20180526T210000Z
+DTEND:20180527T000000Z
+UID:sNBoM6FHECe5Nypo1YnjAXQZ@stanza.co
+SUMMARY:Tarpons @ Fire Frogs
+DESCRIPTION:Tarpons @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNI\n\nFollow on MiLB First Pitch: https://stza.co/+xWNI-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Fire Frogs
+<2018-05-27 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       O7rz7bTqQxFsS33rKwCxLZ4K@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Fire Frogs Tarpons @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNJ
+
+Follow on MiLB First Pitch  https //stza.co/+xWNJ-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Fire Frogs
+END:VALARM
+DTSTART:20180527T150000Z
+DTEND:20180527T180000Z
+UID:O7rz7bTqQxFsS33rKwCxLZ4K@stanza.co
+SUMMARY:Tarpons @ Fire Frogs
+DESCRIPTION:Tarpons @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNJ\n\nFollow on MiLB First Pitch: https://stza.co/+xWNJ-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-05-29 Tue>--<2018-05-28 Mon>
+:PROPERTIES:
+:ID:       ukVdG2UOWT5ZbLzwiYSGeD9p@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAjM-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180529
+DTEND;VALUE=DATE:20180529
+UID:ukVdG2UOWT5ZbLzwiYSGeD9p@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAjM-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-05-30 Wed>--<2018-05-29 Tue>
+:PROPERTIES:
+:ID:       9vpIS39hbQMSuvNxpZRFvjNo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAjR-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180530
+DTEND;VALUE=DATE:20180530
+UID:9vpIS39hbQMSuvNxpZRFvjNo@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAjR-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-05-31 Thu>--<2018-05-30 Wed>
+:PROPERTIES:
+:ID:       aDjaIbrdVumZrJhdm9mWqbgM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAjU-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180531
+UID:aDjaIbrdVumZrJhdm9mWqbgM@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAjU-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-06-01 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       c07TNujut19oUJvCmjyNDbxD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K7-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180601T223000Z
+DTEND:20180602T013000Z
+UID:c07TNujut19oUJvCmjyNDbxD@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K7-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-06-02 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       TGlKoy_c7mq3W7d0bKHaHxlb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K8-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180602T223000Z
+DTEND:20180603T013000Z
+UID:TGlKoy_c7mq3W7d0bKHaHxlb@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K8-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-06-03 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       5r8OagpkzLLoTYyzhCSmngFE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0K9-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180603T170000Z
+DTEND:20180603T200000Z
+UID:5r8OagpkzLLoTYyzhCSmngFE@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0K9-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Mets
+<2018-06-04 Mon>--<2018-06-03 Sun>
+:PROPERTIES:
+:ID:       w3Emm5KGUTYeedyDAahrAnZs@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Mets Tarpons vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAjY-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180604
+DTEND;VALUE=DATE:20180604
+UID:w3Emm5KGUTYeedyDAahrAnZs@stanza.co
+SUMMARY:Tarpons vs. Mets
+DESCRIPTION:Tarpons vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAjY-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Mets
+<2018-06-05 Tue>--<2018-06-04 Mon>
+:PROPERTIES:
+:ID:       w7Z1Li31Maly6u1GowWOH-Pz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Mets Tarpons vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAj_-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180605
+DTEND;VALUE=DATE:20180605
+UID:w7Z1Li31Maly6u1GowWOH-Pz@stanza.co
+SUMMARY:Tarpons vs. Mets
+DESCRIPTION:Tarpons vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAj_-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Mets
+<2018-06-06 Wed>--<2018-06-05 Tue>
+:PROPERTIES:
+:ID:       I0jv5q1Kdqg7_h59jnVx8W0F@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Mets Tarpons vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAk2-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180606
+DTEND;VALUE=DATE:20180606
+UID:I0jv5q1Kdqg7_h59jnVx8W0F@stanza.co
+SUMMARY:Tarpons vs. Mets
+DESCRIPTION:Tarpons vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAk2-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Mets
+<2018-06-07 Thu>--<2018-06-06 Wed>
+:PROPERTIES:
+:ID:       FO2YCd8akKi0ncvLZrO_yCh0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Mets Tarpons vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAk7-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180607
+DTEND;VALUE=DATE:20180607
+UID:FO2YCd8akKi0ncvLZrO_yCh0@stanza.co
+SUMMARY:Tarpons vs. Mets
+DESCRIPTION:Tarpons vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAk7-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-06-08 Fri>--<2018-06-07 Thu>
+:PROPERTIES:
+:ID:       s8urB5k7I6C3VzckQirszb1s@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAkb-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180608
+DTEND;VALUE=DATE:20180608
+UID:s8urB5k7I6C3VzckQirszb1s@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAkb-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-06-09 Sat>--<2018-06-08 Fri>
+:PROPERTIES:
+:ID:       hT40gBwdoS4Ra5QhlqNJicD-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAke-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180609
+DTEND;VALUE=DATE:20180609
+UID:hT40gBwdoS4Ra5QhlqNJicD-@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAke-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-06-10 Sun>--<2018-06-09 Sat>
+:PROPERTIES:
+:ID:       b_8PaK2ek2PKAuRbm6oH8IEH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAkj-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180610
+DTEND;VALUE=DATE:20180610
+UID:b_8PaK2ek2PKAuRbm6oH8IEH@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAkj-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Threshers
+<2018-06-11 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       FIHgmmSFAOQH8QC0ojMC3ZCL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Threshers Tarpons @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAgE-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Threshers
+END:VALARM
+DTSTART:20180611T230000Z
+DTEND:20180612T020000Z
+UID:FIHgmmSFAOQH8QC0ojMC3ZCL@stanza.co
+SUMMARY:Tarpons @ Threshers
+DESCRIPTION:Tarpons @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAgE-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Threshers
+<2018-06-12 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       1boVry_aQKUKW8uxtl0EPLHL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Threshers Tarpons @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAgG-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Threshers
+END:VALARM
+DTSTART:20180612T230000Z
+DTEND:20180613T020000Z
+UID:1boVry_aQKUKW8uxtl0EPLHL@stanza.co
+SUMMARY:Tarpons @ Threshers
+DESCRIPTION:Tarpons @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAgG-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Threshers
+<2018-06-13 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       SPqoaegTdypkeqKsZ_btWX54@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Threshers Tarpons @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAgH-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Threshers
+END:VALARM
+DTSTART:20180613T143000Z
+DTEND:20180613T173000Z
+UID:SPqoaegTdypkeqKsZ_btWX54@stanza.co
+SUMMARY:Tarpons @ Threshers
+DESCRIPTION:Tarpons @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAgH-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Threshers
+<2018-06-14 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       l_x9scZtb0NhYnwgKLJjnoD3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Threshers Tarpons @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAgK-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Threshers
+END:VALARM
+DTSTART:20180614T230000Z
+DTEND:20180615T020000Z
+UID:l_x9scZtb0NhYnwgKLJjnoD3@stanza.co
+SUMMARY:Tarpons @ Threshers
+DESCRIPTION:Tarpons @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAgK-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Miracle
+<2018-06-18 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       AiCFZssbjiMPSLOx7rQ5g36F@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Miracle Tarpons @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdB-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Miracle
+END:VALARM
+DTSTART:20180618T230000Z
+DTEND:20180619T020000Z
+UID:AiCFZssbjiMPSLOx7rQ5g36F@stanza.co
+SUMMARY:Tarpons @ Miracle
+DESCRIPTION:Tarpons @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdB-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Miracle
+<2018-06-19 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       0FHXHd88hHSMKlHVLfeOOujt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Miracle Tarpons @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdC-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Miracle
+END:VALARM
+DTSTART:20180619T230000Z
+DTEND:20180620T020000Z
+UID:0FHXHd88hHSMKlHVLfeOOujt@stanza.co
+SUMMARY:Tarpons @ Miracle
+DESCRIPTION:Tarpons @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdC-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Miracle
+<2018-06-20 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       B8hjtV9q39i7q8z3s2YfPFlI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Miracle Tarpons @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMdD-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Miracle
+END:VALARM
+DTSTART:20180620T160000Z
+DTEND:20180620T190000Z
+UID:B8hjtV9q39i7q8z3s2YfPFlI@stanza.co
+SUMMARY:Tarpons @ Miracle
+DESCRIPTION:Tarpons @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMdD-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Hammerheads
+<2018-06-21 Thu>--<2018-06-20 Wed>
+:PROPERTIES:
+:ID:       Lefq1896gex4trHnFUlxxUtb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Hammerheads Tarpons vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+xAkm-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180621
+UID:Lefq1896gex4trHnFUlxxUtb@stanza.co
+SUMMARY:Tarpons vs. Hammerheads
+DESCRIPTION:Tarpons vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+xAkm-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Hammerheads
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       -TbeTKw3_Cu0VB4x0q4r-5aW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Hammerheads Tarpons vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+xAkr-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:-TbeTKw3_Cu0VB4x0q4r-5aW@stanza.co
+SUMMARY:Tarpons vs. Hammerheads
+DESCRIPTION:Tarpons vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+xAkr-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Hammerheads
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       5GFYj-Tr1Q7Gnbnoy7hrGKls@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Hammerheads Tarpons vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+xAku-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:5GFYj-Tr1Q7Gnbnoy7hrGKls@stanza.co
+SUMMARY:Tarpons vs. Hammerheads
+DESCRIPTION:Tarpons vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+xAku-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Hammerheads
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       3jNEptTaYeUU8XSPdcEbawSK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Hammerheads Tarpons vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+xAky-24
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:3jNEptTaYeUU8XSPdcEbawSK@stanza.co
+SUMMARY:Tarpons vs. Hammerheads
+DESCRIPTION:Tarpons vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+xAky-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Miracle
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       fiG_RRE34VeAbqhEaOkEZJkR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Miracle Tarpons vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xAkD-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:fiG_RRE34VeAbqhEaOkEZJkR@stanza.co
+SUMMARY:Tarpons vs. Miracle
+DESCRIPTION:Tarpons vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xAkD-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Miracle
+<2018-06-27 Wed>--<2018-06-26 Tue>
+:PROPERTIES:
+:ID:       f693Wj3LZQzv8PPtRJ9AyDjI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Miracle Tarpons vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xAkG-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180627
+UID:f693Wj3LZQzv8PPtRJ9AyDjI@stanza.co
+SUMMARY:Tarpons vs. Miracle
+DESCRIPTION:Tarpons vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xAkG-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Miracle
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       YpoaoUKrPX9g1cmOmcoiobF9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Miracle Tarpons vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xAkK-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:YpoaoUKrPX9g1cmOmcoiobF9@stanza.co
+SUMMARY:Tarpons vs. Miracle
+DESCRIPTION:Tarpons vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xAkK-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Stone Crabs
+<2018-06-29 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       Remko-q3zhw1O03JN5Onhdkd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Stone Crabs Tarpons @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAgr-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Stone Crabs
+END:VALARM
+DTSTART:20180629T223500Z
+DTEND:20180630T013500Z
+UID:Remko-q3zhw1O03JN5Onhdkd@stanza.co
+SUMMARY:Tarpons @ Stone Crabs
+DESCRIPTION:Tarpons @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAgr-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Stone Crabs
+<2018-06-30 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       eAeyM0NUhbrNMBNwL_5hGwhS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Stone Crabs Tarpons @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAgt-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Stone Crabs
+END:VALARM
+DTSTART:20180630T220500Z
+DTEND:20180701T010500Z
+UID:eAeyM0NUhbrNMBNwL_5hGwhS@stanza.co
+SUMMARY:Tarpons @ Stone Crabs
+DESCRIPTION:Tarpons @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAgt-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Stone Crabs
+<2018-07-01 Sun 11:35-14:35>
+:PROPERTIES:
+:ID:       V1O8o_Tky9ujyjJVLtp4HJ3L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Stone Crabs Tarpons @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAgv-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Stone Crabs
+END:VALARM
+DTSTART:20180701T163500Z
+DTEND:20180701T193500Z
+UID:V1O8o_Tky9ujyjJVLtp4HJ3L@stanza.co
+SUMMARY:Tarpons @ Stone Crabs
+DESCRIPTION:Tarpons @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAgv-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-07-02 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       bjFqNqM648aYk1SVmxF9TuhM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Ka-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180702T223000Z
+DTEND:20180703T013000Z
+UID:bjFqNqM648aYk1SVmxF9TuhM@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Ka-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-07-03 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       DUHImyO1POFTo4gd-wLsZY8G@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Kb-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180703T223000Z
+DTEND:20180704T013000Z
+UID:DUHImyO1POFTo4gd-wLsZY8G@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Kb-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-07-04 Wed>--<2018-07-03 Tue>
+:PROPERTIES:
+:ID:       zX_3rJpKNZ9vRzlzN5nVhyog@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAkP-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180704
+DTEND;VALUE=DATE:20180704
+UID:zX_3rJpKNZ9vRzlzN5nVhyog@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAkP-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-07-05 Thu>--<2018-07-04 Wed>
+:PROPERTIES:
+:ID:       9qWjMzB3dX60lHxy_pHJag9n@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAkT-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180705
+UID:9qWjMzB3dX60lHxy_pHJag9n@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAkT-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Flying Tigers
+<2018-07-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       UTANSOD7hmb6ro_Ccru8FtLx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAhZ-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180706T223000Z
+DTEND:20180707T013000Z
+UID:UTANSOD7hmb6ro_Ccru8FtLx@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAhZ-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Flying Tigers
+<2018-07-07 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       W0_6YQF-UO0On0v2G5-674-o@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAh$-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180707T220000Z
+DTEND:20180708T010000Z
+UID:W0_6YQF-UO0On0v2G5-674-o@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAh$-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Flying Tigers
+<2018-07-08 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       Qvkai2LrbGkNp-jnBxdbGroP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Flying Tigers Tarpons @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAi0-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Flying Tigers
+END:VALARM
+DTSTART:20180708T170000Z
+DTEND:20180708T200000Z
+UID:Qvkai2LrbGkNp-jnBxdbGroP@stanza.co
+SUMMARY:Tarpons @ Flying Tigers
+DESCRIPTION:Tarpons @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAi0-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Hammerheads
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       _6llOLnJSlbo01rx9-9_PV48@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Hammerheads Tarpons @ Hammerheads
+
+Buy tickets here  https //stza.co/~xAhH
+
+Follow on MiLB First Pitch  https //stza.co/+xAhH-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:_6llOLnJSlbo01rx9-9_PV48@stanza.co
+SUMMARY:Tarpons @ Hammerheads
+DESCRIPTION:Tarpons @ Hammerheads\n\nBuy tickets here: https://stza.co/~xAhH\n\nFollow on MiLB First Pitch: https://stza.co/+xAhH-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Hammerheads
+<2018-07-10 Tue>--<2018-07-09 Mon>
+:PROPERTIES:
+:ID:       YoRKZr-CAPzEZi8DNPfHqOdF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Hammerheads Tarpons @ Hammerheads
+
+Buy tickets here  https //stza.co/~xAhJ
+
+Follow on MiLB First Pitch  https //stza.co/+xAhJ-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180710
+UID:YoRKZr-CAPzEZi8DNPfHqOdF@stanza.co
+SUMMARY:Tarpons @ Hammerheads
+DESCRIPTION:Tarpons @ Hammerheads\n\nBuy tickets here: https://stza.co/~xAhJ\n\nFollow on MiLB First Pitch: https://stza.co/+xAhJ-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Hammerheads
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       6fmxdpKCfdg1cxfRCW0SdRzA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Hammerheads Tarpons @ Hammerheads
+
+Buy tickets here  https //stza.co/~xAhL
+
+Follow on MiLB First Pitch  https //stza.co/+xAhL-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:6fmxdpKCfdg1cxfRCW0SdRzA@stanza.co
+SUMMARY:Tarpons @ Hammerheads
+DESCRIPTION:Tarpons @ Hammerheads\n\nBuy tickets here: https://stza.co/~xAhL\n\nFollow on MiLB First Pitch: https://stza.co/+xAhL-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Hammerheads
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       oxjgAR20w-AeWYG-6wIG9vGy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Hammerheads Tarpons @ Hammerheads
+
+Buy tickets here  https //stza.co/~xAhN
+
+Follow on MiLB First Pitch  https //stza.co/+xAhN-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:oxjgAR20w-AeWYG-6wIG9vGy@stanza.co
+SUMMARY:Tarpons @ Hammerheads
+DESCRIPTION:Tarpons @ Hammerheads\n\nBuy tickets here: https://stza.co/~xAhN\n\nFollow on MiLB First Pitch: https://stza.co/+xAhN-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Blue Jays
+<2018-07-13 Fri>--<2018-07-12 Thu>
+:PROPERTIES:
+:ID:       I_XlbturRi4KdRO2vv64Wlc6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Blue Jays Tarpons vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xAkX-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180713
+DTEND;VALUE=DATE:20180713
+UID:I_XlbturRi4KdRO2vv64Wlc6@stanza.co
+SUMMARY:Tarpons vs. Blue Jays
+DESCRIPTION:Tarpons vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xAkX-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Blue Jays
+<2018-07-14 Sat>--<2018-07-13 Fri>
+:PROPERTIES:
+:ID:       g6uFeqdafXyFceJfPRKfi4rd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Blue Jays Tarpons vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xAk_-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180714
+DTEND;VALUE=DATE:20180714
+UID:g6uFeqdafXyFceJfPRKfi4rd@stanza.co
+SUMMARY:Tarpons vs. Blue Jays
+DESCRIPTION:Tarpons vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xAk_-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Blue Jays
+<2018-07-15 Sun>--<2018-07-14 Sat>
+:PROPERTIES:
+:ID:       TRzCWcvu0dvMupxp_gFqffSD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Blue Jays Tarpons vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xAl2-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180715
+UID:TRzCWcvu0dvMupxp_gFqffSD@stanza.co
+SUMMARY:Tarpons vs. Blue Jays
+DESCRIPTION:Tarpons vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xAl2-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Stone Crabs
+<2018-07-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       BypItNV8DNdnqAVvY7-LIOtJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Stone Crabs Tarpons @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAgx-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Stone Crabs
+END:VALARM
+DTSTART:20180716T223500Z
+DTEND:20180717T013500Z
+UID:BypItNV8DNdnqAVvY7-LIOtJ@stanza.co
+SUMMARY:Tarpons @ Stone Crabs
+DESCRIPTION:Tarpons @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAgx-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Stone Crabs
+<2018-07-17 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       bWLqhBSkIZWaxqMOY8se-CY3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Stone Crabs Tarpons @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAgz-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Stone Crabs
+END:VALARM
+DTSTART:20180717T223500Z
+DTEND:20180718T013500Z
+UID:bWLqhBSkIZWaxqMOY8se-CY3@stanza.co
+SUMMARY:Tarpons @ Stone Crabs
+DESCRIPTION:Tarpons @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAgz-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Stone Crabs
+<2018-07-18 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       -3I9G--tzDmwlTS76prXhHKQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Stone Crabs Tarpons @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+xAgB-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Stone Crabs
+END:VALARM
+DTSTART:20180718T223500Z
+DTEND:20180719T013500Z
+UID:-3I9G--tzDmwlTS76prXhHKQ@stanza.co
+SUMMARY:Tarpons @ Stone Crabs
+DESCRIPTION:Tarpons @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+xAgB-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-07-19 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       g6Q_zhcKyCROaIzZPvpfq-bS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Kc-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180719T223000Z
+DTEND:20180720T013000Z
+UID:g6Q_zhcKyCROaIzZPvpfq-bS@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Kc-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-07-20 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       OZyYr5dMvIesa_OCnE5nc4j1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Kd-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180720T223000Z
+DTEND:20180721T013000Z
+UID:OZyYr5dMvIesa_OCnE5nc4j1@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Kd-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Blue Jays
+<2018-07-21 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       ipLBTsMz8U3OTkZrGTit2LNz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Blue Jays Tarpons @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Ke-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Blue Jays
+END:VALARM
+DTSTART:20180721T223000Z
+DTEND:20180722T013000Z
+UID:ipLBTsMz8U3OTkZrGTit2LNz@stanza.co
+SUMMARY:Tarpons @ Blue Jays
+DESCRIPTION:Tarpons @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Ke-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       rg75PHoekF1R-Y4QSw6bD725@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAl8-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:rg75PHoekF1R-Y4QSw6bD725@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAl8-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       3VnJW783_AHwI40l26-_uNLn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAld-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:3VnJW783_AHwI40l26-_uNLn@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAld-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       RTEPpLX7QX5BNlytbfXyEmhz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAlh-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:RTEPpLX7QX5BNlytbfXyEmhz@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAlh-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Cardinals
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       AJVCAyFGEg7Uclibxqmvnzfh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Cardinals Tarpons vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xAlj-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:AJVCAyFGEg7Uclibxqmvnzfh@stanza.co
+SUMMARY:Tarpons vs. Cardinals
+DESCRIPTION:Tarpons vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xAlj-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Cardinals
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       91rVxIIhqr2HcSHn8PRzlJpH@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Cardinals Tarpons vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xAlm-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:91rVxIIhqr2HcSHn8PRzlJpH@stanza.co
+SUMMARY:Tarpons vs. Cardinals
+DESCRIPTION:Tarpons vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xAlm-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Cardinals
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       ZPVCNrVw_NPNaRQgIc7Dnwkb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Cardinals Tarpons vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xAlr-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:ZPVCNrVw_NPNaRQgIc7Dnwkb@stanza.co
+SUMMARY:Tarpons vs. Cardinals
+DESCRIPTION:Tarpons vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xAlr-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Cardinals
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       J36qnJ9BdtVsDDTyhn3hfGAI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Cardinals Tarpons vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xAlu-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:J36qnJ9BdtVsDDTyhn3hfGAI@stanza.co
+SUMMARY:Tarpons vs. Cardinals
+DESCRIPTION:Tarpons vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xAlu-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Threshers
+<2018-07-31 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       5CDiUSRkQ9YxgmtVSYbLG7Xs@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Threshers Tarpons @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAgM-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Threshers
+END:VALARM
+DTSTART:20180731T230000Z
+DTEND:20180801T020000Z
+UID:5CDiUSRkQ9YxgmtVSYbLG7Xs@stanza.co
+SUMMARY:Tarpons @ Threshers
+DESCRIPTION:Tarpons @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAgM-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Threshers
+<2018-08-01 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       -AfbozWhe8pWQr1C_SCDfQM6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Threshers Tarpons @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAgO-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Threshers
+END:VALARM
+DTSTART:20180801T230000Z
+DTEND:20180802T020000Z
+UID:-AfbozWhe8pWQr1C_SCDfQM6@stanza.co
+SUMMARY:Tarpons @ Threshers
+DESCRIPTION:Tarpons @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAgO-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Threshers
+<2018-08-02 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       Wwa22T4AgW1PLrb4PfoRdzFZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Threshers Tarpons @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAgQ-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Threshers
+END:VALARM
+DTSTART:20180802T230000Z
+DTEND:20180803T020000Z
+UID:Wwa22T4AgW1PLrb4PfoRdzFZ@stanza.co
+SUMMARY:Tarpons @ Threshers
+DESCRIPTION:Tarpons @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAgQ-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       -sU1I3J6NUraD9gw8IsEXB3b@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAlz-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:-sU1I3J6NUraD9gw8IsEXB3b@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAlz-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       WS-0Sg8g-3Z8onVJ86uexlL6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAlD-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:WS-0Sg8g-3Z8onVJ86uexlL6@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAlD-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Flying Tigers
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       Z6hCKxP2SZe9Hg2sDoFO3C-J@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Flying Tigers Tarpons vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xAlG-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:Z6hCKxP2SZe9Hg2sDoFO3C-J@stanza.co
+SUMMARY:Tarpons vs. Flying Tigers
+DESCRIPTION:Tarpons vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xAlG-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       a0vk1Ecez4TIcYGEMxy8IG95@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAlL-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:a0vk1Ecez4TIcYGEMxy8IG95@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAlL-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       IKPNZ7-Kj47xdyxYJyKHhZiq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAlP-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:IKPNZ7-Kj47xdyxYJyKHhZiq@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAlP-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Threshers
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       ZlH8RyjfGeA2-c2vnoJNQKvI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Threshers Tarpons vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xAlT-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:ZlH8RyjfGeA2-c2vnoJNQKvI@stanza.co
+SUMMARY:Tarpons vs. Threshers
+DESCRIPTION:Tarpons vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xAlT-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Marauders
+<2018-08-09 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       d9Q9AFEZ5Un6KCJCisFAkHnt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Marauders Tarpons @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAgi-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Marauders
+END:VALARM
+DTSTART:20180809T223000Z
+DTEND:20180810T013000Z
+UID:d9Q9AFEZ5Un6KCJCisFAkHnt@stanza.co
+SUMMARY:Tarpons @ Marauders
+DESCRIPTION:Tarpons @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAgi-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Marauders
+<2018-08-10 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       dil_bzh9Nfs12DpF5tA2FcXK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Marauders Tarpons @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAgl-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Marauders
+END:VALARM
+DTSTART:20180810T223000Z
+DTEND:20180811T013000Z
+UID:dil_bzh9Nfs12DpF5tA2FcXK@stanza.co
+SUMMARY:Tarpons @ Marauders
+DESCRIPTION:Tarpons @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAgl-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Marauders
+<2018-08-11 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       VE7Mf1ap5UodFHff1EXBlKCT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Marauders Tarpons @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAgo-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Marauders
+END:VALARM
+DTSTART:20180811T223000Z
+DTEND:20180812T013000Z
+UID:VE7Mf1ap5UodFHff1EXBlKCT@stanza.co
+SUMMARY:Tarpons @ Marauders
+DESCRIPTION:Tarpons @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAgo-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Marauders
+<2018-08-12 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       ZG9xZYLlembofW6fnDTxbhIA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Marauders Tarpons @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAgp-1_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Marauders
+END:VALARM
+DTSTART:20180812T170000Z
+DTEND:20180812T200000Z
+UID:ZG9xZYLlembofW6fnDTxbhIA@stanza.co
+SUMMARY:Tarpons @ Marauders
+DESCRIPTION:Tarpons @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAgp-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Cardinals
+<2018-08-13 Mon>--<2018-08-12 Sun>
+:PROPERTIES:
+:ID:       FVIjz5uc3rPlIO5NcsT_XrII@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Cardinals Tarpons @ Cardinals
+
+Buy tickets here  https //stza.co/~xAi2
+
+Follow on MiLB First Pitch  https //stza.co/+xAi2-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180813
+UID:FVIjz5uc3rPlIO5NcsT_XrII@stanza.co
+SUMMARY:Tarpons @ Cardinals
+DESCRIPTION:Tarpons @ Cardinals\n\nBuy tickets here: https://stza.co/~xAi2\n\nFollow on MiLB First Pitch: https://stza.co/+xAi2-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Cardinals
+<2018-08-14 Tue>--<2018-08-13 Mon>
+:PROPERTIES:
+:ID:       s5uiOZYoAABuWG-iYI3VJBo9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Cardinals Tarpons @ Cardinals
+
+Buy tickets here  https //stza.co/~xAi4
+
+Follow on MiLB First Pitch  https //stza.co/+xAi4-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180814
+DTEND;VALUE=DATE:20180814
+UID:s5uiOZYoAABuWG-iYI3VJBo9@stanza.co
+SUMMARY:Tarpons @ Cardinals
+DESCRIPTION:Tarpons @ Cardinals\n\nBuy tickets here: https://stza.co/~xAi4\n\nFollow on MiLB First Pitch: https://stza.co/+xAi4-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Cardinals
+<2018-08-15 Wed>--<2018-08-14 Tue>
+:PROPERTIES:
+:ID:       jeyD6Li7vDVCbWFLJvtmjvU7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Cardinals Tarpons @ Cardinals
+
+Buy tickets here  https //stza.co/~xAi6
+
+Follow on MiLB First Pitch  https //stza.co/+xAi6-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180815
+DTEND;VALUE=DATE:20180815
+UID:jeyD6Li7vDVCbWFLJvtmjvU7@stanza.co
+SUMMARY:Tarpons @ Cardinals
+DESCRIPTION:Tarpons @ Cardinals\n\nBuy tickets here: https://stza.co/~xAi6\n\nFollow on MiLB First Pitch: https://stza.co/+xAi6-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Cardinals
+<2018-08-16 Thu>--<2018-08-15 Wed>
+:PROPERTIES:
+:ID:       lFj7XIoHmepquEWfn-C0s1L3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Cardinals Tarpons @ Cardinals
+
+Buy tickets here  https //stza.co/~xAi8
+
+Follow on MiLB First Pitch  https //stza.co/+xAi8-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180816
+UID:lFj7XIoHmepquEWfn-C0s1L3@stanza.co
+SUMMARY:Tarpons @ Cardinals
+DESCRIPTION:Tarpons @ Cardinals\n\nBuy tickets here: https://stza.co/~xAi8\n\nFollow on MiLB First Pitch: https://stza.co/+xAi8-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Tortugas
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       aanXpx_71-wyn779FmAgo40B@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Tortugas Tarpons vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAlX-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:aanXpx_71-wyn779FmAgo40B@stanza.co
+SUMMARY:Tarpons vs. Tortugas
+DESCRIPTION:Tarpons vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAlX-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Tortugas
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       QxVXNtqZRHm4q1Bjw6W-pIJf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Tortugas Tarpons vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAl$-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:QxVXNtqZRHm4q1Bjw6W-pIJf@stanza.co
+SUMMARY:Tarpons vs. Tortugas
+DESCRIPTION:Tarpons vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAl$-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Tortugas
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       h-vuNd4V7VBSUY7ND7fuOcBr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Tortugas Tarpons vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAm4-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:h-vuNd4V7VBSUY7ND7fuOcBr@stanza.co
+SUMMARY:Tarpons vs. Tortugas
+DESCRIPTION:Tarpons vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAm4-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Mets
+<2018-08-21 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       MRxN25HvZlEemh0zrNIAuTi9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Mets Tarpons @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAih-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Mets
+END:VALARM
+DTSTART:20180821T223000Z
+DTEND:20180822T013000Z
+UID:MRxN25HvZlEemh0zrNIAuTi9@stanza.co
+SUMMARY:Tarpons @ Mets
+DESCRIPTION:Tarpons @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAih-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Mets
+<2018-08-22 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       6Ewlzz9F_6LaDA4jq4sP--Gy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Mets Tarpons @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAij-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Mets
+END:VALARM
+DTSTART:20180822T223000Z
+DTEND:20180823T013000Z
+UID:6Ewlzz9F_6LaDA4jq4sP--Gy@stanza.co
+SUMMARY:Tarpons @ Mets
+DESCRIPTION:Tarpons @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAij-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Mets
+<2018-08-23 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       L7su3Gk8RsQsN6Di_qDYlEVN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Mets Tarpons @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xAik-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Mets
+END:VALARM
+DTSTART:20180823T223000Z
+DTEND:20180824T013000Z
+UID:L7su3Gk8RsQsN6Di_qDYlEVN@stanza.co
+SUMMARY:Tarpons @ Mets
+DESCRIPTION:Tarpons @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xAik-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Tortugas
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       KPTsFfiDyuvoJ39ZgcB4dKIe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Tortugas Tarpons @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAgX-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Tortugas
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:KPTsFfiDyuvoJ39ZgcB4dKIe@stanza.co
+SUMMARY:Tarpons @ Tortugas
+DESCRIPTION:Tarpons @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAgX-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Tortugas
+<2018-08-25 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       jx4lLcijdDd46Tz8Vs0_1TyQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Tortugas Tarpons @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAg$-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Tortugas
+END:VALARM
+DTSTART:20180825T230500Z
+DTEND:20180826T020500Z
+UID:jx4lLcijdDd46Tz8Vs0_1TyQ@stanza.co
+SUMMARY:Tarpons @ Tortugas
+DESCRIPTION:Tarpons @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAg$-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons @ Tortugas
+<2018-08-26 Sun 16:35-19:35>
+:PROPERTIES:
+:ID:       7IFG8WK-7A3LaCPYH5JvQ8Fv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons @ Tortugas Tarpons @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xAh1-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons @ Tortugas
+END:VALARM
+DTSTART:20180826T213500Z
+DTEND:20180827T003500Z
+UID:7IFG8WK-7A3LaCPYH5JvQ8Fv@stanza.co
+SUMMARY:Tarpons @ Tortugas
+DESCRIPTION:Tarpons @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xAh1-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Fire Frogs
+<2018-08-27 Mon>--<2018-08-26 Sun>
+:PROPERTIES:
+:ID:       CU7wGhz2zUhUhxlmjnHRPc0Q@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Fire Frogs Tarpons vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+xAm7-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180827
+DTEND;VALUE=DATE:20180827
+UID:CU7wGhz2zUhUhxlmjnHRPc0Q@stanza.co
+SUMMARY:Tarpons vs. Fire Frogs
+DESCRIPTION:Tarpons vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+xAm7-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Fire Frogs
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       kf8bC4hnpnx3ZbyPylDZNQ3-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Fire Frogs Tarpons vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+xAmc-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:kf8bC4hnpnx3ZbyPylDZNQ3-@stanza.co
+SUMMARY:Tarpons vs. Fire Frogs
+DESCRIPTION:Tarpons vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+xAmc-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Fire Frogs
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       EsKRLmL3_cZcbnbxVE8oD13Q@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Fire Frogs Tarpons vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+xAmg-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:EsKRLmL3_cZcbnbxVE8oD13Q@stanza.co
+SUMMARY:Tarpons vs. Fire Frogs
+DESCRIPTION:Tarpons vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+xAmg-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Fire Frogs
+<2018-08-30 Thu>--<2018-08-29 Wed>
+:PROPERTIES:
+:ID:       vmMOcgSq_bI9EKB1Vc4HB54a@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Fire Frogs Tarpons vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+xAml-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180830
+UID:vmMOcgSq_bI9EKB1Vc4HB54a@stanza.co
+SUMMARY:Tarpons vs. Fire Frogs
+DESCRIPTION:Tarpons vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+xAml-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       QxGrLzOSQ4sVhLicjPjvzFjR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAmp-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:QxGrLzOSQ4sVhLicjPjvzFjR@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAmp-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       0MOz0y-8wkRA0DDVojY_8Ta8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAmt-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:0MOz0y-8wkRA0DDVojY_8Ta8@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAmt-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT
+* Tarpons vs. Marauders
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       hf82htUNY0ZF2YFYIkFkg78m@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Tarpons vs. Marauders Tarpons vs. Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+xAmy-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Tarpons vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:hf82htUNY0ZF2YFYIkFkg78m@stanza.co
+SUMMARY:Tarpons vs. Marauders
+DESCRIPTION:Tarpons vs. Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+xAmy-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144601Z
+LAST-MODIFIED:20180213T144601Z
+TRANSP:OPAQUE
+END:VEVENT

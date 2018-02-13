@@ -1,0 +1,5050 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Loons vs. Lugnuts
+<2018-04-05 Thu 17:05-20:05>
+:PROPERTIES:
+:ID:       -qdRE02I6V06zjl4sLE6J1ik@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Lugnuts Loons vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN5r-17
+
+Shop  https //stza.co/+vN5r-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Lugnuts
+END:VALARM
+DTSTART:20180405T220500Z
+DTEND:20180406T010500Z
+UID:-qdRE02I6V06zjl4sLE6J1ik@stanza.co
+SUMMARY:Loons vs. Lugnuts
+DESCRIPTION:Loons vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN5r-17\n\nShop: https://stza.co/+vN5r-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Lugnuts
+<2018-04-06 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       -bOOCE0eBPmNsm3IfL0zCaJO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Lugnuts Loons vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN5t-3n
+
+Shop  https //stza.co/+vN5t-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Lugnuts
+END:VALARM
+DTSTART:20180406T220500Z
+DTEND:20180407T010500Z
+UID:-bOOCE0eBPmNsm3IfL0zCaJO@stanza.co
+SUMMARY:Loons vs. Lugnuts
+DESCRIPTION:Loons vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN5t-3n\n\nShop: https://stza.co/+vN5t-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-04-07 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       thn8qIMTpooLnPTs9_kP7Cvv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7L-1V
+
+Shop  https //stza.co/+vN7L-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180407T220500Z
+DTEND:20180408T010500Z
+UID:thn8qIMTpooLnPTs9_kP7Cvv@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7L-1V\n\nShop: https://stza.co/+vN7L-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-04-08 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       UjMPHvJW-8UeP7o5ZrNiZ8cm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7M-27
+
+Shop  https //stza.co/+vN7M-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180408T170500Z
+DTEND:20180408T200500Z
+UID:UjMPHvJW-8UeP7o5ZrNiZ8cm@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7M-27\n\nShop: https://stza.co/+vN7M-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-04-09 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       lduNGetaT7K1vE-7nI2FvBIk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN81-z
+
+Shop  https //stza.co/+vN81-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180409T223500Z
+DTEND:20180410T013500Z
+UID:lduNGetaT7K1vE-7nI2FvBIk@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN81-z\n\nShop: https://stza.co/+vN81-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-04-10 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       uVgHESc5j5Jpk6Yaf6wSJiSa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN82-2r
+
+Shop  https //stza.co/+vN82-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180410T160000Z
+DTEND:20180410T190000Z
+UID:uVgHESc5j5Jpk6Yaf6wSJiSa@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN82-2r\n\nShop: https://stza.co/+vN82-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-04-11 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       ldeC1zTpK_BaFx9TWTj5cOrZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN83-1V
+
+Shop  https //stza.co/+vN83-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180411T223500Z
+DTEND:20180412T013500Z
+UID:ldeC1zTpK_BaFx9TWTj5cOrZ@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN83-1V\n\nShop: https://stza.co/+vN83-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-04-12 Thu 11:00-14:00>
+:PROPERTIES:
+:ID:       dCul03kEnnGbdrGl6YWPTlw-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN84-2x
+
+Shop  https //stza.co/+vN84-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180412T160000Z
+DTEND:20180412T190000Z
+UID:dCul03kEnnGbdrGl6YWPTlw-@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN84-2x\n\nShop: https://stza.co/+vN84-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-04-13 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       BuIgHmyRsfp7PjtKBruLWJdK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5w-3y
+
+Shop  https //stza.co/+vN5w-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180413T220500Z
+DTEND:20180414T010500Z
+UID:BuIgHmyRsfp7PjtKBruLWJdK@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5w-3y\n\nShop: https://stza.co/+vN5w-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-04-14 Sat 13:05-16:05>
+:PROPERTIES:
+:ID:       ubPgPvuqWwWqAnh27GElKVCW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5y-2Y
+
+Shop  https //stza.co/+vN5y-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180414T180500Z
+DTEND:20180414T210500Z
+UID:ubPgPvuqWwWqAnh27GElKVCW@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5y-2Y\n\nShop: https://stza.co/+vN5y-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-04-15 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       Ck8srQTf2wOgAwMYw4EcRN6L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5A-1W
+
+Shop  https //stza.co/+vN5A-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180415T180500Z
+DTEND:20180415T210500Z
+UID:Ck8srQTf2wOgAwMYw4EcRN6L@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5A-1W\n\nShop: https://stza.co/+vN5A-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-04-17 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       qJA1yit87O8YSQYN0t_uFg2j@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5j-1K
+
+Shop  https //stza.co/+vN5j-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180417T230500Z
+DTEND:20180418T020500Z
+UID:qJA1yit87O8YSQYN0t_uFg2j@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5j-1K\n\nShop: https://stza.co/+vN5j-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-04-18 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       -NF8k3vwctGTMe9jDI3m4wpn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5k-2H
+
+Shop  https //stza.co/+vN5k-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180418T150500Z
+DTEND:20180418T180500Z
+UID:-NF8k3vwctGTMe9jDI3m4wpn@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5k-2H\n\nShop: https://stza.co/+vN5k-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-04-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       dj0vj4SPujoESfg7yfYgIe9w@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5l-39
+
+Shop  https //stza.co/+vN5l-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180419T230500Z
+DTEND:20180420T020500Z
+UID:dj0vj4SPujoESfg7yfYgIe9w@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5l-39\n\nShop: https://stza.co/+vN5l-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-04-20 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       YlXzkpbqC8s-q-gH_O0bUS4e@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5C-3l
+
+Shop  https //stza.co/+vN5C-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180420T220500Z
+DTEND:20180421T010500Z
+UID:YlXzkpbqC8s-q-gH_O0bUS4e@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5C-3l\n\nShop: https://stza.co/+vN5C-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-04-21 Sat 13:05-16:05>
+:PROPERTIES:
+:ID:       j81DJ7_nG2_Ga3MuAz-MlKN9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5D-1M
+
+Shop  https //stza.co/+vN5D-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180421T180500Z
+DTEND:20180421T210500Z
+UID:j81DJ7_nG2_Ga3MuAz-MlKN9@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5D-1M\n\nShop: https://stza.co/+vN5D-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-04-22 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       sARYvYYwgGpcMNzwqb8etI0P@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5F-3Z
+
+Shop  https //stza.co/+vN5F-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180422T180500Z
+DTEND:20180422T210500Z
+UID:sARYvYYwgGpcMNzwqb8etI0P@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5F-3Z\n\nShop: https://stza.co/+vN5F-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-04-23 Mon 17:05-20:05>
+:PROPERTIES:
+:ID:       aSTIWpwu2vXbpuPP8DuVJ0gO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5H-2h
+
+Shop  https //stza.co/+vN5H-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180423T220500Z
+DTEND:20180424T010500Z
+UID:aSTIWpwu2vXbpuPP8DuVJ0gO@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5H-2h\n\nShop: https://stza.co/+vN5H-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-04-24 Tue 17:05-20:05>
+:PROPERTIES:
+:ID:       8GNRwmvdJEm_bZbvRn-cYho3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5J-h
+
+Shop  https //stza.co/+vN5J-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180424T220500Z
+DTEND:20180425T010500Z
+UID:8GNRwmvdJEm_bZbvRn-cYho3@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5J-h\n\nShop: https://stza.co/+vN5J-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-04-25 Wed 17:05-20:05>
+:PROPERTIES:
+:ID:       Rhav8ihMMDQCaqG_XfKGPA5O@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5L-m
+
+Shop  https //stza.co/+vN5L-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180425T220500Z
+DTEND:20180426T010500Z
+UID:Rhav8ihMMDQCaqG_XfKGPA5O@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5L-m\n\nShop: https://stza.co/+vN5L-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-04-26 Thu 09:35-12:35>
+:PROPERTIES:
+:ID:       oI7LHXpJ333C_ZbP8iSko-wG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5O-1R
+
+Shop  https //stza.co/+vN5O-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180426T143500Z
+DTEND:20180426T173500Z
+UID:oI7LHXpJ333C_ZbP8iSko-wG@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5O-1R\n\nShop: https://stza.co/+vN5O-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-04-27 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       Zwk4xukmm9uQkTzMI4QJtWPw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7U-3i
+
+Shop  https //stza.co/+vN7U-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180427T233500Z
+DTEND:20180428T023500Z
+UID:Zwk4xukmm9uQkTzMI4QJtWPw@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7U-3i\n\nShop: https://stza.co/+vN7U-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-04-28 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       pdMfQGgWAWiJ2gAUPzcU9Ka0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7V-3W
+
+Shop  https //stza.co/+vN7V-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180428T230500Z
+DTEND:20180429T020500Z
+UID:pdMfQGgWAWiJ2gAUPzcU9Ka0@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7V-3W\n\nShop: https://stza.co/+vN7V-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-04-29 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       pNARcCTpstABDUiHPLTGj0Hq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7W-3g
+
+Shop  https //stza.co/+vN7W-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180429T180500Z
+DTEND:20180429T210500Z
+UID:pNARcCTpstABDUiHPLTGj0Hq@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7W-3g\n\nShop: https://stza.co/+vN7W-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. River Bandits
+<2018-05-01 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       7105gvYd5HnbPoFNaRD0ubVX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. River Bandits Loons vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vN5Q-3s
+
+Shop  https //stza.co/+vN5Q-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. River Bandits
+END:VALARM
+DTSTART:20180501T230500Z
+DTEND:20180502T020500Z
+UID:7105gvYd5HnbPoFNaRD0ubVX@stanza.co
+SUMMARY:Loons vs. River Bandits
+DESCRIPTION:Loons vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vN5Q-3s\n\nShop: https://stza.co/+vN5Q-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. River Bandits
+<2018-05-02 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       JG8DeXZLxNHpQD_owGcJmzwW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. River Bandits Loons vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vN5S-3v
+
+Shop  https //stza.co/+vN5S-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. River Bandits
+END:VALARM
+DTSTART:20180502T230500Z
+DTEND:20180503T020500Z
+UID:JG8DeXZLxNHpQD_owGcJmzwW@stanza.co
+SUMMARY:Loons vs. River Bandits
+DESCRIPTION:Loons vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vN5S-3v\n\nShop: https://stza.co/+vN5S-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. River Bandits
+<2018-05-03 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       W49GIfNF_TC6puAV-tRFHS19@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. River Bandits Loons vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+vN5U-2S
+
+Shop  https //stza.co/+vN5U-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. River Bandits
+END:VALARM
+DTSTART:20180503T230500Z
+DTEND:20180504T020500Z
+UID:W49GIfNF_TC6puAV-tRFHS19@stanza.co
+SUMMARY:Loons vs. River Bandits
+DESCRIPTION:Loons vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+vN5U-2S\n\nShop: https://stza.co/+vN5U-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cougars
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       XdvaHi6dlM7t03M3rq4jtqXH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cougars Loons vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vN5V-2E
+
+Shop  https //stza.co/+vN5V-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cougars
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:XdvaHi6dlM7t03M3rq4jtqXH@stanza.co
+SUMMARY:Loons vs. Cougars
+DESCRIPTION:Loons vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vN5V-2E\n\nShop: https://stza.co/+vN5V-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cougars
+<2018-05-05 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       JwtR02cm2Bs0rA7djrRdVvbS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cougars Loons vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vN5X-2l
+
+Shop  https //stza.co/+vN5X-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cougars
+END:VALARM
+DTSTART:20180505T230500Z
+DTEND:20180506T020500Z
+UID:JwtR02cm2Bs0rA7djrRdVvbS@stanza.co
+SUMMARY:Loons vs. Cougars
+DESCRIPTION:Loons vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vN5X-2l\n\nShop: https://stza.co/+vN5X-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cougars
+<2018-05-06 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       C-4sHx-X3vh_1VOChn1IRYBz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cougars Loons vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+vN5Z-1C
+
+Shop  https //stza.co/+vN5Z-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cougars
+END:VALARM
+DTSTART:20180506T180500Z
+DTEND:20180506T210500Z
+UID:C-4sHx-X3vh_1VOChn1IRYBz@stanza.co
+SUMMARY:Loons vs. Cougars
+DESCRIPTION:Loons vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+vN5Z-1C\n\nShop: https://stza.co/+vN5Z-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Snappers
+<2018-05-07 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       N8zOacgIdg4JxMoB64ORIvaf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Snappers Loons @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSMq-1v
+
+Shop  https //stza.co/+wSMq-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Snappers
+END:VALARM
+DTSTART:20180507T233000Z
+DTEND:20180508T023000Z
+UID:N8zOacgIdg4JxMoB64ORIvaf@stanza.co
+SUMMARY:Loons @ Snappers
+DESCRIPTION:Loons @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSMq-1v\n\nShop: https://stza.co/+wSMq-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Snappers
+<2018-05-08 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       0iXPmohS_VVw9VC_4wg5HyN_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Snappers Loons @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSMr-2T
+
+Shop  https //stza.co/+wSMr-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Snappers
+END:VALARM
+DTSTART:20180508T233000Z
+DTEND:20180509T023000Z
+UID:0iXPmohS_VVw9VC_4wg5HyN_@stanza.co
+SUMMARY:Loons @ Snappers
+DESCRIPTION:Loons @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSMr-2T\n\nShop: https://stza.co/+wSMr-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Snappers
+<2018-05-09 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       4LK_cTMPg6j9bIHsJvxHJMea@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Snappers Loons @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSMs-3I
+
+Shop  https //stza.co/+wSMs-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Snappers
+END:VALARM
+DTSTART:20180509T160000Z
+DTEND:20180509T190000Z
+UID:4LK_cTMPg6j9bIHsJvxHJMea@stanza.co
+SUMMARY:Loons @ Snappers
+DESCRIPTION:Loons @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSMs-3I\n\nShop: https://stza.co/+wSMs-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Timber Rattlers
+<2018-05-10 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       L6XkclLV6j45uJnTVWz54phC@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Timber Rattlers Loons @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vr8K-24
+
+Shop  https //stza.co/+vr8K-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Timber Rattlers
+END:VALARM
+DTSTART:20180510T233500Z
+DTEND:20180511T023500Z
+UID:L6XkclLV6j45uJnTVWz54phC@stanza.co
+SUMMARY:Loons @ Timber Rattlers
+DESCRIPTION:Loons @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vr8K-24\n\nShop: https://stza.co/+vr8K-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Timber Rattlers
+<2018-05-11 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       qqDjahx0TvGLuXSmYchb8164@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Timber Rattlers Loons @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vqDF-2B
+
+Shop  https //stza.co/+vqDF-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Timber Rattlers
+END:VALARM
+DTSTART:20180511T233500Z
+DTEND:20180512T023500Z
+UID:qqDjahx0TvGLuXSmYchb8164@stanza.co
+SUMMARY:Loons @ Timber Rattlers
+DESCRIPTION:Loons @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vqDF-2B\n\nShop: https://stza.co/+vqDF-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Timber Rattlers
+<2018-05-12 Sat 13:05-16:05>
+:PROPERTIES:
+:ID:       dsPLI8XeSPd_8fDkWNe92U0Z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Timber Rattlers Loons @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vqDL-3q
+
+Shop  https //stza.co/+vqDL-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Timber Rattlers
+END:VALARM
+DTSTART:20180512T180500Z
+DTEND:20180512T210500Z
+UID:dsPLI8XeSPd_8fDkWNe92U0Z@stanza.co
+SUMMARY:Loons @ Timber Rattlers
+DESCRIPTION:Loons @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vqDL-3q\n\nShop: https://stza.co/+vqDL-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Hot Rods
+<2018-05-14 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       KBDjfja8zxiQVP1ZfLMSyxsC@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Hot Rods Loons vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN5$-h
+
+Shop  https //stza.co/+vN5$-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Hot Rods
+END:VALARM
+DTSTART:20180514T230500Z
+DTEND:20180515T020500Z
+UID:KBDjfja8zxiQVP1ZfLMSyxsC@stanza.co
+SUMMARY:Loons vs. Hot Rods
+DESCRIPTION:Loons vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN5$-h\n\nShop: https://stza.co/+vN5$-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Hot Rods
+<2018-05-15 Tue 09:35-12:35>
+:PROPERTIES:
+:ID:       1Ex_4XjiwQEziSm96alTE0gN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Hot Rods Loons vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN62-2$
+
+Shop  https //stza.co/+vN62-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Hot Rods
+END:VALARM
+DTSTART:20180515T143500Z
+DTEND:20180515T173500Z
+UID:1Ex_4XjiwQEziSm96alTE0gN@stanza.co
+SUMMARY:Loons vs. Hot Rods
+DESCRIPTION:Loons vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN62-2$\n\nShop: https://stza.co/+vN62-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Hot Rods
+<2018-05-16 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       cq4d5H-ZFrjFmugBzK0PJb_4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Hot Rods Loons vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN64-1J
+
+Shop  https //stza.co/+vN64-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Hot Rods
+END:VALARM
+DTSTART:20180516T230500Z
+DTEND:20180517T020500Z
+UID:cq4d5H-ZFrjFmugBzK0PJb_4@stanza.co
+SUMMARY:Loons vs. Hot Rods
+DESCRIPTION:Loons vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN64-1J\n\nShop: https://stza.co/+vN64-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Hot Rods
+<2018-05-17 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       KFChH_ppU53zho6OkroA1T_t@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Hot Rods Loons vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN65-x
+
+Shop  https //stza.co/+vN65-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Hot Rods
+END:VALARM
+DTSTART:20180517T230500Z
+DTEND:20180518T020500Z
+UID:KFChH_ppU53zho6OkroA1T_t@stanza.co
+SUMMARY:Loons vs. Hot Rods
+DESCRIPTION:Loons vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN65-x\n\nShop: https://stza.co/+vN65-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Dragons
+<2018-05-18 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       cG7b5tXGg56AklFEbjfwQyeu@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Dragons Loons @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5d-2S
+
+Shop  https //stza.co/+vN5d-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Dragons
+END:VALARM
+DTSTART:20180518T230000Z
+DTEND:20180519T020000Z
+UID:cG7b5tXGg56AklFEbjfwQyeu@stanza.co
+SUMMARY:Loons @ Dragons
+DESCRIPTION:Loons @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5d-2S\n\nShop: https://stza.co/+vN5d-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Dragons
+<2018-05-19 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       t115hcFls71w4opyLEK7y0Y2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Dragons Loons @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5e-3C
+
+Shop  https //stza.co/+vN5e-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Dragons
+END:VALARM
+DTSTART:20180519T230000Z
+DTEND:20180520T020000Z
+UID:t115hcFls71w4opyLEK7y0Y2@stanza.co
+SUMMARY:Loons @ Dragons
+DESCRIPTION:Loons @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5e-3C\n\nShop: https://stza.co/+vN5e-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Dragons
+<2018-05-20 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       D9_qjsOsYqKap3gI7e-TaS4W@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Dragons Loons @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5f-1f
+
+Shop  https //stza.co/+vN5f-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Dragons
+END:VALARM
+DTSTART:20180520T180000Z
+DTEND:20180520T210000Z
+UID:D9_qjsOsYqKap3gI7e-TaS4W@stanza.co
+SUMMARY:Loons @ Dragons
+DESCRIPTION:Loons @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5f-1f\n\nShop: https://stza.co/+vN5f-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Hot Rods
+<2018-05-21 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       vp1c_NwexEC9QhSOV-OjBXcV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Hot Rods Loons @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN50-1H
+
+Shop  https //stza.co/+vN50-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Hot Rods
+END:VALARM
+DTSTART:20180521T233500Z
+DTEND:20180522T023500Z
+UID:vp1c_NwexEC9QhSOV-OjBXcV@stanza.co
+SUMMARY:Loons @ Hot Rods
+DESCRIPTION:Loons @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN50-1H\n\nShop: https://stza.co/+vN50-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Hot Rods
+<2018-05-22 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       c2yKUoN94DG-pkv0ICE8g-ZY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Hot Rods Loons @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN51-3u
+
+Shop  https //stza.co/+vN51-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Hot Rods
+END:VALARM
+DTSTART:20180522T233500Z
+DTEND:20180523T023500Z
+UID:c2yKUoN94DG-pkv0ICE8g-ZY@stanza.co
+SUMMARY:Loons @ Hot Rods
+DESCRIPTION:Loons @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN51-3u\n\nShop: https://stza.co/+vN51-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Hot Rods
+<2018-05-23 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       AyLX8F-7HiZVCu6GuanmPQK0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Hot Rods Loons @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN52-x
+
+Shop  https //stza.co/+vN52-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Hot Rods
+END:VALARM
+DTSTART:20180523T233500Z
+DTEND:20180524T023500Z
+UID:AyLX8F-7HiZVCu6GuanmPQK0@stanza.co
+SUMMARY:Loons @ Hot Rods
+DESCRIPTION:Loons @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN52-x\n\nShop: https://stza.co/+vN52-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Hot Rods
+<2018-05-24 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       lSdM9PFKbfeWl-NNtzqVezqc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Hot Rods Loons @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN53-3G
+
+Shop  https //stza.co/+vN53-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Hot Rods
+END:VALARM
+DTSTART:20180524T233500Z
+DTEND:20180525T023500Z
+UID:lSdM9PFKbfeWl-NNtzqVezqc@stanza.co
+SUMMARY:Loons @ Hot Rods
+DESCRIPTION:Loons @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN53-3G\n\nShop: https://stza.co/+vN53-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-05-25 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       2uK5GnYzg-LA7AGXepQG7--s@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsL-34
+
+Shop  https //stza.co/+xBsL-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180525T223000Z
+DTEND:20180526T013000Z
+UID:2uK5GnYzg-LA7AGXepQG7--s@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsL-34\n\nShop: https://stza.co/+xBsL-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-05-26 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       getEZgxWpszniDtDseAW3E_6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsO-V
+
+Shop  https //stza.co/+xBsO-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180526T223000Z
+DTEND:20180527T013000Z
+UID:getEZgxWpszniDtDseAW3E_6@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsO-V\n\nShop: https://stza.co/+xBsO-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-05-27 Sun 12:30-15:30>
+:PROPERTIES:
+:ID:       AWawd6SDHIIJJ_T9lWTspCMD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsP-1F
+
+Shop  https //stza.co/+xBsP-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180527T173000Z
+DTEND:20180527T203000Z
+UID:AWawd6SDHIIJJ_T9lWTspCMD@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsP-1F\n\nShop: https://stza.co/+xBsP-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-05-28 Mon 12:00-15:00>
+:PROPERTIES:
+:ID:       AoPLqwdsgKI2UlDSPab2HpTk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsQ-1t
+
+Shop  https //stza.co/+xBsQ-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180528T170000Z
+DTEND:20180528T200000Z
+UID:AoPLqwdsgKI2UlDSPab2HpTk@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsQ-1t\n\nShop: https://stza.co/+xBsQ-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cubs
+<2018-05-29 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       OAlVBGq-vtzl8MlILnQBrJCY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cubs Loons vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN68-2J
+
+Shop  https //stza.co/+vN68-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cubs
+END:VALARM
+DTSTART:20180529T230500Z
+DTEND:20180530T020500Z
+UID:OAlVBGq-vtzl8MlILnQBrJCY@stanza.co
+SUMMARY:Loons vs. Cubs
+DESCRIPTION:Loons vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN68-2J\n\nShop: https://stza.co/+vN68-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cubs
+<2018-05-30 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       BnozxD9zG6fKRmUB1TS0V5I4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cubs Loons vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN6a-X
+
+Shop  https //stza.co/+vN6a-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cubs
+END:VALARM
+DTSTART:20180530T143500Z
+DTEND:20180530T173500Z
+UID:BnozxD9zG6fKRmUB1TS0V5I4@stanza.co
+SUMMARY:Loons vs. Cubs
+DESCRIPTION:Loons vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN6a-X\n\nShop: https://stza.co/+vN6a-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cubs
+<2018-05-31 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       nLe_mPMVQvV1bQAifSJi-8oA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cubs Loons vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN6b-U
+
+Shop  https //stza.co/+vN6b-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cubs
+END:VALARM
+DTSTART:20180531T230500Z
+DTEND:20180601T020500Z
+UID:nLe_mPMVQvV1bQAifSJi-8oA@stanza.co
+SUMMARY:Loons vs. Cubs
+DESCRIPTION:Loons vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN6b-U\n\nShop: https://stza.co/+vN6b-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-06-01 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       OyEz2ZeM7i0cPA_W2gxHJiv0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6d-2n
+
+Shop  https //stza.co/+vN6d-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180601T230500Z
+DTEND:20180602T020500Z
+UID:OyEz2ZeM7i0cPA_W2gxHJiv0@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6d-2n\n\nShop: https://stza.co/+vN6d-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-06-02 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       IJqwkSQtH3_mPhMfK1KW4RDv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6g-3C
+
+Shop  https //stza.co/+vN6g-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180602T230500Z
+DTEND:20180603T020500Z
+UID:IJqwkSQtH3_mPhMfK1KW4RDv@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6g-3C\n\nShop: https://stza.co/+vN6g-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-06-03 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       zhE8wRfvY-kjGknXlxBtFNUL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6h-3E
+
+Shop  https //stza.co/+vN6h-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180603T180500Z
+DTEND:20180603T210500Z
+UID:zhE8wRfvY-kjGknXlxBtFNUL@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6h-3E\n\nShop: https://stza.co/+vN6h-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-06-05 Tue 10:00-13:00>
+:PROPERTIES:
+:ID:       a0c8xKWuBsQ-WzLIqZUMq5uL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN85-2g
+
+Shop  https //stza.co/+vN85-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180605T150000Z
+DTEND:20180605T180000Z
+UID:a0c8xKWuBsQ-WzLIqZUMq5uL@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN85-2g\n\nShop: https://stza.co/+vN85-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-06-06 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       hTuFLRCozWobzJgyEd7I1Qr5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN86-D
+
+Shop  https //stza.co/+vN86-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180606T230500Z
+DTEND:20180607T020500Z
+UID:hTuFLRCozWobzJgyEd7I1Qr5@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN86-D\n\nShop: https://stza.co/+vN86-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-06-07 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       h3CEfbdBF3g2nyIhAsDK57Zn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN87-1L
+
+Shop  https //stza.co/+vN87-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180607T230500Z
+DTEND:20180608T020500Z
+UID:h3CEfbdBF3g2nyIhAsDK57Zn@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN87-1L\n\nShop: https://stza.co/+vN87-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Captains
+<2018-06-08 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       zQm3ZGMt3JuY7Y85oNxbQCFp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Captains Loons vs. Captains
+
+Follow on MiLB First Pitch  https //stza.co/+vN6k-2L
+
+Shop  https //stza.co/+vN6k-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Captains
+END:VALARM
+DTSTART:20180608T230500Z
+DTEND:20180609T020500Z
+UID:zQm3ZGMt3JuY7Y85oNxbQCFp@stanza.co
+SUMMARY:Loons vs. Captains
+DESCRIPTION:Loons vs. Captains\n\nFollow on MiLB First Pitch: https://stza.co/+vN6k-2L\n\nShop: https://stza.co/+vN6k-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Captains
+<2018-06-09 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       IXTT_s5hFDiM9vjWnATDcJAF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Captains Loons vs. Captains
+
+Follow on MiLB First Pitch  https //stza.co/+vN6m-l
+
+Shop  https //stza.co/+vN6m-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Captains
+END:VALARM
+DTSTART:20180609T230500Z
+DTEND:20180610T020500Z
+UID:IXTT_s5hFDiM9vjWnATDcJAF@stanza.co
+SUMMARY:Loons vs. Captains
+DESCRIPTION:Loons vs. Captains\n\nFollow on MiLB First Pitch: https://stza.co/+vN6m-l\n\nShop: https://stza.co/+vN6m-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Captains
+<2018-06-10 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       lXsf-7wNJ_WZPZyoHluptrnj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Captains Loons vs. Captains
+
+Follow on MiLB First Pitch  https //stza.co/+vN6o-3e
+
+Shop  https //stza.co/+vN6o-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Captains
+END:VALARM
+DTSTART:20180610T180500Z
+DTEND:20180610T210500Z
+UID:lXsf-7wNJ_WZPZyoHluptrnj@stanza.co
+SUMMARY:Loons vs. Captains
+DESCRIPTION:Loons vs. Captains\n\nFollow on MiLB First Pitch: https://stza.co/+vN6o-3e\n\nShop: https://stza.co/+vN6o-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Captains
+<2018-06-11 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       t422v6_i_jXdpgRQDVvJzlpR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Captains Loons vs. Captains
+
+Follow on MiLB First Pitch  https //stza.co/+vN6p-2W
+
+Shop  https //stza.co/+vN6p-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Captains
+END:VALARM
+DTSTART:20180611T230500Z
+DTEND:20180612T020500Z
+UID:t422v6_i_jXdpgRQDVvJzlpR@stanza.co
+SUMMARY:Loons vs. Captains
+DESCRIPTION:Loons vs. Captains\n\nFollow on MiLB First Pitch: https://stza.co/+vN6p-2W\n\nShop: https://stza.co/+vN6p-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-06-12 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       b4NK1voY6aTgg1zkjLkcQ232@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6s-D
+
+Shop  https //stza.co/+vN6s-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180612T230500Z
+DTEND:20180613T020500Z
+UID:b4NK1voY6aTgg1zkjLkcQ232@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6s-D\n\nShop: https://stza.co/+vN6s-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-06-13 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       vCug6m5Z-V_Jm15ryq47eI2r@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6u-3c
+
+Shop  https //stza.co/+vN6u-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180613T230500Z
+DTEND:20180614T020500Z
+UID:vCug6m5Z-V_Jm15ryq47eI2r@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6u-3c\n\nShop: https://stza.co/+vN6u-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       cnqwZNjfXGPBnfTvZolG7T-x@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6w-2L
+
+Shop  https //stza.co/+vN6w-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:cnqwZNjfXGPBnfTvZolG7T-x@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6w-2L\n\nShop: https://stza.co/+vN6w-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       3qXYMsKV00Qbu0Cu70eWA_GK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5m-3X
+
+Shop  https //stza.co/+vN5m-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:3qXYMsKV00Qbu0Cu70eWA_GK@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5m-3X\n\nShop: https://stza.co/+vN5m-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-06-16 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       WvQ5JLc-W6CvvA7hvESjQoTN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5n-c
+
+Shop  https //stza.co/+vN5n-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180616T230500Z
+DTEND:20180617T020500Z
+UID:WvQ5JLc-W6CvvA7hvESjQoTN@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5n-c\n\nShop: https://stza.co/+vN5n-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-06-17 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       ntPwWRkSxxbM0vxl9vAh90ux@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5o-2G
+
+Shop  https //stza.co/+vN5o-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180617T170500Z
+DTEND:20180617T200500Z
+UID:ntPwWRkSxxbM0vxl9vAh90ux@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5o-2G\n\nShop: https://stza.co/+vN5o-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       1xLlQUgV1hMeyYrpC85bSeo9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7N-w
+
+Shop  https //stza.co/+vN7N-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:1xLlQUgV1hMeyYrpC85bSeo9@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7N-w\n\nShop: https://stza.co/+vN7N-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       E-m1EwxCSd49PG7yrhhrBopI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7O-K
+
+Shop  https //stza.co/+vN7O-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:E-m1EwxCSd49PG7yrhhrBopI@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7O-K\n\nShop: https://stza.co/+vN7O-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       9mdJKR6fVowa2AeSpOA24ErM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7P-25
+
+Shop  https //stza.co/+vN7P-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:9mdJKR6fVowa2AeSpOA24ErM@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7P-25\n\nShop: https://stza.co/+vN7P-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-06-24 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       EU19GCKev9D8ohDbUVyY2ZyX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7Q-3w
+
+Shop  https //stza.co/+vN7Q-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180624T170500Z
+DTEND:20180624T200500Z
+UID:EU19GCKev9D8ohDbUVyY2ZyX@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7Q-3w\n\nShop: https://stza.co/+vN7Q-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Dragons
+<2018-06-25 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       Wnuao0796i8zb-poBn1ocMYf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Dragons Loons @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5g-g
+
+Shop  https //stza.co/+vN5g-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Dragons
+END:VALARM
+DTSTART:20180625T230000Z
+DTEND:20180626T020000Z
+UID:Wnuao0796i8zb-poBn1ocMYf@stanza.co
+SUMMARY:Loons @ Dragons
+DESCRIPTION:Loons @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5g-g\n\nShop: https://stza.co/+vN5g-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Dragons
+<2018-06-26 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       _Cq9Mt-CGt3UeJ08l2oSDYD4@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Dragons Loons @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5h-1O
+
+Shop  https //stza.co/+vN5h-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Dragons
+END:VALARM
+DTSTART:20180626T230000Z
+DTEND:20180627T020000Z
+UID:_Cq9Mt-CGt3UeJ08l2oSDYD4@stanza.co
+SUMMARY:Loons @ Dragons
+DESCRIPTION:Loons @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5h-1O\n\nShop: https://stza.co/+vN5h-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Dragons
+<2018-06-27 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       hWVtqezUcEg7gkgjjGbA0sYw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Dragons Loons @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN5i-10
+
+Shop  https //stza.co/+vN5i-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Dragons
+END:VALARM
+DTSTART:20180627T230000Z
+DTEND:20180628T020000Z
+UID:hWVtqezUcEg7gkgjjGbA0sYw@stanza.co
+SUMMARY:Loons @ Dragons
+DESCRIPTION:Loons @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN5i-10\n\nShop: https://stza.co/+vN5i-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Lugnuts
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       NeYklUhRi98eozE15R_c_PGE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Lugnuts Loons vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN6x-f
+
+Shop  https //stza.co/+vN6x-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Lugnuts
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:NeYklUhRi98eozE15R_c_PGE@stanza.co
+SUMMARY:Loons vs. Lugnuts
+DESCRIPTION:Loons vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN6x-f\n\nShop: https://stza.co/+vN6x-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Lugnuts
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       -F5XZ16YLdf7akRAj5HrpWIe@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Lugnuts Loons vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN6A-a
+
+Shop  https //stza.co/+vN6A-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Lugnuts
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:-F5XZ16YLdf7akRAj5HrpWIe@stanza.co
+SUMMARY:Loons vs. Lugnuts
+DESCRIPTION:Loons vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN6A-a\n\nShop: https://stza.co/+vN6A-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Lugnuts
+<2018-06-30 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       mNvb_xGIpHgAndkoTdqO-tbC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Lugnuts Loons vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN6C-r
+
+Shop  https //stza.co/+vN6C-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Lugnuts
+END:VALARM
+DTSTART:20180630T230500Z
+DTEND:20180701T020500Z
+UID:mNvb_xGIpHgAndkoTdqO-tbC@stanza.co
+SUMMARY:Loons vs. Lugnuts
+DESCRIPTION:Loons vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN6C-r\n\nShop: https://stza.co/+vN6C-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Lugnuts
+<2018-07-01 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       SQ6pCMOcZmd7Cmy7lwDKFt9R@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Lugnuts Loons vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN6E-I
+
+Shop  https //stza.co/+vN6E-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Lugnuts
+END:VALARM
+DTSTART:20180701T180500Z
+DTEND:20180701T210500Z
+UID:SQ6pCMOcZmd7Cmy7lwDKFt9R@stanza.co
+SUMMARY:Loons vs. Lugnuts
+DESCRIPTION:Loons vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN6E-I\n\nShop: https://stza.co/+vN6E-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-07-02 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       k3FlnP-0jk3K6S-YlXNy1q3E@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6G-2Y
+
+Shop  https //stza.co/+vN6G-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180702T230500Z
+DTEND:20180703T020500Z
+UID:k3FlnP-0jk3K6S-YlXNy1q3E@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6G-2Y\n\nShop: https://stza.co/+vN6G-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-07-03 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       ZkM_lxh68xtkQhQySEaVTuCJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN6H-11
+
+Shop  https //stza.co/+vN6H-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180703T230500Z
+DTEND:20180704T020500Z
+UID:ZkM_lxh68xtkQhQySEaVTuCJ@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN6H-11\n\nShop: https://stza.co/+vN6H-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-07-04 Wed 17:05-20:05>
+:PROPERTIES:
+:ID:       kTguGGR5NW7K7Niccaf_sHxo@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5p-1e
+
+Shop  https //stza.co/+vN5p-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180704T220500Z
+DTEND:20180705T010500Z
+UID:kTguGGR5NW7K7Niccaf_sHxo@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5p-1e\n\nShop: https://stza.co/+vN5p-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ TinCaps
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       UuAoB8gxaZjTS4aXYVPq1hpL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ TinCaps Loons @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN5q-14
+
+Shop  https //stza.co/+vN5q-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ TinCaps
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:UuAoB8gxaZjTS4aXYVPq1hpL@stanza.co
+SUMMARY:Loons @ TinCaps
+DESCRIPTION:Loons @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN5q-14\n\nShop: https://stza.co/+vN5q-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       tTTw078MrjD3HqhxbNDKNuhd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN6K-q
+
+Shop  https //stza.co/+vN6K-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:tTTw078MrjD3HqhxbNDKNuhd@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN6K-q\n\nShop: https://stza.co/+vN6K-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-07-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       uq_nz_u-uJJkHtGZMpYG0--z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN6L-2I
+
+Shop  https //stza.co/+vN6L-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180707T230500Z
+DTEND:20180708T020500Z
+UID:uq_nz_u-uJJkHtGZMpYG0--z@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN6L-2I\n\nShop: https://stza.co/+vN6L-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-07-08 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       ClaSZMua0fcXQvhxwnE5MsfQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN6O-30
+
+Shop  https //stza.co/+vN6O-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180708T180500Z
+DTEND:20180708T210500Z
+UID:ClaSZMua0fcXQvhxwnE5MsfQ@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN6O-30\n\nShop: https://stza.co/+vN6O-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-07-09 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       jVHBAWS3K1Hej1DD9rTAni5l@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN6Q-A
+
+Shop  https //stza.co/+vN6Q-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180709T230500Z
+DTEND:20180710T020500Z
+UID:jVHBAWS3K1Hej1DD9rTAni5l@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN6Q-A\n\nShop: https://stza.co/+vN6Q-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ LumberKings
+<2018-07-11 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       VZDLKe9n6WctKGIf6GAQH78V@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ LumberKings Loons @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vN5a-1k
+
+Shop  https //stza.co/+vN5a-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ LumberKings
+END:VALARM
+DTSTART:20180711T233000Z
+DTEND:20180712T023000Z
+UID:VZDLKe9n6WctKGIf6GAQH78V@stanza.co
+SUMMARY:Loons @ LumberKings
+DESCRIPTION:Loons @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vN5a-1k\n\nShop: https://stza.co/+vN5a-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ LumberKings
+<2018-07-12 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       aH1PqXVRU8SuQxx5p8L9E3nS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ LumberKings Loons @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vN5b-1N
+
+Shop  https //stza.co/+vN5b-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ LumberKings
+END:VALARM
+DTSTART:20180712T233000Z
+DTEND:20180713T023000Z
+UID:aH1PqXVRU8SuQxx5p8L9E3nS@stanza.co
+SUMMARY:Loons @ LumberKings
+DESCRIPTION:Loons @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vN5b-1N\n\nShop: https://stza.co/+vN5b-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ LumberKings
+<2018-07-13 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       hxtYF7xLRyaoB-pl3mMKYWQU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ LumberKings Loons @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vN5c-2Z
+
+Shop  https //stza.co/+vN5c-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ LumberKings
+END:VALARM
+DTSTART:20180713T233000Z
+DTEND:20180714T023000Z
+UID:hxtYF7xLRyaoB-pl3mMKYWQU@stanza.co
+SUMMARY:Loons @ LumberKings
+DESCRIPTION:Loons @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vN5c-2Z\n\nShop: https://stza.co/+vN5c-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Bees
+<2018-07-14 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       9Xf92s5zvLvdLXtV0x0RTnJy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Bees Loons @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBsu-Z
+
+Shop  https //stza.co/+xBsu-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Bees
+END:VALARM
+DTSTART:20180714T233000Z
+DTEND:20180715T023000Z
+UID:9Xf92s5zvLvdLXtV0x0RTnJy@stanza.co
+SUMMARY:Loons @ Bees
+DESCRIPTION:Loons @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBsu-Z\n\nShop: https://stza.co/+xBsu-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Bees
+<2018-07-15 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       esFK9VH7ypQhEJRxeF0tooqm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Bees Loons @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBsv-3k
+
+Shop  https //stza.co/+xBsv-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Bees
+END:VALARM
+DTSTART:20180715T190000Z
+DTEND:20180715T220000Z
+UID:esFK9VH7ypQhEJRxeF0tooqm@stanza.co
+SUMMARY:Loons @ Bees
+DESCRIPTION:Loons @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBsv-3k\n\nShop: https://stza.co/+xBsv-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Bees
+<2018-07-16 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       stAmNgT71_1EzoS70JrNOASu@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Bees Loons @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xBsy-2T
+
+Shop  https //stza.co/+xBsy-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Bees
+END:VALARM
+DTSTART:20180716T233000Z
+DTEND:20180717T023000Z
+UID:stAmNgT71_1EzoS70JrNOASu@stanza.co
+SUMMARY:Loons @ Bees
+DESCRIPTION:Loons @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xBsy-2T\n\nShop: https://stza.co/+xBsy-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Kernels
+<2018-07-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       Quviu2cfV5UxbG3pH23d2vW6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Kernels Loons vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vN6S-3J
+
+Shop  https //stza.co/+vN6S-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Kernels
+END:VALARM
+DTSTART:20180718T230500Z
+DTEND:20180719T020500Z
+UID:Quviu2cfV5UxbG3pH23d2vW6@stanza.co
+SUMMARY:Loons vs. Kernels
+DESCRIPTION:Loons vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vN6S-3J\n\nShop: https://stza.co/+vN6S-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Kernels
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       o-p1QJUbvLHrWO1SQI8KwXTK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Kernels Loons vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vN6U-9
+
+Shop  https //stza.co/+vN6U-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Kernels
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:o-p1QJUbvLHrWO1SQI8KwXTK@stanza.co
+SUMMARY:Loons vs. Kernels
+DESCRIPTION:Loons vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vN6U-9\n\nShop: https://stza.co/+vN6U-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Kernels
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       MJTU59OISeyaK6JeqJFrKWyk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Kernels Loons vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+vN6W-3m
+
+Shop  https //stza.co/+vN6W-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Kernels
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:MJTU59OISeyaK6JeqJFrKWyk@stanza.co
+SUMMARY:Loons vs. Kernels
+DESCRIPTION:Loons vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+vN6W-3m\n\nShop: https://stza.co/+vN6W-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Chiefs
+<2018-07-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       qCf_vyChoijzOLHZ09lhPNlC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Chiefs Loons vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vN6Y-39
+
+Shop  https //stza.co/+vN6Y-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Chiefs
+END:VALARM
+DTSTART:20180721T230500Z
+DTEND:20180722T020500Z
+UID:qCf_vyChoijzOLHZ09lhPNlC@stanza.co
+SUMMARY:Loons vs. Chiefs
+DESCRIPTION:Loons vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vN6Y-39\n\nShop: https://stza.co/+vN6Y-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Chiefs
+<2018-07-22 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       K55FewJIEgwQM3SOyAoS2UjO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Chiefs Loons vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vN6_-2Q
+
+Shop  https //stza.co/+vN6_-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Chiefs
+END:VALARM
+DTSTART:20180722T180500Z
+DTEND:20180722T210500Z
+UID:K55FewJIEgwQM3SOyAoS2UjO@stanza.co
+SUMMARY:Loons vs. Chiefs
+DESCRIPTION:Loons vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vN6_-2Q\n\nShop: https://stza.co/+vN6_-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Chiefs
+<2018-07-23 Mon 11:05-14:05>
+:PROPERTIES:
+:ID:       SwsLAPd7y6b6YCqpVcqHeJ51@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Chiefs Loons vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vN70-3z
+
+Shop  https //stza.co/+vN70-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Chiefs
+END:VALARM
+DTSTART:20180723T160500Z
+DTEND:20180723T190500Z
+UID:SwsLAPd7y6b6YCqpVcqHeJ51@stanza.co
+SUMMARY:Loons vs. Chiefs
+DESCRIPTION:Loons vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vN70-3z\n\nShop: https://stza.co/+vN70-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Hot Rods
+<2018-07-25 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       kZivccyv6VM-tvOkadTXL0H7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Hot Rods Loons @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN54-2E
+
+Shop  https //stza.co/+vN54-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Hot Rods
+END:VALARM
+DTSTART:20180725T233500Z
+DTEND:20180726T023500Z
+UID:kZivccyv6VM-tvOkadTXL0H7@stanza.co
+SUMMARY:Loons @ Hot Rods
+DESCRIPTION:Loons @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN54-2E\n\nShop: https://stza.co/+vN54-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Hot Rods
+<2018-07-26 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       UtJAxoIbZfeURB6dFvIClK4f@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Hot Rods Loons @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN55-2W
+
+Shop  https //stza.co/+vN55-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Hot Rods
+END:VALARM
+DTSTART:20180726T233500Z
+DTEND:20180727T023500Z
+UID:UtJAxoIbZfeURB6dFvIClK4f@stanza.co
+SUMMARY:Loons @ Hot Rods
+DESCRIPTION:Loons @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN55-2W\n\nShop: https://stza.co/+vN55-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Hot Rods
+<2018-07-27 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       XabKiOHsPI_dY8zwoTy4kymJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Hot Rods Loons @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN56-3Y
+
+Shop  https //stza.co/+vN56-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Hot Rods
+END:VALARM
+DTSTART:20180727T233500Z
+DTEND:20180728T023500Z
+UID:XabKiOHsPI_dY8zwoTy4kymJ@stanza.co
+SUMMARY:Loons @ Hot Rods
+DESCRIPTION:Loons @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN56-3Y\n\nShop: https://stza.co/+vN56-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-07-28 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       ZWfbg_UU3KjgVIbcAwR-JYJv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsT-12
+
+Shop  https //stza.co/+xBsT-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180728T230000Z
+DTEND:20180729T020000Z
+UID:ZWfbg_UU3KjgVIbcAwR-JYJv@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsT-12\n\nShop: https://stza.co/+xBsT-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-07-29 Sun 18:00-21:00>
+:PROPERTIES:
+:ID:       P0hp5vFO_lmeDt85OhARkyTT@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsU-e
+
+Shop  https //stza.co/+xBsU-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180729T230000Z
+DTEND:20180730T020000Z
+UID:P0hp5vFO_lmeDt85OhARkyTT@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsU-e\n\nShop: https://stza.co/+xBsU-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-07-30 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       Bsqi539kC5VDpzSJEG5PE4m2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsV-3V
+
+Shop  https //stza.co/+xBsV-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180730T230000Z
+DTEND:20180731T020000Z
+UID:Bsqi539kC5VDpzSJEG5PE4m2@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsV-3V\n\nShop: https://stza.co/+xBsV-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Captains
+<2018-07-31 Tue 10:00-13:00>
+:PROPERTIES:
+:ID:       zJzcy41y8rx5DuUNvFvTCStB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Captains Loons @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBsY-2E
+
+Shop  https //stza.co/+xBsY-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Captains
+END:VALARM
+DTSTART:20180731T150000Z
+DTEND:20180731T180000Z
+UID:zJzcy41y8rx5DuUNvFvTCStB@stanza.co
+SUMMARY:Loons @ Captains
+DESCRIPTION:Loons @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBsY-2E\n\nShop: https://stza.co/+xBsY-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-08-01 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       KxG7xRXM7wSDYPkbbvsvMFh_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN71-2m
+
+Shop  https //stza.co/+vN71-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180801T230500Z
+DTEND:20180802T020500Z
+UID:KxG7xRXM7wSDYPkbbvsvMFh_@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN71-2m\n\nShop: https://stza.co/+vN71-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       C5tMIyDg22VySm1LNQqv7V_8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN74-1W
+
+Shop  https //stza.co/+vN74-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:C5tMIyDg22VySm1LNQqv7V_8@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN74-1W\n\nShop: https://stza.co/+vN74-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Whitecaps
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Ud_iJLkSV2VwTX7yOr9bzFXS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Whitecaps Loons vs. Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN76-3t
+
+Shop  https //stza.co/+vN76-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Whitecaps
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:Ud_iJLkSV2VwTX7yOr9bzFXS@stanza.co
+SUMMARY:Loons vs. Whitecaps
+DESCRIPTION:Loons vs. Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN76-3t\n\nShop: https://stza.co/+vN76-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Captains
+<2018-08-04 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       doXScxwzgIQtLKSY_xGHq6Ch@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Captains Loons vs. Captains
+
+Follow on MiLB First Pitch  https //stza.co/+vN78-37
+
+Shop  https //stza.co/+vN78-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Captains
+END:VALARM
+DTSTART:20180804T230500Z
+DTEND:20180805T020500Z
+UID:doXScxwzgIQtLKSY_xGHq6Ch@stanza.co
+SUMMARY:Loons vs. Captains
+DESCRIPTION:Loons vs. Captains\n\nFollow on MiLB First Pitch: https://stza.co/+vN78-37\n\nShop: https://stza.co/+vN78-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Captains
+<2018-08-05 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       iZhyOwra9DKx5zpvPrMQcDhk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Captains Loons vs. Captains
+
+Follow on MiLB First Pitch  https //stza.co/+vN7a-1Q
+
+Shop  https //stza.co/+vN7a-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Captains
+END:VALARM
+DTSTART:20180805T180500Z
+DTEND:20180805T210500Z
+UID:iZhyOwra9DKx5zpvPrMQcDhk@stanza.co
+SUMMARY:Loons vs. Captains
+DESCRIPTION:Loons vs. Captains\n\nFollow on MiLB First Pitch: https://stza.co/+vN7a-1Q\n\nShop: https://stza.co/+vN7a-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Captains
+<2018-08-06 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       np8YV3nq0P-9NV9iicsysBfl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Captains Loons vs. Captains
+
+Follow on MiLB First Pitch  https //stza.co/+vN7c-2h
+
+Shop  https //stza.co/+vN7c-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Captains
+END:VALARM
+DTSTART:20180806T230500Z
+DTEND:20180807T020500Z
+UID:np8YV3nq0P-9NV9iicsysBfl@stanza.co
+SUMMARY:Loons vs. Captains
+DESCRIPTION:Loons vs. Captains\n\nFollow on MiLB First Pitch: https://stza.co/+vN7c-2h\n\nShop: https://stza.co/+vN7c-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-08-08 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       uUhCsaaioBaDEBWaEOweyhKf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7X-n
+
+Shop  https //stza.co/+vN7X-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180808T230500Z
+DTEND:20180809T020500Z
+UID:uUhCsaaioBaDEBWaEOweyhKf@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7X-n\n\nShop: https://stza.co/+vN7X-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       NPT8ScXgcHpQDKtY8rAMfVJT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7Y-19
+
+Shop  https //stza.co/+vN7Y-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:NPT8ScXgcHpQDKtY8rAMfVJT@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7Y-19\n\nShop: https://stza.co/+vN7Y-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-08-10 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       jo7dGohoB8EJc_eQevLnJyEF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7Z-2d
+
+Shop  https //stza.co/+vN7Z-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180810T233500Z
+DTEND:20180811T023500Z
+UID:jo7dGohoB8EJc_eQevLnJyEF@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7Z-2d\n\nShop: https://stza.co/+vN7Z-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-08-11 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       XNpYE-AH84yhdtTQV_X00leA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN7d-10
+
+Shop  https //stza.co/+vN7d-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180811T230500Z
+DTEND:20180812T020500Z
+UID:XNpYE-AH84yhdtTQV_X00leA@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN7d-10\n\nShop: https://stza.co/+vN7d-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-08-12 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       5Wl0DNQRApefFexqw9gZUjfZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN7g-2L
+
+Shop  https //stza.co/+vN7g-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180812T180500Z
+DTEND:20180812T210500Z
+UID:5Wl0DNQRApefFexqw9gZUjfZ@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN7g-2L\n\nShop: https://stza.co/+vN7g-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-08-13 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       J0Mn-HJW2m4aoQ_3-V61Xi_R@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN7h-33
+
+Shop  https //stza.co/+vN7h-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180813T230500Z
+DTEND:20180814T020500Z
+UID:J0Mn-HJW2m4aoQ_3-V61Xi_R@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN7h-33\n\nShop: https://stza.co/+vN7h-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Dragons
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       qzuge03sfENXCEUxfZuGljKn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Dragons Loons vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN7k-F
+
+Shop  https //stza.co/+vN7k-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Dragons
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:qzuge03sfENXCEUxfZuGljKn@stanza.co
+SUMMARY:Loons vs. Dragons
+DESCRIPTION:Loons vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN7k-F\n\nShop: https://stza.co/+vN7k-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Hot Rods
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       4a8ASfY89kFrULtVWi9tW0Yk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Hot Rods Loons vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN7l-s
+
+Shop  https //stza.co/+vN7l-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Hot Rods
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:4a8ASfY89kFrULtVWi9tW0Yk@stanza.co
+SUMMARY:Loons vs. Hot Rods
+DESCRIPTION:Loons vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN7l-s\n\nShop: https://stza.co/+vN7l-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Hot Rods
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       1xZ0dQ_ARXUB0k0-b7LtYYnQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Hot Rods Loons vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN7o-2e
+
+Shop  https //stza.co/+vN7o-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Hot Rods
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:1xZ0dQ_ARXUB0k0-b7LtYYnQ@stanza.co
+SUMMARY:Loons vs. Hot Rods
+DESCRIPTION:Loons vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN7o-2e\n\nShop: https://stza.co/+vN7o-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Hot Rods
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       RB3IjT1oYb1pHHUwhnvHZ4pA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Hot Rods Loons vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN7p-2m
+
+Shop  https //stza.co/+vN7p-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Hot Rods
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:RB3IjT1oYb1pHHUwhnvHZ4pA@stanza.co
+SUMMARY:Loons vs. Hot Rods
+DESCRIPTION:Loons vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN7p-2m\n\nShop: https://stza.co/+vN7p-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-08-18 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       CpAeCKqkN3I3TAXgHCFUk4MB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7_-1N
+
+Shop  https //stza.co/+vN7_-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180818T230500Z
+DTEND:20180819T020500Z
+UID:CpAeCKqkN3I3TAXgHCFUk4MB@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7_-1N\n\nShop: https://stza.co/+vN7_-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-08-19 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       O3x1Cq50Tkqx7TCBOKGSoSPg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7$-M
+
+Shop  https //stza.co/+vN7$-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180819T180500Z
+DTEND:20180819T210500Z
+UID:O3x1Cq50Tkqx7TCBOKGSoSPg@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7$-M\n\nShop: https://stza.co/+vN7$-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Cubs
+<2018-08-20 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       a7C8_XrODIqr-Pmlz6eI8rog@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Cubs Loons @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN80-3i
+
+Shop  https //stza.co/+vN80-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Cubs
+END:VALARM
+DTSTART:20180820T230500Z
+DTEND:20180821T020500Z
+UID:a7C8_XrODIqr-Pmlz6eI8rog@stanza.co
+SUMMARY:Loons @ Cubs
+DESCRIPTION:Loons @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN80-3i\n\nShop: https://stza.co/+vN80-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       FbHSOBcJSPVUBk-hok-hQKpS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN7r-3M
+
+Shop  https //stza.co/+vN7r-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:FbHSOBcJSPVUBk-hok-hQKpS@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN7r-3M\n\nShop: https://stza.co/+vN7r-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       scK9zfu64KJaAwyR8mDFAIpe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN7u-14
+
+Shop  https //stza.co/+vN7u-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:scK9zfu64KJaAwyR8mDFAIpe@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN7u-14\n\nShop: https://stza.co/+vN7u-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. TinCaps
+<2018-08-23 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       NMVnJ8jy1-gwA6svdrwO1mmZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. TinCaps Loons vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN7w-27
+
+Shop  https //stza.co/+vN7w-24
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. TinCaps
+END:VALARM
+DTSTART:20180823T230500Z
+DTEND:20180824T020500Z
+UID:NMVnJ8jy1-gwA6svdrwO1mmZ@stanza.co
+SUMMARY:Loons vs. TinCaps
+DESCRIPTION:Loons vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN7w-27\n\nShop: https://stza.co/+vN7w-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       -3DAFwuJgMMCl2nNjvZ0JxZm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN88-G
+
+Shop  https //stza.co/+vN88-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:-3DAFwuJgMMCl2nNjvZ0JxZm@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN88-G\n\nShop: https://stza.co/+vN88-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-08-25 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       SnZoZZzx0wKub4vyBM8QDORv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN89-2r
+
+Shop  https //stza.co/+vN89-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180825T230500Z
+DTEND:20180826T020500Z
+UID:SnZoZZzx0wKub4vyBM8QDORv@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN89-2r\n\nShop: https://stza.co/+vN89-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-08-26 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       fZpXf8TadF_hMn5ugve_gHj9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN8a-35
+
+Shop  https //stza.co/+vN8a-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180826T180000Z
+DTEND:20180826T210000Z
+UID:fZpXf8TadF_hMn5ugve_gHj9@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN8a-35\n\nShop: https://stza.co/+vN8a-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Whitecaps
+<2018-08-27 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       DlzpDPom4hSRmOKG807TRHaJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Whitecaps Loons @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vr8E-H
+
+Shop  https //stza.co/+vr8E-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Whitecaps
+END:VALARM
+DTSTART:20180827T230500Z
+DTEND:20180828T020500Z
+UID:DlzpDPom4hSRmOKG807TRHaJ@stanza.co
+SUMMARY:Loons @ Whitecaps
+DESCRIPTION:Loons @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vr8E-H\n\nShop: https://stza.co/+vr8E-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-08-29 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       -Y7HHiOpxzU_HFWblviTPxqT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7R-y
+
+Shop  https //stza.co/+vN7R-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180829T230500Z
+DTEND:20180830T020500Z
+UID:-Y7HHiOpxzU_HFWblviTPxqT@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7R-y\n\nShop: https://stza.co/+vN7R-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-08-30 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       Sf5f7RzNtnGVF0wwRybigAS5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7S-N
+
+Shop  https //stza.co/+vN7S-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180830T230500Z
+DTEND:20180831T020500Z
+UID:Sf5f7RzNtnGVF0wwRybigAS5@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7S-N\n\nShop: https://stza.co/+vN7S-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons @ Lugnuts
+<2018-08-31 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       0z4S5bYIv9pfEz_1GNR8rolM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons @ Lugnuts Loons @ Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+vN7T-3q
+
+Shop  https //stza.co/+vN7T-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Loons @ Lugnuts
+END:VALARM
+DTSTART:20180831T230500Z
+DTEND:20180901T020500Z
+UID:0z4S5bYIv9pfEz_1GNR8rolM@stanza.co
+SUMMARY:Loons @ Lugnuts
+DESCRIPTION:Loons @ Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+vN7T-3q\n\nShop: https://stza.co/+vN7T-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cubs
+<2018-09-01 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       PRjIy9ZjS4A0WlefEMzvGbHX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cubs Loons vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vN7y-8
+
+Shop  https //stza.co/+vN7y-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cubs
+END:VALARM
+DTSTART:20180901T230500Z
+DTEND:20180902T020500Z
+UID:PRjIy9ZjS4A0WlefEMzvGbHX@stanza.co
+SUMMARY:Loons vs. Cubs
+DESCRIPTION:Loons vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vN7y-8\n\nShop: https://stza.co/+vN7y-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cubs
+<2018-09-02 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       VKPgYvmo-DtWT5SsN_PMf1uf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cubs Loons vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+wSMv-3d
+
+Shop  https //stza.co/+wSMv-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cubs
+END:VALARM
+DTSTART:20180902T180500Z
+DTEND:20180902T210500Z
+UID:VKPgYvmo-DtWT5SsN_PMf1uf@stanza.co
+SUMMARY:Loons vs. Cubs
+DESCRIPTION:Loons vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+wSMv-3d\n\nShop: https://stza.co/+wSMv-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT
+* Loons vs. Cubs
+<2018-09-03 Mon 13:05-16:05>
+:PROPERTIES:
+:ID:       nqSxT9GX6cMOBupZdLEyiDh1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Loons vs. Cubs Loons vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+wSMw-1V
+
+Shop  https //stza.co/+wSMw-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Loons vs. Cubs
+END:VALARM
+DTSTART:20180903T180500Z
+DTEND:20180903T210500Z
+UID:nqSxT9GX6cMOBupZdLEyiDh1@stanza.co
+SUMMARY:Loons vs. Cubs
+DESCRIPTION:Loons vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+wSMw-1V\n\nShop: https://stza.co/+wSMw-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144528Z
+LAST-MODIFIED:20180213T144528Z
+TRANSP:OPAQUE
+END:VEVENT

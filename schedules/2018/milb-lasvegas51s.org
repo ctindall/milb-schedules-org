@@ -1,0 +1,5050 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* 51s vs. Chihuahuas
+<2018-04-05 Thu 21:05>--<2018-04-06 Fri 00:05>
+:PROPERTIES:
+:ID:       -F-wt8Ycw9v0_D7zYUMixEJK@stanza.co
+:LOCATION: Opening Night/Budweiser Dollar Beer Night
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas The 51s will open their 36th season in the Silver State against the El Paso Chihuahuas, Triple-A affiliate of the San Diego Padres, at Cashman Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vKG4-3K
+
+Shop  https //stza.co/+vKG4-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180406T020500Z
+DTEND:20180406T050500Z
+UID:-F-wt8Ycw9v0_D7zYUMixEJK@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:The 51s will open their 36th season in the Silver State against the El Paso Chihuahuas, Triple-A affiliate of the San Diego Padres, at Cashman Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vKG4-3K\n\nShop: https://stza.co/+vKG4-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Opening Night/Budweiser Dollar Beer Night
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Chihuahuas
+<2018-04-06 Fri 21:05>--<2018-04-07 Sat 00:05>
+:PROPERTIES:
+:ID:       DKN7_mV-3zvzKL7X0cLgL4Rm@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field. A spectacular post-game Fireworks Show will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKG6-28
+
+Shop  https //stza.co/+vKG6-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180407T020500Z
+DTEND:20180407T050500Z
+UID:DKN7_mV-3zvzKL7X0cLgL4Rm@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field. A spectacular post-game Fireworks Show will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKG6-28\n\nShop: https://stza.co/+vKG6-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Chihuahuas
+<2018-04-07 Sat 21:05>--<2018-04-08 Sun 00:05>
+:PROPERTIES:
+:ID:       X96OwS6JrF-Uq1i35kEM2aQ5@stanza.co
+:LOCATION: Stars Wars Night & Shirt Giveaway/Girls Scout Night!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vKG8-3S
+
+Shop  https //stza.co/+vKG8-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180408T020500Z
+DTEND:20180408T050500Z
+UID:X96OwS6JrF-Uq1i35kEM2aQ5@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vKG8-3S\n\nShop: https://stza.co/+vKG8-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stars Wars Night & Shirt Giveaway/Girls Scout Night!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Chihuahuas
+<2018-04-08 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       NEG5uY_a53K4HLi8oCNnDZWN@stanza.co
+:LOCATION: Little League Day #1/SUNdays at the Ballpark
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada.  Plus, kids run the bases after the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGa-3p
+
+Shop  https //stza.co/+vKGa-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180408T190500Z
+DTEND:20180408T220500Z
+UID:NEG5uY_a53K4HLi8oCNnDZWN@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada.  Plus, kids run the bases after the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGa-3p\n\nShop: https://stza.co/+vKGa-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Little League Day #1/SUNdays at the Ballpark
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Chihuahuas
+<2018-04-09 Mon 21:05>--<2018-04-10 Tue 00:05>
+:PROPERTIES:
+:ID:       P7-E8_4Ehs7m2Wqp8n_V56h_@stanza.co
+:LOCATION: Smith's Value Menu Monday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field. Discounted food items will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGc-1E
+
+Shop  https //stza.co/+vKGc-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180410T020500Z
+DTEND:20180410T050500Z
+UID:P7-E8_4Ehs7m2Wqp8n_V56h_@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field. Discounted food items will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGc-1E\n\nShop: https://stza.co/+vKGc-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-10 Tue 19:35-22:35>
+:PROPERTIES:
+:ID:       D4MCWOWoZeCICp7Yz9d8Eq7y@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whEP-3C
+
+Shop  https //stza.co/+whEP-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180411T003500Z
+DTEND:20180411T033500Z
+UID:D4MCWOWoZeCICp7Yz9d8Eq7y@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whEP-3C\n\nShop: https://stza.co/+whEP-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-11 Wed 19:35-22:35>
+:PROPERTIES:
+:ID:       Aof6DrMorx1U2TNgwc-Zzo2Z@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whEQ-3a
+
+Shop  https //stza.co/+whEQ-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180412T003500Z
+DTEND:20180412T033500Z
+UID:Aof6DrMorx1U2TNgwc-Zzo2Z@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whEQ-3a\n\nShop: https://stza.co/+whEQ-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-12 Thu 13:05-16:05>
+:PROPERTIES:
+:ID:       jucz8c4ghbBbYBhwgmnsEQg2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whER-c
+
+Shop  https //stza.co/+whER-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180412T180500Z
+DTEND:20180412T210500Z
+UID:jucz8c4ghbBbYBhwgmnsEQg2@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whER-c\n\nShop: https://stza.co/+whER-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-04-13 Fri 20:05-23:05>
+:PROPERTIES:
+:ID:       wFw0_OX-SgJOticqz4sgyrPn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDx-3K
+
+Shop  https //stza.co/+wmDx-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180414T010500Z
+DTEND:20180414T040500Z
+UID:wFw0_OX-SgJOticqz4sgyrPn@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDx-3K\n\nShop: https://stza.co/+wmDx-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-04-14 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       LT8LcM9VWznl8EjOSYGrjhxL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDy-1A
+
+Shop  https //stza.co/+wmDy-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180415T010500Z
+DTEND:20180415T040500Z
+UID:LT8LcM9VWznl8EjOSYGrjhxL@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDy-1A\n\nShop: https://stza.co/+wmDy-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-04-15 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       X_Dyq3suqFgU5ZBhHuk9OU7l@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDz-1x
+
+Shop  https //stza.co/+wmDz-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180415T190500Z
+DTEND:20180415T220500Z
+UID:X_Dyq3suqFgU5ZBhHuk9OU7l@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDz-1x\n\nShop: https://stza.co/+wmDz-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-04-16 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       XcH476F1StzdJ-xd4SwNEIDr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDA-3L
+
+Shop  https //stza.co/+wmDA-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180416T170500Z
+DTEND:20180416T200500Z
+UID:XcH476F1StzdJ-xd4SwNEIDr@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDA-3L\n\nShop: https://stza.co/+wmDA-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-04-17 Tue 21:05>--<2018-04-18 Wed 00:05>
+:PROPERTIES:
+:ID:       o46HhZaZEI9GhgPng3W9cNr2@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. Fresno!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGd-p
+
+Shop  https //stza.co/+vKGd-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180418T020500Z
+DTEND:20180418T050500Z
+UID:o46HhZaZEI9GhgPng3W9cNr2@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGd-p\n\nShop: https://stza.co/+vKGd-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. Fresno!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-04-18 Wed 21:05>--<2018-04-19 Thu 00:05>
+:PROPERTIES:
+:ID:       ZqQjmikYVKdz-jHxvTAxmWSH@stanza.co
+:LOCATION: WestStar Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGg-2l
+
+Shop  https //stza.co/+vKGg-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180419T020500Z
+DTEND:20180419T050500Z
+UID:ZqQjmikYVKdz-jHxvTAxmWSH@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGg-2l\n\nShop: https://stza.co/+vKGg-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:WestStar Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-04-19 Thu 21:05>--<2018-04-20 Fri 00:05>
+:PROPERTIES:
+:ID:       8lTXjMkOvchZhrpzKS0HrI8q@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies The 51s will host the Fresno Grizzlies, Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGi-15
+
+Shop  https //stza.co/+vKGi-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180420T020500Z
+DTEND:20180420T050500Z
+UID:8lTXjMkOvchZhrpzKS0HrI8q@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:The 51s will host the Fresno Grizzlies, Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGi-15\n\nShop: https://stza.co/+vKGi-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-04-20 Fri 21:05>--<2018-04-21 Sat 00:05>
+:PROPERTIES:
+:ID:       yPsBvdOEBmCPD_8Ml-P2DUUe@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies The 51s will host the Fresno Grizzlies,Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field. A post-game Fireworks Show will be presented!
+
+Follow on MiLB First Pitch  https //stza.co/+vKGk-16
+
+Shop  https //stza.co/+vKGk-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180421T020500Z
+DTEND:20180421T050500Z
+UID:yPsBvdOEBmCPD_8Ml-P2DUUe@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:The 51s will host the Fresno Grizzlies,Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field. A post-game Fireworks Show will be presented!\n\nFollow on MiLB First Pitch: https://stza.co/+vKGk-16\n\nShop: https://stza.co/+vKGk-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Chihuahuas
+<2018-04-21 Sat 21:05>--<2018-04-22 Sun 00:05>
+:PROPERTIES:
+:ID:       wA9l1mao0wFG9AmHdA3e9iua@stanza.co
+:LOCATION: Light the Night for LLS - Giveaway/TBA
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGm-2y
+
+Shop  https //stza.co/+vKGm-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180422T020500Z
+DTEND:20180422T050500Z
+UID:wA9l1mao0wFG9AmHdA3e9iua@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:The 51s will host the El Paso Chihuahuas,Triple-A affiliate of the San Diego Padres, at Cashman Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGm-2y\n\nShop: https://stza.co/+vKGm-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Light the Night for LLS - Giveaway/TBA
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Chihuahuas
+<2018-04-22 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       NLsBlwcEa5o12mUY59VX-AWc@stanza.co
+:LOCATION: Little League Day #2/SUNdays at the Ballpark
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGn-22
+
+Shop  https //stza.co/+vKGn-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180422T190500Z
+DTEND:20180422T220500Z
+UID:NLsBlwcEa5o12mUY59VX-AWc@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGn-22\n\nShop: https://stza.co/+vKGn-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Little League Day #2/SUNdays at the Ballpark
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Chihuahuas
+<2018-04-23 Mon 21:05>--<2018-04-24 Tue 00:05>
+:PROPERTIES:
+:ID:       YwBhXZ2-0Y6QW8bytu-FE8Nv@stanza.co
+:LOCATION: Smith's Value Menu Monday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Chihuahuas The 51s will host the El Paso Chihuahuas, Triple-A affiliate of the San Diego Padres, at Cashman Field. Discounted food items will be presented at the ballpark.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGp-3c
+
+Shop  https //stza.co/+vKGp-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Chihuahuas
+END:VALARM
+DTSTART:20180424T020500Z
+DTEND:20180424T050500Z
+UID:YwBhXZ2-0Y6QW8bytu-FE8Nv@stanza.co
+SUMMARY:51s vs. Chihuahuas
+DESCRIPTION:The 51s will host the El Paso Chihuahuas, Triple-A affiliate of the San Diego Padres, at Cashman Field. Discounted food items will be presented at the ballpark.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGp-3c\n\nShop: https://stza.co/+vKGp-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-25 Wed 19:35-22:35>
+:PROPERTIES:
+:ID:       prNJj9XGLU6GkzFYUx-r2QE2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whES-37
+
+Shop  https //stza.co/+whES-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180426T003500Z
+DTEND:20180426T033500Z
+UID:prNJj9XGLU6GkzFYUx-r2QE2@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whES-37\n\nShop: https://stza.co/+whES-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-26 Thu 19:35-22:35>
+:PROPERTIES:
+:ID:       ygiUehAUAPL0He-gR0XmUwA4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whET-3K
+
+Shop  https //stza.co/+whET-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180427T003500Z
+DTEND:20180427T033500Z
+UID:ygiUehAUAPL0He-gR0XmUwA4@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whET-3K\n\nShop: https://stza.co/+whET-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-27 Fri 19:35-22:35>
+:PROPERTIES:
+:ID:       HNE6sI7Af-gc-7A8HN_H6tCB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whEU-N
+
+Shop  https //stza.co/+whEU-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180428T003500Z
+DTEND:20180428T033500Z
+UID:HNE6sI7Af-gc-7A8HN_H6tCB@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whEU-N\n\nShop: https://stza.co/+whEU-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-28 Sat 19:35-22:35>
+:PROPERTIES:
+:ID:       1RT9gS3gjPDq6GiuMxpzE37e@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whEV-E
+
+Shop  https //stza.co/+whEV-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180429T003500Z
+DTEND:20180429T033500Z
+UID:1RT9gS3gjPDq6GiuMxpzE37e@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whEV-E\n\nShop: https://stza.co/+whEV-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Isotopes
+<2018-04-29 Sun 14:35-17:35>
+:PROPERTIES:
+:ID:       c5I8GT8Kstn2aXAfIqSAFXSB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Isotopes 51s @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whEW-2g
+
+Shop  https //stza.co/+whEW-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Isotopes
+END:VALARM
+DTSTART:20180429T193500Z
+DTEND:20180429T223500Z
+UID:c5I8GT8Kstn2aXAfIqSAFXSB@stanza.co
+SUMMARY:51s @ Isotopes
+DESCRIPTION:51s @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whEW-2g\n\nShop: https://stza.co/+whEW-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-04-30 Mon 21:05>--<2018-05-01 Tue 00:05>
+:PROPERTIES:
+:ID:       nu4cUc7aHIvg3rPmiabZRdzY@stanza.co
+:LOCATION: Smith's Value Menu Monday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field. Discounted food items will be featured at the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+vKGr-3g
+
+Shop  https //stza.co/+vKGr-2X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180501T020500Z
+DTEND:20180501T050500Z
+UID:nu4cUc7aHIvg3rPmiabZRdzY@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field. Discounted food items will be featured at the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+vKGr-3g\n\nShop: https://stza.co/+vKGr-2X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-05-01 Tue 12:35-15:35>
+:PROPERTIES:
+:ID:       UQQqu8cjfh4yQmoDab2EdLK0@stanza.co
+:LOCATION: Smokers Strike Out 15th Annual School Day Game (10
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats Las Vegas will host the Sacramento Rivers, Triple-A affiliate of the San Francisco Giants, at Cashman Field.  The Smokers Strike Out 15th Annual School Day Game features a Field Trip for fifth grade students from the Clark County School District. The Tobacco Awareness Program is an important event that takes place prior to the School Day game that serves to educate the young students on the dangers of cigarette smoking.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGu-3w
+
+Shop  https //stza.co/+vKGu-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180501T173500Z
+DTEND:20180501T203500Z
+UID:UQQqu8cjfh4yQmoDab2EdLK0@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:Las Vegas will host the Sacramento Rivers, Triple-A affiliate of the San Francisco Giants, at Cashman Field.  The Smokers Strike Out 15th Annual School Day Game features a Field Trip for fifth grade students from the Clark County School District. The Tobacco Awareness Program is an important event that takes place prior to the School Day game that serves to educate the young students on the dangers of cigarette smoking.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGu-3w\n\nShop: https://stza.co/+vKGu-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smokers Strike Out 15th Annual School Day Game (10:35 a.m.)
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-05-02 Wed 21:05>--<2018-05-03 Thu 00:05>
+:PROPERTIES:
+:ID:       uLcFCO0vjEcnoDvxrUGYYhKi@stanza.co
+:LOCATION: WestStar Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGw-A
+
+Shop  https //stza.co/+vKGw-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180503T020500Z
+DTEND:20180503T050500Z
+UID:uLcFCO0vjEcnoDvxrUGYYhKi@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGw-A\n\nShop: https://stza.co/+vKGw-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:WestStar Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-05-03 Thu 21:05>--<2018-05-04 Fri 00:05>
+:PROPERTIES:
+:ID:       TqwnPXUwU3xasFE4aVoPqk0s@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field. 
+
+Follow on MiLB First Pitch  https //stza.co/+vKGy-10
+
+Shop  https //stza.co/+vKGy-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180504T020500Z
+DTEND:20180504T050500Z
+UID:TqwnPXUwU3xasFE4aVoPqk0s@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field. \n\nFollow on MiLB First Pitch: https://stza.co/+vKGy-10\n\nShop: https://stza.co/+vKGy-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-05-04 Fri 19:35-22:35>
+:PROPERTIES:
+:ID:       JgbLNciU5jvKIa9myqphcFNq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDG-k
+
+Shop  https //stza.co/+wmDG-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180505T003500Z
+DTEND:20180505T033500Z
+UID:JgbLNciU5jvKIa9myqphcFNq@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDG-k\n\nShop: https://stza.co/+wmDG-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-05-05 Sat 19:35-22:35>
+:PROPERTIES:
+:ID:       uQAygtVrLuGMrD1yqIjmJVVV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDH-3q
+
+Shop  https //stza.co/+wmDH-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180506T003500Z
+DTEND:20180506T033500Z
+UID:uQAygtVrLuGMrD1yqIjmJVVV@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDH-3q\n\nShop: https://stza.co/+wmDH-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-05-06 Sun 19:35-22:35>
+:PROPERTIES:
+:ID:       QIEM4qTnfl-DnwXGQERx-qbZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDI-1z
+
+Shop  https //stza.co/+wmDI-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180507T003500Z
+DTEND:20180507T033500Z
+UID:QIEM4qTnfl-DnwXGQERx-qbZ@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDI-1z\n\nShop: https://stza.co/+wmDI-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-05-07 Mon 19:35-22:35>
+:PROPERTIES:
+:ID:       0wtHavdWi0SmuLNpxC1Pb4iM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDJ-2d
+
+Shop  https //stza.co/+wmDJ-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180508T003500Z
+DTEND:20180508T033500Z
+UID:0wtHavdWi0SmuLNpxC1Pb4iM@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDJ-2d\n\nShop: https://stza.co/+wmDJ-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-05-08 Tue 21:05>--<2018-05-09 Wed 00:05>
+:PROPERTIES:
+:ID:       jBLsUyjqD6uq9lTcPNUsqaBZ@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. Fresno!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGA-2d
+
+Shop  https //stza.co/+vKGA-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180509T020500Z
+DTEND:20180509T050500Z
+UID:jBLsUyjqD6uq9lTcPNUsqaBZ@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGA-2d\n\nShop: https://stza.co/+vKGA-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. Fresno!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-05-09 Wed 21:05>--<2018-05-10 Thu 00:05>
+:PROPERTIES:
+:ID:       UVlLDpK6iQwPPG5HE_NFXWV5@stanza.co
+:LOCATION: WestStar Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGB-25
+
+Shop  https //stza.co/+vKGB-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180510T020500Z
+DTEND:20180510T050500Z
+UID:UVlLDpK6iQwPPG5HE_NFXWV5@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGB-25\n\nShop: https://stza.co/+vKGB-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:WestStar Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-05-10 Thu 21:05>--<2018-05-11 Fri 00:05>
+:PROPERTIES:
+:ID:       w7iBvVi8fJevA64fl056krGx@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies The 51s will host the Fresno Grizzlies, Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field. 
+
+Follow on MiLB First Pitch  https //stza.co/+vKGD-3i
+
+Shop  https //stza.co/+vKGD-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180511T020500Z
+DTEND:20180511T050500Z
+UID:w7iBvVi8fJevA64fl056krGx@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:The 51s will host the Fresno Grizzlies, Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field. \n\nFollow on MiLB First Pitch: https://stza.co/+vKGD-3i\n\nShop: https://stza.co/+vKGD-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Grizzlies
+<2018-05-11 Fri 21:05>--<2018-05-12 Sat 00:05>
+:PROPERTIES:
+:ID:       uQsDSC00EKjww1tuSMxU6E1W@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Grizzlies The 51s will host the Fresno Grizzlies, Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field. A spectacular post-game Fireworks Show will be presented!
+
+Follow on MiLB First Pitch  https //stza.co/+vKGF-2X
+
+Shop  https //stza.co/+vKGF-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Grizzlies
+END:VALARM
+DTSTART:20180512T020500Z
+DTEND:20180512T050500Z
+UID:uQsDSC00EKjww1tuSMxU6E1W@stanza.co
+SUMMARY:51s vs. Grizzlies
+DESCRIPTION:The 51s will host the Fresno Grizzlies, Triple-A affiliate of the World Series Champion Houston Astros, at Cashman Field. A spectacular post-game Fireworks Show will be presented!\n\nFollow on MiLB First Pitch: https://stza.co/+vKGF-2X\n\nShop: https://stza.co/+vKGF-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-05-12 Sat 21:05>--<2018-05-13 Sun 00:05>
+:PROPERTIES:
+:ID:       dy-kZrDpq0Ut7SoHVHBoXyS-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes 51s vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+vKGI-2F
+
+Shop  https //stza.co/+vKGI-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180513T020500Z
+DTEND:20180513T050500Z
+UID:dy-kZrDpq0Ut7SoHVHBoXyS-@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:51s vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+vKGI-2F\n\nShop: https://stza.co/+vKGI-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-05-13 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       vkOHvBMNahg1ODIvd_kbPRan@stanza.co
+:LOCATION: SUNdays at the Ballpark
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGJ-1h
+
+Shop  https //stza.co/+vKGJ-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180513T190500Z
+DTEND:20180513T220500Z
+UID:vkOHvBMNahg1ODIvd_kbPRan@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGJ-1h\n\nShop: https://stza.co/+vKGJ-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:SUNdays at the Ballpark
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-05-14 Mon 21:05>--<2018-05-15 Tue 00:05>
+:PROPERTIES:
+:ID:       ZoMN0MAzGEHtSlKjQ7-iLR2p@stanza.co
+:LOCATION: Smith's Value Menu Monday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes The 51s will host the Albuquerque Isotopes, Triple-A affiliate of the Colorado Rockies, at Cashman Field. Discounted food items will be presented at the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+vKGM-24
+
+Shop  https //stza.co/+vKGM-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180515T020500Z
+DTEND:20180515T050500Z
+UID:ZoMN0MAzGEHtSlKjQ7-iLR2p@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:The 51s will host the Albuquerque Isotopes, Triple-A affiliate of the Colorado Rockies, at Cashman Field. Discounted food items will be presented at the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+vKGM-24\n\nShop: https://stza.co/+vKGM-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-05-15 Tue 21:05>--<2018-05-16 Wed 00:05>
+:PROPERTIES:
+:ID:       pT6qzLbjmbz1RAzggzmfpOJD@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. Albuquerque!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGN-1
+
+Shop  https //stza.co/+vKGN-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180516T020500Z
+DTEND:20180516T050500Z
+UID:pT6qzLbjmbz1RAzggzmfpOJD@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGN-1\n\nShop: https://stza.co/+vKGN-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. Albuquerque!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-05-17 Thu 21:05>--<2018-05-18 Fri 00:05>
+:PROPERTIES:
+:ID:       eMulhpAAUbcbRgm2c3C5wN6Z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBI-3i
+
+Shop  https //stza.co/+wjBI-2u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180518T020500Z
+DTEND:20180518T050500Z
+UID:eMulhpAAUbcbRgm2c3C5wN6Z@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBI-3i\n\nShop: https://stza.co/+wjBI-2u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-05-18 Fri 21:05>--<2018-05-19 Sat 00:05>
+:PROPERTIES:
+:ID:       sRoezbXYHXzJAC3Jhy8PxQCJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBJ-3B
+
+Shop  https //stza.co/+wjBJ-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180519T020500Z
+DTEND:20180519T050500Z
+UID:sRoezbXYHXzJAC3Jhy8PxQCJ@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBJ-3B\n\nShop: https://stza.co/+wjBJ-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-05-19 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       Xj0nycJ_ysvjUfaoeepT-4T6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBK-1B
+
+Shop  https //stza.co/+wjBK-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180520T000500Z
+DTEND:20180520T030500Z
+UID:Xj0nycJ_ysvjUfaoeepT-4T6@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBK-1B\n\nShop: https://stza.co/+wjBK-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-05-20 Sun 15:35-18:35>
+:PROPERTIES:
+:ID:       qq1mkaAbl8PESPW4KyetSp7b@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBL-3a
+
+Shop  https //stza.co/+wjBL-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180520T203500Z
+DTEND:20180520T233500Z
+UID:qq1mkaAbl8PESPW4KyetSp7b@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBL-3a\n\nShop: https://stza.co/+wjBL-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-05-21 Mon 21:05>--<2018-05-22 Tue 00:05>
+:PROPERTIES:
+:ID:       _X4DaBD1ue7Rfq5EdD8T7W58@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBy-k
+
+Shop  https //stza.co/+wjBy-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180522T020500Z
+DTEND:20180522T050500Z
+UID:_X4DaBD1ue7Rfq5EdD8T7W58@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBy-k\n\nShop: https://stza.co/+wjBy-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-05-22 Tue 21:05>--<2018-05-23 Wed 00:05>
+:PROPERTIES:
+:ID:       5SD8y36h1_80gXAavI3gugZB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBz-J
+
+Shop  https //stza.co/+wjBz-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180523T020500Z
+DTEND:20180523T050500Z
+UID:5SD8y36h1_80gXAavI3gugZB@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBz-J\n\nShop: https://stza.co/+wjBz-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-05-23 Wed 21:05>--<2018-05-24 Thu 00:05>
+:PROPERTIES:
+:ID:       zumRo7vJCiy6jAqp8kum3-YD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBA-2m
+
+Shop  https //stza.co/+wjBA-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180524T020500Z
+DTEND:20180524T050500Z
+UID:zumRo7vJCiy6jAqp8kum3-YD@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBA-2m\n\nShop: https://stza.co/+wjBA-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-05-24 Thu 21:05>--<2018-05-25 Fri 00:05>
+:PROPERTIES:
+:ID:       zV_1EncnQe6eDKVa0FWJ8k5B@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBB-2N
+
+Shop  https //stza.co/+wjBB-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180525T020500Z
+DTEND:20180525T050500Z
+UID:zV_1EncnQe6eDKVa0FWJ8k5B@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBB-2N\n\nShop: https://stza.co/+wjBB-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-05-25 Fri 21:05>--<2018-05-26 Sat 00:05>
+:PROPERTIES:
+:ID:       Pe5FiykWparcDk-q3KpzAipf@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers The 51s will host the Tacoma Rainiers,Triple-A affiliate of the Seattle Mariners, at Cashman Field. A spectacular post-game Fireworks Show will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGP-1e
+
+Shop  https //stza.co/+vKGP-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180526T020500Z
+DTEND:20180526T050500Z
+UID:Pe5FiykWparcDk-q3KpzAipf@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:The 51s will host the Tacoma Rainiers,Triple-A affiliate of the Seattle Mariners, at Cashman Field. A spectacular post-game Fireworks Show will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGP-1e\n\nShop: https://stza.co/+vKGP-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-05-26 Sat 21:05>--<2018-05-27 Sun 00:05>
+:PROPERTIES:
+:ID:       aYRbHERddg9UQMHo9iREzrD9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers 51s vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+vKGS-1M
+
+Shop  https //stza.co/+vKGS-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180527T020500Z
+DTEND:20180527T050500Z
+UID:aYRbHERddg9UQMHo9iREzrD9@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:51s vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+vKGS-1M\n\nShop: https://stza.co/+vKGS-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-05-27 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       Nrx5Oa33W_KEpDKc_pgRe_6g@stanza.co
+:LOCATION: SUNdays at the Ballpark
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGU-2v
+
+Shop  https //stza.co/+vKGU-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180527T190500Z
+DTEND:20180527T220500Z
+UID:Nrx5Oa33W_KEpDKc_pgRe_6g@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGU-2v\n\nShop: https://stza.co/+vKGU-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:SUNdays at the Ballpark
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-05-28 Mon 21:05>--<2018-05-29 Tue 00:05>
+:PROPERTIES:
+:ID:       n577Kz_hTwJd42Gwcz6fCLMM@stanza.co
+:LOCATION: Smith's Value Menu Monday on Memorial Day at 7
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers The 51s will host the Tacoma Rainiers,Triple-A affiliate of the Seattle Mariners, at Cashman Field. Discounted food items will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGW-34
+
+Shop  https //stza.co/+vKGW-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180529T020500Z
+DTEND:20180529T050500Z
+UID:n577Kz_hTwJd42Gwcz6fCLMM@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:The 51s will host the Tacoma Rainiers,Triple-A affiliate of the Seattle Mariners, at Cashman Field. Discounted food items will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGW-34\n\nShop: https://stza.co/+vKGW-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday on Memorial Day at 7:05 p.m.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-05-29 Tue 14:05-17:05>
+:PROPERTIES:
+:ID:       IfTm7sr73TORypqkPisot7zv@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. Tacoma! at 12
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKGY-29
+
+Shop  https //stza.co/+vKGY-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180529T190500Z
+DTEND:20180529T220500Z
+UID:IfTm7sr73TORypqkPisot7zv@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKGY-29\n\nShop: https://stza.co/+vKGY-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. Tacoma! at 12:05 p.m.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-05-30 Wed 21:05>--<2018-05-31 Thu 00:05>
+:PROPERTIES:
+:ID:       jbLX3dyX3Hatijl2RoZdGz1C@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBp-1Y
+
+Shop  https //stza.co/+wjBp-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180531T020500Z
+DTEND:20180531T050500Z
+UID:jbLX3dyX3Hatijl2RoZdGz1C@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBp-1Y\n\nShop: https://stza.co/+wjBp-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-05-31 Thu 21:05>--<2018-06-01 Fri 00:05>
+:PROPERTIES:
+:ID:       _23Tz2gTbVXBjZgei-DcYYER@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBq-37
+
+Shop  https //stza.co/+wjBq-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180601T020500Z
+DTEND:20180601T050500Z
+UID:_23Tz2gTbVXBjZgei-DcYYER@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBq-37\n\nShop: https://stza.co/+wjBq-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-06-01 Fri 21:05>--<2018-06-02 Sat 00:05>
+:PROPERTIES:
+:ID:       c2Bsnc923sVhGEaMltBSDZBV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBr-34
+
+Shop  https //stza.co/+wjBr-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180602T020500Z
+DTEND:20180602T050500Z
+UID:c2Bsnc923sVhGEaMltBSDZBV@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBr-34\n\nShop: https://stza.co/+wjBr-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-06-02 Sat 21:05>--<2018-06-03 Sun 00:05>
+:PROPERTIES:
+:ID:       896xG212cPrg9XtzJYqvM2_A@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBs-15
+
+Shop  https //stza.co/+wjBs-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180603T020500Z
+DTEND:20180603T050500Z
+UID:896xG212cPrg9XtzJYqvM2_A@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBs-15\n\nShop: https://stza.co/+wjBs-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-06-03 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       pEGponCi2pNojS0BFkCzegnV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBu-A
+
+Shop  https //stza.co/+wjBu-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180603T200500Z
+DTEND:20180603T230500Z
+UID:pEGponCi2pNojS0BFkCzegnV@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBu-A\n\nShop: https://stza.co/+wjBu-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Baby Cakes
+<2018-06-05 Tue 21:05>--<2018-06-06 Wed 00:05>
+:PROPERTIES:
+:ID:       WTRrPAicAUT9xTAIhApfM7z7@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. New Orleans!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Baby Cakes Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKG_-2y
+
+Shop  https //stza.co/+vKG_-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Baby Cakes
+END:VALARM
+DTSTART:20180606T020500Z
+DTEND:20180606T050500Z
+UID:WTRrPAicAUT9xTAIhApfM7z7@stanza.co
+SUMMARY:51s vs. Baby Cakes
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKG_-2y\n\nShop: https://stza.co/+vKG_-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. New Orleans!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Baby Cakes
+<2018-06-06 Wed 21:05>--<2018-06-07 Thu 00:05>
+:PROPERTIES:
+:ID:       CKgkZ6U4GqVtSX-V77gP0buP@stanza.co
+:LOCATION: WestStar Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Baby Cakes If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKH0-1K
+
+Shop  https //stza.co/+vKH0-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Baby Cakes
+END:VALARM
+DTSTART:20180607T020500Z
+DTEND:20180607T050500Z
+UID:CKgkZ6U4GqVtSX-V77gP0buP@stanza.co
+SUMMARY:51s vs. Baby Cakes
+DESCRIPTION:If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKH0-1K\n\nShop: https://stza.co/+vKH0-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:WestStar Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Baby Cakes
+<2018-06-07 Thu 21:05>--<2018-06-08 Fri 00:05>
+:PROPERTIES:
+:ID:       Uvq_P5javNqoTbLYnjXVdn-7@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Baby Cakes The 51s will host the New Orleans Baby Cakes, Triple-A affiliate of the Miami Marlins, at Cashman Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vKH2-19
+
+Shop  https //stza.co/+vKH2-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Baby Cakes
+END:VALARM
+DTSTART:20180608T020500Z
+DTEND:20180608T050500Z
+UID:Uvq_P5javNqoTbLYnjXVdn-7@stanza.co
+SUMMARY:51s vs. Baby Cakes
+DESCRIPTION:The 51s will host the New Orleans Baby Cakes, Triple-A affiliate of the Miami Marlins, at Cashman Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vKH2-19\n\nShop: https://stza.co/+vKH2-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Express
+<2018-06-08 Fri 21:05>--<2018-06-09 Sat 00:05>
+:PROPERTIES:
+:ID:       FInDJyr4EhNOD6aKfh34WooH@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Express The 51s will host the Round Rock Express,Triple-A affiliate of the Texas Rangers, at Cashman Field. A spectacular post-game Fireworks Show will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKH3-9
+
+Shop  https //stza.co/+vKH3-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Express
+END:VALARM
+DTSTART:20180609T020500Z
+DTEND:20180609T050500Z
+UID:FInDJyr4EhNOD6aKfh34WooH@stanza.co
+SUMMARY:51s vs. Express
+DESCRIPTION:The 51s will host the Round Rock Express,Triple-A affiliate of the Texas Rangers, at Cashman Field. A spectacular post-game Fireworks Show will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKH3-9\n\nShop: https://stza.co/+vKH3-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Express
+<2018-06-09 Sat 21:05>--<2018-06-10 Sun 00:05>
+:PROPERTIES:
+:ID:       RfoIOsikfUfQISIu1-LxXryy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Express 51s vs. Express
+
+Follow on MiLB First Pitch  https //stza.co/+vKH5-12
+
+Shop  https //stza.co/+vKH5-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Express
+END:VALARM
+DTSTART:20180610T020500Z
+DTEND:20180610T050500Z
+UID:RfoIOsikfUfQISIu1-LxXryy@stanza.co
+SUMMARY:51s vs. Express
+DESCRIPTION:51s vs. Express\n\nFollow on MiLB First Pitch: https://stza.co/+vKH5-12\n\nShop: https://stza.co/+vKH5-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Express
+<2018-06-10 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       AddbKZkuneOD0x9VMC50ZF7G@stanza.co
+:LOCATION: SUNdays at the Ballpark
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Express Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKH8-v
+
+Shop  https //stza.co/+vKH8-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Express
+END:VALARM
+DTSTART:20180610T190500Z
+DTEND:20180610T220500Z
+UID:AddbKZkuneOD0x9VMC50ZF7G@stanza.co
+SUMMARY:51s vs. Express
+DESCRIPTION:Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKH8-v\n\nShop: https://stza.co/+vKH8-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:SUNdays at the Ballpark
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Express
+<2018-06-11 Mon 21:05>--<2018-06-12 Tue 00:05>
+:PROPERTIES:
+:ID:       dykKeVhDmFbHxUsedR1qgoa2@stanza.co
+:LOCATION: Smith's Value Menu Monday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Express The 51s will host the Round Rock Express,Triple-A affiliate of the Texas Rangers, at Cashman Field. Discounted food items will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKH9-W
+
+Shop  https //stza.co/+vKH9-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Express
+END:VALARM
+DTSTART:20180612T020500Z
+DTEND:20180612T050500Z
+UID:dykKeVhDmFbHxUsedR1qgoa2@stanza.co
+SUMMARY:51s vs. Express
+DESCRIPTION:The 51s will host the Round Rock Express,Triple-A affiliate of the Texas Rangers, at Cashman Field. Discounted food items will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKH9-W\n\nShop: https://stza.co/+vKH9-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Sky Sox
+<2018-06-13 Wed 19:40-22:40>
+:PROPERTIES:
+:ID:       ov0NwCPKDqtBnj5bshZKWBYN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Sky Sox 51s @ Sky Sox
+
+Follow on MiLB First Pitch  https //stza.co/+wmDu-2M
+
+Shop  https //stza.co/+wmDu-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Sky Sox
+END:VALARM
+DTSTART:20180614T004000Z
+DTEND:20180614T034000Z
+UID:ov0NwCPKDqtBnj5bshZKWBYN@stanza.co
+SUMMARY:51s @ Sky Sox
+DESCRIPTION:51s @ Sky Sox\n\nFollow on MiLB First Pitch: https://stza.co/+wmDu-2M\n\nShop: https://stza.co/+wmDu-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Sky Sox
+<2018-06-14 Thu 19:40-22:40>
+:PROPERTIES:
+:ID:       r08_gKzqOkHJSZKchs2_D7kl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Sky Sox 51s @ Sky Sox
+
+Follow on MiLB First Pitch  https //stza.co/+wmDv-H
+
+Shop  https //stza.co/+wmDv-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Sky Sox
+END:VALARM
+DTSTART:20180615T004000Z
+DTEND:20180615T034000Z
+UID:r08_gKzqOkHJSZKchs2_D7kl@stanza.co
+SUMMARY:51s @ Sky Sox
+DESCRIPTION:51s @ Sky Sox\n\nFollow on MiLB First Pitch: https://stza.co/+wmDv-H\n\nShop: https://stza.co/+wmDv-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Sky Sox
+<2018-06-15 Fri 19:40-22:40>
+:PROPERTIES:
+:ID:       swIcVDHztdkaJ7Oe5NQb2_-L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Sky Sox 51s @ Sky Sox
+
+Follow on MiLB First Pitch  https //stza.co/+wmDw-3l
+
+Shop  https //stza.co/+wmDw-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Sky Sox
+END:VALARM
+DTSTART:20180616T004000Z
+DTEND:20180616T034000Z
+UID:swIcVDHztdkaJ7Oe5NQb2_-L@stanza.co
+SUMMARY:51s @ Sky Sox
+DESCRIPTION:51s @ Sky Sox\n\nFollow on MiLB First Pitch: https://stza.co/+wmDw-3l\n\nShop: https://stza.co/+wmDw-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Dodgers
+<2018-06-16 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       sAJ2mCEIMLjQIoguJZcFqXNG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Dodgers 51s @ Dodgers
+
+Follow on MiLB First Pitch  https //stza.co/+v$Mp-D
+
+Shop  https //stza.co/+v$Mp-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Dodgers
+END:VALARM
+DTSTART:20180617T000500Z
+DTEND:20180617T030500Z
+UID:sAJ2mCEIMLjQIoguJZcFqXNG@stanza.co
+SUMMARY:51s @ Dodgers
+DESCRIPTION:51s @ Dodgers\n\nFollow on MiLB First Pitch: https://stza.co/+v$Mp-D\n\nShop: https://stza.co/+v$Mp-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Dodgers
+<2018-06-17 Sun 18:05-21:05>
+:PROPERTIES:
+:ID:       1cHPpR5OqmDc7-zeT8ke30ao@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Dodgers 51s @ Dodgers
+
+Follow on MiLB First Pitch  https //stza.co/+v$Mq-1v
+
+Shop  https //stza.co/+v$Mq-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Dodgers
+END:VALARM
+DTSTART:20180617T230500Z
+DTEND:20180618T020500Z
+UID:1cHPpR5OqmDc7-zeT8ke30ao@stanza.co
+SUMMARY:51s @ Dodgers
+DESCRIPTION:51s @ Dodgers\n\nFollow on MiLB First Pitch: https://stza.co/+v$Mq-1v\n\nShop: https://stza.co/+v$Mq-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Dodgers
+<2018-06-18 Mon 19:05-22:05>
+:PROPERTIES:
+:ID:       qx2p-1EbQ5XJwA06g97LJfg_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Dodgers 51s @ Dodgers
+
+Follow on MiLB First Pitch  https //stza.co/+v$Mr-2h
+
+Shop  https //stza.co/+v$Mr-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Dodgers
+END:VALARM
+DTSTART:20180619T000500Z
+DTEND:20180619T030500Z
+UID:qx2p-1EbQ5XJwA06g97LJfg_@stanza.co
+SUMMARY:51s @ Dodgers
+DESCRIPTION:51s @ Dodgers\n\nFollow on MiLB First Pitch: https://stza.co/+v$Mr-2h\n\nShop: https://stza.co/+v$Mr-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Dodgers
+<2018-06-19 Tue 11:05-14:05>
+:PROPERTIES:
+:ID:       bJjEbErvVU3vXneG1oXMEdTv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Dodgers 51s @ Dodgers
+
+Follow on MiLB First Pitch  https //stza.co/+v$Ms-30
+
+Shop  https //stza.co/+v$Ms-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Dodgers
+END:VALARM
+DTSTART:20180619T160500Z
+DTEND:20180619T190500Z
+UID:bJjEbErvVU3vXneG1oXMEdTv@stanza.co
+SUMMARY:51s @ Dodgers
+DESCRIPTION:51s @ Dodgers\n\nFollow on MiLB First Pitch: https://stza.co/+v$Ms-30\n\nShop: https://stza.co/+v$Ms-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-06-21 Thu 21:05>--<2018-06-22 Fri 00:05>
+:PROPERTIES:
+:ID:       YQpvPpBtZcmLL2NqK0Npnxem@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces The 51s will host intrastate rival, the Reno Aces Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHc-3h
+
+Shop  https //stza.co/+vKHc-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180622T020500Z
+DTEND:20180622T050500Z
+UID:YQpvPpBtZcmLL2NqK0Npnxem@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:The 51s will host intrastate rival, the Reno Aces Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHc-3h\n\nShop: https://stza.co/+vKHc-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-06-22 Fri 21:05>--<2018-06-23 Sat 00:05>
+:PROPERTIES:
+:ID:       q4mg4HNf5jemMFXrdonD36gk@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces The 51s will host intrastate rival, the Reno Aces,Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field. A spectacular post-game Fireworks Show will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHe-g
+
+Shop  https //stza.co/+vKHe-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180623T020500Z
+DTEND:20180623T050500Z
+UID:q4mg4HNf5jemMFXrdonD36gk@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:The 51s will host intrastate rival, the Reno Aces,Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field. A spectacular post-game Fireworks Show will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHe-g\n\nShop: https://stza.co/+vKHe-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-06-23 Sat 21:05>--<2018-06-24 Sun 00:05>
+:PROPERTIES:
+:ID:       hgXZxwknFN1FdmoP7NmNLV8Z@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces 51s vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+vKHf-7
+
+Shop  https //stza.co/+vKHf-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180624T020500Z
+DTEND:20180624T050500Z
+UID:hgXZxwknFN1FdmoP7NmNLV8Z@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:51s vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+vKHf-7\n\nShop: https://stza.co/+vKHf-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-06-24 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       fWbWeRlQulBixDroEwKgjzdR@stanza.co
+:LOCATION: SUNdays at the Ballpark
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHh-1r
+
+Shop  https //stza.co/+vKHh-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180624T190500Z
+DTEND:20180624T220500Z
+UID:fWbWeRlQulBixDroEwKgjzdR@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:Stay sun safe on Sundays with FREE sunscreen on the Cashman Field concourse, compliments of Comprehensive Cancer Centers of Nevada. Plus, kids run the bases after the game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHh-1r\n\nShop: https://stza.co/+vKHh-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:SUNdays at the Ballpark
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-06-25 Mon 20:05-23:05>
+:PROPERTIES:
+:ID:       n7lME7zY6DN4wl-QC6_ylqtq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBM-30
+
+Shop  https //stza.co/+wjBM-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180626T010500Z
+DTEND:20180626T040500Z
+UID:n7lME7zY6DN4wl-QC6_ylqtq@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBM-30\n\nShop: https://stza.co/+wjBM-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-06-26 Tue 20:05-23:05>
+:PROPERTIES:
+:ID:       2U3udXUawF-czZoO8_ZRxX-v@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBO-26
+
+Shop  https //stza.co/+wjBO-1F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180627T010500Z
+DTEND:20180627T040500Z
+UID:2U3udXUawF-czZoO8_ZRxX-v@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBO-26\n\nShop: https://stza.co/+wjBO-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-06-27 Wed 13:35-16:35>
+:PROPERTIES:
+:ID:       0r7sdFoNCwfHuo-fhlzLhHGx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBP-1h
+
+Shop  https //stza.co/+wjBP-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180627T183500Z
+DTEND:20180627T213500Z
+UID:0r7sdFoNCwfHuo-fhlzLhHGx@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBP-1h\n\nShop: https://stza.co/+wjBP-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Rainiers
+<2018-06-28 Thu 21:05>--<2018-06-29 Fri 00:05>
+:PROPERTIES:
+:ID:       i06Lvw0GJLcw4-mzpWBNtRJH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Rainiers 51s @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjBQ-r
+
+Shop  https //stza.co/+wjBQ-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Rainiers
+END:VALARM
+DTSTART:20180629T020500Z
+DTEND:20180629T050500Z
+UID:i06Lvw0GJLcw4-mzpWBNtRJH@stanza.co
+SUMMARY:51s @ Rainiers
+DESCRIPTION:51s @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjBQ-r\n\nShop: https://stza.co/+wjBQ-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-06-29 Fri 21:05>--<2018-06-30 Sat 00:05>
+:PROPERTIES:
+:ID:       hlNn1h-_3GsEwV0Yl-SLcC0M@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees The 51s will host the Salt Lake Bees,Triple-A affiliate of the Los Angeles Angels, at Cashman Field. A post-game Fireworks Show will be presented!
+
+Follow on MiLB First Pitch  https //stza.co/+vKHk-2T
+
+Shop  https //stza.co/+vKHk-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180630T020500Z
+DTEND:20180630T050500Z
+UID:hlNn1h-_3GsEwV0Yl-SLcC0M@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:The 51s will host the Salt Lake Bees,Triple-A affiliate of the Los Angeles Angels, at Cashman Field. A post-game Fireworks Show will be presented!\n\nFollow on MiLB First Pitch: https://stza.co/+vKHk-2T\n\nShop: https://stza.co/+vKHk-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-06-30 Sat 21:05>--<2018-07-01 Sun 00:05>
+:PROPERTIES:
+:ID:       vUtVy3LdY3DCRP_zvZTaMyAR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees 51s vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vKHm-3k
+
+Shop  https //stza.co/+vKHm-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180701T020500Z
+DTEND:20180701T050500Z
+UID:vUtVy3LdY3DCRP_zvZTaMyAR@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:51s vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vKHm-3k\n\nShop: https://stza.co/+vKHm-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-07-01 Sun 21:05>--<2018-07-02 Mon 00:05>
+:PROPERTIES:
+:ID:       gVxw-_LjHNNHEJYeBBjNgulY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees 51s vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+vKHn-3l
+
+Shop  https //stza.co/+vKHn-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180702T020500Z
+DTEND:20180702T050500Z
+UID:gVxw-_LjHNNHEJYeBBjNgulY@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:51s vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+vKHn-3l\n\nShop: https://stza.co/+vKHn-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-07-02 Mon 21:05>--<2018-07-03 Tue 00:05>
+:PROPERTIES:
+:ID:       AD1kP8WuBRNUHoaAXpQmgzl2@stanza.co
+:LOCATION: Smith's Value Menu Monday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees The 51s will host the Salt Lake Bees, Triple-A affiliate of the Los Angeles Angels, at Cashman Field. Discounted food items will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHp-3q
+
+Shop  https //stza.co/+vKHp-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180703T020500Z
+DTEND:20180703T050500Z
+UID:AD1kP8WuBRNUHoaAXpQmgzl2@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:The 51s will host the Salt Lake Bees, Triple-A affiliate of the Los Angeles Angels, at Cashman Field. Discounted food items will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHp-3q\n\nShop: https://stza.co/+vKHp-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-07-03 Tue 21:05>--<2018-07-04 Wed 00:05>
+:PROPERTIES:
+:ID:       pHYu-ZmplhnYWS3b6jVIEJg0@stanza.co
+:LOCATION: Fireworks Extravaganza!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees The 51s will host the Salt Lake Bees, Triple-A affiliate of the Los Angeles Angels, at Cashman Field. The Las Vegas franchise will present the traditional FIREWORKS EXTRAVAGANZA! The best firework show in Las Vegas!
+
+Follow on MiLB First Pitch  https //stza.co/+vKHs-21
+
+Shop  https //stza.co/+vKHs-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180704T020500Z
+DTEND:20180704T050500Z
+UID:pHYu-ZmplhnYWS3b6jVIEJg0@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:The 51s will host the Salt Lake Bees, Triple-A affiliate of the Los Angeles Angels, at Cashman Field. The Las Vegas franchise will present the traditional FIREWORKS EXTRAVAGANZA! The best firework show in Las Vegas!\n\nFollow on MiLB First Pitch: https://stza.co/+vKHs-21\n\nShop: https://stza.co/+vKHs-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Fireworks Extravaganza!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-07-04 Wed 20:35-23:35>
+:PROPERTIES:
+:ID:       Dx68yWfVzOQcgfZ31cpIwYw1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjBg-1s
+
+Shop  https //stza.co/+wjBg-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART:20180705T013500Z
+DTEND:20180705T043500Z
+UID:Dx68yWfVzOQcgfZ31cpIwYw1@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjBg-1s\n\nShop: https://stza.co/+wjBg-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-07-05 Thu 21:05>--<2018-07-06 Fri 00:05>
+:PROPERTIES:
+:ID:       73ZkJBIZhjeImZbcIuPBwARQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjBi-1x
+
+Shop  https //stza.co/+wjBi-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART:20180706T020500Z
+DTEND:20180706T050500Z
+UID:73ZkJBIZhjeImZbcIuPBwARQ@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjBi-1x\n\nShop: https://stza.co/+wjBi-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-07-06 Fri 21:05>--<2018-07-07 Sat 00:05>
+:PROPERTIES:
+:ID:       IlZa1jj_KcAf5EpVt9AfG7O8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjBj-19
+
+Shop  https //stza.co/+wjBj-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART:20180707T020500Z
+DTEND:20180707T050500Z
+UID:IlZa1jj_KcAf5EpVt9AfG7O8@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjBj-19\n\nShop: https://stza.co/+wjBj-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       A-0OYrEapkSoxm6wFg2gPIVO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+vKFX-3K
+
+Shop  https //stza.co/+vKFX-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:A-0OYrEapkSoxm6wFg2gPIVO@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+vKFX-3K\n\nShop: https://stza.co/+vKFX-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-07-07 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       UmQ5lbfewRJ865JrE52MRQ3A@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjBk-3l
+
+Shop  https //stza.co/+wjBk-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART:20180708T000500Z
+DTEND:20180708T030500Z
+UID:UmQ5lbfewRJ865JrE52MRQ3A@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjBk-3l\n\nShop: https://stza.co/+wjBk-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-07-12 Thu 21:05>--<2018-07-13 Fri 00:05>
+:PROPERTIES:
+:ID:       J1f-ZeRl5YF22SxPtCgUD6XT@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes The 51s will host the Albuquerque Isotopes, Triple-A affiliate of the Colorado Rockies, at Cashman Field. 
+
+Follow on MiLB First Pitch  https //stza.co/+vKHu-2q
+
+Shop  https //stza.co/+vKHu-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180713T020500Z
+DTEND:20180713T050500Z
+UID:J1f-ZeRl5YF22SxPtCgUD6XT@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:The 51s will host the Albuquerque Isotopes, Triple-A affiliate of the Colorado Rockies, at Cashman Field. \n\nFollow on MiLB First Pitch: https://stza.co/+vKHu-2q\n\nShop: https://stza.co/+vKHu-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-07-13 Fri 21:05>--<2018-07-14 Sat 00:05>
+:PROPERTIES:
+:ID:       FPnCeV_rcV_EsAqmpI4DQ_-b@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes The 51s will host the Albuquerque Isotopes, Triple-A affiliate of the Colorado Rockies, at Cashman Field. A spectacular post-game Fireworks Show will be presented!
+
+Follow on MiLB First Pitch  https //stza.co/+vKHv-2u
+
+Shop  https //stza.co/+vKHv-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180714T020500Z
+DTEND:20180714T050500Z
+UID:FPnCeV_rcV_EsAqmpI4DQ_-b@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:The 51s will host the Albuquerque Isotopes, Triple-A affiliate of the Colorado Rockies, at Cashman Field. A spectacular post-game Fireworks Show will be presented!\n\nFollow on MiLB First Pitch: https://stza.co/+vKHv-2u\n\nShop: https://stza.co/+vKHv-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-07-14 Sat 21:05>--<2018-07-15 Sun 00:05>
+:PROPERTIES:
+:ID:       4mez4gjBNwXxxUvE3Yh7Nrv7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes 51s vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+vKHy-31
+
+Shop  https //stza.co/+vKHy-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180715T020500Z
+DTEND:20180715T050500Z
+UID:4mez4gjBNwXxxUvE3Yh7Nrv7@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:51s vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+vKHy-31\n\nShop: https://stza.co/+vKHy-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Isotopes
+<2018-07-15 Sun 21:05>--<2018-07-16 Mon 00:05>
+:PROPERTIES:
+:ID:       askM-ruRcyLd67Ei3WckP8pn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Isotopes 51s vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+vKHz-3u
+
+Shop  https //stza.co/+vKHz-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Isotopes
+END:VALARM
+DTSTART:20180716T020500Z
+DTEND:20180716T050500Z
+UID:askM-ruRcyLd67Ei3WckP8pn@stanza.co
+SUMMARY:51s vs. Isotopes
+DESCRIPTION:51s vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+vKHz-3u\n\nShop: https://stza.co/+vKHz-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-07-16 Mon 20:05-23:05>
+:PROPERTIES:
+:ID:       w4pnMslRHYRxBCAnI-sCmR22@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDK-3_
+
+Shop  https //stza.co/+wmDK-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180717T010500Z
+DTEND:20180717T040500Z
+UID:w4pnMslRHYRxBCAnI-sCmR22@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDK-3_\n\nShop: https://stza.co/+wmDK-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-07-17 Tue 20:05-23:05>
+:PROPERTIES:
+:ID:       YH8NQdgyb1OM1eanFupDsno8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDL-2l
+
+Shop  https //stza.co/+wmDL-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180718T010500Z
+DTEND:20180718T040500Z
+UID:YH8NQdgyb1OM1eanFupDsno8@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDL-2l\n\nShop: https://stza.co/+wmDL-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-07-18 Wed 20:05-23:05>
+:PROPERTIES:
+:ID:       oeQcpE_J7HJeZXH_vEDPvAUy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDM-11
+
+Shop  https //stza.co/+wmDM-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180719T010500Z
+DTEND:20180719T040500Z
+UID:oeQcpE_J7HJeZXH_vEDPvAUy@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDM-11\n\nShop: https://stza.co/+wmDM-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Bees
+<2018-07-19 Thu 20:05-23:05>
+:PROPERTIES:
+:ID:       uOOfagl4lL3N9Uyf8ukYg5t1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Bees 51s @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmDN-1M
+
+Shop  https //stza.co/+wmDN-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Bees
+END:VALARM
+DTSTART:20180720T010500Z
+DTEND:20180720T040500Z
+UID:uOOfagl4lL3N9Uyf8ukYg5t1@stanza.co
+SUMMARY:51s @ Bees
+DESCRIPTION:51s @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmDN-1M\n\nShop: https://stza.co/+wmDN-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-07-20 Fri 21:05>--<2018-07-21 Sat 00:05>
+:PROPERTIES:
+:ID:       QeuDzxEWWlWwKAcA4b5fOYAb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBv-3T
+
+Shop  https //stza.co/+wjBv-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180721T020500Z
+DTEND:20180721T050500Z
+UID:QeuDzxEWWlWwKAcA4b5fOYAb@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBv-3T\n\nShop: https://stza.co/+wjBv-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-07-21 Sat 21:05>--<2018-07-22 Sun 00:05>
+:PROPERTIES:
+:ID:       6fK7GT4TGBF8LtfUjZHCrqP0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBw-W
+
+Shop  https //stza.co/+wjBw-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180722T020500Z
+DTEND:20180722T050500Z
+UID:6fK7GT4TGBF8LtfUjZHCrqP0@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBw-W\n\nShop: https://stza.co/+wjBw-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Aces
+<2018-07-22 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       Z8P4ZNNQ2YZfSKGIt6MxHpNt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Aces 51s @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjBx-$
+
+Shop  https //stza.co/+wjBx-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Aces
+END:VALARM
+DTSTART:20180722T200500Z
+DTEND:20180722T230500Z
+UID:Z8P4ZNNQ2YZfSKGIt6MxHpNt@stanza.co
+SUMMARY:51s @ Aces
+DESCRIPTION:51s @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjBx-$\n\nShop: https://stza.co/+wjBx-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Sounds
+<2018-07-24 Tue 21:05>--<2018-07-25 Wed 00:05>
+:PROPERTIES:
+:ID:       9pkIX5FIEsjKUGLB7ZkJWVqY@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. Nashville!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Sounds Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHC-J
+
+Shop  https //stza.co/+vKHC-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Sounds
+END:VALARM
+DTSTART:20180725T020500Z
+DTEND:20180725T050500Z
+UID:9pkIX5FIEsjKUGLB7ZkJWVqY@stanza.co
+SUMMARY:51s vs. Sounds
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHC-J\n\nShop: https://stza.co/+vKHC-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. Nashville!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Sounds
+<2018-07-25 Wed 21:05>--<2018-07-26 Thu 00:05>
+:PROPERTIES:
+:ID:       oHld4awK9VTFLikh95yBbLhP@stanza.co
+:LOCATION: WestStar Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Sounds If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHE-1Y
+
+Shop  https //stza.co/+vKHE-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Sounds
+END:VALARM
+DTSTART:20180726T020500Z
+DTEND:20180726T050500Z
+UID:oHld4awK9VTFLikh95yBbLhP@stanza.co
+SUMMARY:51s vs. Sounds
+DESCRIPTION:If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHE-1Y\n\nShop: https://stza.co/+vKHE-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:WestStar Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Sounds
+<2018-07-26 Thu 21:05>--<2018-07-27 Fri 00:05>
+:PROPERTIES:
+:ID:       7KaD71ZoyAaaQIN8dSUsycSq@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Sounds The 51s will host the Nashville Sounds, Triple-A affiliate of the Oakland A's, at Cashman Field. 
+
+Follow on MiLB First Pitch  https //stza.co/+vKHF-23
+
+Shop  https //stza.co/+vKHF-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Sounds
+END:VALARM
+DTSTART:20180727T020500Z
+DTEND:20180727T050500Z
+UID:7KaD71ZoyAaaQIN8dSUsycSq@stanza.co
+SUMMARY:51s vs. Sounds
+DESCRIPTION:The 51s will host the Nashville Sounds, Triple-A affiliate of the Oakland A's, at Cashman Field. \n\nFollow on MiLB First Pitch: https://stza.co/+vKHF-23\n\nShop: https://stza.co/+vKHF-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Redbirds
+<2018-07-27 Fri 21:05>--<2018-07-28 Sat 00:05>
+:PROPERTIES:
+:ID:       MjOkLW99yGY6femzuqlnDMQo@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Redbirds The 51s will host the PCL defending champions, the Memphis Redbirds,Triple-A affiliate of the St. Louis Cardinals, at Cashman Field. A spectacular post-game Fireworks Show will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHI-39
+
+Shop  https //stza.co/+vKHI-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Redbirds
+END:VALARM
+DTSTART:20180728T020500Z
+DTEND:20180728T050500Z
+UID:MjOkLW99yGY6femzuqlnDMQo@stanza.co
+SUMMARY:51s vs. Redbirds
+DESCRIPTION:The 51s will host the PCL defending champions, the Memphis Redbirds,Triple-A affiliate of the St. Louis Cardinals, at Cashman Field. A spectacular post-game Fireworks Show will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHI-39\n\nShop: https://stza.co/+vKHI-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Redbirds
+<2018-07-28 Sat 21:05>--<2018-07-29 Sun 00:05>
+:PROPERTIES:
+:ID:       PxJ2M7fbQ7QGzNe-8p8W1Ar8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Redbirds 51s vs. Redbirds
+
+Follow on MiLB First Pitch  https //stza.co/+vKHJ-3L
+
+Shop  https //stza.co/+vKHJ-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Redbirds
+END:VALARM
+DTSTART:20180729T020500Z
+DTEND:20180729T050500Z
+UID:PxJ2M7fbQ7QGzNe-8p8W1Ar8@stanza.co
+SUMMARY:51s vs. Redbirds
+DESCRIPTION:51s vs. Redbirds\n\nFollow on MiLB First Pitch: https://stza.co/+vKHJ-3L\n\nShop: https://stza.co/+vKHJ-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Redbirds
+<2018-07-29 Sun 21:05>--<2018-07-30 Mon 00:05>
+:PROPERTIES:
+:ID:       AdB2eX9WrmUeJUPyAAUibMh5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Redbirds 51s vs. Redbirds
+
+Follow on MiLB First Pitch  https //stza.co/+vKHL-h
+
+Shop  https //stza.co/+vKHL-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Redbirds
+END:VALARM
+DTSTART:20180730T020500Z
+DTEND:20180730T050500Z
+UID:AdB2eX9WrmUeJUPyAAUibMh5@stanza.co
+SUMMARY:51s vs. Redbirds
+DESCRIPTION:51s vs. Redbirds\n\nFollow on MiLB First Pitch: https://stza.co/+vKHL-h\n\nShop: https://stza.co/+vKHL-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Redbirds
+<2018-07-30 Mon 21:05>--<2018-07-31 Tue 00:05>
+:PROPERTIES:
+:ID:       U_G7T7BwsfWurk6XdXWeqq40@stanza.co
+:LOCATION: Smith's Value Menu Monday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Redbirds The 51s will host the PCL defending  champions, the Memphis Redbirds, Triple-A affiliate of the St. Louis Cardinals, at Cashman Field. Discounted food items will be presented at the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+vKHN-3q
+
+Shop  https //stza.co/+vKHN-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Redbirds
+END:VALARM
+DTSTART:20180731T020500Z
+DTEND:20180731T050500Z
+UID:U_G7T7BwsfWurk6XdXWeqq40@stanza.co
+SUMMARY:51s vs. Redbirds
+DESCRIPTION:The 51s will host the PCL defending  champions, the Memphis Redbirds, Triple-A affiliate of the St. Louis Cardinals, at Cashman Field. Discounted food items will be presented at the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+vKHN-3q\n\nShop: https://stza.co/+vKHN-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Storm Chasers
+<2018-08-01 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       Rz2fCaa-JNpisvzEB-b-5zIp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Storm Chasers 51s @ Storm Chasers
+
+Follow on MiLB First Pitch  https //stza.co/+whEY-22
+
+Shop  https //stza.co/+whEY-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Storm Chasers
+END:VALARM
+DTSTART:20180802T000500Z
+DTEND:20180802T030500Z
+UID:Rz2fCaa-JNpisvzEB-b-5zIp@stanza.co
+SUMMARY:51s @ Storm Chasers
+DESCRIPTION:51s @ Storm Chasers\n\nFollow on MiLB First Pitch: https://stza.co/+whEY-22\n\nShop: https://stza.co/+whEY-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Storm Chasers
+<2018-08-02 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       zf7x4c5a2lXD2IiI9hyp_-qU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Storm Chasers 51s @ Storm Chasers
+
+Follow on MiLB First Pitch  https //stza.co/+whEZ-2g
+
+Shop  https //stza.co/+whEZ-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Storm Chasers
+END:VALARM
+DTSTART:20180803T000500Z
+DTEND:20180803T030500Z
+UID:zf7x4c5a2lXD2IiI9hyp_-qU@stanza.co
+SUMMARY:51s @ Storm Chasers
+DESCRIPTION:51s @ Storm Chasers\n\nFollow on MiLB First Pitch: https://stza.co/+whEZ-2g\n\nShop: https://stza.co/+whEZ-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Storm Chasers
+<2018-08-03 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       BV28pE03NQYil9ODUeNGYFBW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Storm Chasers 51s @ Storm Chasers
+
+Follow on MiLB First Pitch  https //stza.co/+whE_-3i
+
+Shop  https //stza.co/+whE_-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Storm Chasers
+END:VALARM
+DTSTART:20180804T000500Z
+DTEND:20180804T030500Z
+UID:BV28pE03NQYil9ODUeNGYFBW@stanza.co
+SUMMARY:51s @ Storm Chasers
+DESCRIPTION:51s @ Storm Chasers\n\nFollow on MiLB First Pitch: https://stza.co/+whE_-3i\n\nShop: https://stza.co/+whE_-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Cubs
+<2018-08-04 Sat 19:08-22:08>
+:PROPERTIES:
+:ID:       WIMBVTzl6Kd3XEnAfOu3td-g@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Cubs 51s @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vKF$-3J
+
+Shop  https //stza.co/+vKF$-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Cubs
+END:VALARM
+DTSTART:20180805T000800Z
+DTEND:20180805T030800Z
+UID:WIMBVTzl6Kd3XEnAfOu3td-g@stanza.co
+SUMMARY:51s @ Cubs
+DESCRIPTION:51s @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vKF$-3J\n\nShop: https://stza.co/+vKF$-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Cubs
+<2018-08-05 Sun 13:08-16:08>
+:PROPERTIES:
+:ID:       jx_Tg5V78naSVnekjCHSBwKw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Cubs 51s @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vKG0-2s
+
+Shop  https //stza.co/+vKG0-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Cubs
+END:VALARM
+DTSTART:20180805T180800Z
+DTEND:20180805T210800Z
+UID:jx_Tg5V78naSVnekjCHSBwKw@stanza.co
+SUMMARY:51s @ Cubs
+DESCRIPTION:51s @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vKG0-2s\n\nShop: https://stza.co/+vKG0-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Cubs
+<2018-08-06 Mon 19:08-22:08>
+:PROPERTIES:
+:ID:       MEBwZCixfKNP-H2Qei2ho_Ny@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Cubs 51s @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vKG1-Y
+
+Shop  https //stza.co/+vKG1-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Cubs
+END:VALARM
+DTSTART:20180807T000800Z
+DTEND:20180807T030800Z
+UID:MEBwZCixfKNP-H2Qei2ho_Ny@stanza.co
+SUMMARY:51s @ Cubs
+DESCRIPTION:51s @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vKG1-Y\n\nShop: https://stza.co/+vKG1-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Cubs
+<2018-08-07 Tue 12:08-15:08>
+:PROPERTIES:
+:ID:       LX9YT35s6prnYBwpNRPsl8dE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Cubs 51s @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vKG2-19
+
+Shop  https //stza.co/+vKG2-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Cubs
+END:VALARM
+DTSTART:20180807T170800Z
+DTEND:20180807T200800Z
+UID:LX9YT35s6prnYBwpNRPsl8dE@stanza.co
+SUMMARY:51s @ Cubs
+DESCRIPTION:51s @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vKG2-19\n\nShop: https://stza.co/+vKG2-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-08-09 Thu 21:05>--<2018-08-10 Fri 00:05>
+:PROPERTIES:
+:ID:       XQAwoggmU4-mkcvyZPuqlDit@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces The 51s will host intrastate rival, the Reno Aces, Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field. 
+
+Follow on MiLB First Pitch  https //stza.co/+vKHP-1H
+
+Shop  https //stza.co/+vKHP-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180810T020500Z
+DTEND:20180810T050500Z
+UID:XQAwoggmU4-mkcvyZPuqlDit@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:The 51s will host intrastate rival, the Reno Aces, Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field. \n\nFollow on MiLB First Pitch: https://stza.co/+vKHP-1H\n\nShop: https://stza.co/+vKHP-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-08-10 Fri 21:05>--<2018-08-11 Sat 00:05>
+:PROPERTIES:
+:ID:       4r5C-x77fiFJaHLbKOCVpiZP@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces The 51s will host intrastate rival, the Reno Aces, Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field. A spectacular post-game Fireworks Show will be presented.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHS-3T
+
+Shop  https //stza.co/+vKHS-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180811T020500Z
+DTEND:20180811T050500Z
+UID:4r5C-x77fiFJaHLbKOCVpiZP@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:The 51s will host intrastate rival, the Reno Aces, Triple-A affiliate of the Arizona Diamondbacks, at Cashman Field. A spectacular post-game Fireworks Show will be presented.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHS-3T\n\nShop: https://stza.co/+vKHS-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-08-11 Sat 21:05>--<2018-08-12 Sun 00:05>
+:PROPERTIES:
+:ID:       JQPUNbexvKt1COG3T6scAKCY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces 51s vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+vKHU-j
+
+Shop  https //stza.co/+vKHU-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180812T020500Z
+DTEND:20180812T050500Z
+UID:JQPUNbexvKt1COG3T6scAKCY@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:51s vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+vKHU-j\n\nShop: https://stza.co/+vKHU-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Aces
+<2018-08-12 Sun 21:05>--<2018-08-13 Mon 00:05>
+:PROPERTIES:
+:ID:       N28nRx7do0ZWSDNYX4cIXqMD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Aces 51s vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+vKHV-1_
+
+Shop  https //stza.co/+vKHV-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Aces
+END:VALARM
+DTSTART:20180813T020500Z
+DTEND:20180813T050500Z
+UID:N28nRx7do0ZWSDNYX4cIXqMD@stanza.co
+SUMMARY:51s vs. Aces
+DESCRIPTION:51s vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+vKHV-1_\n\nShop: https://stza.co/+vKHV-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-08-13 Mon 21:05>--<2018-08-14 Tue 00:05>
+:PROPERTIES:
+:ID:       xgrXuLCC3_U9rAQCipYfKSxz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjBl-3K
+
+Shop  https //stza.co/+wjBl-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART:20180814T020500Z
+DTEND:20180814T050500Z
+UID:xgrXuLCC3_U9rAQCipYfKSxz@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjBl-3K\n\nShop: https://stza.co/+wjBl-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-08-14 Tue 21:05>--<2018-08-15 Wed 00:05>
+:PROPERTIES:
+:ID:       WmPhE87vNIbXEKVJ4Zk63izL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjBm-2K
+
+Shop  https //stza.co/+wjBm-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART:20180815T020500Z
+DTEND:20180815T050500Z
+UID:WmPhE87vNIbXEKVJ4Zk63izL@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjBm-2K\n\nShop: https://stza.co/+wjBm-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Grizzlies
+<2018-08-15 Wed 21:05>--<2018-08-16 Thu 00:05>
+:PROPERTIES:
+:ID:       Im-4VE4rDN0hjI5VEg-cgrHt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Grizzlies 51s @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjBn-3K
+
+Shop  https //stza.co/+wjBn-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Grizzlies
+END:VALARM
+DTSTART:20180816T020500Z
+DTEND:20180816T050500Z
+UID:Im-4VE4rDN0hjI5VEg-cgrHt@stanza.co
+SUMMARY:51s @ Grizzlies
+DESCRIPTION:51s @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjBn-3K\n\nShop: https://stza.co/+wjBn-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-08-16 Thu 20:05-23:05>
+:PROPERTIES:
+:ID:       2CGZAqfBI8moNLPKmF1zsnGf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDB-2g
+
+Shop  https //stza.co/+wmDB-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180817T010500Z
+DTEND:20180817T040500Z
+UID:2CGZAqfBI8moNLPKmF1zsnGf@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDB-2g\n\nShop: https://stza.co/+wmDB-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-08-17 Fri 20:05-23:05>
+:PROPERTIES:
+:ID:       6FKQ985weaIaFva9VcLbM8pc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDC-2P
+
+Shop  https //stza.co/+wmDC-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180818T010500Z
+DTEND:20180818T040500Z
+UID:6FKQ985weaIaFva9VcLbM8pc@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDC-2P\n\nShop: https://stza.co/+wmDC-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-08-18 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       pXxwoCBNdJh1eLkjdoxHD4VK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDD-d
+
+Shop  https //stza.co/+wmDD-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180819T010500Z
+DTEND:20180819T040500Z
+UID:pXxwoCBNdJh1eLkjdoxHD4VK@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDD-d\n\nShop: https://stza.co/+wmDD-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ Chihuahuas
+<2018-08-19 Sun 19:05-22:05>
+:PROPERTIES:
+:ID:       Tc_aGi0ePxAIrvXO4Tc51V9f@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ Chihuahuas 51s @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmDE-2b
+
+Shop  https //stza.co/+wmDE-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ Chihuahuas
+END:VALARM
+DTSTART:20180820T000500Z
+DTEND:20180820T030500Z
+UID:Tc_aGi0ePxAIrvXO4Tc51V9f@stanza.co
+SUMMARY:51s @ Chihuahuas
+DESCRIPTION:51s @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmDE-2b\n\nShop: https://stza.co/+wmDE-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-08-21 Tue 21:05>--<2018-08-22 Wed 00:05>
+:PROPERTIES:
+:ID:       NYsJ0ZizcojE9Z_N67AyJ4rs@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. Salt Lake!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHX-3V
+
+Shop  https //stza.co/+vKHX-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180822T020500Z
+DTEND:20180822T050500Z
+UID:NYsJ0ZizcojE9Z_N67AyJ4rs@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHX-3V\n\nShop: https://stza.co/+vKHX-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. Salt Lake!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-08-22 Wed 21:05>--<2018-08-23 Thu 00:05>
+:PROPERTIES:
+:ID:       OC0pzV6aL7xWy3u2_HEd1V5D@stanza.co
+:LOCATION: WestStar Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKHZ-1z
+
+Shop  https //stza.co/+vKHZ-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180823T020500Z
+DTEND:20180823T050500Z
+UID:OC0pzV6aL7xWy3u2_HEd1V5D@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKHZ-1z\n\nShop: https://stza.co/+vKHZ-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:WestStar Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Bees
+<2018-08-23 Thu 21:05>--<2018-08-24 Fri 00:05>
+:PROPERTIES:
+:ID:       IqFzXNYqJQMdBNn5epyfiCt-@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Bees The 51s will host the Salt Lake Bees, Triple-A affiliate of the Los Angeles Angels, at Cashman Field. 
+
+Follow on MiLB First Pitch  https //stza.co/+vKI0-3v
+
+Shop  https //stza.co/+vKI0-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Bees
+END:VALARM
+DTSTART:20180824T020500Z
+DTEND:20180824T050500Z
+UID:IqFzXNYqJQMdBNn5epyfiCt-@stanza.co
+SUMMARY:51s vs. Bees
+DESCRIPTION:The 51s will host the Salt Lake Bees, Triple-A affiliate of the Los Angeles Angels, at Cashman Field. \n\nFollow on MiLB First Pitch: https://stza.co/+vKI0-3v\n\nShop: https://stza.co/+vKI0-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-08-24 Fri 21:05>--<2018-08-25 Sat 00:05>
+:PROPERTIES:
+:ID:       53R9XT3nNYEji1NKw6i4cSH7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBD-x
+
+Shop  https //stza.co/+wjBD-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180825T020500Z
+DTEND:20180825T050500Z
+UID:53R9XT3nNYEji1NKw6i4cSH7@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBD-x\n\nShop: https://stza.co/+wjBD-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-08-25 Sat 21:05>--<2018-08-26 Sun 00:05>
+:PROPERTIES:
+:ID:       FnRLyxPqENdBK-e5TbVeagS6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBF-3T
+
+Shop  https //stza.co/+wjBF-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180826T020500Z
+DTEND:20180826T050500Z
+UID:FnRLyxPqENdBK-e5TbVeagS6@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBF-3T\n\nShop: https://stza.co/+wjBF-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-08-26 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       BpYqIdFCmYD2yw--SfJi6ASq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBG-2x
+
+Shop  https //stza.co/+wjBG-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180826T200500Z
+DTEND:20180826T230500Z
+UID:BpYqIdFCmYD2yw--SfJi6ASq@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBG-2x\n\nShop: https://stza.co/+wjBG-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s @ River Cats
+<2018-08-27 Mon 21:05>--<2018-08-28 Tue 00:05>
+:PROPERTIES:
+:ID:       XPQowZ9acVCnMAT_vIXsktNQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+51s @ River Cats 51s @ River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+wjBH-1b
+
+Shop  https //stza.co/+wjBH-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:51s @ River Cats
+END:VALARM
+DTSTART:20180828T020500Z
+DTEND:20180828T050500Z
+UID:XPQowZ9acVCnMAT_vIXsktNQ@stanza.co
+SUMMARY:51s @ River Cats
+DESCRIPTION:51s @ River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+wjBH-1b\n\nShop: https://stza.co/+wjBH-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-08-28 Tue 21:05>--<2018-08-29 Wed 00:05>
+:PROPERTIES:
+:ID:       C6WbQuoNTIrnhH_iluPnsAg0@stanza.co
+:LOCATION: Las Vegas Reyes de Plata vs. Tacoma!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.
+
+Follow on MiLB First Pitch  https //stza.co/+vKI1-1c
+
+Shop  https //stza.co/+vKI1-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180829T020500Z
+DTEND:20180829T050500Z
+UID:C6WbQuoNTIrnhH_iluPnsAg0@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:Las Vegas Reyes de Plata - Silver Kings - will be featured 8 times during the season on selected Tuesday home games. MiLB launched Es Divertido Ser Un Fan, a new multi-cultural fan engagement platform aimed at specifically connecting with Hispanic Latino baseball fans in 160 markets throughout the U.S. and Canada.\n\nFollow on MiLB First Pitch: https://stza.co/+vKI1-1c\n\nShop: https://stza.co/+vKI1-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Las Vegas Reyes de Plata vs. Tacoma!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-08-29 Wed 21:05>--<2018-08-30 Thu 00:05>
+:PROPERTIES:
+:ID:       frUqm0L02qt5cdcYcbIFHb9y@stanza.co
+:LOCATION: WestStar Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.
+
+Follow on MiLB First Pitch  https //stza.co/+vKI3-2F
+
+Shop  https //stza.co/+vKI3-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180830T020500Z
+DTEND:20180830T050500Z
+UID:frUqm0L02qt5cdcYcbIFHb9y@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:If the Las Vegas 51s WIN a Wednesday home game, fans can redeem a FREE ticket for a future Sunday-Tuesday home game during the 2018 season-excluding the Tuesday, July 3rd game.\n\nFollow on MiLB First Pitch: https://stza.co/+vKI3-2F\n\nShop: https://stza.co/+vKI3-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:WestStar Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. Rainiers
+<2018-08-30 Thu 21:05>--<2018-08-31 Fri 00:05>
+:PROPERTIES:
+:ID:       KJ1td21v4D3u7XMJJabxb31i@stanza.co
+:LOCATION: Grab some friends for our Budweiser Dollar Beer Night at the park!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. Rainiers The 51s will host the Tacoma Rainiers, Triple-A affiliate of the Seattle Mariners, at Cashman Field. 
+
+Follow on MiLB First Pitch  https //stza.co/+vKI6-1g
+
+Shop  https //stza.co/+vKI6-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. Rainiers
+END:VALARM
+DTSTART:20180831T020500Z
+DTEND:20180831T050500Z
+UID:KJ1td21v4D3u7XMJJabxb31i@stanza.co
+SUMMARY:51s vs. Rainiers
+DESCRIPTION:The 51s will host the Tacoma Rainiers, Triple-A affiliate of the Seattle Mariners, at Cashman Field. \n\nFollow on MiLB First Pitch: https://stza.co/+vKI6-1g\n\nShop: https://stza.co/+vKI6-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Grab some friends for our Budweiser Dollar Beer Night at the park!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-08-31 Fri 21:05>--<2018-09-01 Sat 00:05>
+:PROPERTIES:
+:ID:       fjj2bUNMu77EyDdYbFdPZXTq@stanza.co
+:LOCATION: Stick around after tonight's game for some spectacular fireworks!
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field. The final spectacular post-game Fireworks Show of the season will be presented!
+
+Follow on MiLB First Pitch  https //stza.co/+vKI8-3Q
+
+Shop  https //stza.co/+vKI8-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180901T020500Z
+DTEND:20180901T050500Z
+UID:fjj2bUNMu77EyDdYbFdPZXTq@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field. The final spectacular post-game Fireworks Show of the season will be presented!\n\nFollow on MiLB First Pitch: https://stza.co/+vKI8-3Q\n\nShop: https://stza.co/+vKI8-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stick around after tonight's game for some spectacular fireworks!
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-09-01 Sat 21:05>--<2018-09-02 Sun 00:05>
+:PROPERTIES:
+:ID:       PWHrCfrY2WngrULMDBLipKtY@stanza.co
+:LOCATION: Fan Appreciation Night
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field on FAN APPRECIATION Night! 
+
+Follow on MiLB First Pitch  https //stza.co/+vKI9-3R
+
+Shop  https //stza.co/+vKI9-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180902T020500Z
+DTEND:20180902T050500Z
+UID:PWHrCfrY2WngrULMDBLipKtY@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:The 51s will host the Sacramento River Cats, Triple-A affiliate of the San Francisco Giants, at Cashman Field on FAN APPRECIATION Night! \n\nFollow on MiLB First Pitch: https://stza.co/+vKI9-3R\n\nShop: https://stza.co/+vKI9-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Fan Appreciation Night
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-09-02 Sun 21:05>--<2018-09-03 Mon 00:05>
+:PROPERTIES:
+:ID:       kuPg4ii3skW5PsVb9Tryc8nj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats 51s vs. River Cats
+
+Follow on MiLB First Pitch  https //stza.co/+vKIb-A
+
+Shop  https //stza.co/+vKIb-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180903T020500Z
+DTEND:20180903T050500Z
+UID:kuPg4ii3skW5PsVb9Tryc8nj@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:51s vs. River Cats\n\nFollow on MiLB First Pitch: https://stza.co/+vKIb-A\n\nShop: https://stza.co/+vKIb-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT
+* 51s vs. River Cats
+<2018-09-03 Mon 14:05-17:05>
+:PROPERTIES:
+:ID:       iEPV4V6AJ8YmrabFOKzpVH1F@stanza.co
+:LOCATION: Smith's Value Menu Monday on Labor Day at 12
+:STATUS:   CONFIRMED
+:END:
+
+51s vs. River Cats The 51s will host the Sacramento River Cats,Triple-A affiliate of the San Francisco Giants, at Cashman Field. Discounted food items will be presented. The Las Vegas franchise will conclude its 36th PCL season in the Silver State!
+
+Follow on MiLB First Pitch  https //stza.co/+vKId-f
+
+Shop  https //stza.co/+vKId-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:51s vs. River Cats
+END:VALARM
+DTSTART:20180903T190500Z
+DTEND:20180903T220500Z
+UID:iEPV4V6AJ8YmrabFOKzpVH1F@stanza.co
+SUMMARY:51s vs. River Cats
+DESCRIPTION:The 51s will host the Sacramento River Cats,Triple-A affiliate of the San Francisco Giants, at Cashman Field. Discounted food items will be presented. The Las Vegas franchise will conclude its 36th PCL season in the Silver State!\n\nFollow on MiLB First Pitch: https://stza.co/+vKId-f\n\nShop: https://stza.co/+vKId-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Smith's Value Menu Monday on Labor Day at 12:05 p.m. (Season Finale)
+STATUS:CONFIRMED
+CREATED:20180213T144540Z
+LAST-MODIFIED:20180213T144540Z
+TRANSP:OPAQUE
+END:VEVENT

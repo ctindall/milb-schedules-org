@@ -1,0 +1,5132 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Bulls vs. Knights
+<2018-04-05 Thu 17:05-20:05>
+:PROPERTIES:
+:ID:       u4C7XgMvS42UcrxmPUt6bW5f@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Tickets  https //stza.co/+xkCr-3T
+
+Shop  https //stza.co/+xkCr-m
+
+Website  https //stza.co/+xkCr-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180405T220500Z
+DTEND:20180406T010500Z
+UID:u4C7XgMvS42UcrxmPUt6bW5f@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nTickets: https://stza.co/+xkCr-3T\n\nShop: https://stza.co/+xkCr-m\n\nWebsite: https://stza.co/+xkCr-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-04-05 Thu 17:05-20:05>
+:PROPERTIES:
+:ID:       Y8YANCA8v68Bn3XeuevmaB4r@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0su-1S
+
+Shop  https //stza.co/+y0su-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180405T220500Z
+DTEND:20180406T010500Z
+UID:Y8YANCA8v68Bn3XeuevmaB4r@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0su-1S\n\nShop: https://stza.co/+y0su-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-04-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       8NQerchnpQapNAxiVnTec402@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0sv-3Y
+
+Shop  https //stza.co/+y0sv-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180406T230500Z
+DTEND:20180407T020500Z
+UID:8NQerchnpQapNAxiVnTec402@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0sv-3Y\n\nShop: https://stza.co/+y0sv-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-04-07 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       rb89kPoBT6m4tHykq1TbRfWA@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Tickets  https //stza.co/+xzs$-2z
+
+Follow on MiLB First Pitch  https //stza.co/+xzs$-23
+
+Shop  https //stza.co/+xzs$-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180407T223500Z
+DTEND:20180408T013500Z
+UID:rb89kPoBT6m4tHykq1TbRfWA@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nTickets: https://stza.co/+xzs$-2z\n\nFollow on MiLB First Pitch: https://stza.co/+xzs$-23\n\nShop: https://stza.co/+xzs$-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-04-08 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       ccWXj3yj--O63LRw6vbZPTQJ@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Tickets  https //stza.co/+xzt1-32
+
+Follow on MiLB First Pitch  https //stza.co/+xzt1-1p
+
+Shop  https //stza.co/+xzt1-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180408T210500Z
+DTEND:20180409T000500Z
+UID:ccWXj3yj--O63LRw6vbZPTQJ@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nTickets: https://stza.co/+xzt1-32\n\nFollow on MiLB First Pitch: https://stza.co/+xzt1-1p\n\nShop: https://stza.co/+xzt1-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-04-09 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       yyvgFNgBlwy-r8RoXybDxv57@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Tickets  https //stza.co/+xzt2-22
+
+Follow on MiLB First Pitch  https //stza.co/+xzt2-2p
+
+Shop  https //stza.co/+xzt2-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180409T230500Z
+DTEND:20180410T020500Z
+UID:yyvgFNgBlwy-r8RoXybDxv57@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nTickets: https://stza.co/+xzt2-22\n\nFollow on MiLB First Pitch: https://stza.co/+xzt2-2p\n\nShop: https://stza.co/+xzt2-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-04-10 Tue 12:05-15:05>
+:PROPERTIES:
+:ID:       Cc2TIrglKWxTCTfTfiTtaY4R@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Tickets  https //stza.co/+xzt3-2P
+
+Follow on MiLB First Pitch  https //stza.co/+xzt3-3N
+
+Shop  https //stza.co/+xzt3-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180410T170500Z
+DTEND:20180410T200500Z
+UID:Cc2TIrglKWxTCTfTfiTtaY4R@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nTickets: https://stza.co/+xzt3-2P\n\nFollow on MiLB First Pitch: https://stza.co/+xzt3-3N\n\nShop: https://stza.co/+xzt3-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-04-11 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       rD_U6SD6NBjaUvsMeDvLEP2S@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Tickets  https //stza.co/+xzt4-31
+
+Follow on MiLB First Pitch  https //stza.co/+xzt4-J
+
+Shop  https //stza.co/+xzt4-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180411T230500Z
+DTEND:20180412T020500Z
+UID:rD_U6SD6NBjaUvsMeDvLEP2S@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nTickets: https://stza.co/+xzt4-31\n\nFollow on MiLB First Pitch: https://stza.co/+xzt4-J\n\nShop: https://stza.co/+xzt4-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Clippers
+<2018-04-12 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       c51vraAC21iwH4awIu6t1_uk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Clippers Bulls @ Clippers
+
+Buy tickets here  https //stza.co/~uWPn
+
+Follow on MiLB First Pitch  https //stza.co/+uWPn-35
+
+Shop  https //stza.co/+uWPn-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Clippers
+END:VALARM
+DTSTART:20180412T223500Z
+DTEND:20180413T013500Z
+UID:c51vraAC21iwH4awIu6t1_uk@stanza.co
+SUMMARY:Bulls @ Clippers
+DESCRIPTION:Bulls @ Clippers\n\nBuy tickets here: https://stza.co/~uWPn\n\nFollow on MiLB First Pitch: https://stza.co/+uWPn-35\n\nShop: https://stza.co/+uWPn-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Clippers
+<2018-04-13 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       gGnd_zyAgn0CqYr7bcKB4yR6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Clippers Bulls @ Clippers
+
+Buy tickets here  https //stza.co/~uWPs
+
+Follow on MiLB First Pitch  https //stza.co/+uWPs-1s
+
+Shop  https //stza.co/+uWPs-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Clippers
+END:VALARM
+DTSTART:20180413T223500Z
+DTEND:20180414T013500Z
+UID:gGnd_zyAgn0CqYr7bcKB4yR6@stanza.co
+SUMMARY:Bulls @ Clippers
+DESCRIPTION:Bulls @ Clippers\n\nBuy tickets here: https://stza.co/~uWPs\n\nFollow on MiLB First Pitch: https://stza.co/+uWPs-1s\n\nShop: https://stza.co/+uWPs-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Clippers
+<2018-04-14 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       NY3u7E9b1XZlb82A5qSG9ABD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Clippers Bulls @ Clippers
+
+Buy tickets here  https //stza.co/~uWPx
+
+Follow on MiLB First Pitch  https //stza.co/+uWPx-1h
+
+Shop  https //stza.co/+uWPx-2t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Clippers
+END:VALARM
+DTSTART:20180414T223500Z
+DTEND:20180415T013500Z
+UID:NY3u7E9b1XZlb82A5qSG9ABD@stanza.co
+SUMMARY:Bulls @ Clippers
+DESCRIPTION:Bulls @ Clippers\n\nBuy tickets here: https://stza.co/~uWPx\n\nFollow on MiLB First Pitch: https://stza.co/+uWPx-1h\n\nShop: https://stza.co/+uWPx-2t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Clippers
+<2018-04-15 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       H_jK0bC0_RevmpOqzTo-qsnh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Clippers Bulls @ Clippers
+
+Buy tickets here  https //stza.co/~uWPC
+
+Follow on MiLB First Pitch  https //stza.co/+uWPC-2E
+
+Shop  https //stza.co/+uWPC-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Clippers
+END:VALARM
+DTSTART:20180415T180500Z
+DTEND:20180415T210500Z
+UID:H_jK0bC0_RevmpOqzTo-qsnh@stanza.co
+SUMMARY:Bulls @ Clippers
+DESCRIPTION:Bulls @ Clippers\n\nBuy tickets here: https://stza.co/~uWPC\n\nFollow on MiLB First Pitch: https://stza.co/+uWPC-2E\n\nShop: https://stza.co/+uWPC-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Mud Hens
+<2018-04-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       9b3F1TyvvYB0Vhxf3lbxAqQK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Mud Hens Bulls @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+uXmP-1a
+
+Shop  https //stza.co/+uXmP-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Mud Hens
+END:VALARM
+DTSTART:20180416T223500Z
+DTEND:20180417T013500Z
+UID:9b3F1TyvvYB0Vhxf3lbxAqQK@stanza.co
+SUMMARY:Bulls @ Mud Hens
+DESCRIPTION:Bulls @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+uXmP-1a\n\nShop: https://stza.co/+uXmP-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Mud Hens
+<2018-04-17 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       PBndEWXobWNnNcCvC_gGCy0v@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Mud Hens Bulls @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+uXmT-m
+
+Shop  https //stza.co/+uXmT-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Mud Hens
+END:VALARM
+DTSTART:20180417T223500Z
+DTEND:20180418T013500Z
+UID:PBndEWXobWNnNcCvC_gGCy0v@stanza.co
+SUMMARY:Bulls @ Mud Hens
+DESCRIPTION:Bulls @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+uXmT-m\n\nShop: https://stza.co/+uXmT-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Mud Hens
+<2018-04-18 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       un_ttIY6CQwdoNACLFq5RMfn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Mud Hens Bulls @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+uXmV-23
+
+Shop  https //stza.co/+uXmV-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Mud Hens
+END:VALARM
+DTSTART:20180418T223500Z
+DTEND:20180419T013500Z
+UID:un_ttIY6CQwdoNACLFq5RMfn@stanza.co
+SUMMARY:Bulls @ Mud Hens
+DESCRIPTION:Bulls @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+uXmV-23\n\nShop: https://stza.co/+uXmV-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. IronPigs
+<2018-04-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       hBAQwPXlMsV7uspNBncooh6J@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. IronPigs Bulls vs. IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+xzt5-3G
+
+Shop  https //stza.co/+xzt5-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. IronPigs
+END:VALARM
+DTSTART:20180420T230500Z
+DTEND:20180421T020500Z
+UID:hBAQwPXlMsV7uspNBncooh6J@stanza.co
+SUMMARY:Bulls vs. IronPigs
+DESCRIPTION:Bulls vs. IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+xzt5-3G\n\nShop: https://stza.co/+xzt5-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. IronPigs
+<2018-04-21 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       jTloAhIkplqv0t06FXwfFRLS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. IronPigs Bulls vs. IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+y0sC-3c
+
+Shop  https //stza.co/+y0sC-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. IronPigs
+END:VALARM
+DTSTART:20180421T223500Z
+DTEND:20180422T013500Z
+UID:jTloAhIkplqv0t06FXwfFRLS@stanza.co
+SUMMARY:Bulls vs. IronPigs
+DESCRIPTION:Bulls vs. IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+y0sC-3c\n\nShop: https://stza.co/+y0sC-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. IronPigs
+<2018-04-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       hQAbNUlTSEbN7wQmYpJQUdhl@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. IronPigs Bulls vs. IronPigs
+
+Website  https //stza.co/+xzt8-B
+
+Follow on MiLB First Pitch  https //stza.co/+xzt8-2y
+
+Shop  https //stza.co/+xzt8-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. IronPigs
+END:VALARM
+DTSTART:20180422T210500Z
+DTEND:20180423T000500Z
+UID:hQAbNUlTSEbN7wQmYpJQUdhl@stanza.co
+SUMMARY:Bulls vs. IronPigs
+DESCRIPTION:Bulls vs. IronPigs\n\nWebsite: https://stza.co/+xzt8-B\n\nFollow on MiLB First Pitch: https://stza.co/+xzt8-2y\n\nShop: https://stza.co/+xzt8-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Bisons
+<2018-04-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       N4ygfVVLcVlaz9IjfsQ5cIPd@stanza.co
+:LOCATION: Come see the Bulls at the DBAP!
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Bisons Bulls vs. Bisons
+
+Website  https //stza.co/+xzt9-2v
+
+Follow on MiLB First Pitch  https //stza.co/+xzt9-3a
+
+Shop  https //stza.co/+xzt9-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Bisons
+END:VALARM
+DTSTART:20180423T230500Z
+DTEND:20180424T020500Z
+UID:N4ygfVVLcVlaz9IjfsQ5cIPd@stanza.co
+SUMMARY:Bulls vs. Bisons
+DESCRIPTION:Bulls vs. Bisons\n\nWebsite: https://stza.co/+xzt9-2v\n\nFollow on MiLB First Pitch: https://stza.co/+xzt9-3a\n\nShop: https://stza.co/+xzt9-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Come see the Bulls at the DBAP!
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Bisons
+<2018-04-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       3hnXIBR75BPz1jskyKFBUOAw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Bisons Bulls vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+y0sF-1F
+
+Shop  https //stza.co/+y0sF-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Bisons
+END:VALARM
+DTSTART:20180424T230500Z
+DTEND:20180425T020500Z
+UID:3hnXIBR75BPz1jskyKFBUOAw@stanza.co
+SUMMARY:Bulls vs. Bisons
+DESCRIPTION:Bulls vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+y0sF-1F\n\nShop: https://stza.co/+y0sF-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Bisons
+<2018-04-25 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       ybaQ_saEKoct3rmjWn0cYcvb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Bisons Bulls vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+y0sG-2W
+
+Shop  https //stza.co/+y0sG-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Bisons
+END:VALARM
+DTSTART:20180425T143500Z
+DTEND:20180425T173500Z
+UID:ybaQ_saEKoct3rmjWn0cYcvb@stanza.co
+SUMMARY:Bulls vs. Bisons
+DESCRIPTION:Bulls vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+y0sG-2W\n\nShop: https://stza.co/+y0sG-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-04-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       QUSDPdzRfbPFVyfmVPEBpWFg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXhD-18
+
+Shop  https //stza.co/+uXhD-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180427T230500Z
+DTEND:20180428T020500Z
+UID:QUSDPdzRfbPFVyfmVPEBpWFg@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXhD-18\n\nShop: https://stza.co/+uXhD-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-04-28 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       kpyePMByKYFBUk9uftiMHTU7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXhO-1p
+
+Shop  https //stza.co/+uXhO-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180428T220500Z
+DTEND:20180429T010500Z
+UID:kpyePMByKYFBUk9uftiMHTU7@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXhO-1p\n\nShop: https://stza.co/+uXhO-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-04-29 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       aCT4G1dttohFKV5xvpMUlE61@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXh_-2Z
+
+Shop  https //stza.co/+uXh_-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180429T170500Z
+DTEND:20180429T200500Z
+UID:aCT4G1dttohFKV5xvpMUlE61@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXh_-2Z\n\nShop: https://stza.co/+uXh_-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-04-30 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       rS1_iJGY4DOGPw9fwxyY3F3y@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXkG-2P
+
+Shop  https //stza.co/+uXkG-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180430T223500Z
+DTEND:20180501T013500Z
+UID:rS1_iJGY4DOGPw9fwxyY3F3y@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXkG-2P\n\nShop: https://stza.co/+uXkG-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-05-01 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       otlE4CI1xDm7K1YFzMPTLd8B@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXkN-2v
+
+Shop  https //stza.co/+uXkN-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180501T223500Z
+DTEND:20180502T013500Z
+UID:otlE4CI1xDm7K1YFzMPTLd8B@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXkN-2v\n\nShop: https://stza.co/+uXkN-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-05-02 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       jW8aQqCnn_hYC7e5QHfHiXpr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXkU-3M
+
+Shop  https //stza.co/+uXkU-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180502T223500Z
+DTEND:20180503T013500Z
+UID:jW8aQqCnn_hYC7e5QHfHiXpr@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXkU-3M\n\nShop: https://stza.co/+uXkU-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Mud Hens
+<2018-05-03 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       L6-UhKQN1vjMzjf9Y7PDbQ9c@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Mud Hens Bulls vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+y0sH-2N
+
+Shop  https //stza.co/+y0sH-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Mud Hens
+END:VALARM
+DTSTART:20180503T230500Z
+DTEND:20180504T020500Z
+UID:L6-UhKQN1vjMzjf9Y7PDbQ9c@stanza.co
+SUMMARY:Bulls vs. Mud Hens
+DESCRIPTION:Bulls vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+y0sH-2N\n\nShop: https://stza.co/+y0sH-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Mud Hens
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       hS8cFe_B36nOB8nWrZmH-UIN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Mud Hens Bulls vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+y0sI-2S
+
+Shop  https //stza.co/+y0sI-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Mud Hens
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:hS8cFe_B36nOB8nWrZmH-UIN@stanza.co
+SUMMARY:Bulls vs. Mud Hens
+DESCRIPTION:Bulls vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+y0sI-2S\n\nShop: https://stza.co/+y0sI-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Mud Hens
+<2018-05-05 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       jlRcH7yUtLnUp3UqXpXOlu_W@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Mud Hens Bulls vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+y0sJ-H
+
+Shop  https //stza.co/+y0sJ-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Mud Hens
+END:VALARM
+DTSTART:20180505T223500Z
+DTEND:20180506T013500Z
+UID:jlRcH7yUtLnUp3UqXpXOlu_W@stanza.co
+SUMMARY:Bulls vs. Mud Hens
+DESCRIPTION:Bulls vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+y0sJ-H\n\nShop: https://stza.co/+y0sJ-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Mud Hens
+<2018-05-06 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       Mgc-ii8KfM29_9LmGqQP-oJE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Mud Hens Bulls vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+y0sK-2t
+
+Shop  https //stza.co/+y0sK-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Mud Hens
+END:VALARM
+DTSTART:20180506T210500Z
+DTEND:20180507T000500Z
+UID:Mgc-ii8KfM29_9LmGqQP-oJE@stanza.co
+SUMMARY:Bulls vs. Mud Hens
+DESCRIPTION:Bulls vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+y0sK-2t\n\nShop: https://stza.co/+y0sK-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-05-07 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       sbMY1FPA6mNMbDSLfKwXFDSY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0sL-r
+
+Shop  https //stza.co/+y0sL-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180507T230500Z
+DTEND:20180508T020500Z
+UID:sbMY1FPA6mNMbDSLfKwXFDSY@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0sL-r\n\nShop: https://stza.co/+y0sL-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-05-08 Tue 09:35-12:35>
+:PROPERTIES:
+:ID:       O_1ICbTUFn_ocWerc-Z1W3Fx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0sN-g
+
+Shop  https //stza.co/+y0sN-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180508T143500Z
+DTEND:20180508T173500Z
+UID:O_1ICbTUFn_ocWerc-Z1W3Fx@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0sN-g\n\nShop: https://stza.co/+y0sN-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-05-09 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       46lSbEdsiW-EBEvAGcpV1hSj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0sO-V
+
+Shop  https //stza.co/+y0sO-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180509T230500Z
+DTEND:20180510T020500Z
+UID:46lSbEdsiW-EBEvAGcpV1hSj@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0sO-V\n\nShop: https://stza.co/+y0sO-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-05-10 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       qHjcC-cIiHqFXnWH0zURpEbu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0sP-1T
+
+Shop  https //stza.co/+y0sP-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180510T230500Z
+DTEND:20180511T020500Z
+UID:qHjcC-cIiHqFXnWH0zURpEbu@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0sP-1T\n\nShop: https://stza.co/+y0sP-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-05-11 Fri 18:04-21:04>
+:PROPERTIES:
+:ID:       CMRJM6K3WjwK5CsmQdh1GyEL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON2-3O
+
+Shop  https //stza.co/+xON2-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180511T230400Z
+DTEND:20180512T020400Z
+UID:CMRJM6K3WjwK5CsmQdh1GyEL@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON2-3O\n\nShop: https://stza.co/+xON2-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-05-12 Sat 18:04-21:04>
+:PROPERTIES:
+:ID:       pnsxo5O8B3-XJ9X46oKUg7lU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON3-2Q
+
+Shop  https //stza.co/+xON3-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180512T230400Z
+DTEND:20180513T020400Z
+UID:pnsxo5O8B3-XJ9X46oKUg7lU@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON3-2Q\n\nShop: https://stza.co/+xON3-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-05-13 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       X54nj_8lRD3WRxPCi9MmtZzB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+uWOK-2h
+
+Shop  https //stza.co/+uWOK-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180513T180500Z
+DTEND:20180513T210500Z
+UID:X54nj_8lRD3WRxPCi9MmtZzB@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+uWOK-2h\n\nShop: https://stza.co/+uWOK-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Bats
+<2018-05-15 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       NQPDrDkowPkmRN7F-oIkKL7C@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Bats Bulls vs. Bats
+
+Follow on MiLB First Pitch  https //stza.co/+y0sQ-2K
+
+Shop  https //stza.co/+y0sQ-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Bats
+END:VALARM
+DTSTART:20180515T230500Z
+DTEND:20180516T020500Z
+UID:NQPDrDkowPkmRN7F-oIkKL7C@stanza.co
+SUMMARY:Bulls vs. Bats
+DESCRIPTION:Bulls vs. Bats\n\nFollow on MiLB First Pitch: https://stza.co/+y0sQ-2K\n\nShop: https://stza.co/+y0sQ-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Bats
+<2018-05-16 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       x05Dw8tq2md-695OLs70nIYE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Bats Bulls vs. Bats
+
+Follow on MiLB First Pitch  https //stza.co/+y0sR-J
+
+Shop  https //stza.co/+y0sR-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Bats
+END:VALARM
+DTSTART:20180516T230500Z
+DTEND:20180517T020500Z
+UID:x05Dw8tq2md-695OLs70nIYE@stanza.co
+SUMMARY:Bulls vs. Bats
+DESCRIPTION:Bulls vs. Bats\n\nFollow on MiLB First Pitch: https://stza.co/+y0sR-J\n\nShop: https://stza.co/+y0sR-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Bats
+<2018-05-17 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       AsrGqh0Fj8jk_NUpR8wXKrkM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Bats Bulls vs. Bats
+
+Follow on MiLB First Pitch  https //stza.co/+y0sS-g
+
+Shop  https //stza.co/+y0sS-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Bats
+END:VALARM
+DTSTART:20180517T230500Z
+DTEND:20180518T020500Z
+UID:AsrGqh0Fj8jk_NUpR8wXKrkM@stanza.co
+SUMMARY:Bulls vs. Bats
+DESCRIPTION:Bulls vs. Bats\n\nFollow on MiLB First Pitch: https://stza.co/+y0sS-g\n\nShop: https://stza.co/+y0sS-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Indians
+<2018-05-18 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       WoD5uE32gcbBsJF7KqOpTA5m@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Indians Bulls vs. Indians
+
+Follow on MiLB First Pitch  https //stza.co/+y0sT-E
+
+Shop  https //stza.co/+y0sT-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Indians
+END:VALARM
+DTSTART:20180518T230500Z
+DTEND:20180519T020500Z
+UID:WoD5uE32gcbBsJF7KqOpTA5m@stanza.co
+SUMMARY:Bulls vs. Indians
+DESCRIPTION:Bulls vs. Indians\n\nFollow on MiLB First Pitch: https://stza.co/+y0sT-E\n\nShop: https://stza.co/+y0sT-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Indians
+<2018-05-19 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       86f7SLAOwnpf9bHef4l2h9rB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Indians Bulls vs. Indians
+
+Follow on MiLB First Pitch  https //stza.co/+y0sU-35
+
+Shop  https //stza.co/+y0sU-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Indians
+END:VALARM
+DTSTART:20180519T223500Z
+DTEND:20180520T013500Z
+UID:86f7SLAOwnpf9bHef4l2h9rB@stanza.co
+SUMMARY:Bulls vs. Indians
+DESCRIPTION:Bulls vs. Indians\n\nFollow on MiLB First Pitch: https://stza.co/+y0sU-35\n\nShop: https://stza.co/+y0sU-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Indians
+<2018-05-20 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       Q0fNth37QuBzpzKWEyyQdioP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Indians Bulls vs. Indians
+
+Follow on MiLB First Pitch  https //stza.co/+y0sV-2a
+
+Shop  https //stza.co/+y0sV-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Indians
+END:VALARM
+DTSTART:20180520T210500Z
+DTEND:20180521T000500Z
+UID:Q0fNth37QuBzpzKWEyyQdioP@stanza.co
+SUMMARY:Bulls vs. Indians
+DESCRIPTION:Bulls vs. Indians\n\nFollow on MiLB First Pitch: https://stza.co/+y0sV-2a\n\nShop: https://stza.co/+y0sV-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-05-21 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       y9QcbbMeFeh1OioxCGajE1qp@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXia-r
+
+Shop  https //stza.co/+uXia-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180521T230500Z
+DTEND:20180522T020500Z
+UID:y9QcbbMeFeh1OioxCGajE1qp@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXia-r\n\nShop: https://stza.co/+uXia-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-05-22 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       3dUcT7urzZV1UkGi9-5cGiTY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXip-2j
+
+Shop  https //stza.co/+uXip-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180522T230500Z
+DTEND:20180523T020500Z
+UID:3dUcT7urzZV1UkGi9-5cGiTY@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXip-2j\n\nShop: https://stza.co/+uXip-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-05-23 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       utLn0vkAKqT-E216QsEhujE_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXiw-2D
+
+Shop  https //stza.co/+uXiw-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180523T230500Z
+DTEND:20180524T020500Z
+UID:utLn0vkAKqT-E216QsEhujE_@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXiw-2D\n\nShop: https://stza.co/+uXiw-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-05-24 Thu 11:05-14:05>
+:PROPERTIES:
+:ID:       O9wD4kboPGep0bA_d7by3NI5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXiI-Y
+
+Shop  https //stza.co/+uXiI-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180524T160500Z
+DTEND:20180524T190500Z
+UID:O9wD4kboPGep0bA_d7by3NI5@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXiI-Y\n\nShop: https://stza.co/+uXiI-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bats
+<2018-05-25 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       zI7sjQltohMVjfjgam-UnZ7e@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bats Bulls @ Bats
+
+Buy tickets here  https //stza.co/~uXjT
+
+Follow on MiLB First Pitch  https //stza.co/+uXjT-33
+
+Shop  https //stza.co/+uXjT-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bats
+END:VALARM
+DTSTART:20180525T230000Z
+DTEND:20180526T020000Z
+UID:zI7sjQltohMVjfjgam-UnZ7e@stanza.co
+SUMMARY:Bulls @ Bats
+DESCRIPTION:Bulls @ Bats\n\nBuy tickets here: https://stza.co/~uXjT\n\nFollow on MiLB First Pitch: https://stza.co/+uXjT-33\n\nShop: https://stza.co/+uXjT-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bats
+<2018-05-26 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       0QsFCIcqHcDPNrp0f69CMalD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bats Bulls @ Bats
+
+Buy tickets here  https //stza.co/~uXjW
+
+Follow on MiLB First Pitch  https //stza.co/+uXjW-
+
+Shop  https //stza.co/+uXjW-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bats
+END:VALARM
+DTSTART:20180526T223000Z
+DTEND:20180527T013000Z
+UID:0QsFCIcqHcDPNrp0f69CMalD@stanza.co
+SUMMARY:Bulls @ Bats
+DESCRIPTION:Bulls @ Bats\n\nBuy tickets here: https://stza.co/~uXjW\n\nFollow on MiLB First Pitch: https://stza.co/+uXjW-\n\nShop: https://stza.co/+uXjW-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bats
+<2018-05-27 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       32gualwfyCI6QC43wBUuzFKV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bats Bulls @ Bats
+
+Buy tickets here  https //stza.co/~uXk2
+
+Follow on MiLB First Pitch  https //stza.co/+uXk2-23
+
+Shop  https //stza.co/+uXk2-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bats
+END:VALARM
+DTSTART:20180527T220000Z
+DTEND:20180528T010000Z
+UID:32gualwfyCI6QC43wBUuzFKV@stanza.co
+SUMMARY:Bulls @ Bats
+DESCRIPTION:Bulls @ Bats\n\nBuy tickets here: https://stza.co/~uXk2\n\nFollow on MiLB First Pitch: https://stza.co/+uXk2-23\n\nShop: https://stza.co/+uXk2-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bats
+<2018-05-28 Mon 13:00-16:00>
+:PROPERTIES:
+:ID:       cBAePBqUoim1J2IeYV5_ByVp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bats Bulls @ Bats
+
+Buy tickets here  https //stza.co/~uXkb
+
+Follow on MiLB First Pitch  https //stza.co/+uXkb-1l
+
+Shop  https //stza.co/+uXkb-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bats
+END:VALARM
+DTSTART:20180528T180000Z
+DTEND:20180528T210000Z
+UID:cBAePBqUoim1J2IeYV5_ByVp@stanza.co
+SUMMARY:Bulls @ Bats
+DESCRIPTION:Bulls @ Bats\n\nBuy tickets here: https://stza.co/~uXkb\n\nFollow on MiLB First Pitch: https://stza.co/+uXkb-1l\n\nShop: https://stza.co/+uXkb-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Red Wings
+<2018-05-29 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       LA2XZ7yUR9xU0sNzQ2ftgClt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Red Wings Bulls vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+y0sW-24
+
+Shop  https //stza.co/+y0sW-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Red Wings
+END:VALARM
+DTSTART:20180529T230500Z
+DTEND:20180530T020500Z
+UID:LA2XZ7yUR9xU0sNzQ2ftgClt@stanza.co
+SUMMARY:Bulls vs. Red Wings
+DESCRIPTION:Bulls vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+y0sW-24\n\nShop: https://stza.co/+y0sW-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Red Wings
+<2018-05-30 Wed 12:05-15:05>
+:PROPERTIES:
+:ID:       AS85Nn4Ah05gwIR91gAg0xsw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Red Wings Bulls vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+y0sX-1z
+
+Shop  https //stza.co/+y0sX-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Red Wings
+END:VALARM
+DTSTART:20180530T170500Z
+DTEND:20180530T200500Z
+UID:AS85Nn4Ah05gwIR91gAg0xsw@stanza.co
+SUMMARY:Bulls vs. Red Wings
+DESCRIPTION:Bulls vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+y0sX-1z\n\nShop: https://stza.co/+y0sX-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Red Wings
+<2018-05-31 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       GDr9EmGREw4lPkL5FZbnhQkj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Red Wings Bulls vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+y0sY-3m
+
+Shop  https //stza.co/+y0sY-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Red Wings
+END:VALARM
+DTSTART:20180531T230500Z
+DTEND:20180601T020500Z
+UID:GDr9EmGREw4lPkL5FZbnhQkj@stanza.co
+SUMMARY:Bulls vs. Red Wings
+DESCRIPTION:Bulls vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+y0sY-3m\n\nShop: https://stza.co/+y0sY-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Red Sox
+<2018-06-01 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       z1VbvhHIn8oAoM_dJrVZqlw_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Red Sox Bulls vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+y0sZ-A
+
+Shop  https //stza.co/+y0sZ-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Red Sox
+END:VALARM
+DTSTART:20180601T230500Z
+DTEND:20180602T020500Z
+UID:z1VbvhHIn8oAoM_dJrVZqlw_@stanza.co
+SUMMARY:Bulls vs. Red Sox
+DESCRIPTION:Bulls vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+y0sZ-A\n\nShop: https://stza.co/+y0sZ-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Red Sox
+<2018-06-02 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       xIYHXcCcSyECcXIibe0RLFjL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Red Sox Bulls vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+y0s_-2J
+
+Shop  https //stza.co/+y0s_-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Red Sox
+END:VALARM
+DTSTART:20180602T223500Z
+DTEND:20180603T013500Z
+UID:xIYHXcCcSyECcXIibe0RLFjL@stanza.co
+SUMMARY:Bulls vs. Red Sox
+DESCRIPTION:Bulls vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+y0s_-2J\n\nShop: https://stza.co/+y0s_-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Red Sox
+<2018-06-03 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       ZVUIxanORHJ1K-n998oRZE8k@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Red Sox Bulls vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+y0s$-7
+
+Shop  https //stza.co/+y0s$-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Red Sox
+END:VALARM
+DTSTART:20180603T210500Z
+DTEND:20180604T000500Z
+UID:ZVUIxanORHJ1K-n998oRZE8k@stanza.co
+SUMMARY:Bulls vs. Red Sox
+DESCRIPTION:Bulls vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+y0s$-7\n\nShop: https://stza.co/+y0s$-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ RailRiders
+<2018-06-05 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       AZBQbCBNUlst9rJXKnrTwnDX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ RailRiders Bulls @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+uXmq-M
+
+Shop  https //stza.co/+uXmq-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ RailRiders
+END:VALARM
+DTSTART:20180605T223500Z
+DTEND:20180606T013500Z
+UID:AZBQbCBNUlst9rJXKnrTwnDX@stanza.co
+SUMMARY:Bulls @ RailRiders
+DESCRIPTION:Bulls @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+uXmq-M\n\nShop: https://stza.co/+uXmq-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ RailRiders
+<2018-06-06 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       s92Z9rLAh2XTwLDw-_Y-KNb5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ RailRiders Bulls @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+uXmv-3x
+
+Shop  https //stza.co/+uXmv-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ RailRiders
+END:VALARM
+DTSTART:20180606T223500Z
+DTEND:20180607T013500Z
+UID:s92Z9rLAh2XTwLDw-_Y-KNb5@stanza.co
+SUMMARY:Bulls @ RailRiders
+DESCRIPTION:Bulls @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+uXmv-3x\n\nShop: https://stza.co/+uXmv-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ RailRiders
+<2018-06-07 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       QEEnCxd8E5ZQs6FmDzK9Uy7y@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ RailRiders Bulls @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+uXmA-G
+
+Shop  https //stza.co/+uXmA-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ RailRiders
+END:VALARM
+DTSTART:20180607T223500Z
+DTEND:20180608T013500Z
+UID:QEEnCxd8E5ZQs6FmDzK9Uy7y@stanza.co
+SUMMARY:Bulls @ RailRiders
+DESCRIPTION:Bulls @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+uXmA-G\n\nShop: https://stza.co/+uXmA-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Red Wings
+<2018-06-08 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       q5wpqjTH3TvJKreq0zd45JkG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Red Wings Bulls @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+uXma-21
+
+Shop  https //stza.co/+uXma-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Red Wings
+END:VALARM
+DTSTART:20180608T230500Z
+DTEND:20180609T020500Z
+UID:q5wpqjTH3TvJKreq0zd45JkG@stanza.co
+SUMMARY:Bulls @ Red Wings
+DESCRIPTION:Bulls @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+uXma-21\n\nShop: https://stza.co/+uXma-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Red Wings
+<2018-06-09 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       oVSpXza2O4aLcIPWKwN9u9HK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Red Wings Bulls @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+uXmg-3l
+
+Shop  https //stza.co/+uXmg-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Red Wings
+END:VALARM
+DTSTART:20180609T230500Z
+DTEND:20180610T020500Z
+UID:oVSpXza2O4aLcIPWKwN9u9HK@stanza.co
+SUMMARY:Bulls @ Red Wings
+DESCRIPTION:Bulls @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+uXmg-3l\n\nShop: https://stza.co/+uXmg-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Red Wings
+<2018-06-10 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       V68R9p8zs6M-AVfJadCzFANc@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Red Wings Bulls @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vK5S-3c
+
+Shop  https //stza.co/+vK5S-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Red Wings
+END:VALARM
+DTSTART:20180610T170500Z
+DTEND:20180610T200500Z
+UID:V68R9p8zs6M-AVfJadCzFANc@stanza.co
+SUMMARY:Bulls @ Red Wings
+DESCRIPTION:Bulls @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vK5S-3c\n\nShop: https://stza.co/+vK5S-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-06-12 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       N-7EzKlY_LK6HU9o1NdQvg_W@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0t0-2m
+
+Shop  https //stza.co/+y0t0-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180612T230500Z
+DTEND:20180613T020500Z
+UID:N-7EzKlY_LK6HU9o1NdQvg_W@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0t0-2m\n\nShop: https://stza.co/+y0t0-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-06-13 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       8jUIkroOnChKQq_kx3Wlxl80@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0t1-Q
+
+Shop  https //stza.co/+y0t1-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180613T230500Z
+DTEND:20180614T020500Z
+UID:8jUIkroOnChKQq_kx3Wlxl80@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0t1-Q\n\nShop: https://stza.co/+y0t1-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       GgiSu0MiNc7JnfBICk2Wmd7g@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0t2-3F
+
+Shop  https //stza.co/+y0t2-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:GgiSu0MiNc7JnfBICk2Wmd7g@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0t2-3F\n\nShop: https://stza.co/+y0t2-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       ge9Tl58HVQIce290JpWp68FT@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0t3-1q
+
+Shop  https //stza.co/+y0t3-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:ge9Tl58HVQIce290JpWp68FT@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0t3-1q\n\nShop: https://stza.co/+y0t3-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-06-16 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       7kj-QcToCRZcfgtpVo9PshRE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0t4-6
+
+Shop  https //stza.co/+y0t4-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180616T223500Z
+DTEND:20180617T013500Z
+UID:7kj-QcToCRZcfgtpVo9PshRE@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0t4-6\n\nShop: https://stza.co/+y0t4-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-06-17 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       rwecMmtPxt4DbleCifnrZ_3B@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0t5-2f
+
+Shop  https //stza.co/+y0t5-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180617T210500Z
+DTEND:20180618T000500Z
+UID:rwecMmtPxt4DbleCifnrZ_3B@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0t5-2f\n\nShop: https://stza.co/+y0t5-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bats
+<2018-06-19 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       OUezQ6RbO19wnK-fd8r4R4UZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bats Bulls @ Bats
+
+Buy tickets here  https //stza.co/~uXkl
+
+Follow on MiLB First Pitch  https //stza.co/+uXkl-z
+
+Shop  https //stza.co/+uXkl-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bats
+END:VALARM
+DTSTART:20180619T230000Z
+DTEND:20180620T020000Z
+UID:OUezQ6RbO19wnK-fd8r4R4UZ@stanza.co
+SUMMARY:Bulls @ Bats
+DESCRIPTION:Bulls @ Bats\n\nBuy tickets here: https://stza.co/~uXkl\n\nFollow on MiLB First Pitch: https://stza.co/+uXkl-z\n\nShop: https://stza.co/+uXkl-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bats
+<2018-06-20 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       FMfdRuyGyi2O0I4bN81ypmpB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bats Bulls @ Bats
+
+Buy tickets here  https //stza.co/~uXks
+
+Follow on MiLB First Pitch  https //stza.co/+uXks-36
+
+Shop  https //stza.co/+uXks-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bats
+END:VALARM
+DTSTART:20180620T160000Z
+DTEND:20180620T190000Z
+UID:FMfdRuyGyi2O0I4bN81ypmpB@stanza.co
+SUMMARY:Bulls @ Bats
+DESCRIPTION:Bulls @ Bats\n\nBuy tickets here: https://stza.co/~uXks\n\nFollow on MiLB First Pitch: https://stza.co/+uXks-36\n\nShop: https://stza.co/+uXks-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bats
+<2018-06-21 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       dfNW4RhEvk8RrwbM3QAR3ZoI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bats Bulls @ Bats
+
+Buy tickets here  https //stza.co/~uXkz
+
+Follow on MiLB First Pitch  https //stza.co/+uXkz-k
+
+Shop  https //stza.co/+uXkz-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bats
+END:VALARM
+DTSTART:20180621T230000Z
+DTEND:20180622T020000Z
+UID:dfNW4RhEvk8RrwbM3QAR3ZoI@stanza.co
+SUMMARY:Bulls @ Bats
+DESCRIPTION:Bulls @ Bats\n\nBuy tickets here: https://stza.co/~uXkz\n\nFollow on MiLB First Pitch: https://stza.co/+uXkz-k\n\nShop: https://stza.co/+uXkz-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Indians
+<2018-06-22 Fri 18:15-21:15>
+:PROPERTIES:
+:ID:       _AUJGXVq4K6X54T58tZDx1Lb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Indians Bulls @ Indians
+
+Follow on MiLB First Pitch  https //stza.co/+uXjf-t
+
+Shop  https //stza.co/+uXjf-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Indians
+END:VALARM
+DTSTART:20180622T231500Z
+DTEND:20180623T021500Z
+UID:_AUJGXVq4K6X54T58tZDx1Lb@stanza.co
+SUMMARY:Bulls @ Indians
+DESCRIPTION:Bulls @ Indians\n\nFollow on MiLB First Pitch: https://stza.co/+uXjf-t\n\nShop: https://stza.co/+uXjf-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Indians
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       iD9_fMcHeWAHP1cuxY4WXTfn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Indians Bulls @ Indians
+
+Follow on MiLB First Pitch  https //stza.co/+uXjj-h
+
+Shop  https //stza.co/+uXjj-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Indians
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:iD9_fMcHeWAHP1cuxY4WXTfn@stanza.co
+SUMMARY:Bulls @ Indians
+DESCRIPTION:Bulls @ Indians\n\nFollow on MiLB First Pitch: https://stza.co/+uXjj-h\n\nShop: https://stza.co/+uXjj-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Indians
+<2018-06-24 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       -T_0pMM58jTg_Q-rSQZ3HUSm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Indians Bulls @ Indians
+
+Follow on MiLB First Pitch  https //stza.co/+uXjt-T
+
+Shop  https //stza.co/+uXjt-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Indians
+END:VALARM
+DTSTART:20180624T173500Z
+DTEND:20180624T203500Z
+UID:-T_0pMM58jTg_Q-rSQZ3HUSm@stanza.co
+SUMMARY:Bulls @ Indians
+DESCRIPTION:Bulls @ Indians\n\nFollow on MiLB First Pitch: https://stza.co/+uXjt-T\n\nShop: https://stza.co/+uXjt-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       09s0gzmtAXAmH9YYv6q7tP_c@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0t6-
+
+Shop  https //stza.co/+y0t6-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:09s0gzmtAXAmH9YYv6q7tP_c@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0t6-\n\nShop: https://stza.co/+y0t6-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-06-26 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       -tgP6PFLxzf6xedZeep4PaO9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0t7-35
+
+Shop  https //stza.co/+y0t7-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180626T230500Z
+DTEND:20180627T020500Z
+UID:-tgP6PFLxzf6xedZeep4PaO9@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0t7-35\n\nShop: https://stza.co/+y0t7-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-06-27 Wed 12:05-15:05>
+:PROPERTIES:
+:ID:       rwma245WTOQzHq_bq3NcOf4x@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0t8-v
+
+Shop  https //stza.co/+y0t8-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180627T170500Z
+DTEND:20180627T200500Z
+UID:rwma245WTOQzHq_bq3NcOf4x@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0t8-v\n\nShop: https://stza.co/+y0t8-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       4Nz_VDahAgu2xpAOXp1mHU0p@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXl1-3r
+
+Shop  https //stza.co/+uXl1-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:4Nz_VDahAgu2xpAOXp1mHU0p@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXl1-3r\n\nShop: https://stza.co/+uXl1-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       R-RuQuMAF7icYxy2o-KT1uuJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXl7-2t
+
+Shop  https //stza.co/+uXl7-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:R-RuQuMAF7icYxy2o-KT1uuJ@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXl7-2t\n\nShop: https://stza.co/+uXl7-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-06-30 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       eDroYqpVpQdhQAwj_2uaUIwZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXld-2m
+
+Shop  https //stza.co/+uXld-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180630T230500Z
+DTEND:20180701T020500Z
+UID:eDroYqpVpQdhQAwj_2uaUIwZ@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXld-2m\n\nShop: https://stza.co/+uXld-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-07-01 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       nRb8_oXB2Z_c-UAOT1eV7yvk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXlo-24
+
+Shop  https //stza.co/+uXlo-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180701T170500Z
+DTEND:20180701T200500Z
+UID:nRb8_oXB2Z_c-UAOT1eV7yvk@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXlo-24\n\nShop: https://stza.co/+uXlo-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-07-02 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       d5OUSkvppVU2J3xQsFUdEAzg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0t9-1S
+
+Shop  https //stza.co/+y0t9-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180702T223500Z
+DTEND:20180703T013500Z
+UID:d5OUSkvppVU2J3xQsFUdEAzg@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0t9-1S\n\nShop: https://stza.co/+y0t9-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-07-03 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       c-I-rbHB5RE9g2h4ibYcPXEU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0ta-3H
+
+Shop  https //stza.co/+y0ta-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180703T223500Z
+DTEND:20180704T013500Z
+UID:c-I-rbHB5RE9g2h4ibYcPXEU@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0ta-3H\n\nShop: https://stza.co/+y0ta-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-07-04 Wed 17:05-20:05>
+:PROPERTIES:
+:ID:       nzeGTHChQP5bMMNX9IcAJAPs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON4-16
+
+Shop  https //stza.co/+xON4-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180704T220500Z
+DTEND:20180705T010500Z
+UID:nzeGTHChQP5bMMNX9IcAJAPs@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON4-16\n\nShop: https://stza.co/+xON4-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-07-05 Thu 18:04-21:04>
+:PROPERTIES:
+:ID:       1qxUnHrB1xH8tah4P-8u1kkH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON5-3h
+
+Shop  https //stza.co/+xON5-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180705T230400Z
+DTEND:20180706T020400Z
+UID:1qxUnHrB1xH8tah4P-8u1kkH@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON5-3h\n\nShop: https://stza.co/+xON5-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       c5jcaaScljmAxQol1nLzPhSN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0tb-c
+
+Shop  https //stza.co/+y0tb-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:c5jcaaScljmAxQol1nLzPhSN@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0tb-c\n\nShop: https://stza.co/+y0tb-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-07-07 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       xUvYhPmBTdSTgoLhdKY7TNoT@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0tc-1D
+
+Shop  https //stza.co/+y0tc-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180707T223500Z
+DTEND:20180708T013500Z
+UID:xUvYhPmBTdSTgoLhdKY7TNoT@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0tc-1D\n\nShop: https://stza.co/+y0tc-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-07-08 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       bfcCo6Px6jVnOiPZaXp6WyIc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0td-p
+
+Shop  https //stza.co/+y0td-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180708T210500Z
+DTEND:20180709T000500Z
+UID:bfcCo6Px6jVnOiPZaXp6WyIc@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0td-p\n\nShop: https://stza.co/+y0td-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-07-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       GJAHomtakpTZNm3YAv5Sk-Jj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0te-h
+
+Shop  https //stza.co/+y0te-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180712T230500Z
+DTEND:20180713T020500Z
+UID:GJAHomtakpTZNm3YAv5Sk-Jj@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0te-h\n\nShop: https://stza.co/+y0te-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       3NbJFgtOy6tLPtXDhDYYpdyd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0tf-3O
+
+Shop  https //stza.co/+y0tf-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:3NbJFgtOy6tLPtXDhDYYpdyd@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0tf-3O\n\nShop: https://stza.co/+y0tf-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-07-14 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       Yejqr_7GVBRszkzZj_hsdRXT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0tg-1y
+
+Shop  https //stza.co/+y0tg-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180714T223500Z
+DTEND:20180715T013500Z
+UID:Yejqr_7GVBRszkzZj_hsdRXT@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0tg-1y\n\nShop: https://stza.co/+y0tg-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Knights
+<2018-07-15 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       1IwXfXwP7JyExnDcV-I59itp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Knights Bulls vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+y0th-z
+
+Shop  https //stza.co/+y0th-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Knights
+END:VALARM
+DTSTART:20180715T210500Z
+DTEND:20180716T000500Z
+UID:1IwXfXwP7JyExnDcV-I59itp@stanza.co
+SUMMARY:Bulls vs. Knights
+DESCRIPTION:Bulls vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+y0th-z\n\nShop: https://stza.co/+y0th-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Chiefs
+<2018-07-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       caWY9LLzVOo5RFYW69nPMRdG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Chiefs Bulls @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+uXmE-2k
+
+Shop  https //stza.co/+uXmE-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Chiefs
+END:VALARM
+DTSTART:20180716T223500Z
+DTEND:20180717T013500Z
+UID:caWY9LLzVOo5RFYW69nPMRdG@stanza.co
+SUMMARY:Bulls @ Chiefs
+DESCRIPTION:Bulls @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+uXmE-2k\n\nShop: https://stza.co/+uXmE-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Chiefs
+<2018-07-17 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       H7vVQyqgA8vV5hp_b67ESQlL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Chiefs Bulls @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+uXmI-2$
+
+Shop  https //stza.co/+uXmI-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Chiefs
+END:VALARM
+DTSTART:20180717T223500Z
+DTEND:20180718T013500Z
+UID:H7vVQyqgA8vV5hp_b67ESQlL@stanza.co
+SUMMARY:Bulls @ Chiefs
+DESCRIPTION:Bulls @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+uXmI-2$\n\nShop: https://stza.co/+uXmI-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Chiefs
+<2018-07-18 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       FrPbBaO--wVl-J2C3XJ7Pv6w@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Chiefs Bulls @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+y4zF-3w
+
+Shop  https //stza.co/+y4zF-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Chiefs
+END:VALARM
+DTSTART:20180718T160000Z
+DTEND:20180718T190000Z
+UID:FrPbBaO--wVl-J2C3XJ7Pv6w@stanza.co
+SUMMARY:Bulls @ Chiefs
+DESCRIPTION:Bulls @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+y4zF-3w\n\nShop: https://stza.co/+y4zF-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bisons
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       G394snR5UTVhJkWM6juuceBd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bisons Bulls @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+uWOf-P
+
+Shop  https //stza.co/+uWOf-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bisons
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:G394snR5UTVhJkWM6juuceBd@stanza.co
+SUMMARY:Bulls @ Bisons
+DESCRIPTION:Bulls @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+uWOf-P\n\nShop: https://stza.co/+uWOf-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bisons
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       VMswkwZUuOYMueduWA14w9Rv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bisons Bulls @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+uWOl-3m
+
+Shop  https //stza.co/+uWOl-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bisons
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:VMswkwZUuOYMueduWA14w9Rv@stanza.co
+SUMMARY:Bulls @ Bisons
+DESCRIPTION:Bulls @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+uWOl-3m\n\nShop: https://stza.co/+uWOl-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bisons
+<2018-07-21 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       -XmTNfhf0HEYBJlE2YLgoQLq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bisons Bulls @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+uWOq-1Q
+
+Shop  https //stza.co/+uWOq-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bisons
+END:VALARM
+DTSTART:20180721T220500Z
+DTEND:20180722T010500Z
+UID:-XmTNfhf0HEYBJlE2YLgoQLq@stanza.co
+SUMMARY:Bulls @ Bisons
+DESCRIPTION:Bulls @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+uWOq-1Q\n\nShop: https://stza.co/+uWOq-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Bisons
+<2018-07-22 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       ObR39f_yC2kVeQyKypmkYmcd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Bisons Bulls @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+uWOv-3J
+
+Shop  https //stza.co/+uWOv-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Bisons
+END:VALARM
+DTSTART:20180722T170500Z
+DTEND:20180722T200500Z
+UID:ObR39f_yC2kVeQyKypmkYmcd@stanza.co
+SUMMARY:Bulls @ Bisons
+DESCRIPTION:Bulls @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+uWOv-3J\n\nShop: https://stza.co/+uWOv-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Mud Hens
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       cVpMjPvaIBGX6oBJiEn5J8WH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Mud Hens Bulls vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+y0ti-Y
+
+Shop  https //stza.co/+y0ti-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Mud Hens
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:cVpMjPvaIBGX6oBJiEn5J8WH@stanza.co
+SUMMARY:Bulls vs. Mud Hens
+DESCRIPTION:Bulls vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+y0ti-Y\n\nShop: https://stza.co/+y0ti-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Mud Hens
+<2018-07-25 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       VlEhZ2fER5JvDm9yPOhtnxcf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Mud Hens Bulls vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+y0tj-F
+
+Shop  https //stza.co/+y0tj-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Mud Hens
+END:VALARM
+DTSTART:20180725T230500Z
+DTEND:20180726T020500Z
+UID:VlEhZ2fER5JvDm9yPOhtnxcf@stanza.co
+SUMMARY:Bulls vs. Mud Hens
+DESCRIPTION:Bulls vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+y0tj-F\n\nShop: https://stza.co/+y0tj-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Mud Hens
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       mN2dPkiMvKqQ1Q13EBRDdg--@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Mud Hens Bulls vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+y0tk-3m
+
+Shop  https //stza.co/+y0tk-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Mud Hens
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:mN2dPkiMvKqQ1Q13EBRDdg--@stanza.co
+SUMMARY:Bulls vs. Mud Hens
+DESCRIPTION:Bulls vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+y0tk-3m\n\nShop: https://stza.co/+y0tk-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Chiefs
+<2018-07-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       hIK2xbeR1933V64X2THPRKa4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Chiefs Bulls vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+y0tl-1x
+
+Shop  https //stza.co/+y0tl-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Chiefs
+END:VALARM
+DTSTART:20180727T230500Z
+DTEND:20180728T020500Z
+UID:hIK2xbeR1933V64X2THPRKa4@stanza.co
+SUMMARY:Bulls vs. Chiefs
+DESCRIPTION:Bulls vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+y0tl-1x\n\nShop: https://stza.co/+y0tl-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Chiefs
+<2018-07-28 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       Bea1xjGkN3xWPFpq2C-t06Sz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Chiefs Bulls vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+y0tm-1S
+
+Shop  https //stza.co/+y0tm-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Chiefs
+END:VALARM
+DTSTART:20180728T223500Z
+DTEND:20180729T013500Z
+UID:Bea1xjGkN3xWPFpq2C-t06Sz@stanza.co
+SUMMARY:Bulls vs. Chiefs
+DESCRIPTION:Bulls vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+y0tm-1S\n\nShop: https://stza.co/+y0tm-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Chiefs
+<2018-07-29 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       NkHl3M8paZm5frNxgLu0w7DN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Chiefs Bulls vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+y0tn-2q
+
+Shop  https //stza.co/+y0tn-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Chiefs
+END:VALARM
+DTSTART:20180729T210500Z
+DTEND:20180730T000500Z
+UID:NkHl3M8paZm5frNxgLu0w7DN@stanza.co
+SUMMARY:Bulls vs. Chiefs
+DESCRIPTION:Bulls vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+y0tn-2q\n\nShop: https://stza.co/+y0tn-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-07-30 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       kpH_O61pP7ou-O9kVGv2gR1L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXiR-1Z
+
+Shop  https //stza.co/+uXiR-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180730T230500Z
+DTEND:20180731T020500Z
+UID:kpH_O61pP7ou-O9kVGv2gR1L@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXiR-1Z\n\nShop: https://stza.co/+uXiR-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-07-31 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       XDQAXwFAGPnV2zcyHs7s2bYP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXiW-Z
+
+Shop  https //stza.co/+uXiW-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180731T230500Z
+DTEND:20180801T020500Z
+UID:XDQAXwFAGPnV2zcyHs7s2bYP@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXiW-Z\n\nShop: https://stza.co/+uXiW-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-08-01 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       BmNjI_4nzm7oI9he3oAZS0BU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXj3-1r
+
+Shop  https //stza.co/+uXj3-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180801T230500Z
+DTEND:20180802T020500Z
+UID:BmNjI_4nzm7oI9he3oAZS0BU@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXj3-1r\n\nShop: https://stza.co/+uXj3-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Stripers
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       ABSbgsQ6vVQIHthHMWIopWLS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Stripers Bulls @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+uXj9-3p
+
+Shop  https //stza.co/+uXj9-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Stripers
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:ABSbgsQ6vVQIHthHMWIopWLS@stanza.co
+SUMMARY:Bulls @ Stripers
+DESCRIPTION:Bulls @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+uXj9-3p\n\nShop: https://stza.co/+uXj9-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-08-03 Fri 18:04-21:04>
+:PROPERTIES:
+:ID:       6_nSIYAw9FR-Vid_mX8CEPqt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON6-1n
+
+Shop  https //stza.co/+xON6-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180803T230400Z
+DTEND:20180804T020400Z
+UID:6_nSIYAw9FR-Vid_mX8CEPqt@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON6-1n\n\nShop: https://stza.co/+xON6-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-08-04 Sat 18:04-21:04>
+:PROPERTIES:
+:ID:       Qoq0-ZX7BdnwoWGr8e7eC7nW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON7-16
+
+Shop  https //stza.co/+xON7-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180804T230400Z
+DTEND:20180805T020400Z
+UID:Qoq0-ZX7BdnwoWGr8e7eC7nW@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON7-16\n\nShop: https://stza.co/+xON7-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-08-05 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       LfYpgvy58ECW9qw6-fdYj3uY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+uWP5-k
+
+Shop  https //stza.co/+uWP5-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180805T210500Z
+DTEND:20180806T000500Z
+UID:LfYpgvy58ECW9qw6-fdYj3uY@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+uWP5-k\n\nShop: https://stza.co/+uWP5-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Clippers
+<2018-08-07 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       UE0LUNSuR8tea4Rud6aOLB5c@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Clippers Bulls vs. Clippers
+
+Follow on MiLB First Pitch  https //stza.co/+y0to-3Z
+
+Shop  https //stza.co/+y0to-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Clippers
+END:VALARM
+DTSTART:20180807T230500Z
+DTEND:20180808T020500Z
+UID:UE0LUNSuR8tea4Rud6aOLB5c@stanza.co
+SUMMARY:Bulls vs. Clippers
+DESCRIPTION:Bulls vs. Clippers\n\nFollow on MiLB First Pitch: https://stza.co/+y0to-3Z\n\nShop: https://stza.co/+y0to-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Clippers
+<2018-08-08 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       4CqouCpkFrSH6XMu3irLqdmZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Clippers Bulls vs. Clippers
+
+Follow on MiLB First Pitch  https //stza.co/+y0tp-2K
+
+Shop  https //stza.co/+y0tp-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Clippers
+END:VALARM
+DTSTART:20180808T230500Z
+DTEND:20180809T020500Z
+UID:4CqouCpkFrSH6XMu3irLqdmZ@stanza.co
+SUMMARY:Bulls vs. Clippers
+DESCRIPTION:Bulls vs. Clippers\n\nFollow on MiLB First Pitch: https://stza.co/+y0tp-2K\n\nShop: https://stza.co/+y0tp-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Clippers
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       HummoeAaAzfMM8-iGxWZnf32@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Clippers Bulls vs. Clippers
+
+Follow on MiLB First Pitch  https //stza.co/+y0tq-1o
+
+Shop  https //stza.co/+y0tq-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Clippers
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:HummoeAaAzfMM8-iGxWZnf32@stanza.co
+SUMMARY:Bulls vs. Clippers
+DESCRIPTION:Bulls vs. Clippers\n\nFollow on MiLB First Pitch: https://stza.co/+y0tq-1o\n\nShop: https://stza.co/+y0tq-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. RailRiders
+<2018-08-10 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       WrZ2uhLdxPf5-OId3mrAKAmK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. RailRiders Bulls vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+y0tr-n
+
+Shop  https //stza.co/+y0tr-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. RailRiders
+END:VALARM
+DTSTART:20180810T230500Z
+DTEND:20180811T020500Z
+UID:WrZ2uhLdxPf5-OId3mrAKAmK@stanza.co
+SUMMARY:Bulls vs. RailRiders
+DESCRIPTION:Bulls vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+y0tr-n\n\nShop: https://stza.co/+y0tr-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. RailRiders
+<2018-08-11 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       LmCetFnR0loZOGjyA9xNAggk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. RailRiders Bulls vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+y0ts-D
+
+Shop  https //stza.co/+y0ts-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. RailRiders
+END:VALARM
+DTSTART:20180811T223500Z
+DTEND:20180812T013500Z
+UID:LmCetFnR0loZOGjyA9xNAggk@stanza.co
+SUMMARY:Bulls vs. RailRiders
+DESCRIPTION:Bulls vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+y0ts-D\n\nShop: https://stza.co/+y0ts-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. RailRiders
+<2018-08-12 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       ZpkTNeybPf-nVEh7pLDRp-17@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. RailRiders Bulls vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+y0tt-1p
+
+Shop  https //stza.co/+y0tt-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. RailRiders
+END:VALARM
+DTSTART:20180812T210500Z
+DTEND:20180813T000500Z
+UID:ZpkTNeybPf-nVEh7pLDRp-17@stanza.co
+SUMMARY:Bulls vs. RailRiders
+DESCRIPTION:Bulls vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+y0tt-1p\n\nShop: https://stza.co/+y0tt-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ IronPigs
+<2018-08-13 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       r8KTwprC0pcmnK4vGzPa3ejW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ IronPigs Bulls @ IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+x$2N-1I
+
+Shop  https //stza.co/+x$2N-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ IronPigs
+END:VALARM
+DTSTART:20180813T230500Z
+DTEND:20180814T020500Z
+UID:r8KTwprC0pcmnK4vGzPa3ejW@stanza.co
+SUMMARY:Bulls @ IronPigs
+DESCRIPTION:Bulls @ IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+x$2N-1I\n\nShop: https://stza.co/+x$2N-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ IronPigs
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       2gMPj9l6b2c9AO7ZeEOSxXFD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ IronPigs Bulls @ IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+uXjF-1S
+
+Shop  https //stza.co/+uXjF-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ IronPigs
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:2gMPj9l6b2c9AO7ZeEOSxXFD@stanza.co
+SUMMARY:Bulls @ IronPigs
+DESCRIPTION:Bulls @ IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+uXjF-1S\n\nShop: https://stza.co/+uXjF-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ IronPigs
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       8D68ft9Tjcl_inHCVd5ZXaIK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ IronPigs Bulls @ IronPigs
+
+Follow on MiLB First Pitch  https //stza.co/+uXjN-2R
+
+Shop  https //stza.co/+uXjN-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ IronPigs
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:8D68ft9Tjcl_inHCVd5ZXaIK@stanza.co
+SUMMARY:Bulls @ IronPigs
+DESCRIPTION:Bulls @ IronPigs\n\nFollow on MiLB First Pitch: https://stza.co/+uXjN-2R\n\nShop: https://stza.co/+uXjN-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Red Sox
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       8FTKIbNcR12hMbMFDGNCHWtj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Red Sox Bulls @ Red Sox
+
+Buy tickets here  https //stza.co/~uXlS
+
+Follow on MiLB First Pitch  https //stza.co/+uXlS-2R
+
+Shop  https //stza.co/+uXlS-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Red Sox
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:8FTKIbNcR12hMbMFDGNCHWtj@stanza.co
+SUMMARY:Bulls @ Red Sox
+DESCRIPTION:Bulls @ Red Sox\n\nBuy tickets here: https://stza.co/~uXlS\n\nFollow on MiLB First Pitch: https://stza.co/+uXlS-2R\n\nShop: https://stza.co/+uXlS-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Red Sox
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       VHZdRc1PSWOQQ1fB74I07P5B@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Red Sox Bulls @ Red Sox
+
+Buy tickets here  https //stza.co/~uXlZ
+
+Follow on MiLB First Pitch  https //stza.co/+uXlZ-p
+
+Shop  https //stza.co/+uXlZ-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Red Sox
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:VHZdRc1PSWOQQ1fB74I07P5B@stanza.co
+SUMMARY:Bulls @ Red Sox
+DESCRIPTION:Bulls @ Red Sox\n\nBuy tickets here: https://stza.co/~uXlZ\n\nFollow on MiLB First Pitch: https://stza.co/+uXlZ-p\n\nShop: https://stza.co/+uXlZ-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Red Sox
+<2018-08-18 Sat 17:15-20:15>
+:PROPERTIES:
+:ID:       0z7MKyMlx9bL_UGt5KrK8B7i@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Red Sox Bulls @ Red Sox
+
+Buy tickets here  https //stza.co/~uXm1
+
+Follow on MiLB First Pitch  https //stza.co/+uXm1-6
+
+Shop  https //stza.co/+uXm1-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Red Sox
+END:VALARM
+DTSTART:20180818T221500Z
+DTEND:20180819T011500Z
+UID:0z7MKyMlx9bL_UGt5KrK8B7i@stanza.co
+SUMMARY:Bulls @ Red Sox
+DESCRIPTION:Bulls @ Red Sox\n\nBuy tickets here: https://stza.co/~uXm1\n\nFollow on MiLB First Pitch: https://stza.co/+uXm1-6\n\nShop: https://stza.co/+uXm1-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Red Sox
+<2018-08-19 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       iDMeI4YHQMCS2o0c6xS9_4f-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Red Sox Bulls @ Red Sox
+
+Buy tickets here  https //stza.co/~uXm6
+
+Follow on MiLB First Pitch  https //stza.co/+uXm6-2q
+
+Shop  https //stza.co/+uXm6-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Red Sox
+END:VALARM
+DTSTART:20180819T173500Z
+DTEND:20180819T203500Z
+UID:iDMeI4YHQMCS2o0c6xS9_4f-@stanza.co
+SUMMARY:Bulls @ Red Sox
+DESCRIPTION:Bulls @ Red Sox\n\nBuy tickets here: https://stza.co/~uXm6\n\nFollow on MiLB First Pitch: https://stza.co/+uXm6-2q\n\nShop: https://stza.co/+uXm6-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       5kuRw9AEbRGQVXNLGjEFMS7f@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0tu-j
+
+Shop  https //stza.co/+y0tu-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:5kuRw9AEbRGQVXNLGjEFMS7f@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0tu-j\n\nShop: https://stza.co/+y0tu-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-08-22 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       3YiVcin198oc7Oi8aCOGjUAN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0tv-8
+
+Shop  https //stza.co/+y0tv-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180822T230500Z
+DTEND:20180823T020500Z
+UID:3YiVcin198oc7Oi8aCOGjUAN@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0tv-8\n\nShop: https://stza.co/+y0tv-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Stripers
+<2018-08-23 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       u1-jw1bX5eVK5K9nl9XHGiJO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Stripers Bulls vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+y0tw-V
+
+Shop  https //stza.co/+y0tw-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Stripers
+END:VALARM
+DTSTART:20180823T230500Z
+DTEND:20180824T020500Z
+UID:u1-jw1bX5eVK5K9nl9XHGiJO@stanza.co
+SUMMARY:Bulls vs. Stripers
+DESCRIPTION:Bulls vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+y0tw-V\n\nShop: https://stza.co/+y0tw-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       vPwcTV0Lf1kpgpFEmAEq9T-X@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXls-q
+
+Shop  https //stza.co/+uXls-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:vPwcTV0Lf1kpgpFEmAEq9T-X@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXls-q\n\nShop: https://stza.co/+uXls-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-08-25 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       Ect5Im95DBCdvUflsBlYhZvY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXly-3b
+
+Shop  https //stza.co/+uXly-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180825T230500Z
+DTEND:20180826T020500Z
+UID:Ect5Im95DBCdvUflsBlYhZvY@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXly-3b\n\nShop: https://stza.co/+uXly-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-08-26 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       o0UOYu7RWlrYmTm7SSxqLNji@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXlG-37
+
+Shop  https //stza.co/+uXlG-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180826T200500Z
+DTEND:20180826T230500Z
+UID:o0UOYu7RWlrYmTm7SSxqLNji@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXlG-37\n\nShop: https://stza.co/+uXlG-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Tides
+<2018-08-27 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       2Wkd-ef-fKv6DD59MIH9t238@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Tides Bulls @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+uXlM-3
+
+Shop  https //stza.co/+uXlM-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Tides
+END:VALARM
+DTSTART:20180827T230500Z
+DTEND:20180828T020500Z
+UID:2Wkd-ef-fKv6DD59MIH9t238@stanza.co
+SUMMARY:Bulls @ Tides
+DESCRIPTION:Bulls @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+uXlM-3\n\nShop: https://stza.co/+uXlM-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-08-28 Tue 18:04-21:04>
+:PROPERTIES:
+:ID:       9eP_yHrlnzAjVaH6HMkJsyVJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON8-2L
+
+Shop  https //stza.co/+xON8-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180828T230400Z
+DTEND:20180829T020400Z
+UID:9eP_yHrlnzAjVaH6HMkJsyVJ@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON8-2L\n\nShop: https://stza.co/+xON8-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-08-29 Wed 18:04-21:04>
+:PROPERTIES:
+:ID:       A_iAVyxkCSKOT3hGI4QKfWQF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xON9-3j
+
+Shop  https //stza.co/+xON9-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180829T230400Z
+DTEND:20180830T020400Z
+UID:A_iAVyxkCSKOT3hGI4QKfWQF@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xON9-3j\n\nShop: https://stza.co/+xON9-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls @ Knights
+<2018-08-30 Thu 18:04-21:04>
+:PROPERTIES:
+:ID:       BZ7Rc8SGzxZtqVxxDtoOYS5D@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls @ Knights Bulls @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONa-2Q
+
+Shop  https //stza.co/+xONa-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bulls @ Knights
+END:VALARM
+DTSTART:20180830T230400Z
+DTEND:20180831T020400Z
+UID:BZ7Rc8SGzxZtqVxxDtoOYS5D@stanza.co
+SUMMARY:Bulls @ Knights
+DESCRIPTION:Bulls @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONa-2Q\n\nShop: https://stza.co/+xONa-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-08-31 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       F_v1Qwtxs8hRnvC9C5uhLOMo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0tx-28
+
+Shop  https //stza.co/+y0tx-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180831T230500Z
+DTEND:20180901T020500Z
+UID:F_v1Qwtxs8hRnvC9C5uhLOMo@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0tx-28\n\nShop: https://stza.co/+y0tx-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-09-01 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       rqxlSqgU5onnICScvvmqq5md@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0ty-1D
+
+Shop  https //stza.co/+y0ty-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180901T223500Z
+DTEND:20180902T013500Z
+UID:rqxlSqgU5onnICScvvmqq5md@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0ty-1D\n\nShop: https://stza.co/+y0ty-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-09-02 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       wJMT9zVVe74Kv2K_T6bbZD0q@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0tz-10
+
+Shop  https //stza.co/+y0tz-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180902T210500Z
+DTEND:20180903T000500Z
+UID:wJMT9zVVe74Kv2K_T6bbZD0q@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0tz-10\n\nShop: https://stza.co/+y0tz-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bulls vs. Tides
+<2018-09-03 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       l5VNSamhC6cT_w9If9shQkyJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bulls vs. Tides Bulls vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+y0tA-3e
+
+Shop  https //stza.co/+y0tA-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bulls vs. Tides
+END:VALARM
+DTSTART:20180903T170500Z
+DTEND:20180903T200500Z
+UID:l5VNSamhC6cT_w9If9shQkyJ@stanza.co
+SUMMARY:Bulls vs. Tides
+DESCRIPTION:Bulls vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+y0tA-3e\n\nShop: https://stza.co/+y0tA-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144521Z
+LAST-MODIFIED:20180213T144521Z
+TRANSP:OPAQUE
+END:VEVENT

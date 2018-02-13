@@ -1,0 +1,2458 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Blue Jays vs. Cardinals
+<2018-06-19 Tue>--<2018-06-18 Mon>
+:PROPERTIES:
+:ID:       oAn6O8MyJMRnyEzknlG8ixpj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Cardinals Blue Jays vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCEQ-l
+
+Shop  https //stza.co/+xCEQ-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180619
+UID:oAn6O8MyJMRnyEzknlG8ixpj@stanza.co
+SUMMARY:Blue Jays vs. Cardinals
+DESCRIPTION:Blue Jays vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCEQ-l\n\nShop: https://stza.co/+xCEQ-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Cardinals
+<2018-06-20 Wed>--<2018-06-19 Tue>
+:PROPERTIES:
+:ID:       d3G-sEEXnnzeTig9xILZctBU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Cardinals Blue Jays vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCES-e
+
+Shop  https //stza.co/+xCES-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180620
+UID:d3G-sEEXnnzeTig9xILZctBU@stanza.co
+SUMMARY:Blue Jays vs. Cardinals
+DESCRIPTION:Blue Jays vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCES-e\n\nShop: https://stza.co/+xCES-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Cardinals
+<2018-06-21 Thu>--<2018-06-20 Wed>
+:PROPERTIES:
+:ID:       j9tn3q9DT6LM-LKQGManHnBG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Cardinals Blue Jays vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCET-2n
+
+Shop  https //stza.co/+xCET-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180621
+UID:j9tn3q9DT6LM-LKQGManHnBG@stanza.co
+SUMMARY:Blue Jays vs. Cardinals
+DESCRIPTION:Blue Jays vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCET-2n\n\nShop: https://stza.co/+xCET-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Royals
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       xIFmu4V2TsypeIUyGeatAJnn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Royals Blue Jays @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCEV-e
+
+Shop  https //stza.co/+xCEV-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:xIFmu4V2TsypeIUyGeatAJnn@stanza.co
+SUMMARY:Blue Jays @ Royals
+DESCRIPTION:Blue Jays @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCEV-e\n\nShop: https://stza.co/+xCEV-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Royals
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       KgiVjd2N7yda5G9ZA32nfv-_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Royals Blue Jays @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCEW-1j
+
+Shop  https //stza.co/+xCEW-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:KgiVjd2N7yda5G9ZA32nfv-_@stanza.co
+SUMMARY:Blue Jays @ Royals
+DESCRIPTION:Blue Jays @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCEW-1j\n\nShop: https://stza.co/+xCEW-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Royals
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       jrd3m0NkDyAT7yfg7SEYVhJ3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Royals Blue Jays @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCEX-1R
+
+Shop  https //stza.co/+xCEX-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:jrd3m0NkDyAT7yfg7SEYVhJ3@stanza.co
+SUMMARY:Blue Jays @ Royals
+DESCRIPTION:Blue Jays @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCEX-1R\n\nShop: https://stza.co/+xCEX-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Rays
+<2018-06-25 Mon>--<2018-06-24 Sun>
+:PROPERTIES:
+:ID:       LHvgFFADlsc7NmbgvVyzmjr7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Rays Blue Jays vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCEY-2h
+
+Shop  https //stza.co/+xCEY-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180625
+DTEND;VALUE=DATE:20180625
+UID:LHvgFFADlsc7NmbgvVyzmjr7@stanza.co
+SUMMARY:Blue Jays vs. Rays
+DESCRIPTION:Blue Jays vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCEY-2h\n\nShop: https://stza.co/+xCEY-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Rays
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       YddECUJhrmz75_NbzOqbiSZh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Rays Blue Jays vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCE_-27
+
+Shop  https //stza.co/+xCE_-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:YddECUJhrmz75_NbzOqbiSZh@stanza.co
+SUMMARY:Blue Jays vs. Rays
+DESCRIPTION:Blue Jays vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCE_-27\n\nShop: https://stza.co/+xCE_-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Astros
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       Dno1F59sLl6q8XynpqLwah3t@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Astros Blue Jays @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCF0-1x
+
+Shop  https //stza.co/+xCF0-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:Dno1F59sLl6q8XynpqLwah3t@stanza.co
+SUMMARY:Blue Jays @ Astros
+DESCRIPTION:Blue Jays @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCF0-1x\n\nShop: https://stza.co/+xCF0-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Astros
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       W-SkCUPy3QgO9hJcUe_TEM40@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Astros Blue Jays @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCF1-2D
+
+Shop  https //stza.co/+xCF1-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:W-SkCUPy3QgO9hJcUe_TEM40@stanza.co
+SUMMARY:Blue Jays @ Astros
+DESCRIPTION:Blue Jays @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCF1-2D\n\nShop: https://stza.co/+xCF1-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Astros
+<2018-06-30 Sat>--<2018-06-29 Fri>
+:PROPERTIES:
+:ID:       5PaoRLpVu_NDWlzOU7K5MNim@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Astros Blue Jays @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCF2-2j
+
+Shop  https //stza.co/+xCF2-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180630
+UID:5PaoRLpVu_NDWlzOU7K5MNim@stanza.co
+SUMMARY:Blue Jays @ Astros
+DESCRIPTION:Blue Jays @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCF2-2j\n\nShop: https://stza.co/+xCF2-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Royals
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       ifbee672nnGF2lEGqNJeR9qk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Royals Blue Jays vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCF4-1N
+
+Shop  https //stza.co/+xCF4-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:ifbee672nnGF2lEGqNJeR9qk@stanza.co
+SUMMARY:Blue Jays vs. Royals
+DESCRIPTION:Blue Jays vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCF4-1N\n\nShop: https://stza.co/+xCF4-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Royals
+<2018-07-02 Mon>--<2018-07-01 Sun>
+:PROPERTIES:
+:ID:       _ptFVzPA7PoHmlTU9sPnk7lz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Royals Blue Jays vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCF6-q
+
+Shop  https //stza.co/+xCF6-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180702
+UID:_ptFVzPA7PoHmlTU9sPnk7lz@stanza.co
+SUMMARY:Blue Jays vs. Royals
+DESCRIPTION:Blue Jays vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCF6-q\n\nShop: https://stza.co/+xCF6-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Royals
+<2018-07-03 Tue>--<2018-07-02 Mon>
+:PROPERTIES:
+:ID:       hD7S3fIzdOt3PM3hMd_M6370@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Royals Blue Jays vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCF7-1
+
+Shop  https //stza.co/+xCF7-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180703
+DTEND;VALUE=DATE:20180703
+UID:hD7S3fIzdOt3PM3hMd_M6370@stanza.co
+SUMMARY:Blue Jays vs. Royals
+DESCRIPTION:Blue Jays vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCF7-1\n\nShop: https://stza.co/+xCF7-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Yankees
+<2018-07-04 Wed>--<2018-07-03 Tue>
+:PROPERTIES:
+:ID:       NZKVbjicnW_Na1rciFWpnE4i@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Yankees Blue Jays @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCF9-2h
+
+Shop  https //stza.co/+xCF9-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180704
+DTEND;VALUE=DATE:20180704
+UID:NZKVbjicnW_Na1rciFWpnE4i@stanza.co
+SUMMARY:Blue Jays @ Yankees
+DESCRIPTION:Blue Jays @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCF9-2h\n\nShop: https://stza.co/+xCF9-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Yankees
+<2018-07-05 Thu>--<2018-07-04 Wed>
+:PROPERTIES:
+:ID:       _HFrzeZid63RlwlOYmI--E4B@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Yankees Blue Jays @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCFa-3i
+
+Shop  https //stza.co/+xCFa-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180705
+UID:_HFrzeZid63RlwlOYmI--E4B@stanza.co
+SUMMARY:Blue Jays @ Yankees
+DESCRIPTION:Blue Jays @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCFa-3i\n\nShop: https://stza.co/+xCFa-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Yankees
+<2018-07-06 Fri>--<2018-07-05 Thu>
+:PROPERTIES:
+:ID:       SNBaj4PgCQN-Um9OltIdNfbs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Yankees Blue Jays vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCFc-O
+
+Shop  https //stza.co/+xCFc-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180706
+UID:SNBaj4PgCQN-Um9OltIdNfbs@stanza.co
+SUMMARY:Blue Jays vs. Yankees
+DESCRIPTION:Blue Jays vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCFc-O\n\nShop: https://stza.co/+xCFc-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Mets
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       iF83sdEBvKbvJejbGmGU0d0w@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Mets Blue Jays vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCFe-1N
+
+Shop  https //stza.co/+xCFe-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:iF83sdEBvKbvJejbGmGU0d0w@stanza.co
+SUMMARY:Blue Jays vs. Mets
+DESCRIPTION:Blue Jays vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCFe-1N\n\nShop: https://stza.co/+xCFe-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Mets
+<2018-07-08 Sun>--<2018-07-07 Sat>
+:PROPERTIES:
+:ID:       vpZAFybJ_K4GlphTTNU1mVrD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Mets Blue Jays vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCFg-1T
+
+Shop  https //stza.co/+xCFg-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180708
+DTEND;VALUE=DATE:20180708
+UID:vpZAFybJ_K4GlphTTNU1mVrD@stanza.co
+SUMMARY:Blue Jays vs. Mets
+DESCRIPTION:Blue Jays vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCFg-1T\n\nShop: https://stza.co/+xCFg-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Mets
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       EjzIxUBOxTQ5ubYtQdSNWgZ6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Mets Blue Jays vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCFi-3e
+
+Shop  https //stza.co/+xCFi-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:EjzIxUBOxTQ5ubYtQdSNWgZ6@stanza.co
+SUMMARY:Blue Jays vs. Mets
+DESCRIPTION:Blue Jays vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCFi-3e\n\nShop: https://stza.co/+xCFi-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Rays
+<2018-07-10 Tue>--<2018-07-09 Mon>
+:PROPERTIES:
+:ID:       PTdZD64NozAmVRTp0QFilXrS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Rays Blue Jays @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCFj-4
+
+Shop  https //stza.co/+xCFj-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180710
+UID:PTdZD64NozAmVRTp0QFilXrS@stanza.co
+SUMMARY:Blue Jays @ Rays
+DESCRIPTION:Blue Jays @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCFj-4\n\nShop: https://stza.co/+xCFj-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Rays
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       07VBSTuSkDYZc2h2Wddj01Dz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Rays Blue Jays @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCFk-1f
+
+Shop  https //stza.co/+xCFk-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:07VBSTuSkDYZc2h2Wddj01Dz@stanza.co
+SUMMARY:Blue Jays @ Rays
+DESCRIPTION:Blue Jays @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCFk-1f\n\nShop: https://stza.co/+xCFk-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Rays
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       H4BAKfdKhKzwbIi7iVutGMH1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Rays Blue Jays @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCFl-29
+
+Shop  https //stza.co/+xCFl-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:H4BAKfdKhKzwbIi7iVutGMH1@stanza.co
+SUMMARY:Blue Jays @ Rays
+DESCRIPTION:Blue Jays @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCFl-29\n\nShop: https://stza.co/+xCFl-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Rays
+<2018-07-13 Fri>--<2018-07-12 Thu>
+:PROPERTIES:
+:ID:       FbiOxszSyH6u959HOCFMoZhf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Rays Blue Jays vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCFm-21
+
+Shop  https //stza.co/+xCFm-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180713
+DTEND;VALUE=DATE:20180713
+UID:FbiOxszSyH6u959HOCFMoZhf@stanza.co
+SUMMARY:Blue Jays vs. Rays
+DESCRIPTION:Blue Jays vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCFm-21\n\nShop: https://stza.co/+xCFm-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Braves
+<2018-07-14 Sat>--<2018-07-13 Fri>
+:PROPERTIES:
+:ID:       ddCT6oNPVpvt7EpDMEbS6ppi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Braves Blue Jays vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCFo-3k
+
+Shop  https //stza.co/+xCFo-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180714
+DTEND;VALUE=DATE:20180714
+UID:ddCT6oNPVpvt7EpDMEbS6ppi@stanza.co
+SUMMARY:Blue Jays vs. Braves
+DESCRIPTION:Blue Jays vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCFo-3k\n\nShop: https://stza.co/+xCFo-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Braves
+<2018-07-15 Sun>--<2018-07-14 Sat>
+:PROPERTIES:
+:ID:       XmiPM3fTOVmhg8GcI5dXkDfy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Braves Blue Jays vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCFr-1c
+
+Shop  https //stza.co/+xCFr-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180715
+UID:XmiPM3fTOVmhg8GcI5dXkDfy@stanza.co
+SUMMARY:Blue Jays vs. Braves
+DESCRIPTION:Blue Jays vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCFr-1c\n\nShop: https://stza.co/+xCFr-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Braves
+<2018-07-16 Mon>--<2018-07-15 Sun>
+:PROPERTIES:
+:ID:       -mn1G_YTR-3rUOiPRLP0ajQW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Braves Blue Jays vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCFs-2g
+
+Shop  https //stza.co/+xCFs-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180716
+UID:-mn1G_YTR-3rUOiPRLP0ajQW@stanza.co
+SUMMARY:Blue Jays vs. Braves
+DESCRIPTION:Blue Jays vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCFs-2g\n\nShop: https://stza.co/+xCFs-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Cardinals
+<2018-07-18 Wed>--<2018-07-17 Tue>
+:PROPERTIES:
+:ID:       S4SkC66kCPGpVhL3MwPMF3c0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Cardinals Blue Jays @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCFv-h
+
+Shop  https //stza.co/+xCFv-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180718
+UID:S4SkC66kCPGpVhL3MwPMF3c0@stanza.co
+SUMMARY:Blue Jays @ Cardinals
+DESCRIPTION:Blue Jays @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCFv-h\n\nShop: https://stza.co/+xCFv-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Cardinals
+<2018-07-19 Thu>--<2018-07-18 Wed>
+:PROPERTIES:
+:ID:       z0FRafGmlkDdLkojBCP2V1w5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Cardinals Blue Jays @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCFw-3i
+
+Shop  https //stza.co/+xCFw-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180719
+UID:z0FRafGmlkDdLkojBCP2V1w5@stanza.co
+SUMMARY:Blue Jays @ Cardinals
+DESCRIPTION:Blue Jays @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCFw-3i\n\nShop: https://stza.co/+xCFw-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Cardinals
+<2018-07-20 Fri>--<2018-07-19 Thu>
+:PROPERTIES:
+:ID:       WlByotiLtt8Qpthi_8mVihUc@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Cardinals Blue Jays @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCFx-2K
+
+Shop  https //stza.co/+xCFx-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180720
+DTEND;VALUE=DATE:20180720
+UID:WlByotiLtt8Qpthi_8mVihUc@stanza.co
+SUMMARY:Blue Jays @ Cardinals
+DESCRIPTION:Blue Jays @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCFx-2K\n\nShop: https://stza.co/+xCFx-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Yankees
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       LVabVj8y_5h1L3cuE_1CCstG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Yankees Blue Jays vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCFy-3s
+
+Shop  https //stza.co/+xCFy-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:LVabVj8y_5h1L3cuE_1CCstG@stanza.co
+SUMMARY:Blue Jays vs. Yankees
+DESCRIPTION:Blue Jays vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCFy-3s\n\nShop: https://stza.co/+xCFy-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Yankees
+<2018-07-22 Sun>--<2018-07-21 Sat>
+:PROPERTIES:
+:ID:       KOu5NVlI83xViSf3wgrH-5-7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Yankees Blue Jays vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCFA-2b
+
+Shop  https //stza.co/+xCFA-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180722
+DTEND;VALUE=DATE:20180722
+UID:KOu5NVlI83xViSf3wgrH-5-7@stanza.co
+SUMMARY:Blue Jays vs. Yankees
+DESCRIPTION:Blue Jays vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCFA-2b\n\nShop: https://stza.co/+xCFA-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Yankees
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       gq-UrQG639YmDLibX_opKGcc@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Yankees Blue Jays vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCFC-2Z
+
+Shop  https //stza.co/+xCFC-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:gq-UrQG639YmDLibX_opKGcc@stanza.co
+SUMMARY:Blue Jays vs. Yankees
+DESCRIPTION:Blue Jays vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCFC-2Z\n\nShop: https://stza.co/+xCFC-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Pirates
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       Nwo7MIAQBU2NuIucBcjdnHdq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Pirates Blue Jays vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCFF-o
+
+Shop  https //stza.co/+xCFF-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:Nwo7MIAQBU2NuIucBcjdnHdq@stanza.co
+SUMMARY:Blue Jays vs. Pirates
+DESCRIPTION:Blue Jays vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCFF-o\n\nShop: https://stza.co/+xCFF-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Pirates
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       Y6bM1gQtGTwK6sJpwKyoH9ku@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Pirates Blue Jays vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCFH-J
+
+Shop  https //stza.co/+xCFH-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:Y6bM1gQtGTwK6sJpwKyoH9ku@stanza.co
+SUMMARY:Blue Jays vs. Pirates
+DESCRIPTION:Blue Jays vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCFH-J\n\nShop: https://stza.co/+xCFH-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Pirates
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       NrCBiR3fj9HsYOOxHTKd-tIt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Pirates Blue Jays vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCFI-1o
+
+Shop  https //stza.co/+xCFI-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:NrCBiR3fj9HsYOOxHTKd-tIt@stanza.co
+SUMMARY:Blue Jays vs. Pirates
+DESCRIPTION:Blue Jays vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCFI-1o\n\nShop: https://stza.co/+xCFI-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Rays
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       LUhZLyNNCod8tVGR8t6pD5Lo@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Rays Blue Jays @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCFK-1I
+
+Shop  https //stza.co/+xCFK-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:LUhZLyNNCod8tVGR8t6pD5Lo@stanza.co
+SUMMARY:Blue Jays @ Rays
+DESCRIPTION:Blue Jays @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCFK-1I\n\nShop: https://stza.co/+xCFK-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Rays
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       gXLchH8z5ubgW-qsmd3xdMxJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Rays Blue Jays @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCFL-1k
+
+Shop  https //stza.co/+xCFL-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:gXLchH8z5ubgW-qsmd3xdMxJ@stanza.co
+SUMMARY:Blue Jays @ Rays
+DESCRIPTION:Blue Jays @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCFL-1k\n\nShop: https://stza.co/+xCFL-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Rays
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       VKbla_v3Gm5sc6ghoVJkMBXS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Rays Blue Jays @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCFM-R
+
+Shop  https //stza.co/+xCFM-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:VKbla_v3Gm5sc6ghoVJkMBXS@stanza.co
+SUMMARY:Blue Jays @ Rays
+DESCRIPTION:Blue Jays @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCFM-R\n\nShop: https://stza.co/+xCFM-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Pirates
+<2018-07-31 Tue>--<2018-07-30 Mon>
+:PROPERTIES:
+:ID:       rS-44Hf_YRRWkEhrysvBlo0r@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Pirates Blue Jays @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCFN-3
+
+Shop  https //stza.co/+xCFN-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180731
+DTEND;VALUE=DATE:20180731
+UID:rS-44Hf_YRRWkEhrysvBlo0r@stanza.co
+SUMMARY:Blue Jays @ Pirates
+DESCRIPTION:Blue Jays @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCFN-3\n\nShop: https://stza.co/+xCFN-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Pirates
+<2018-08-01 Wed>--<2018-07-31 Tue>
+:PROPERTIES:
+:ID:       hp2SlqJlDkMg7Mgid4SFXNjb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Pirates Blue Jays @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCFO-2l
+
+Shop  https //stza.co/+xCFO-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180801
+UID:hp2SlqJlDkMg7Mgid4SFXNjb@stanza.co
+SUMMARY:Blue Jays @ Pirates
+DESCRIPTION:Blue Jays @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCFO-2l\n\nShop: https://stza.co/+xCFO-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Pirates
+<2018-08-02 Thu>--<2018-08-01 Wed>
+:PROPERTIES:
+:ID:       U9iUH1QIqn3gMjkcI7P6Q2bC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Pirates Blue Jays @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCFP-f
+
+Shop  https //stza.co/+xCFP-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180802
+UID:U9iUH1QIqn3gMjkcI7P6Q2bC@stanza.co
+SUMMARY:Blue Jays @ Pirates
+DESCRIPTION:Blue Jays @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCFP-f\n\nShop: https://stza.co/+xCFP-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Braves
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       B1NF3_ONkZSaX8_CmOm6kbDg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Braves Blue Jays vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCFR-1q
+
+Shop  https //stza.co/+xCFR-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:B1NF3_ONkZSaX8_CmOm6kbDg@stanza.co
+SUMMARY:Blue Jays vs. Braves
+DESCRIPTION:Blue Jays vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCFR-1q\n\nShop: https://stza.co/+xCFR-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Braves
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       eLcKAiOBhnVh3CkeD69Tfdg4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Braves Blue Jays vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCFT-3q
+
+Shop  https //stza.co/+xCFT-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:eLcKAiOBhnVh3CkeD69Tfdg4@stanza.co
+SUMMARY:Blue Jays vs. Braves
+DESCRIPTION:Blue Jays vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCFT-3q\n\nShop: https://stza.co/+xCFT-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Braves
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       vgY45Otsaeess2pC-eZEieaT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Braves Blue Jays vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCFU-3T
+
+Shop  https //stza.co/+xCFU-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:vgY45Otsaeess2pC-eZEieaT@stanza.co
+SUMMARY:Blue Jays vs. Braves
+DESCRIPTION:Blue Jays vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCFU-3T\n\nShop: https://stza.co/+xCFU-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Astros
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       IKITB6gl1EeIOtEJiWLn2wxd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Astros Blue Jays vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCFX-2w
+
+Shop  https //stza.co/+xCFX-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:IKITB6gl1EeIOtEJiWLn2wxd@stanza.co
+SUMMARY:Blue Jays vs. Astros
+DESCRIPTION:Blue Jays vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCFX-2w\n\nShop: https://stza.co/+xCFX-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Astros
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       Yv0hXNz5_ClG05qgY8-hrxTw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Astros Blue Jays vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCFY-2l
+
+Shop  https //stza.co/+xCFY-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:Yv0hXNz5_ClG05qgY8-hrxTw@stanza.co
+SUMMARY:Blue Jays vs. Astros
+DESCRIPTION:Blue Jays vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCFY-2l\n\nShop: https://stza.co/+xCFY-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Astros
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       Yxt3xKbZ-2iu_0bLCtljl-Zx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Astros Blue Jays vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCF$-38
+
+Shop  https //stza.co/+xCF$-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:Yxt3xKbZ-2iu_0bLCtljl-Zx@stanza.co
+SUMMARY:Blue Jays vs. Astros
+DESCRIPTION:Blue Jays vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCF$-38\n\nShop: https://stza.co/+xCF$-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Twins
+<2018-08-09 Thu>--<2018-08-08 Wed>
+:PROPERTIES:
+:ID:       61Q-cmbuyTNXnJae30R7X3sE@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Twins Blue Jays @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCG0-2$
+
+Shop  https //stza.co/+xCG0-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+UID:61Q-cmbuyTNXnJae30R7X3sE@stanza.co
+SUMMARY:Blue Jays @ Twins
+DESCRIPTION:Blue Jays @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCG0-2$\n\nShop: https://stza.co/+xCG0-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Twins
+<2018-08-10 Fri>--<2018-08-09 Thu>
+:PROPERTIES:
+:ID:       U5y7amvOlg4EVnFo5hAb5UbC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Twins Blue Jays @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCG1-w
+
+Shop  https //stza.co/+xCG1-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+UID:U5y7amvOlg4EVnFo5hAb5UbC@stanza.co
+SUMMARY:Blue Jays @ Twins
+DESCRIPTION:Blue Jays @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCG1-w\n\nShop: https://stza.co/+xCG1-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Twins
+<2018-08-11 Sat>--<2018-08-10 Fri>
+:PROPERTIES:
+:ID:       m14qHVHlilN3e4xzog4Igoji@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Twins Blue Jays @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCG2-1i
+
+Shop  https //stza.co/+xCG2-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180811
+UID:m14qHVHlilN3e4xzog4Igoji@stanza.co
+SUMMARY:Blue Jays @ Twins
+DESCRIPTION:Blue Jays @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCG2-1i\n\nShop: https://stza.co/+xCG2-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Mets
+<2018-08-12 Sun>--<2018-08-11 Sat>
+:PROPERTIES:
+:ID:       1MOqs3Qppc2zFeG0vsDshRTN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Mets Blue Jays @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCG3-1Q
+
+Shop  https //stza.co/+xCG3-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180812
+UID:1MOqs3Qppc2zFeG0vsDshRTN@stanza.co
+SUMMARY:Blue Jays @ Mets
+DESCRIPTION:Blue Jays @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCG3-1Q\n\nShop: https://stza.co/+xCG3-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Mets
+<2018-08-13 Mon>--<2018-08-12 Sun>
+:PROPERTIES:
+:ID:       Pz4fRvGLtiowca5YRWn1ltcn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Mets Blue Jays @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCG4-1N
+
+Shop  https //stza.co/+xCG4-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180813
+UID:Pz4fRvGLtiowca5YRWn1ltcn@stanza.co
+SUMMARY:Blue Jays @ Mets
+DESCRIPTION:Blue Jays @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCG4-1N\n\nShop: https://stza.co/+xCG4-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Mets
+<2018-08-14 Tue>--<2018-08-13 Mon>
+:PROPERTIES:
+:ID:       fU5RPrz6UH1vd6iRIMvempFL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Mets Blue Jays @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCG5-3l
+
+Shop  https //stza.co/+xCG5-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180814
+DTEND;VALUE=DATE:20180814
+UID:fU5RPrz6UH1vd6iRIMvempFL@stanza.co
+SUMMARY:Blue Jays @ Mets
+DESCRIPTION:Blue Jays @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCG5-3l\n\nShop: https://stza.co/+xCG5-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Twins
+<2018-08-16 Thu>--<2018-08-15 Wed>
+:PROPERTIES:
+:ID:       SRx-3ca4v4vSeqlJASo8wR2-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Twins Blue Jays vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCG7-B
+
+Shop  https //stza.co/+xCG7-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180816
+UID:SRx-3ca4v4vSeqlJASo8wR2-@stanza.co
+SUMMARY:Blue Jays vs. Twins
+DESCRIPTION:Blue Jays vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCG7-B\n\nShop: https://stza.co/+xCG7-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Twins
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       zuj1C2jV5exc4UX82-jfCBVh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Twins Blue Jays vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCG8-3S
+
+Shop  https //stza.co/+xCG8-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:zuj1C2jV5exc4UX82-jfCBVh@stanza.co
+SUMMARY:Blue Jays vs. Twins
+DESCRIPTION:Blue Jays vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCG8-3S\n\nShop: https://stza.co/+xCG8-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Twins
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       FyrA5xYhduu2e8Ar1jmzfOa9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Twins Blue Jays vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCGa-L
+
+Shop  https //stza.co/+xCGa-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:FyrA5xYhduu2e8Ar1jmzfOa9@stanza.co
+SUMMARY:Blue Jays vs. Twins
+DESCRIPTION:Blue Jays vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCGa-L\n\nShop: https://stza.co/+xCGa-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Rays
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       n2xxpNOZtLaDBLLIs1TB6EM_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Rays Blue Jays vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCGd-j
+
+Shop  https //stza.co/+xCGd-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:n2xxpNOZtLaDBLLIs1TB6EM_@stanza.co
+SUMMARY:Blue Jays vs. Rays
+DESCRIPTION:Blue Jays vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCGd-j\n\nShop: https://stza.co/+xCGd-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Rays
+<2018-08-20 Mon>--<2018-08-19 Sun>
+:PROPERTIES:
+:ID:       gH7DYt2qUKvP71KzSI9q_ZYy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Rays Blue Jays @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCGe-b
+
+Shop  https //stza.co/+xCGe-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180820
+DTEND;VALUE=DATE:20180820
+UID:gH7DYt2qUKvP71KzSI9q_ZYy@stanza.co
+SUMMARY:Blue Jays @ Rays
+DESCRIPTION:Blue Jays @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCGe-b\n\nShop: https://stza.co/+xCGe-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Braves
+<2018-08-21 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       58xGqYuW-7ujDHkon4DwFs6e@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Braves Blue Jays @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDS0-3p
+
+Shop  https //stza.co/+xDS0-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Braves
+END:VALARM
+DTSTART:20180821T230000Z
+DTEND:20180822T020000Z
+UID:58xGqYuW-7ujDHkon4DwFs6e@stanza.co
+SUMMARY:Blue Jays @ Braves
+DESCRIPTION:Blue Jays @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDS0-3p\n\nShop: https://stza.co/+xDS0-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Braves
+<2018-08-22 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       PocKHhqW4vtbex1tlIDsKgre@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Braves Blue Jays @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDS2-2j
+
+Shop  https //stza.co/+xDS2-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Braves
+END:VALARM
+DTSTART:20180822T230000Z
+DTEND:20180823T020000Z
+UID:PocKHhqW4vtbex1tlIDsKgre@stanza.co
+SUMMARY:Blue Jays @ Braves
+DESCRIPTION:Blue Jays @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDS2-2j\n\nShop: https://stza.co/+xDS2-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Braves
+<2018-08-23 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       JAESPO508bD2yTMHQcCxTIlS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Braves Blue Jays @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDS3-s
+
+Shop  https //stza.co/+xDS3-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Braves
+END:VALARM
+DTSTART:20180823T230000Z
+DTEND:20180824T020000Z
+UID:JAESPO508bD2yTMHQcCxTIlS@stanza.co
+SUMMARY:Blue Jays @ Braves
+DESCRIPTION:Blue Jays @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDS3-s\n\nShop: https://stza.co/+xDS3-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Yankees
+<2018-08-24 Fri>--<2018-08-23 Thu>
+:PROPERTIES:
+:ID:       RpqJ0W3d7IGdKUrNSmc41cgJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Yankees Blue Jays @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCGi-B
+
+Shop  https //stza.co/+xCGi-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180824
+UID:RpqJ0W3d7IGdKUrNSmc41cgJ@stanza.co
+SUMMARY:Blue Jays @ Yankees
+DESCRIPTION:Blue Jays @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCGi-B\n\nShop: https://stza.co/+xCGi-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Yankees
+<2018-08-25 Sat>--<2018-08-24 Fri>
+:PROPERTIES:
+:ID:       -7e40kc0djCb3UVMQMYvPFaH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Yankees Blue Jays vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xC1F-Q
+
+Shop  https //stza.co/+xC1F-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180825
+UID:-7e40kc0djCb3UVMQMYvPFaH@stanza.co
+SUMMARY:Blue Jays vs. Yankees
+DESCRIPTION:Blue Jays vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xC1F-Q\n\nShop: https://stza.co/+xC1F-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays vs. Yankees
+<2018-08-26 Sun>--<2018-08-25 Sat>
+:PROPERTIES:
+:ID:       c1Tn4IfHMyJdszra2dn1RDa4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays vs. Yankees Blue Jays vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xC1H-5
+
+Shop  https //stza.co/+xC1H-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180826
+UID:c1Tn4IfHMyJdszra2dn1RDa4@stanza.co
+SUMMARY:Blue Jays vs. Yankees
+DESCRIPTION:Blue Jays vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xC1H-5\n\nShop: https://stza.co/+xC1H-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Royals
+<2018-08-27 Mon>--<2018-08-26 Sun>
+:PROPERTIES:
+:ID:       IaOXAkxz4W7OcsjXiN65Louf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Royals Blue Jays @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xC1K-3l
+
+Shop  https //stza.co/+xC1K-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180827
+DTEND;VALUE=DATE:20180827
+UID:IaOXAkxz4W7OcsjXiN65Louf@stanza.co
+SUMMARY:Blue Jays @ Royals
+DESCRIPTION:Blue Jays @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xC1K-3l\n\nShop: https://stza.co/+xC1K-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Royals
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       5Y6U8i91K3_wdqyLZcvcOtD2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Royals Blue Jays @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xC1M-G
+
+Shop  https //stza.co/+xC1M-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:5Y6U8i91K3_wdqyLZcvcOtD2@stanza.co
+SUMMARY:Blue Jays @ Royals
+DESCRIPTION:Blue Jays @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xC1M-G\n\nShop: https://stza.co/+xC1M-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT
+* Blue Jays @ Royals
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       twaN2IxUVGxynV8camPN0JHm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Blue Jays @ Royals Blue Jays @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xC1O-1c
+
+Shop  https //stza.co/+xC1O-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Blue Jays @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:twaN2IxUVGxynV8camPN0JHm@stanza.co
+SUMMARY:Blue Jays @ Royals
+DESCRIPTION:Blue Jays @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xC1O-1c\n\nShop: https://stza.co/+xC1O-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144506Z
+LAST-MODIFIED:20180213T144506Z
+TRANSP:OPAQUE
+END:VEVENT

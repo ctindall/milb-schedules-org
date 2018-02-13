@@ -1,0 +1,2458 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Yankees @ Braves
+<2018-06-19 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       ToaIA75Sv5H6Fq0Nc-rXNr0U@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Braves Yankees @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDU2-2Z
+
+Shop  https //stza.co/+xDU2-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Braves
+END:VALARM
+DTSTART:20180619T230000Z
+DTEND:20180620T020000Z
+UID:ToaIA75Sv5H6Fq0Nc-rXNr0U@stanza.co
+SUMMARY:Yankees @ Braves
+DESCRIPTION:Yankees @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDU2-2Z\n\nShop: https://stza.co/+xDU2-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Braves
+<2018-06-20 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       HT96Zor_hGLg-bpmK_SD9kSi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Braves Yankees @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDU3-2k
+
+Shop  https //stza.co/+xDU3-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Braves
+END:VALARM
+DTSTART:20180620T230000Z
+DTEND:20180621T020000Z
+UID:HT96Zor_hGLg-bpmK_SD9kSi@stanza.co
+SUMMARY:Yankees @ Braves
+DESCRIPTION:Yankees @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDU3-2k\n\nShop: https://stza.co/+xDU3-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Braves
+<2018-06-21 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       UxdxAhv1mn0b2QjH7cj9uYPg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Braves Yankees @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDU4-2
+
+Shop  https //stza.co/+xDU4-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Braves
+END:VALARM
+DTSTART:20180621T230000Z
+DTEND:20180622T020000Z
+UID:UxdxAhv1mn0b2QjH7cj9uYPg@stanza.co
+SUMMARY:Yankees @ Braves
+DESCRIPTION:Yankees @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDU4-2\n\nShop: https://stza.co/+xDU4-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Astros
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       LoacBF7YbttAIBisOJnmpdk0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Astros Yankees vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCrp-o
+
+Shop  https //stza.co/+xCrp-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:LoacBF7YbttAIBisOJnmpdk0@stanza.co
+SUMMARY:Yankees vs. Astros
+DESCRIPTION:Yankees vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCrp-o\n\nShop: https://stza.co/+xCrp-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Astros
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       X8jk3R6ySAkSNLNaVFSV05mR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Astros Yankees vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCrq-21
+
+Shop  https //stza.co/+xCrq-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:X8jk3R6ySAkSNLNaVFSV05mR@stanza.co
+SUMMARY:Yankees vs. Astros
+DESCRIPTION:Yankees vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCrq-21\n\nShop: https://stza.co/+xCrq-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Astros
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       aYoXl8HGET-LzrtJ8QzvSuMN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Astros Yankees vs. Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCrs-1S
+
+Shop  https //stza.co/+xCrs-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:aYoXl8HGET-LzrtJ8QzvSuMN@stanza.co
+SUMMARY:Yankees vs. Astros
+DESCRIPTION:Yankees vs. Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCrs-1S\n\nShop: https://stza.co/+xCrs-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Pirates
+<2018-06-25 Mon>--<2018-06-24 Sun>
+:PROPERTIES:
+:ID:       kqmZIjs-uhm-0jQNA_k3QjLi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Pirates Yankees @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCru-1A
+
+Shop  https //stza.co/+xCru-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180625
+DTEND;VALUE=DATE:20180625
+UID:kqmZIjs-uhm-0jQNA_k3QjLi@stanza.co
+SUMMARY:Yankees @ Pirates
+DESCRIPTION:Yankees @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCru-1A\n\nShop: https://stza.co/+xCru-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Pirates
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       TBuGB91PLfAYh8U9IagCKnn5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Pirates Yankees @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCrv-1U
+
+Shop  https //stza.co/+xCrv-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:TBuGB91PLfAYh8U9IagCKnn5@stanza.co
+SUMMARY:Yankees @ Pirates
+DESCRIPTION:Yankees @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCrv-1U\n\nShop: https://stza.co/+xCrv-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Royals
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       D50kkzUwNLpe1uiGtolTlG_o@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Royals Yankees vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCry-2q
+
+Shop  https //stza.co/+xCry-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:D50kkzUwNLpe1uiGtolTlG_o@stanza.co
+SUMMARY:Yankees vs. Royals
+DESCRIPTION:Yankees vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCry-2q\n\nShop: https://stza.co/+xCry-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Royals
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       r33SEMe0_UkMAMY9cy1wOVTl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Royals Yankees vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCrA-2j
+
+Shop  https //stza.co/+xCrA-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:r33SEMe0_UkMAMY9cy1wOVTl@stanza.co
+SUMMARY:Yankees vs. Royals
+DESCRIPTION:Yankees vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCrA-2j\n\nShop: https://stza.co/+xCrA-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Royals
+<2018-06-30 Sat>--<2018-06-29 Fri>
+:PROPERTIES:
+:ID:       aOZivPqaGlgO3mUUZACj9yYw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Royals Yankees vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCrB-1z
+
+Shop  https //stza.co/+xCrB-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180630
+UID:aOZivPqaGlgO3mUUZACj9yYw@stanza.co
+SUMMARY:Yankees vs. Royals
+DESCRIPTION:Yankees vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCrB-1z\n\nShop: https://stza.co/+xCrB-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Mets
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       c58tm4t-RHfcK_o-cUTAKqec@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Mets Yankees @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCrD-R
+
+Shop  https //stza.co/+xCrD-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:c58tm4t-RHfcK_o-cUTAKqec@stanza.co
+SUMMARY:Yankees @ Mets
+DESCRIPTION:Yankees @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCrD-R\n\nShop: https://stza.co/+xCrD-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Mets
+<2018-07-02 Mon>--<2018-07-01 Sun>
+:PROPERTIES:
+:ID:       TO8YvSEA_d7OQ4B9kkk3onLs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Mets Yankees @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCrE-w
+
+Shop  https //stza.co/+xCrE-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180702
+UID:TO8YvSEA_d7OQ4B9kkk3onLs@stanza.co
+SUMMARY:Yankees @ Mets
+DESCRIPTION:Yankees @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCrE-w\n\nShop: https://stza.co/+xCrE-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Mets
+<2018-07-03 Tue>--<2018-07-02 Mon>
+:PROPERTIES:
+:ID:       rPxmoIupkHVNylXkQLIQ6bNR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Mets Yankees @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCrF-c
+
+Shop  https //stza.co/+xCrF-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180703
+DTEND;VALUE=DATE:20180703
+UID:rPxmoIupkHVNylXkQLIQ6bNR@stanza.co
+SUMMARY:Yankees @ Mets
+DESCRIPTION:Yankees @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCrF-c\n\nShop: https://stza.co/+xCrF-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Blue Jays
+<2018-07-04 Wed>--<2018-07-03 Tue>
+:PROPERTIES:
+:ID:       7ViFVXUPz5JMHevIYYrJ5cLj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Blue Jays Yankees vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCrI-O
+
+Shop  https //stza.co/+xCrI-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180704
+DTEND;VALUE=DATE:20180704
+UID:7ViFVXUPz5JMHevIYYrJ5cLj@stanza.co
+SUMMARY:Yankees vs. Blue Jays
+DESCRIPTION:Yankees vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCrI-O\n\nShop: https://stza.co/+xCrI-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Blue Jays
+<2018-07-05 Thu>--<2018-07-04 Wed>
+:PROPERTIES:
+:ID:       lij3dgqMEMzdkBIA9ZKXjBGb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Blue Jays Yankees vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCrJ-3M
+
+Shop  https //stza.co/+xCrJ-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180705
+UID:lij3dgqMEMzdkBIA9ZKXjBGb@stanza.co
+SUMMARY:Yankees vs. Blue Jays
+DESCRIPTION:Yankees vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCrJ-3M\n\nShop: https://stza.co/+xCrJ-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Blue Jays
+<2018-07-06 Fri>--<2018-07-05 Thu>
+:PROPERTIES:
+:ID:       7Pe6g0JiQxFQkFZSDQaU4Gi9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Blue Jays Yankees @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCrL-C
+
+Shop  https //stza.co/+xCrL-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180706
+UID:7Pe6g0JiQxFQkFZSDQaU4Gi9@stanza.co
+SUMMARY:Yankees @ Blue Jays
+DESCRIPTION:Yankees @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCrL-C\n\nShop: https://stza.co/+xCrL-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Cardinals
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       DbI-wwbE1si86P31an8cuQkF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Cardinals Yankees @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCrM-2
+
+Shop  https //stza.co/+xCrM-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:DbI-wwbE1si86P31an8cuQkF@stanza.co
+SUMMARY:Yankees @ Cardinals
+DESCRIPTION:Yankees @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCrM-2\n\nShop: https://stza.co/+xCrM-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Cardinals
+<2018-07-08 Sun>--<2018-07-07 Sat>
+:PROPERTIES:
+:ID:       B2l8KUHKzQ2UhX1f1OuBIFSN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Cardinals Yankees @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCrN-1m
+
+Shop  https //stza.co/+xCrN-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180708
+DTEND;VALUE=DATE:20180708
+UID:B2l8KUHKzQ2UhX1f1OuBIFSN@stanza.co
+SUMMARY:Yankees @ Cardinals
+DESCRIPTION:Yankees @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCrN-1m\n\nShop: https://stza.co/+xCrN-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Cardinals
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       dXFzygs-ALxm1MkelZRltaBo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Cardinals Yankees @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCrP-2H
+
+Shop  https //stza.co/+xCrP-28
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:dXFzygs-ALxm1MkelZRltaBo@stanza.co
+SUMMARY:Yankees @ Cardinals
+DESCRIPTION:Yankees @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCrP-2H\n\nShop: https://stza.co/+xCrP-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Pirates
+<2018-07-10 Tue>--<2018-07-09 Mon>
+:PROPERTIES:
+:ID:       CUxerbFJevsqVFZDr2xDaF9g@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Pirates Yankees vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCK4-1v
+
+Shop  https //stza.co/+xCK4-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180710
+UID:CUxerbFJevsqVFZDr2xDaF9g@stanza.co
+SUMMARY:Yankees vs. Pirates
+DESCRIPTION:Yankees vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCK4-1v\n\nShop: https://stza.co/+xCK4-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Pirates
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       BuQkNv4Sxb-nhAaMlH9CmaOv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Pirates Yankees vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCK5-K
+
+Shop  https //stza.co/+xCK5-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:BuQkNv4Sxb-nhAaMlH9CmaOv@stanza.co
+SUMMARY:Yankees vs. Pirates
+DESCRIPTION:Yankees vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCK5-K\n\nShop: https://stza.co/+xCK5-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Pirates
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       sgbMuf2AWm_9vqdsEaxElSZe@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Pirates Yankees vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCK8-u
+
+Shop  https //stza.co/+xCK8-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:sgbMuf2AWm_9vqdsEaxElSZe@stanza.co
+SUMMARY:Yankees vs. Pirates
+DESCRIPTION:Yankees vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCK8-u\n\nShop: https://stza.co/+xCK8-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Pirates
+<2018-07-13 Fri>--<2018-07-12 Thu>
+:PROPERTIES:
+:ID:       TyUWRUvG-ZwyxqgHFa80ujCk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Pirates Yankees vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCKa-2x
+
+Shop  https //stza.co/+xCKa-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180713
+DTEND;VALUE=DATE:20180713
+UID:TyUWRUvG-ZwyxqgHFa80ujCk@stanza.co
+SUMMARY:Yankees vs. Pirates
+DESCRIPTION:Yankees vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCKa-2x\n\nShop: https://stza.co/+xCKa-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Rays
+<2018-07-14 Sat>--<2018-07-13 Fri>
+:PROPERTIES:
+:ID:       O43uiIKCL6-HhCG4VyaPP5M6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Rays Yankees vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCKb-3c
+
+Shop  https //stza.co/+xCKb-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180714
+DTEND;VALUE=DATE:20180714
+UID:O43uiIKCL6-HhCG4VyaPP5M6@stanza.co
+SUMMARY:Yankees vs. Rays
+DESCRIPTION:Yankees vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCKb-3c\n\nShop: https://stza.co/+xCKb-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Rays
+<2018-07-15 Sun>--<2018-07-14 Sat>
+:PROPERTIES:
+:ID:       OyjYaiR-yeE0lVrIqPOa6H-k@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Rays Yankees vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCKd-1H
+
+Shop  https //stza.co/+xCKd-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180715
+UID:OyjYaiR-yeE0lVrIqPOa6H-k@stanza.co
+SUMMARY:Yankees vs. Rays
+DESCRIPTION:Yankees vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCKd-1H\n\nShop: https://stza.co/+xCKd-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Rays
+<2018-07-16 Mon>--<2018-07-15 Sun>
+:PROPERTIES:
+:ID:       EMlYF3rQ8nzl0pYDEsTjuPJq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Rays Yankees vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCKf-I
+
+Shop  https //stza.co/+xCKf-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180716
+UID:EMlYF3rQ8nzl0pYDEsTjuPJq@stanza.co
+SUMMARY:Yankees vs. Rays
+DESCRIPTION:Yankees vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCKf-I\n\nShop: https://stza.co/+xCKf-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Braves
+<2018-07-18 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       I2DY7m8G1IBt2RSg00x5cA3v@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Braves Yankees @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDU5-20
+
+Shop  https //stza.co/+xDU5-1U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Braves
+END:VALARM
+DTSTART:20180718T230000Z
+DTEND:20180719T020000Z
+UID:I2DY7m8G1IBt2RSg00x5cA3v@stanza.co
+SUMMARY:Yankees @ Braves
+DESCRIPTION:Yankees @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDU5-20\n\nShop: https://stza.co/+xDU5-1U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Braves
+<2018-07-19 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       9nKLXwMBZqNx3UODoYubshWH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Braves Yankees @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDU6-15
+
+Shop  https //stza.co/+xDU6-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Braves
+END:VALARM
+DTSTART:20180719T230000Z
+DTEND:20180720T020000Z
+UID:9nKLXwMBZqNx3UODoYubshWH@stanza.co
+SUMMARY:Yankees @ Braves
+DESCRIPTION:Yankees @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDU6-15\n\nShop: https://stza.co/+xDU6-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Braves
+<2018-07-20 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       WS7aBiYKVPtZh3KqzHExEGUy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Braves Yankees @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDU7-2V
+
+Shop  https //stza.co/+xDU7-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Braves
+END:VALARM
+DTSTART:20180720T230000Z
+DTEND:20180721T020000Z
+UID:WS7aBiYKVPtZh3KqzHExEGUy@stanza.co
+SUMMARY:Yankees @ Braves
+DESCRIPTION:Yankees @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDU7-2V\n\nShop: https://stza.co/+xDU7-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Blue Jays
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       nVtRv3JmNMn6wVmidFQARqms@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Blue Jays Yankees @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCuG-1v
+
+Shop  https //stza.co/+xCuG-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:nVtRv3JmNMn6wVmidFQARqms@stanza.co
+SUMMARY:Yankees @ Blue Jays
+DESCRIPTION:Yankees @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCuG-1v\n\nShop: https://stza.co/+xCuG-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Blue Jays
+<2018-07-22 Sun>--<2018-07-21 Sat>
+:PROPERTIES:
+:ID:       D05g_lYdCmwQp_hYB-aor3-s@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Blue Jays Yankees @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCuP-30
+
+Shop  https //stza.co/+xCuP-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180722
+DTEND;VALUE=DATE:20180722
+UID:D05g_lYdCmwQp_hYB-aor3-s@stanza.co
+SUMMARY:Yankees @ Blue Jays
+DESCRIPTION:Yankees @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCuP-30\n\nShop: https://stza.co/+xCuP-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Blue Jays
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       EymX_kbMkb40Eb2tFkEOBf_X@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Blue Jays Yankees @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCuV-2i
+
+Shop  https //stza.co/+xCuV-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:EymX_kbMkb40Eb2tFkEOBf_X@stanza.co
+SUMMARY:Yankees @ Blue Jays
+DESCRIPTION:Yankees @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCuV-2i\n\nShop: https://stza.co/+xCuV-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Cardinals
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       l5TabnWlIJDZP4vPGwjCLtDA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Cardinals Yankees vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCuX-3I
+
+Shop  https //stza.co/+xCuX-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:l5TabnWlIJDZP4vPGwjCLtDA@stanza.co
+SUMMARY:Yankees vs. Cardinals
+DESCRIPTION:Yankees vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCuX-3I\n\nShop: https://stza.co/+xCuX-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Cardinals
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       a7m80DRH2CTHNz5ZFve81cLl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Cardinals Yankees vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCv5-34
+
+Shop  https //stza.co/+xCv5-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:a7m80DRH2CTHNz5ZFve81cLl@stanza.co
+SUMMARY:Yankees vs. Cardinals
+DESCRIPTION:Yankees vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCv5-34\n\nShop: https://stza.co/+xCv5-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Cardinals
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       tZ48hWiwuydwu0V9L06wn00z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Cardinals Yankees vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCvf-1l
+
+Shop  https //stza.co/+xCvf-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:tZ48hWiwuydwu0V9L06wn00z@stanza.co
+SUMMARY:Yankees vs. Cardinals
+DESCRIPTION:Yankees vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCvf-1l\n\nShop: https://stza.co/+xCvf-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Astros
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       rSbx7CHxnqf40Hew-leG61MW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Astros Yankees @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCvo-1G
+
+Shop  https //stza.co/+xCvo-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:rSbx7CHxnqf40Hew-leG61MW@stanza.co
+SUMMARY:Yankees @ Astros
+DESCRIPTION:Yankees @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCvo-1G\n\nShop: https://stza.co/+xCvo-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Astros
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       9souMIJDIJ-6tlAOO32jMRRc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Astros Yankees @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCvy-K
+
+Shop  https //stza.co/+xCvy-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:9souMIJDIJ-6tlAOO32jMRRc@stanza.co
+SUMMARY:Yankees @ Astros
+DESCRIPTION:Yankees @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCvy-K\n\nShop: https://stza.co/+xCvy-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Astros
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       CVlbE8daUKBQf0EoSQ7yLRun@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Astros Yankees @ Astros
+
+Follow on MiLB First Pitch  https //stza.co/+xCvF-3t
+
+Shop  https //stza.co/+xCvF-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Astros
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:CVlbE8daUKBQf0EoSQ7yLRun@stanza.co
+SUMMARY:Yankees @ Astros
+DESCRIPTION:Yankees @ Astros\n\nFollow on MiLB First Pitch: https://stza.co/+xCvF-3t\n\nShop: https://stza.co/+xCvF-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Royals
+<2018-07-31 Tue>--<2018-07-30 Mon>
+:PROPERTIES:
+:ID:       RsPxRUt5TNyypFbdsO7rxOp0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Royals Yankees vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCvP-18
+
+Shop  https //stza.co/+xCvP-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180731
+DTEND;VALUE=DATE:20180731
+UID:RsPxRUt5TNyypFbdsO7rxOp0@stanza.co
+SUMMARY:Yankees vs. Royals
+DESCRIPTION:Yankees vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCvP-18\n\nShop: https://stza.co/+xCvP-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Royals
+<2018-08-01 Wed>--<2018-07-31 Tue>
+:PROPERTIES:
+:ID:       A9Feotw6dh3FD43fcr0C7-5N@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Royals Yankees vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCvZ-10
+
+Shop  https //stza.co/+xCvZ-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180801
+UID:A9Feotw6dh3FD43fcr0C7-5N@stanza.co
+SUMMARY:Yankees vs. Royals
+DESCRIPTION:Yankees vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCvZ-10\n\nShop: https://stza.co/+xCvZ-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Royals
+<2018-08-02 Thu>--<2018-08-01 Wed>
+:PROPERTIES:
+:ID:       GZGgXL12L9ZImNznMhTXlRmD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Royals Yankees vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCw6-3L
+
+Shop  https //stza.co/+xCw6-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180802
+UID:GZGgXL12L9ZImNznMhTXlRmD@stanza.co
+SUMMARY:Yankees vs. Royals
+DESCRIPTION:Yankees vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCw6-3L\n\nShop: https://stza.co/+xCw6-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Twins
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       MM0kXsXJmeM5nXY0ghef-geQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Twins Yankees vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCwg-5
+
+Shop  https //stza.co/+xCwg-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:MM0kXsXJmeM5nXY0ghef-geQ@stanza.co
+SUMMARY:Yankees vs. Twins
+DESCRIPTION:Yankees vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCwg-5\n\nShop: https://stza.co/+xCwg-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Twins
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       Npa8Loj_y8h9VfsyhpWXhqd3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Twins Yankees vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCwq-3R
+
+Shop  https //stza.co/+xCwq-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:Npa8Loj_y8h9VfsyhpWXhqd3@stanza.co
+SUMMARY:Yankees vs. Twins
+DESCRIPTION:Yankees vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCwq-3R\n\nShop: https://stza.co/+xCwq-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Twins
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       Y2D5XKNCF1nG7GX5YnG7HQz6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Twins Yankees vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCwx-2l
+
+Shop  https //stza.co/+xCwx-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:Y2D5XKNCF1nG7GX5YnG7HQz6@stanza.co
+SUMMARY:Yankees vs. Twins
+DESCRIPTION:Yankees vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCwx-2l\n\nShop: https://stza.co/+xCwx-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Rays
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       uuP_mbnDcYbbt1BnsUOjsEHZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Rays Yankees @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCwz-1g
+
+Shop  https //stza.co/+xCwz-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:uuP_mbnDcYbbt1BnsUOjsEHZ@stanza.co
+SUMMARY:Yankees @ Rays
+DESCRIPTION:Yankees @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCwz-1g\n\nShop: https://stza.co/+xCwz-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Rays
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       k0DXVFHMbJrCuDR4551PEwsB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Rays Yankees @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCwB-3i
+
+Shop  https //stza.co/+xCwB-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:k0DXVFHMbJrCuDR4551PEwsB@stanza.co
+SUMMARY:Yankees @ Rays
+DESCRIPTION:Yankees @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCwB-3i\n\nShop: https://stza.co/+xCwB-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Rays
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       Bnujk5_6C0SvfsVL6X_-CKkZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Rays Yankees @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCwC-t
+
+Shop  https //stza.co/+xCwC-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:Bnujk5_6C0SvfsVL6X_-CKkZ@stanza.co
+SUMMARY:Yankees @ Rays
+DESCRIPTION:Yankees @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCwC-t\n\nShop: https://stza.co/+xCwC-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Royals
+<2018-08-09 Thu>--<2018-08-08 Wed>
+:PROPERTIES:
+:ID:       KLwp4i6-Mo_5CYZwYfd40Y8S@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Royals Yankees @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCwE-3g
+
+Shop  https //stza.co/+xCwE-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+UID:KLwp4i6-Mo_5CYZwYfd40Y8S@stanza.co
+SUMMARY:Yankees @ Royals
+DESCRIPTION:Yankees @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCwE-3g\n\nShop: https://stza.co/+xCwE-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Royals
+<2018-08-10 Fri>--<2018-08-09 Thu>
+:PROPERTIES:
+:ID:       BAck_S1s-7F1HLyvFUaSnjK7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Royals Yankees @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCwG-30
+
+Shop  https //stza.co/+xCwG-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+UID:BAck_S1s-7F1HLyvFUaSnjK7@stanza.co
+SUMMARY:Yankees @ Royals
+DESCRIPTION:Yankees @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCwG-30\n\nShop: https://stza.co/+xCwG-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Royals
+<2018-08-11 Sat>--<2018-08-10 Fri>
+:PROPERTIES:
+:ID:       OqvFZnNfENrU2gXeYcv2f3up@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Royals Yankees @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCwI-1o
+
+Shop  https //stza.co/+xCwI-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180811
+UID:OqvFZnNfENrU2gXeYcv2f3up@stanza.co
+SUMMARY:Yankees @ Royals
+DESCRIPTION:Yankees @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCwI-1o\n\nShop: https://stza.co/+xCwI-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Braves
+<2018-08-12 Sun>--<2018-08-11 Sat>
+:PROPERTIES:
+:ID:       NINqJbWDSitX405-x2k3-g-1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Braves Yankees vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCwK-E
+
+Shop  https //stza.co/+xCwK-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180812
+UID:NINqJbWDSitX405-x2k3-g-1@stanza.co
+SUMMARY:Yankees vs. Braves
+DESCRIPTION:Yankees vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCwK-E\n\nShop: https://stza.co/+xCwK-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Braves
+<2018-08-13 Mon>--<2018-08-12 Sun>
+:PROPERTIES:
+:ID:       B-oW9J67dEoNTtJBJtzuxuBg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Braves Yankees vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCwO-e
+
+Shop  https //stza.co/+xCwO-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180813
+UID:B-oW9J67dEoNTtJBJtzuxuBg@stanza.co
+SUMMARY:Yankees vs. Braves
+DESCRIPTION:Yankees vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCwO-e\n\nShop: https://stza.co/+xCwO-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Braves
+<2018-08-14 Tue>--<2018-08-13 Mon>
+:PROPERTIES:
+:ID:       SKSIeNL7ZiJ5-uap1hueTz22@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Braves Yankees vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCwR-3W
+
+Shop  https //stza.co/+xCwR-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180814
+DTEND;VALUE=DATE:20180814
+UID:SKSIeNL7ZiJ5-uap1hueTz22@stanza.co
+SUMMARY:Yankees vs. Braves
+DESCRIPTION:Yankees vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCwR-3W\n\nShop: https://stza.co/+xCwR-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Mets
+<2018-08-16 Thu>--<2018-08-15 Wed>
+:PROPERTIES:
+:ID:       hWQqnFeoZqlcFyRiVjD8nvO6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Mets Yankees vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCwT-G
+
+Shop  https //stza.co/+xCwT-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180816
+UID:hWQqnFeoZqlcFyRiVjD8nvO6@stanza.co
+SUMMARY:Yankees vs. Mets
+DESCRIPTION:Yankees vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCwT-G\n\nShop: https://stza.co/+xCwT-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Mets
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       bApWQm-w4PHvrCD_EcWfmmUz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Mets Yankees vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCwX-16
+
+Shop  https //stza.co/+xCwX-18
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:bApWQm-w4PHvrCD_EcWfmmUz@stanza.co
+SUMMARY:Yankees vs. Mets
+DESCRIPTION:Yankees vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCwX-16\n\nShop: https://stza.co/+xCwX-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Mets
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       DWg8Dv7vzAUjd_TzERubuM3J@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Mets Yankees vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCx2-6
+
+Shop  https //stza.co/+xCx2-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:DWg8Dv7vzAUjd_TzERubuM3J@stanza.co
+SUMMARY:Yankees vs. Mets
+DESCRIPTION:Yankees vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCx2-6\n\nShop: https://stza.co/+xCx2-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Pirates
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       CVJY8FWxGqy7R9BuvXjXddSL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Pirates Yankees @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCx9-26
+
+Shop  https //stza.co/+xCx9-_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:CVJY8FWxGqy7R9BuvXjXddSL@stanza.co
+SUMMARY:Yankees @ Pirates
+DESCRIPTION:Yankees @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCx9-26\n\nShop: https://stza.co/+xCx9-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Pirates
+<2018-08-20 Mon>--<2018-08-19 Sun>
+:PROPERTIES:
+:ID:       Mtway8Lh8mUKT6JwfesfcWkC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Pirates Yankees @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCxe-1f
+
+Shop  https //stza.co/+xCxe-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180820
+DTEND;VALUE=DATE:20180820
+UID:Mtway8Lh8mUKT6JwfesfcWkC@stanza.co
+SUMMARY:Yankees @ Pirates
+DESCRIPTION:Yankees @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCxe-1f\n\nShop: https://stza.co/+xCxe-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Rays
+<2018-08-21 Tue>--<2018-08-20 Mon>
+:PROPERTIES:
+:ID:       W6aHxVCIapA0Qiu3mftM68DQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Rays Yankees vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCxl-2b
+
+Shop  https //stza.co/+xCxl-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180821
+UID:W6aHxVCIapA0Qiu3mftM68DQ@stanza.co
+SUMMARY:Yankees vs. Rays
+DESCRIPTION:Yankees vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCxl-2b\n\nShop: https://stza.co/+xCxl-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Rays
+<2018-08-22 Wed>--<2018-08-21 Tue>
+:PROPERTIES:
+:ID:       5uuT8gmcKlQWuqbTkDGIAcZG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Rays Yankees vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCxp-2s
+
+Shop  https //stza.co/+xCxp-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180822
+DTEND;VALUE=DATE:20180822
+UID:5uuT8gmcKlQWuqbTkDGIAcZG@stanza.co
+SUMMARY:Yankees vs. Rays
+DESCRIPTION:Yankees vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCxp-2s\n\nShop: https://stza.co/+xCxp-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Rays
+<2018-08-23 Thu>--<2018-08-22 Wed>
+:PROPERTIES:
+:ID:       v3hJvhQ1TSGclWelws6VxLrU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Rays Yankees vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCxy-3M
+
+Shop  https //stza.co/+xCxy-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180823
+UID:v3hJvhQ1TSGclWelws6VxLrU@stanza.co
+SUMMARY:Yankees vs. Rays
+DESCRIPTION:Yankees vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCxy-3M\n\nShop: https://stza.co/+xCxy-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees vs. Blue Jays
+<2018-08-24 Fri>--<2018-08-23 Thu>
+:PROPERTIES:
+:ID:       EEtE2Izgj6V7Jq3AbbVyUzaE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees vs. Blue Jays Yankees vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCxI-a
+
+Shop  https //stza.co/+xCxI-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Yankees vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180824
+UID:EEtE2Izgj6V7Jq3AbbVyUzaE@stanza.co
+SUMMARY:Yankees vs. Blue Jays
+DESCRIPTION:Yankees vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCxI-a\n\nShop: https://stza.co/+xCxI-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Blue Jays
+<2018-08-25 Sat>--<2018-08-24 Fri>
+:PROPERTIES:
+:ID:       fTOOwEmGdVcw9g_NiAydJEtj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Blue Jays Yankees @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCxU-3K
+
+Shop  https //stza.co/+xCxU-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180825
+UID:fTOOwEmGdVcw9g_NiAydJEtj@stanza.co
+SUMMARY:Yankees @ Blue Jays
+DESCRIPTION:Yankees @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCxU-3K\n\nShop: https://stza.co/+xCxU-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Blue Jays
+<2018-08-26 Sun>--<2018-08-25 Sat>
+:PROPERTIES:
+:ID:       JfYr44MGjLuu1FuKy20bOYW6@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Blue Jays Yankees @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCy1-1e
+
+Shop  https //stza.co/+xCy1-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180826
+UID:JfYr44MGjLuu1FuKy20bOYW6@stanza.co
+SUMMARY:Yankees @ Blue Jays
+DESCRIPTION:Yankees @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCy1-1e\n\nShop: https://stza.co/+xCy1-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Twins
+<2018-08-27 Mon>--<2018-08-26 Sun>
+:PROPERTIES:
+:ID:       D2y5uwjb80D5gAS3PGafC93t@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Twins Yankees @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCy8-2N
+
+Shop  https //stza.co/+xCy8-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180827
+DTEND;VALUE=DATE:20180827
+UID:D2y5uwjb80D5gAS3PGafC93t@stanza.co
+SUMMARY:Yankees @ Twins
+DESCRIPTION:Yankees @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCy8-2N\n\nShop: https://stza.co/+xCy8-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Twins
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       c4yf9IJHKifSbEb3UwukJSLt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Twins Yankees @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCyh-3i
+
+Shop  https //stza.co/+xCyh-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:c4yf9IJHKifSbEb3UwukJSLt@stanza.co
+SUMMARY:Yankees @ Twins
+DESCRIPTION:Yankees @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCyh-3i\n\nShop: https://stza.co/+xCyh-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT
+* Yankees @ Twins
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       3tX_RXCECE7bkwB_YXbhDHGI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Yankees @ Twins Yankees @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCyq-35
+
+Shop  https //stza.co/+xCyq-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Yankees @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:3tX_RXCECE7bkwB_YXbhDHGI@stanza.co
+SUMMARY:Yankees @ Twins
+DESCRIPTION:Yankees @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCyq-35\n\nShop: https://stza.co/+xCyq-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144552Z
+LAST-MODIFIED:20180213T144552Z
+TRANSP:OPAQUE
+END:VEVENT

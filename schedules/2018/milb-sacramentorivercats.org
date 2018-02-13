@@ -1,0 +1,5086 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* River Cats vs. Giants
+<2018-03-24 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       LdIGZxx44CuaqpN71Q4OXW4C@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Giants Listen live on KNBR 680
+
+Follow on MiLB First Pitch  https //stza.co/+wRnm-3s
+
+Shop  https //stza.co/+wRnm-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Giants
+END:VALARM
+DTSTART:20180325T010500Z
+DTEND:20180325T040500Z
+UID:LdIGZxx44CuaqpN71Q4OXW4C@stanza.co
+SUMMARY:River Cats vs. Giants
+DESCRIPTION:Listen live on KNBR 680\n\nFollow on MiLB First Pitch: https://stza.co/+wRnm-3s\n\nShop: https://stza.co/+wRnm-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-05 Thu 21:05>--<2018-04-06 Fri 00:05>
+:PROPERTIES:
+:ID:       YXkWxori_NW4ln-7fNXjfNgz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjMg-1O
+
+Shop  https //stza.co/+wjMg-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180406T020500Z
+DTEND:20180406T050500Z
+UID:YXkWxori_NW4ln-7fNXjfNgz@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjMg-1O\n\nShop: https://stza.co/+wjMg-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-06 Fri 21:05>--<2018-04-07 Sat 00:05>
+:PROPERTIES:
+:ID:       bKJ-O7FX458c1iuMF7a1sgcU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjMi-3V
+
+Shop  https //stza.co/+wjMi-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180407T020500Z
+DTEND:20180407T050500Z
+UID:bKJ-O7FX458c1iuMF7a1sgcU@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjMi-3V\n\nShop: https://stza.co/+wjMi-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-07 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       YzxyIuPM3DH-_ui0k2L3TSR2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjMj-h
+
+Shop  https //stza.co/+wjMj-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180408T000500Z
+DTEND:20180408T030500Z
+UID:YzxyIuPM3DH-_ui0k2L3TSR2@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjMj-h\n\nShop: https://stza.co/+wjMj-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-08 Sun 15:35-18:35>
+:PROPERTIES:
+:ID:       -5gT952NhYNQztwflR6rrJWd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjMk-m
+
+Shop  https //stza.co/+wjMk-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180408T203500Z
+DTEND:20180408T233500Z
+UID:-5gT952NhYNQztwflR6rrJWd@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjMk-m\n\nShop: https://stza.co/+wjMk-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-09 Mon 20:05-23:05>
+:PROPERTIES:
+:ID:       zyAOxv416ttfXhCJC3kAGSYY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjMl-1u
+
+Shop  https //stza.co/+wjMl-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180410T010500Z
+DTEND:20180410T040500Z
+UID:zyAOxv416ttfXhCJC3kAGSYY@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjMl-1u\n\nShop: https://stza.co/+wjMl-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-10 Tue 21:05>--<2018-04-11 Wed 00:05>
+:PROPERTIES:
+:ID:       mN8kwwP4uS9A2_x1O2HniCAR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJp-1I
+
+Shop  https //stza.co/+wjJp-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180411T020500Z
+DTEND:20180411T050500Z
+UID:mN8kwwP4uS9A2_x1O2HniCAR@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJp-1I\n\nShop: https://stza.co/+wjJp-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-11 Wed 14:05-17:05>
+:PROPERTIES:
+:ID:       ejZJ9tuR-Zo4cW9WJgXWkaNs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJq-23
+
+Shop  https //stza.co/+wjJq-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180411T190500Z
+DTEND:20180411T220500Z
+UID:ejZJ9tuR-Zo4cW9WJgXWkaNs@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJq-23\n\nShop: https://stza.co/+wjJq-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-12 Thu 21:05>--<2018-04-13 Fri 00:05>
+:PROPERTIES:
+:ID:       e_LuN9pWF4rTd7b8M-MBrI7p@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJu-2K
+
+Shop  https //stza.co/+wjJu-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180413T020500Z
+DTEND:20180413T050500Z
+UID:e_LuN9pWF4rTd7b8M-MBrI7p@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJu-2K\n\nShop: https://stza.co/+wjJu-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-04-13 Fri 21:05>--<2018-04-14 Sat 00:05>
+:PROPERTIES:
+:ID:       KBUC8Ou1qTennKC_98tJQCwL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjJw-22
+
+Shop  https //stza.co/+wjJw-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180414T020500Z
+DTEND:20180414T050500Z
+UID:KBUC8Ou1qTennKC_98tJQCwL@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjJw-22\n\nShop: https://stza.co/+wjJw-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-04-14 Sat 21:05>--<2018-04-15 Sun 00:05>
+:PROPERTIES:
+:ID:       MVtaKhQrnMlftCxbTPuF85kC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjJy-2s
+
+Shop  https //stza.co/+wjJy-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180415T020500Z
+DTEND:20180415T050500Z
+UID:MVtaKhQrnMlftCxbTPuF85kC@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjJy-2s\n\nShop: https://stza.co/+wjJy-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-04-15 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       xpKqM4haBR6ofKP1ymRchjfE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjJB-3D
+
+Shop  https //stza.co/+wjJB-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180415T200500Z
+DTEND:20180415T230500Z
+UID:xpKqM4haBR6ofKP1ymRchjfE@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjJB-3D\n\nShop: https://stza.co/+wjJB-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-04-16 Mon 14:05-17:05>
+:PROPERTIES:
+:ID:       bzMWgQW4BmD-eVDmZ1MaC8Sb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjJC-9
+
+Shop  https //stza.co/+wjJC-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180416T190500Z
+DTEND:20180416T220500Z
+UID:bzMWgQW4BmD-eVDmZ1MaC8Sb@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjJC-9\n\nShop: https://stza.co/+wjJC-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-04-17 Tue 19:35-22:35>
+:PROPERTIES:
+:ID:       ZubfSeoKC-mpSLbw4h1BrzEX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMk-2A
+
+Shop  https //stza.co/+wmMk-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180418T003500Z
+DTEND:20180418T033500Z
+UID:ZubfSeoKC-mpSLbw4h1BrzEX@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMk-2A\n\nShop: https://stza.co/+wmMk-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-04-18 Wed 13:05-16:05>
+:PROPERTIES:
+:ID:       TqufBlMB1_PBzU4tFzgm6F-6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMl-3i
+
+Shop  https //stza.co/+wmMl-1_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180418T180500Z
+DTEND:20180418T210500Z
+UID:TqufBlMB1_PBzU4tFzgm6F-6@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMl-3i\n\nShop: https://stza.co/+wmMl-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-04-19 Thu 19:35-22:35>
+:PROPERTIES:
+:ID:       GqSt9Vl_3hbO7vZzbMSoi1bq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMm-1L
+
+Shop  https //stza.co/+wmMm-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180420T003500Z
+DTEND:20180420T033500Z
+UID:GqSt9Vl_3hbO7vZzbMSoi1bq@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMm-1L\n\nShop: https://stza.co/+wmMm-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-04-20 Fri 19:35-22:35>
+:PROPERTIES:
+:ID:       JYpx-q7E_Qr6-CWYxaLRdGrM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMo-2Y
+
+Shop  https //stza.co/+wmMo-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180421T003500Z
+DTEND:20180421T033500Z
+UID:JYpx-q7E_Qr6-CWYxaLRdGrM@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMo-2Y\n\nShop: https://stza.co/+wmMo-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-21 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       TeVLQstiDCCEIikGr9_jZH2p@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+xM5y-j
+
+Shop  https //stza.co/+xM5y-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180422T000500Z
+DTEND:20180422T030500Z
+UID:TeVLQstiDCCEIikGr9_jZH2p@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+xM5y-j\n\nShop: https://stza.co/+xM5y-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-22 Sun 15:35-18:35>
+:PROPERTIES:
+:ID:       Cp2JJDwcbonG70ulZ53i0eEV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjMn-A
+
+Shop  https //stza.co/+wjMn-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180422T203500Z
+DTEND:20180422T233500Z
+UID:Cp2JJDwcbonG70ulZ53i0eEV@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjMn-A\n\nShop: https://stza.co/+wjMn-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Rainiers
+<2018-04-23 Mon 13:35-16:35>
+:PROPERTIES:
+:ID:       JJcl-ilnYO45v3jb8t-Es0Qy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Rainiers River Cats @ Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjMo-2$
+
+Shop  https //stza.co/+wjMo-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Rainiers
+END:VALARM
+DTSTART:20180423T183500Z
+DTEND:20180423T213500Z
+UID:JJcl-ilnYO45v3jb8t-Es0Qy@stanza.co
+SUMMARY:River Cats @ Rainiers
+DESCRIPTION:River Cats @ Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjMo-2$\n\nShop: https://stza.co/+wjMo-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-25 Wed 21:05>--<2018-04-26 Thu 00:05>
+:PROPERTIES:
+:ID:       _cznndfnfVSvYAuJSCDxve6h@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJF-1i
+
+Shop  https //stza.co/+wjJF-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180426T020500Z
+DTEND:20180426T050500Z
+UID:_cznndfnfVSvYAuJSCDxve6h@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJF-1i\n\nShop: https://stza.co/+wjJF-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-26 Thu 21:05>--<2018-04-27 Fri 00:05>
+:PROPERTIES:
+:ID:       PyxT2WPlDsKm-dlwLvlOcPan@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJI-X
+
+Shop  https //stza.co/+wjJI-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180427T020500Z
+DTEND:20180427T050500Z
+UID:PyxT2WPlDsKm-dlwLvlOcPan@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJI-X\n\nShop: https://stza.co/+wjJI-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-27 Fri 21:05>--<2018-04-28 Sat 00:05>
+:PROPERTIES:
+:ID:       96GgKe0fu7Go-_WJ15IhLoR0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJM-2P
+
+Shop  https //stza.co/+wjJM-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180428T020500Z
+DTEND:20180428T050500Z
+UID:96GgKe0fu7Go-_WJ15IhLoR0@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJM-2P\n\nShop: https://stza.co/+wjJM-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-28 Sat 21:05>--<2018-04-29 Sun 00:05>
+:PROPERTIES:
+:ID:       YPFm74Go0Fk14vr-lVmkk6MG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJO-3T
+
+Shop  https //stza.co/+wjJO-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180429T020500Z
+DTEND:20180429T050500Z
+UID:YPFm74Go0Fk14vr-lVmkk6MG@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJO-3T\n\nShop: https://stza.co/+wjJO-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Aces
+<2018-04-29 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       RUaIvo-bgFmeiNd66WOz4a1-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Aces River Cats vs. Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJQ-u
+
+Shop  https //stza.co/+wjJQ-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Aces
+END:VALARM
+DTSTART:20180429T200500Z
+DTEND:20180429T230500Z
+UID:RUaIvo-bgFmeiNd66WOz4a1-@stanza.co
+SUMMARY:River Cats vs. Aces
+DESCRIPTION:River Cats vs. Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJQ-u\n\nShop: https://stza.co/+wjJQ-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-04-30 Mon 21:05>--<2018-05-01 Tue 00:05>
+:PROPERTIES:
+:ID:       5SSYMMLkgncDyIVgrSFAjZ-k@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKYT-3A
+
+Shop  https //stza.co/+vKYT-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180501T020500Z
+DTEND:20180501T050500Z
+UID:5SSYMMLkgncDyIVgrSFAjZ-k@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKYT-3A\n\nShop: https://stza.co/+vKYT-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-05-01 Tue 12:35-15:35>
+:PROPERTIES:
+:ID:       Mt13IEPgkP98BLhXromL1PWG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKYU-2H
+
+Shop  https //stza.co/+vKYU-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180501T173500Z
+DTEND:20180501T203500Z
+UID:Mt13IEPgkP98BLhXromL1PWG@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKYU-2H\n\nShop: https://stza.co/+vKYU-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-05-02 Wed 21:05>--<2018-05-03 Thu 00:05>
+:PROPERTIES:
+:ID:       SfCNluiBWOHa69osYZGTr6VB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKYV-T
+
+Shop  https //stza.co/+vKYV-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180503T020500Z
+DTEND:20180503T050500Z
+UID:SfCNluiBWOHa69osYZGTr6VB@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKYV-T\n\nShop: https://stza.co/+vKYV-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-05-03 Thu 21:05>--<2018-05-04 Fri 00:05>
+:PROPERTIES:
+:ID:       1mQfdbfT9uYFVA3FF87MGK5b@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKYW-2_
+
+Shop  https //stza.co/+vKYW-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180504T020500Z
+DTEND:20180504T050500Z
+UID:1mQfdbfT9uYFVA3FF87MGK5b@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKYW-2_\n\nShop: https://stza.co/+vKYW-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-05-04 Fri 21:05>--<2018-05-05 Sat 00:05>
+:PROPERTIES:
+:ID:       fTslcu0228fijo12isl23GTC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJ2-2r
+
+Shop  https //stza.co/+wjJ2-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180505T020500Z
+DTEND:20180505T050500Z
+UID:fTslcu0228fijo12isl23GTC@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJ2-2r\n\nShop: https://stza.co/+wjJ2-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-05-05 Sat 21:05>--<2018-05-06 Sun 00:05>
+:PROPERTIES:
+:ID:       BhXLuj0sPWBeZhSH7AdPyB9m@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJ3-$
+
+Shop  https //stza.co/+wjJ3-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180506T020500Z
+DTEND:20180506T050500Z
+UID:BhXLuj0sPWBeZhSH7AdPyB9m@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJ3-$\n\nShop: https://stza.co/+wjJ3-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-05-06 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       CW_K1YZSjQtjGGTjC2bFRQuo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJ5-2U
+
+Shop  https //stza.co/+wjJ5-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180506T200500Z
+DTEND:20180506T230500Z
+UID:CW_K1YZSjQtjGGTjC2bFRQuo@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJ5-2U\n\nShop: https://stza.co/+wjJ5-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-05-07 Mon 20:35-23:35>
+:PROPERTIES:
+:ID:       H3JxQvKujt3lz5k3htJ1bWGP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJ6-2L
+
+Shop  https //stza.co/+wjJ6-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180508T013500Z
+DTEND:20180508T043500Z
+UID:H3JxQvKujt3lz5k3htJ1bWGP@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJ6-2L\n\nShop: https://stza.co/+wjJ6-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-05-08 Tue 21:05>--<2018-05-09 Wed 00:05>
+:PROPERTIES:
+:ID:       irPGpqFs9sNony4JflnwSxil@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjJR-1$
+
+Shop  https //stza.co/+wjJR-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180509T020500Z
+DTEND:20180509T050500Z
+UID:irPGpqFs9sNony4JflnwSxil@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjJR-1$\n\nShop: https://stza.co/+wjJR-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-05-09 Wed 14:05-17:05>
+:PROPERTIES:
+:ID:       pHwJnSD4ZPiwkdPvQjoVFCOj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjJT-j
+
+Shop  https //stza.co/+wjJT-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180509T190500Z
+DTEND:20180509T220500Z
+UID:pHwJnSD4ZPiwkdPvQjoVFCOj@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjJT-j\n\nShop: https://stza.co/+wjJT-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-05-10 Thu 21:05>--<2018-05-11 Fri 00:05>
+:PROPERTIES:
+:ID:       b2sVWoMFV3dPRm28k3X_oG1w@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjJV-1G
+
+Shop  https //stza.co/+wjJV-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180511T020500Z
+DTEND:20180511T050500Z
+UID:b2sVWoMFV3dPRm28k3X_oG1w@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjJV-1G\n\nShop: https://stza.co/+wjJV-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-05-11 Fri 21:05>--<2018-05-12 Sat 00:05>
+:PROPERTIES:
+:ID:       dBGElQSIlnA6FwwxLkSltS1u@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjJX-3U
+
+Shop  https //stza.co/+wjJX-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180512T020500Z
+DTEND:20180512T050500Z
+UID:dBGElQSIlnA6FwwxLkSltS1u@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjJX-3U\n\nShop: https://stza.co/+wjJX-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-05-12 Sat 21:05>--<2018-05-13 Sun 00:05>
+:PROPERTIES:
+:ID:       334l08882jfHuPC1rO_IKXKR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjJ_-A
+
+Shop  https //stza.co/+wjJ_-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180513T020500Z
+DTEND:20180513T050500Z
+UID:334l08882jfHuPC1rO_IKXKR@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjJ_-A\n\nShop: https://stza.co/+wjJ_-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-05-13 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       G9tkXJ_WKjEshliR3rCo-0Kd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjK0-3k
+
+Shop  https //stza.co/+wjK0-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180513T200500Z
+DTEND:20180513T230500Z
+UID:G9tkXJ_WKjEshliR3rCo-0Kd@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjK0-3k\n\nShop: https://stza.co/+wjK0-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-05-14 Mon 21:05>--<2018-05-15 Tue 00:05>
+:PROPERTIES:
+:ID:       Oog7Gt2HPBaGlOkAoopEn-Kd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjK1-29
+
+Shop  https //stza.co/+wjK1-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180515T020500Z
+DTEND:20180515T050500Z
+UID:Oog7Gt2HPBaGlOkAoopEn-Kd@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjK1-29\n\nShop: https://stza.co/+wjK1-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Rainiers
+<2018-05-15 Tue 14:05-17:05>
+:PROPERTIES:
+:ID:       f89sJ423a1Z8NRS4k2PIo-Ib@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Rainiers River Cats vs. Rainiers
+
+Follow on MiLB First Pitch  https //stza.co/+wjK4-L
+
+Shop  https //stza.co/+wjK4-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Rainiers
+END:VALARM
+DTSTART:20180515T190500Z
+DTEND:20180515T220500Z
+UID:f89sJ423a1Z8NRS4k2PIo-Ib@stanza.co
+SUMMARY:River Cats vs. Rainiers
+DESCRIPTION:River Cats vs. Rainiers\n\nFollow on MiLB First Pitch: https://stza.co/+wjK4-L\n\nShop: https://stza.co/+wjK4-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-05-17 Thu 19:35-22:35>
+:PROPERTIES:
+:ID:       zdV9UKrzzvAboiKwowT19GlW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMp-A
+
+Shop  https //stza.co/+wmMp-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180518T003500Z
+DTEND:20180518T033500Z
+UID:zdV9UKrzzvAboiKwowT19GlW@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMp-A\n\nShop: https://stza.co/+wmMp-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-05-18 Fri 19:35-22:35>
+:PROPERTIES:
+:ID:       bDDulPAzGYMD25fTjVvv1gLV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMq-2R
+
+Shop  https //stza.co/+wmMq-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180519T003500Z
+DTEND:20180519T033500Z
+UID:bDDulPAzGYMD25fTjVvv1gLV@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMq-2R\n\nShop: https://stza.co/+wmMq-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-05-19 Sat 19:35-22:35>
+:PROPERTIES:
+:ID:       By3TMJYknP9LYt1B2OhJWGAl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMr-3z
+
+Shop  https //stza.co/+wmMr-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180520T003500Z
+DTEND:20180520T033500Z
+UID:By3TMJYknP9LYt1B2OhJWGAl@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMr-3z\n\nShop: https://stza.co/+wmMr-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Bees
+<2018-05-20 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       HSRiJ8YEUXY3jdpESxILZRu0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Bees River Cats @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wmMs-1w
+
+Shop  https //stza.co/+wmMs-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Bees
+END:VALARM
+DTSTART:20180520T190500Z
+DTEND:20180520T220500Z
+UID:HSRiJ8YEUXY3jdpESxILZRu0@stanza.co
+SUMMARY:River Cats @ Bees
+DESCRIPTION:River Cats @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wmMs-1w\n\nShop: https://stza.co/+wmMs-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-05-21 Mon 21:05>--<2018-05-22 Tue 00:05>
+:PROPERTIES:
+:ID:       B5RKUHIQXhZ54iC4CB_rAPKF@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjK6-23
+
+Shop  https //stza.co/+wjK6-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180522T020500Z
+DTEND:20180522T050500Z
+UID:B5RKUHIQXhZ54iC4CB_rAPKF@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjK6-23\n\nShop: https://stza.co/+wjK6-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-05-22 Tue 21:05>--<2018-05-23 Wed 00:05>
+:PROPERTIES:
+:ID:       3yn83O1Y_kvKphV87sfxGT8I@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjKa-36
+
+Shop  https //stza.co/+wjKa-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180523T020500Z
+DTEND:20180523T050500Z
+UID:3yn83O1Y_kvKphV87sfxGT8I@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjKa-36\n\nShop: https://stza.co/+wjKa-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-05-23 Wed 21:05>--<2018-05-24 Thu 00:05>
+:PROPERTIES:
+:ID:       pXLiE8-7y6e56sLiGi9R2Qi0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjKc-W
+
+Shop  https //stza.co/+wjKc-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180524T020500Z
+DTEND:20180524T050500Z
+UID:pXLiE8-7y6e56sLiGi9R2Qi0@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjKc-W\n\nShop: https://stza.co/+wjKc-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-05-24 Thu 21:05>--<2018-05-25 Fri 00:05>
+:PROPERTIES:
+:ID:       Uy52u7GmDoEVtR7El1k9z959@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjKe-1Z
+
+Shop  https //stza.co/+wjKe-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180525T020500Z
+DTEND:20180525T050500Z
+UID:Uy52u7GmDoEVtR7El1k9z959@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjKe-1Z\n\nShop: https://stza.co/+wjKe-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-05-25 Fri 21:05>--<2018-05-26 Sat 00:05>
+:PROPERTIES:
+:ID:       X7tmwBWGAxrqm6BPIcCP4Qr_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjKi-1Z
+
+Shop  https //stza.co/+wjKi-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180526T020500Z
+DTEND:20180526T050500Z
+UID:X7tmwBWGAxrqm6BPIcCP4Qr_@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjKi-1Z\n\nShop: https://stza.co/+wjKi-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-05-26 Sat 21:05>--<2018-05-27 Sun 00:05>
+:PROPERTIES:
+:ID:       roQ3TcRsGsYtXBnxFTr6pJrt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjKk-2Z
+
+Shop  https //stza.co/+wjKk-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180527T020500Z
+DTEND:20180527T050500Z
+UID:roQ3TcRsGsYtXBnxFTr6pJrt@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjKk-2Z\n\nShop: https://stza.co/+wjKk-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-05-27 Sun 19:05-22:05>
+:PROPERTIES:
+:ID:       hkJqqLQKXyfmpoXh2bHexkiq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjKp-F
+
+Shop  https //stza.co/+wjKp-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180528T000500Z
+DTEND:20180528T030500Z
+UID:hkJqqLQKXyfmpoXh2bHexkiq@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjKp-F\n\nShop: https://stza.co/+wjKp-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-05-28 Mon 15:05-18:05>
+:PROPERTIES:
+:ID:       WuiHeGW_eQ6gDKgumiXyJ17c@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjKq-3c
+
+Shop  https //stza.co/+wjKq-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180528T200500Z
+DTEND:20180528T230500Z
+UID:WuiHeGW_eQ6gDKgumiXyJ17c@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjKq-3c\n\nShop: https://stza.co/+wjKq-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-05-29 Tue 14:05-17:05>
+:PROPERTIES:
+:ID:       fSeL-aegictzL6EWetc1II8v@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjKu-2X
+
+Shop  https //stza.co/+wjKu-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180529T190500Z
+DTEND:20180529T220500Z
+UID:fSeL-aegictzL6EWetc1II8v@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjKu-2X\n\nShop: https://stza.co/+wjKu-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-05-30 Wed 19:35-22:35>
+:PROPERTIES:
+:ID:       N3PuueVztaEvPwU0bP4l1AOc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmM9-2s
+
+Shop  https //stza.co/+wmM9-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180531T003500Z
+DTEND:20180531T033500Z
+UID:N3PuueVztaEvPwU0bP4l1AOc@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmM9-2s\n\nShop: https://stza.co/+wmM9-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-05-31 Thu 19:35-22:35>
+:PROPERTIES:
+:ID:       TYuyTXFZpqzD9xAP1C83ubb9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmMa-Z
+
+Shop  https //stza.co/+wmMa-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180601T003500Z
+DTEND:20180601T033500Z
+UID:TYuyTXFZpqzD9xAP1C83ubb9@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmMa-Z\n\nShop: https://stza.co/+wmMa-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-06-01 Fri 20:05-23:05>
+:PROPERTIES:
+:ID:       7GmYXTXot3j8rC9Jo17eL8Xw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmMb-S
+
+Shop  https //stza.co/+wmMb-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180602T010500Z
+DTEND:20180602T040500Z
+UID:7GmYXTXot3j8rC9Jo17eL8Xw@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmMb-S\n\nShop: https://stza.co/+wmMb-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-06-02 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       azo4bHfQ7vQ00PlY-vDyRKUy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmMc-3P
+
+Shop  https //stza.co/+wmMc-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180603T010500Z
+DTEND:20180603T040500Z
+UID:azo4bHfQ7vQ00PlY-vDyRKUy@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmMc-3P\n\nShop: https://stza.co/+wmMc-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-06-03 Sun 19:05-22:05>
+:PROPERTIES:
+:ID:       XEkPZRuBluaUZn9NXLW73wFq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmMd-2E
+
+Shop  https //stza.co/+wmMd-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180604T000500Z
+DTEND:20180604T030500Z
+UID:XEkPZRuBluaUZn9NXLW73wFq@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmMd-2E\n\nShop: https://stza.co/+wmMd-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Dodgers
+<2018-06-05 Tue 21:05>--<2018-06-06 Wed 00:05>
+:PROPERTIES:
+:ID:       KV8VdxsLVEAVNDH6MK34Y45N@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Dodgers River Cats vs. Dodgers
+
+Follow on MiLB First Pitch  https //stza.co/+wjKw-3e
+
+Shop  https //stza.co/+wjKw-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Dodgers
+END:VALARM
+DTSTART:20180606T020500Z
+DTEND:20180606T050500Z
+UID:KV8VdxsLVEAVNDH6MK34Y45N@stanza.co
+SUMMARY:River Cats vs. Dodgers
+DESCRIPTION:River Cats vs. Dodgers\n\nFollow on MiLB First Pitch: https://stza.co/+wjKw-3e\n\nShop: https://stza.co/+wjKw-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Dodgers
+<2018-06-06 Wed 21:05>--<2018-06-07 Thu 00:05>
+:PROPERTIES:
+:ID:       dUvbX_RHI6QA4PscOzUPqcP-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Dodgers River Cats vs. Dodgers
+
+Follow on MiLB First Pitch  https //stza.co/+wjKz-2p
+
+Shop  https //stza.co/+wjKz-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Dodgers
+END:VALARM
+DTSTART:20180607T020500Z
+DTEND:20180607T050500Z
+UID:dUvbX_RHI6QA4PscOzUPqcP-@stanza.co
+SUMMARY:River Cats vs. Dodgers
+DESCRIPTION:River Cats vs. Dodgers\n\nFollow on MiLB First Pitch: https://stza.co/+wjKz-2p\n\nShop: https://stza.co/+wjKz-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Dodgers
+<2018-06-07 Thu 21:05>--<2018-06-08 Fri 00:05>
+:PROPERTIES:
+:ID:       owSqsxeSNLutkUv2tLJSzcWf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Dodgers River Cats vs. Dodgers
+
+Follow on MiLB First Pitch  https //stza.co/+wjKB-19
+
+Shop  https //stza.co/+wjKB-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Dodgers
+END:VALARM
+DTSTART:20180608T020500Z
+DTEND:20180608T050500Z
+UID:owSqsxeSNLutkUv2tLJSzcWf@stanza.co
+SUMMARY:River Cats vs. Dodgers
+DESCRIPTION:River Cats vs. Dodgers\n\nFollow on MiLB First Pitch: https://stza.co/+wjKB-19\n\nShop: https://stza.co/+wjKB-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Sky Sox
+<2018-06-08 Fri 21:05>--<2018-06-09 Sat 00:05>
+:PROPERTIES:
+:ID:       AIugcDkz_ZozCf-E_gsKXTIN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Sky Sox River Cats vs. Sky Sox
+
+Follow on MiLB First Pitch  https //stza.co/+wjKD-1w
+
+Shop  https //stza.co/+wjKD-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Sky Sox
+END:VALARM
+DTSTART:20180609T020500Z
+DTEND:20180609T050500Z
+UID:AIugcDkz_ZozCf-E_gsKXTIN@stanza.co
+SUMMARY:River Cats vs. Sky Sox
+DESCRIPTION:River Cats vs. Sky Sox\n\nFollow on MiLB First Pitch: https://stza.co/+wjKD-1w\n\nShop: https://stza.co/+wjKD-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Sky Sox
+<2018-06-09 Sat 21:05>--<2018-06-10 Sun 00:05>
+:PROPERTIES:
+:ID:       ePcgC2xhEjIBLr9aV1cY21QA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Sky Sox River Cats vs. Sky Sox
+
+Follow on MiLB First Pitch  https //stza.co/+wjKG-13
+
+Shop  https //stza.co/+wjKG-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Sky Sox
+END:VALARM
+DTSTART:20180610T020500Z
+DTEND:20180610T050500Z
+UID:ePcgC2xhEjIBLr9aV1cY21QA@stanza.co
+SUMMARY:River Cats vs. Sky Sox
+DESCRIPTION:River Cats vs. Sky Sox\n\nFollow on MiLB First Pitch: https://stza.co/+wjKG-13\n\nShop: https://stza.co/+wjKG-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Sky Sox
+<2018-06-10 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       UFK5Bc3c5pg1bAlXC2ZTTp48@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Sky Sox River Cats vs. Sky Sox
+
+Follow on MiLB First Pitch  https //stza.co/+wjKK-3e
+
+Shop  https //stza.co/+wjKK-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Sky Sox
+END:VALARM
+DTSTART:20180610T200500Z
+DTEND:20180610T230500Z
+UID:UFK5Bc3c5pg1bAlXC2ZTTp48@stanza.co
+SUMMARY:River Cats vs. Sky Sox
+DESCRIPTION:River Cats vs. Sky Sox\n\nFollow on MiLB First Pitch: https://stza.co/+wjKK-3e\n\nShop: https://stza.co/+wjKK-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Sky Sox
+<2018-06-11 Mon 21:05>--<2018-06-12 Tue 00:05>
+:PROPERTIES:
+:ID:       LjFCDn42CZCCZxKwzybBp1zs@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Sky Sox River Cats vs. Sky Sox
+
+Follow on MiLB First Pitch  https //stza.co/+wjKO-t
+
+Shop  https //stza.co/+wjKO-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Sky Sox
+END:VALARM
+DTSTART:20180612T020500Z
+DTEND:20180612T050500Z
+UID:LjFCDn42CZCCZxKwzybBp1zs@stanza.co
+SUMMARY:River Cats vs. Sky Sox
+DESCRIPTION:River Cats vs. Sky Sox\n\nFollow on MiLB First Pitch: https://stza.co/+wjKO-t\n\nShop: https://stza.co/+wjKO-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Express
+<2018-06-13 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       GiDNGXV0Iu1hrdr_lNmPLKMr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Express River Cats @ Express
+
+Follow on MiLB First Pitch  https //stza.co/+vKZi-2c
+
+Shop  https //stza.co/+vKZi-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Express
+END:VALARM
+DTSTART:20180614T000500Z
+DTEND:20180614T030500Z
+UID:GiDNGXV0Iu1hrdr_lNmPLKMr@stanza.co
+SUMMARY:River Cats @ Express
+DESCRIPTION:River Cats @ Express\n\nFollow on MiLB First Pitch: https://stza.co/+vKZi-2c\n\nShop: https://stza.co/+vKZi-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Express
+<2018-06-14 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       FnBiyeYQehHb1e6jTCMFwmd-@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Express River Cats @ Express
+
+Follow on MiLB First Pitch  https //stza.co/+vKZj-2j
+
+Shop  https //stza.co/+vKZj-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Express
+END:VALARM
+DTSTART:20180615T000500Z
+DTEND:20180615T030500Z
+UID:FnBiyeYQehHb1e6jTCMFwmd-@stanza.co
+SUMMARY:River Cats @ Express
+DESCRIPTION:River Cats @ Express\n\nFollow on MiLB First Pitch: https://stza.co/+vKZj-2j\n\nShop: https://stza.co/+vKZj-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Express
+<2018-06-15 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       AusZLYxFckdwWr2HK1g8susX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Express River Cats @ Express
+
+Follow on MiLB First Pitch  https //stza.co/+vKZk-3z
+
+Shop  https //stza.co/+vKZk-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Express
+END:VALARM
+DTSTART:20180616T000500Z
+DTEND:20180616T030500Z
+UID:AusZLYxFckdwWr2HK1g8susX@stanza.co
+SUMMARY:River Cats @ Express
+DESCRIPTION:River Cats @ Express\n\nFollow on MiLB First Pitch: https://stza.co/+vKZk-3z\n\nShop: https://stza.co/+vKZk-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Baby Cakes
+<2018-06-16 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       JwaxXhTMPF4qc1ptdXOuFed6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Baby Cakes River Cats @ Baby Cakes
+
+Follow on MiLB First Pitch  https //stza.co/+whR8-3o
+
+Shop  https //stza.co/+whR8-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Baby Cakes
+END:VALARM
+DTSTART:20180616T230000Z
+DTEND:20180617T020000Z
+UID:JwaxXhTMPF4qc1ptdXOuFed6@stanza.co
+SUMMARY:River Cats @ Baby Cakes
+DESCRIPTION:River Cats @ Baby Cakes\n\nFollow on MiLB First Pitch: https://stza.co/+whR8-3o\n\nShop: https://stza.co/+whR8-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Baby Cakes
+<2018-06-17 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       Tldi0TQu7b__osm-gaC7w-RL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Baby Cakes River Cats @ Baby Cakes
+
+Follow on MiLB First Pitch  https //stza.co/+whR9-2a
+
+Shop  https //stza.co/+whR9-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Baby Cakes
+END:VALARM
+DTSTART:20180617T180000Z
+DTEND:20180617T210000Z
+UID:Tldi0TQu7b__osm-gaC7w-RL@stanza.co
+SUMMARY:River Cats @ Baby Cakes
+DESCRIPTION:River Cats @ Baby Cakes\n\nFollow on MiLB First Pitch: https://stza.co/+whR9-2a\n\nShop: https://stza.co/+whR9-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Baby Cakes
+<2018-06-18 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       028ueuRRD_CmXe5qjewpOq6N@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Baby Cakes River Cats @ Baby Cakes
+
+Follow on MiLB First Pitch  https //stza.co/+whRa-1K
+
+Shop  https //stza.co/+whRa-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Baby Cakes
+END:VALARM
+DTSTART:20180619T000000Z
+DTEND:20180619T030000Z
+UID:028ueuRRD_CmXe5qjewpOq6N@stanza.co
+SUMMARY:River Cats @ Baby Cakes
+DESCRIPTION:River Cats @ Baby Cakes\n\nFollow on MiLB First Pitch: https://stza.co/+whRa-1K\n\nShop: https://stza.co/+whRa-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Baby Cakes
+<2018-06-19 Tue 12:00-15:00>
+:PROPERTIES:
+:ID:       BkhgNxyeeduJIdlNciA_uz04@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Baby Cakes River Cats @ Baby Cakes
+
+Follow on MiLB First Pitch  https //stza.co/+whRb-2t
+
+Shop  https //stza.co/+whRb-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Baby Cakes
+END:VALARM
+DTSTART:20180619T170000Z
+DTEND:20180619T200000Z
+UID:BkhgNxyeeduJIdlNciA_uz04@stanza.co
+SUMMARY:River Cats @ Baby Cakes
+DESCRIPTION:River Cats @ Baby Cakes\n\nFollow on MiLB First Pitch: https://stza.co/+whRb-2t\n\nShop: https://stza.co/+whRb-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-06-21 Thu 21:05>--<2018-06-22 Fri 00:05>
+:PROPERTIES:
+:ID:       PdOqq1YXZ5-e2TTh_JpRdlpX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjKP-2W
+
+Shop  https //stza.co/+wjKP-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180622T020500Z
+DTEND:20180622T050500Z
+UID:PdOqq1YXZ5-e2TTh_JpRdlpX@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjKP-2W\n\nShop: https://stza.co/+wjKP-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-06-22 Fri 21:05>--<2018-06-23 Sat 00:05>
+:PROPERTIES:
+:ID:       a_11xjdKARgYCUl4CDGUegcV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjKS-k
+
+Shop  https //stza.co/+wjKS-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180623T020500Z
+DTEND:20180623T050500Z
+UID:a_11xjdKARgYCUl4CDGUegcV@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjKS-k\n\nShop: https://stza.co/+wjKS-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-06-23 Sat 21:05>--<2018-06-24 Sun 00:05>
+:PROPERTIES:
+:ID:       jHbN-OXujgCXqreWz_n_x-A6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjKY-1o
+
+Shop  https //stza.co/+wjKY-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180624T020500Z
+DTEND:20180624T050500Z
+UID:jHbN-OXujgCXqreWz_n_x-A6@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjKY-1o\n\nShop: https://stza.co/+wjKY-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-06-24 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       bhgqhcy2KwkNEBnkvoqk5lrR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjK_-3w
+
+Shop  https //stza.co/+wjK_-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180624T200500Z
+DTEND:20180624T230500Z
+UID:bhgqhcy2KwkNEBnkvoqk5lrR@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjK_-3w\n\nShop: https://stza.co/+wjK_-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-06-25 Mon 19:35-22:35>
+:PROPERTIES:
+:ID:       U9F-Yn_zKsstmPH1xqi3HWkb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whQW-1y
+
+Shop  https //stza.co/+whQW-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180626T003500Z
+DTEND:20180626T033500Z
+UID:U9F-Yn_zKsstmPH1xqi3HWkb@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whQW-1y\n\nShop: https://stza.co/+whQW-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-06-26 Tue 19:35-22:35>
+:PROPERTIES:
+:ID:       26UYciExcPw3wLgbk3nK0tQJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whQX-3s
+
+Shop  https //stza.co/+whQX-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180627T003500Z
+DTEND:20180627T033500Z
+UID:26UYciExcPw3wLgbk3nK0tQJ@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whQX-3s\n\nShop: https://stza.co/+whQX-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-06-27 Wed 19:35-22:35>
+:PROPERTIES:
+:ID:       ZvF4saFPi7li3SUITChde_A1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whQZ-3i
+
+Shop  https //stza.co/+whQZ-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180628T003500Z
+DTEND:20180628T033500Z
+UID:ZvF4saFPi7li3SUITChde_A1@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whQZ-3i\n\nShop: https://stza.co/+whQZ-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-06-28 Thu 13:05-16:05>
+:PROPERTIES:
+:ID:       J0AziWEvGIbtHk5BfJQJIl0w@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whQ_-a
+
+Shop  https //stza.co/+whQ_-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180628T180500Z
+DTEND:20180628T210500Z
+UID:J0AziWEvGIbtHk5BfJQJIl0w@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whQ_-a\n\nShop: https://stza.co/+whQ_-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-06-29 Fri 21:05>--<2018-06-30 Sat 00:05>
+:PROPERTIES:
+:ID:       WRRV4a2hcha8Eu5gKLNxNEAe@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjL3-2x
+
+Shop  https //stza.co/+wjL3-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180630T020500Z
+DTEND:20180630T050500Z
+UID:WRRV4a2hcha8Eu5gKLNxNEAe@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjL3-2x\n\nShop: https://stza.co/+wjL3-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-06-30 Sat 21:05>--<2018-07-01 Sun 00:05>
+:PROPERTIES:
+:ID:       aH9rIpKXnvuuPNn1WVruqyui@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjL6-2b
+
+Shop  https //stza.co/+wjL6-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180701T020500Z
+DTEND:20180701T050500Z
+UID:aH9rIpKXnvuuPNn1WVruqyui@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjL6-2b\n\nShop: https://stza.co/+wjL6-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-07-01 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       juKvny7rQ3nn4yuWj8-r3Nvh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjL9-1s
+
+Shop  https //stza.co/+wjL9-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180701T200500Z
+DTEND:20180701T230500Z
+UID:juKvny7rQ3nn4yuWj8-r3Nvh@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjL9-1s\n\nShop: https://stza.co/+wjL9-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-07-02 Mon 21:05>--<2018-07-03 Tue 00:05>
+:PROPERTIES:
+:ID:       _fK02E2nYhVcLZtYJ5UDS6tQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjLa-1l
+
+Shop  https //stza.co/+wjLa-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180703T020500Z
+DTEND:20180703T050500Z
+UID:_fK02E2nYhVcLZtYJ5UDS6tQ@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjLa-1l\n\nShop: https://stza.co/+wjLa-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-07-03 Tue 21:05>--<2018-07-04 Wed 00:05>
+:PROPERTIES:
+:ID:       2sGRWmvcyxUrXI7pWdZ6jDtW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjLc-2J
+
+Shop  https //stza.co/+wjLc-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180704T020500Z
+DTEND:20180704T050500Z
+UID:2sGRWmvcyxUrXI7pWdZ6jDtW@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjLc-2J\n\nShop: https://stza.co/+wjLc-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-07-04 Wed 20:35-23:35>
+:PROPERTIES:
+:ID:       VuQbs3VmYFQyNLnt8n7V8kZF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJf-3C
+
+Shop  https //stza.co/+wjJf-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180705T013500Z
+DTEND:20180705T043500Z
+UID:VuQbs3VmYFQyNLnt8n7V8kZF@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJf-3C\n\nShop: https://stza.co/+wjJf-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-07-05 Thu 21:05>--<2018-07-06 Fri 00:05>
+:PROPERTIES:
+:ID:       yFqofCxk5FAROH9ZnN7NIkbA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJh-3L
+
+Shop  https //stza.co/+wjJh-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180706T020500Z
+DTEND:20180706T050500Z
+UID:yFqofCxk5FAROH9ZnN7NIkbA@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJh-3L\n\nShop: https://stza.co/+wjJh-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-07-06 Fri 21:05>--<2018-07-07 Sat 00:05>
+:PROPERTIES:
+:ID:       4tW0ya9YlJniQB-Slbml1ONo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJi-v
+
+Shop  https //stza.co/+wjJi-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180707T020500Z
+DTEND:20180707T050500Z
+UID:4tW0ya9YlJniQB-Slbml1ONo@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJi-v\n\nShop: https://stza.co/+wjJi-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-07-07 Sat 21:05>--<2018-07-08 Sun 00:05>
+:PROPERTIES:
+:ID:       qhMabBvF-OAIeFJ9I4rMt2bB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJj-3n
+
+Shop  https //stza.co/+wjJj-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180708T020500Z
+DTEND:20180708T050500Z
+UID:qhMabBvF-OAIeFJ9I4rMt2bB@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJj-3n\n\nShop: https://stza.co/+wjJj-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-07-08 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       C_LpModoTDCopCS1-a2R39wT@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJk-3G
+
+Shop  https //stza.co/+wjJk-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180708T200500Z
+DTEND:20180708T230500Z
+UID:C_LpModoTDCopCS1-a2R39wT@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJk-3G\n\nShop: https://stza.co/+wjJk-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-07-12 Thu 21:05>--<2018-07-13 Fri 00:05>
+:PROPERTIES:
+:ID:       shK6TwK7VqnRWh8ro0br5JNT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjLf-2G
+
+Shop  https //stza.co/+wjLf-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180713T020500Z
+DTEND:20180713T050500Z
+UID:shK6TwK7VqnRWh8ro0br5JNT@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjLf-2G\n\nShop: https://stza.co/+wjLf-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-07-13 Fri 21:05>--<2018-07-14 Sat 00:05>
+:PROPERTIES:
+:ID:       5Ol8OLoYPGcBmcifYomoxMY4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjLh-3P
+
+Shop  https //stza.co/+wjLh-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180714T020500Z
+DTEND:20180714T050500Z
+UID:5Ol8OLoYPGcBmcifYomoxMY4@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjLh-3P\n\nShop: https://stza.co/+wjLh-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-07-14 Sat 21:05>--<2018-07-15 Sun 00:05>
+:PROPERTIES:
+:ID:       BnGPIWNziXvZ4zgBYBcyEIDI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjLi-1K
+
+Shop  https //stza.co/+wjLi-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180715T020500Z
+DTEND:20180715T050500Z
+UID:BnGPIWNziXvZ4zgBYBcyEIDI@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjLi-1K\n\nShop: https://stza.co/+wjLi-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Bees
+<2018-07-15 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       7zoKYldn4kxBuM8NhmvO2Led@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Bees River Cats vs. Bees
+
+Follow on MiLB First Pitch  https //stza.co/+wjLl-3A
+
+Shop  https //stza.co/+wjLl-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Bees
+END:VALARM
+DTSTART:20180715T200500Z
+DTEND:20180715T230500Z
+UID:7zoKYldn4kxBuM8NhmvO2Led@stanza.co
+SUMMARY:River Cats vs. Bees
+DESCRIPTION:River Cats vs. Bees\n\nFollow on MiLB First Pitch: https://stza.co/+wjLl-3A\n\nShop: https://stza.co/+wjLl-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-07-16 Mon 21:05>--<2018-07-17 Tue 00:05>
+:PROPERTIES:
+:ID:       P-IWW-3kMw-E0RcECgFlWVke@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJ8-1j
+
+Shop  https //stza.co/+wjJ8-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180717T020500Z
+DTEND:20180717T050500Z
+UID:P-IWW-3kMw-E0RcECgFlWVke@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJ8-1j\n\nShop: https://stza.co/+wjJ8-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-07-17 Tue 21:05>--<2018-07-18 Wed 00:05>
+:PROPERTIES:
+:ID:       jxKR5gKFZkNvNzNjKFzvBPKa@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJa-W
+
+Shop  https //stza.co/+wjJa-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180718T020500Z
+DTEND:20180718T050500Z
+UID:jxKR5gKFZkNvNzNjKFzvBPKa@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJa-W\n\nShop: https://stza.co/+wjJa-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-07-18 Wed 21:05>--<2018-07-19 Thu 00:05>
+:PROPERTIES:
+:ID:       1wztz56UMO_VaCgFy7oxsdP_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJc-3J
+
+Shop  https //stza.co/+wjJc-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180719T020500Z
+DTEND:20180719T050500Z
+UID:1wztz56UMO_VaCgFy7oxsdP_@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJc-3J\n\nShop: https://stza.co/+wjJc-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Grizzlies
+<2018-07-19 Thu 21:05>--<2018-07-20 Fri 00:05>
+:PROPERTIES:
+:ID:       oEYWsO_oMmAu2LsZp71GXdKu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Grizzlies River Cats @ Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjJe-2r
+
+Shop  https //stza.co/+wjJe-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Grizzlies
+END:VALARM
+DTSTART:20180720T020500Z
+DTEND:20180720T050500Z
+UID:oEYWsO_oMmAu2LsZp71GXdKu@stanza.co
+SUMMARY:River Cats @ Grizzlies
+DESCRIPTION:River Cats @ Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjJe-2r\n\nShop: https://stza.co/+wjJe-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-07-20 Fri 20:05-23:05>
+:PROPERTIES:
+:ID:       iU7qbiWigKtFXp9SjQPho0QH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmMe-28
+
+Shop  https //stza.co/+wmMe-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180721T010500Z
+DTEND:20180721T040500Z
+UID:iU7qbiWigKtFXp9SjQPho0QH@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmMe-28\n\nShop: https://stza.co/+wmMe-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-07-21 Sat 20:05-23:05>
+:PROPERTIES:
+:ID:       xueMVQ2qSGdiCvdfuedUoBHF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wmMf-2V
+
+Shop  https //stza.co/+wmMf-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180722T010500Z
+DTEND:20180722T040500Z
+UID:xueMVQ2qSGdiCvdfuedUoBHF@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wmMf-2V\n\nShop: https://stza.co/+wmMf-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Chihuahuas
+<2018-07-22 Sun 19:05-22:05>
+:PROPERTIES:
+:ID:       YQupH0Yf2lUIZ_LPXfoZvRW_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Chihuahuas River Cats @ Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+xzAE-I
+
+Shop  https //stza.co/+xzAE-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Chihuahuas
+END:VALARM
+DTSTART:20180723T000500Z
+DTEND:20180723T030500Z
+UID:YQupH0Yf2lUIZ_LPXfoZvRW_@stanza.co
+SUMMARY:River Cats @ Chihuahuas
+DESCRIPTION:River Cats @ Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+xzAE-I\n\nShop: https://stza.co/+xzAE-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Storm Chasers
+<2018-07-24 Tue 21:05>--<2018-07-25 Wed 00:05>
+:PROPERTIES:
+:ID:       W-oDtOzMEm8lhGbfXrIQjpCK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Storm Chasers River Cats vs. Storm Chasers
+
+Follow on MiLB First Pitch  https //stza.co/+wjLn-3F
+
+Shop  https //stza.co/+wjLn-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Storm Chasers
+END:VALARM
+DTSTART:20180725T020500Z
+DTEND:20180725T050500Z
+UID:W-oDtOzMEm8lhGbfXrIQjpCK@stanza.co
+SUMMARY:River Cats vs. Storm Chasers
+DESCRIPTION:River Cats vs. Storm Chasers\n\nFollow on MiLB First Pitch: https://stza.co/+wjLn-3F\n\nShop: https://stza.co/+wjLn-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Storm Chasers
+<2018-07-25 Wed 21:05>--<2018-07-26 Thu 00:05>
+:PROPERTIES:
+:ID:       Jjif14xlnSLOo9kl0x2pFXx9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Storm Chasers River Cats vs. Storm Chasers
+
+Follow on MiLB First Pitch  https //stza.co/+wjLp-3e
+
+Shop  https //stza.co/+wjLp-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Storm Chasers
+END:VALARM
+DTSTART:20180726T020500Z
+DTEND:20180726T050500Z
+UID:Jjif14xlnSLOo9kl0x2pFXx9@stanza.co
+SUMMARY:River Cats vs. Storm Chasers
+DESCRIPTION:River Cats vs. Storm Chasers\n\nFollow on MiLB First Pitch: https://stza.co/+wjLp-3e\n\nShop: https://stza.co/+wjLp-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Storm Chasers
+<2018-07-26 Thu 21:05>--<2018-07-27 Fri 00:05>
+:PROPERTIES:
+:ID:       YBdFWiT2wFW1qbUF7EWhSEy5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Storm Chasers River Cats vs. Storm Chasers
+
+Follow on MiLB First Pitch  https //stza.co/+wjLr-3d
+
+Shop  https //stza.co/+wjLr-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Storm Chasers
+END:VALARM
+DTSTART:20180727T020500Z
+DTEND:20180727T050500Z
+UID:YBdFWiT2wFW1qbUF7EWhSEy5@stanza.co
+SUMMARY:River Cats vs. Storm Chasers
+DESCRIPTION:River Cats vs. Storm Chasers\n\nFollow on MiLB First Pitch: https://stza.co/+wjLr-3d\n\nShop: https://stza.co/+wjLr-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Cubs
+<2018-07-27 Fri 21:05>--<2018-07-28 Sat 00:05>
+:PROPERTIES:
+:ID:       ZNvYvfXmCpvoQ0MSRvXJIJSM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Cubs River Cats vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+wjLt-1X
+
+Shop  https //stza.co/+wjLt-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Cubs
+END:VALARM
+DTSTART:20180728T020500Z
+DTEND:20180728T050500Z
+UID:ZNvYvfXmCpvoQ0MSRvXJIJSM@stanza.co
+SUMMARY:River Cats vs. Cubs
+DESCRIPTION:River Cats vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+wjLt-1X\n\nShop: https://stza.co/+wjLt-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Cubs
+<2018-07-28 Sat 21:05>--<2018-07-29 Sun 00:05>
+:PROPERTIES:
+:ID:       lT-rPTSlFeFPKnKFiQpoXVtS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Cubs River Cats vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+wjLu-7
+
+Shop  https //stza.co/+wjLu-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Cubs
+END:VALARM
+DTSTART:20180729T020500Z
+DTEND:20180729T050500Z
+UID:lT-rPTSlFeFPKnKFiQpoXVtS@stanza.co
+SUMMARY:River Cats vs. Cubs
+DESCRIPTION:River Cats vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+wjLu-7\n\nShop: https://stza.co/+wjLu-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Cubs
+<2018-07-29 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       bT2P0to7davGZ1L6LER5T56j@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Cubs River Cats vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+wjLx-2x
+
+Shop  https //stza.co/+wjLx-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Cubs
+END:VALARM
+DTSTART:20180729T200500Z
+DTEND:20180729T230500Z
+UID:bT2P0to7davGZ1L6LER5T56j@stanza.co
+SUMMARY:River Cats vs. Cubs
+DESCRIPTION:River Cats vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+wjLx-2x\n\nShop: https://stza.co/+wjLx-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Cubs
+<2018-07-30 Mon 14:05-17:05>
+:PROPERTIES:
+:ID:       GY8xFoQhJJRShrI9JhC_jlLM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Cubs River Cats vs. Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+wjLz-V
+
+Shop  https //stza.co/+wjLz-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Cubs
+END:VALARM
+DTSTART:20180730T190500Z
+DTEND:20180730T220500Z
+UID:GY8xFoQhJJRShrI9JhC_jlLM@stanza.co
+SUMMARY:River Cats vs. Cubs
+DESCRIPTION:River Cats vs. Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+wjLz-V\n\nShop: https://stza.co/+wjLz-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Redbirds
+<2018-08-01 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       nVZe9tdbhzb4lam4PSrDFRAL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Redbirds River Cats @ Redbirds
+
+Follow on MiLB First Pitch  https //stza.co/+wmMh-2U
+
+Shop  https //stza.co/+wmMh-2I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Redbirds
+END:VALARM
+DTSTART:20180802T000500Z
+DTEND:20180802T030500Z
+UID:nVZe9tdbhzb4lam4PSrDFRAL@stanza.co
+SUMMARY:River Cats @ Redbirds
+DESCRIPTION:River Cats @ Redbirds\n\nFollow on MiLB First Pitch: https://stza.co/+wmMh-2U\n\nShop: https://stza.co/+wmMh-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Redbirds
+<2018-08-02 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       iyOSdRQRBuC7nvy4tXdB7P1k@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Redbirds River Cats @ Redbirds
+
+Follow on MiLB First Pitch  https //stza.co/+wmMi-3m
+
+Shop  https //stza.co/+wmMi-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Redbirds
+END:VALARM
+DTSTART:20180803T000500Z
+DTEND:20180803T030500Z
+UID:iyOSdRQRBuC7nvy4tXdB7P1k@stanza.co
+SUMMARY:River Cats @ Redbirds
+DESCRIPTION:River Cats @ Redbirds\n\nFollow on MiLB First Pitch: https://stza.co/+wmMi-3m\n\nShop: https://stza.co/+wmMi-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Redbirds
+<2018-08-03 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       CZXTYcdj3ydsNDwFOOl1n16k@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Redbirds River Cats @ Redbirds
+
+Follow on MiLB First Pitch  https //stza.co/+wmMj-3_
+
+Shop  https //stza.co/+wmMj-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Redbirds
+END:VALARM
+DTSTART:20180804T000500Z
+DTEND:20180804T030500Z
+UID:CZXTYcdj3ydsNDwFOOl1n16k@stanza.co
+SUMMARY:River Cats @ Redbirds
+DESCRIPTION:River Cats @ Redbirds\n\nFollow on MiLB First Pitch: https://stza.co/+wmMj-3_\n\nShop: https://stza.co/+wmMj-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Sounds
+<2018-08-04 Sat 19:05-22:05>
+:PROPERTIES:
+:ID:       1fvPi4BIH6ExJlLmPD67AD4p@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Sounds River Cats @ Sounds
+
+Follow on MiLB First Pitch  https //stza.co/+whR4-1g
+
+Shop  https //stza.co/+whR4-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Sounds
+END:VALARM
+DTSTART:20180805T000500Z
+DTEND:20180805T030500Z
+UID:1fvPi4BIH6ExJlLmPD67AD4p@stanza.co
+SUMMARY:River Cats @ Sounds
+DESCRIPTION:River Cats @ Sounds\n\nFollow on MiLB First Pitch: https://stza.co/+whR4-1g\n\nShop: https://stza.co/+whR4-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Sounds
+<2018-08-05 Sun 18:15-21:15>
+:PROPERTIES:
+:ID:       ei5CBoXilalzGXCRCmkK6ySF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Sounds River Cats @ Sounds
+
+Follow on MiLB First Pitch  https //stza.co/+whR5-X
+
+Shop  https //stza.co/+whR5-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Sounds
+END:VALARM
+DTSTART:20180805T231500Z
+DTEND:20180806T021500Z
+UID:ei5CBoXilalzGXCRCmkK6ySF@stanza.co
+SUMMARY:River Cats @ Sounds
+DESCRIPTION:River Cats @ Sounds\n\nFollow on MiLB First Pitch: https://stza.co/+whR5-X\n\nShop: https://stza.co/+whR5-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Sounds
+<2018-08-06 Mon 19:05-22:05>
+:PROPERTIES:
+:ID:       HVu56833TzAzpAXtdqRGDhbs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Sounds River Cats @ Sounds
+
+Follow on MiLB First Pitch  https //stza.co/+whR6-7
+
+Shop  https //stza.co/+whR6-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Sounds
+END:VALARM
+DTSTART:20180807T000500Z
+DTEND:20180807T030500Z
+UID:HVu56833TzAzpAXtdqRGDhbs@stanza.co
+SUMMARY:River Cats @ Sounds
+DESCRIPTION:River Cats @ Sounds\n\nFollow on MiLB First Pitch: https://stza.co/+whR6-7\n\nShop: https://stza.co/+whR6-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Sounds
+<2018-08-07 Tue 19:05-22:05>
+:PROPERTIES:
+:ID:       bjU_KXcm4qqgh0cvXRoO9bvD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Sounds River Cats @ Sounds
+
+Follow on MiLB First Pitch  https //stza.co/+whR7-1L
+
+Shop  https //stza.co/+whR7-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Sounds
+END:VALARM
+DTSTART:20180808T000500Z
+DTEND:20180808T030500Z
+UID:bjU_KXcm4qqgh0cvXRoO9bvD@stanza.co
+SUMMARY:River Cats @ Sounds
+DESCRIPTION:River Cats @ Sounds\n\nFollow on MiLB First Pitch: https://stza.co/+whR7-1L\n\nShop: https://stza.co/+whR7-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-08-09 Thu 21:05>--<2018-08-10 Fri 00:05>
+:PROPERTIES:
+:ID:       OFIiFClvllwN5ZQfZH42XX65@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjLB-G
+
+Shop  https //stza.co/+wjLB-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180810T020500Z
+DTEND:20180810T050500Z
+UID:OFIiFClvllwN5ZQfZH42XX65@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjLB-G\n\nShop: https://stza.co/+wjLB-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-08-10 Fri 21:05>--<2018-08-11 Sat 00:05>
+:PROPERTIES:
+:ID:       Xi8mEk8tBNP74Fcf4QyZln55@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjLD-25
+
+Shop  https //stza.co/+wjLD-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180811T020500Z
+DTEND:20180811T050500Z
+UID:Xi8mEk8tBNP74Fcf4QyZln55@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjLD-25\n\nShop: https://stza.co/+wjLD-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-08-11 Sat 21:05>--<2018-08-12 Sun 00:05>
+:PROPERTIES:
+:ID:       yWscJMaaHAPGab-wTGujXiOD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjLF-31
+
+Shop  https //stza.co/+wjLF-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180812T020500Z
+DTEND:20180812T050500Z
+UID:yWscJMaaHAPGab-wTGujXiOD@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjLF-31\n\nShop: https://stza.co/+wjLF-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Chihuahuas
+<2018-08-12 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       O4ObjSruqF-eJw5PVgzqVcpR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Chihuahuas River Cats vs. Chihuahuas
+
+Follow on MiLB First Pitch  https //stza.co/+wjLJ-8
+
+Shop  https //stza.co/+wjLJ-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Chihuahuas
+END:VALARM
+DTSTART:20180812T200500Z
+DTEND:20180812T230500Z
+UID:O4ObjSruqF-eJw5PVgzqVcpR@stanza.co
+SUMMARY:River Cats vs. Chihuahuas
+DESCRIPTION:River Cats vs. Chihuahuas\n\nFollow on MiLB First Pitch: https://stza.co/+wjLJ-8\n\nShop: https://stza.co/+wjLJ-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-08-13 Mon 21:05>--<2018-08-14 Tue 00:05>
+:PROPERTIES:
+:ID:       TXA8jrWplSq42UwJhzDuJQ_A@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJl-1t
+
+Shop  https //stza.co/+wjJl-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180814T020500Z
+DTEND:20180814T050500Z
+UID:TXA8jrWplSq42UwJhzDuJQ_A@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJl-1t\n\nShop: https://stza.co/+wjJl-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-08-14 Tue 21:05>--<2018-08-15 Wed 00:05>
+:PROPERTIES:
+:ID:       5e6ZxrPjjvAIXqrhFn6vXPPA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJm-U
+
+Shop  https //stza.co/+wjJm-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180815T020500Z
+DTEND:20180815T050500Z
+UID:5e6ZxrPjjvAIXqrhFn6vXPPA@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJm-U\n\nShop: https://stza.co/+wjJm-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Aces
+<2018-08-15 Wed 21:05>--<2018-08-16 Thu 00:05>
+:PROPERTIES:
+:ID:       FAz1IuPvVxcz81gfD5fZP8t5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Aces River Cats @ Aces
+
+Follow on MiLB First Pitch  https //stza.co/+wjJn-3d
+
+Shop  https //stza.co/+wjJn-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Aces
+END:VALARM
+DTSTART:20180816T020500Z
+DTEND:20180816T050500Z
+UID:FAz1IuPvVxcz81gfD5fZP8t5@stanza.co
+SUMMARY:River Cats @ Aces
+DESCRIPTION:River Cats @ Aces\n\nFollow on MiLB First Pitch: https://stza.co/+wjJn-3d\n\nShop: https://stza.co/+wjJn-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-08-16 Thu 19:35-22:35>
+:PROPERTIES:
+:ID:       H51ZlUaApXZNtO1jaINzXk0d@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whQ$-1W
+
+Shop  https //stza.co/+whQ$-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180817T003500Z
+DTEND:20180817T033500Z
+UID:H51ZlUaApXZNtO1jaINzXk0d@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whQ$-1W\n\nShop: https://stza.co/+whQ$-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-08-17 Fri 19:35-22:35>
+:PROPERTIES:
+:ID:       eydOF7YUbjpKWKAPkcbaYr7n@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whR0-9
+
+Shop  https //stza.co/+whR0-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180818T003500Z
+DTEND:20180818T033500Z
+UID:eydOF7YUbjpKWKAPkcbaYr7n@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whR0-9\n\nShop: https://stza.co/+whR0-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-08-18 Sat 19:35-22:35>
+:PROPERTIES:
+:ID:       Y_A82EaaVREy-p0i_tZMno3d@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whR1-1E
+
+Shop  https //stza.co/+whR1-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180819T003500Z
+DTEND:20180819T033500Z
+UID:Y_A82EaaVREy-p0i_tZMno3d@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whR1-1E\n\nShop: https://stza.co/+whR1-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ Isotopes
+<2018-08-19 Sun 19:05-22:05>
+:PROPERTIES:
+:ID:       c09THlVsjK-hS-o9pGxQiZMq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ Isotopes River Cats @ Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+whR3-2f
+
+Shop  https //stza.co/+whR3-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ Isotopes
+END:VALARM
+DTSTART:20180820T000500Z
+DTEND:20180820T030500Z
+UID:c09THlVsjK-hS-o9pGxQiZMq@stanza.co
+SUMMARY:River Cats @ Isotopes
+DESCRIPTION:River Cats @ Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+whR3-2f\n\nShop: https://stza.co/+whR3-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-08-21 Tue 21:05>--<2018-08-22 Wed 00:05>
+:PROPERTIES:
+:ID:       PhscTiVCaOwCzakyAIrlnITa@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjLM-3h
+
+Shop  https //stza.co/+wjLM-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180822T020500Z
+DTEND:20180822T050500Z
+UID:PhscTiVCaOwCzakyAIrlnITa@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjLM-3h\n\nShop: https://stza.co/+wjLM-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-08-22 Wed 21:05>--<2018-08-23 Thu 00:05>
+:PROPERTIES:
+:ID:       m5VLsmQKmpJz6Yfua2ztMgAr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjLP-18
+
+Shop  https //stza.co/+wjLP-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180823T020500Z
+DTEND:20180823T050500Z
+UID:m5VLsmQKmpJz6Yfua2ztMgAr@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjLP-18\n\nShop: https://stza.co/+wjLP-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Grizzlies
+<2018-08-23 Thu 21:05>--<2018-08-24 Fri 00:05>
+:PROPERTIES:
+:ID:       QLtrAURMyHqyReoVgGI72dGJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Grizzlies River Cats vs. Grizzlies
+
+Follow on MiLB First Pitch  https //stza.co/+wjLT-1q
+
+Shop  https //stza.co/+wjLT-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Grizzlies
+END:VALARM
+DTSTART:20180824T020500Z
+DTEND:20180824T050500Z
+UID:QLtrAURMyHqyReoVgGI72dGJ@stanza.co
+SUMMARY:River Cats vs. Grizzlies
+DESCRIPTION:River Cats vs. Grizzlies\n\nFollow on MiLB First Pitch: https://stza.co/+wjLT-1q\n\nShop: https://stza.co/+wjLT-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-08-24 Fri 21:05>--<2018-08-25 Sat 00:05>
+:PROPERTIES:
+:ID:       ALF_bjfFDejcQXmo5Gm6dSJk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjLV-2Z
+
+Shop  https //stza.co/+wjLV-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180825T020500Z
+DTEND:20180825T050500Z
+UID:ALF_bjfFDejcQXmo5Gm6dSJk@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjLV-2Z\n\nShop: https://stza.co/+wjLV-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-08-25 Sat 21:05>--<2018-08-26 Sun 00:05>
+:PROPERTIES:
+:ID:       ql-Q7YNlOFDGatAntOOrnnYI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjLZ-2s
+
+Shop  https //stza.co/+wjLZ-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180826T020500Z
+DTEND:20180826T050500Z
+UID:ql-Q7YNlOFDGatAntOOrnnYI@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjLZ-2s\n\nShop: https://stza.co/+wjLZ-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-08-26 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       BUsrDCBbz6s4l8Kc4SzScNPj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjM0-1W
+
+Shop  https //stza.co/+wjM0-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180826T200500Z
+DTEND:20180826T230500Z
+UID:BUsrDCBbz6s4l8Kc4SzScNPj@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjM0-1W\n\nShop: https://stza.co/+wjM0-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. 51s
+<2018-08-27 Mon 21:05>--<2018-08-28 Tue 00:05>
+:PROPERTIES:
+:ID:       zauIki67fb2SIRf9xu6ZWd-N@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. 51s River Cats vs. 51s
+
+Follow on MiLB First Pitch  https //stza.co/+wjM2-s
+
+Shop  https //stza.co/+wjM2-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. 51s
+END:VALARM
+DTSTART:20180828T020500Z
+DTEND:20180828T050500Z
+UID:zauIki67fb2SIRf9xu6ZWd-N@stanza.co
+SUMMARY:River Cats vs. 51s
+DESCRIPTION:River Cats vs. 51s\n\nFollow on MiLB First Pitch: https://stza.co/+wjM2-s\n\nShop: https://stza.co/+wjM2-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-08-28 Tue 21:05>--<2018-08-29 Wed 00:05>
+:PROPERTIES:
+:ID:       QnTdlaEwRXIfSlFIVDeHBkEm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjM6-1G
+
+Shop  https //stza.co/+wjM6-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180829T020500Z
+DTEND:20180829T050500Z
+UID:QnTdlaEwRXIfSlFIVDeHBkEm@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjM6-1G\n\nShop: https://stza.co/+wjM6-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-08-29 Wed 21:05>--<2018-08-30 Thu 00:05>
+:PROPERTIES:
+:ID:       EDdA5lU7cNOmOg62cYAU97zs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjMa-g
+
+Shop  https //stza.co/+wjMa-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180830T020500Z
+DTEND:20180830T050500Z
+UID:EDdA5lU7cNOmOg62cYAU97zs@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjMa-g\n\nShop: https://stza.co/+wjMa-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats vs. Isotopes
+<2018-08-30 Thu 21:05>--<2018-08-31 Fri 00:05>
+:PROPERTIES:
+:ID:       SfAoM-0utnNnq2QgF7fOsS-b@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats vs. Isotopes River Cats vs. Isotopes
+
+Follow on MiLB First Pitch  https //stza.co/+wjMd-T
+
+Shop  https //stza.co/+wjMd-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:River Cats vs. Isotopes
+END:VALARM
+DTSTART:20180831T020500Z
+DTEND:20180831T050500Z
+UID:SfAoM-0utnNnq2QgF7fOsS-b@stanza.co
+SUMMARY:River Cats vs. Isotopes
+DESCRIPTION:River Cats vs. Isotopes\n\nFollow on MiLB First Pitch: https://stza.co/+wjMd-T\n\nShop: https://stza.co/+wjMd-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-08-31 Fri 21:05>--<2018-09-01 Sat 00:05>
+:PROPERTIES:
+:ID:       q76e-roGmH71PTw_4E1wq7iE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKYX-l
+
+Shop  https //stza.co/+vKYX-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180901T020500Z
+DTEND:20180901T050500Z
+UID:q76e-roGmH71PTw_4E1wq7iE@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKYX-l\n\nShop: https://stza.co/+vKYX-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-09-01 Sat 21:05>--<2018-09-02 Sun 00:05>
+:PROPERTIES:
+:ID:       MzLMPmXrHeTlXrG1rlBMso4K@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKYY-2q
+
+Shop  https //stza.co/+vKYY-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180902T020500Z
+DTEND:20180902T050500Z
+UID:MzLMPmXrHeTlXrG1rlBMso4K@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKYY-2q\n\nShop: https://stza.co/+vKYY-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-09-02 Sun 21:05>--<2018-09-03 Mon 00:05>
+:PROPERTIES:
+:ID:       KOPvbnQOTMQj_Q6T9rC6p2TJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKYZ-_
+
+Shop  https //stza.co/+vKYZ-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180903T020500Z
+DTEND:20180903T050500Z
+UID:KOPvbnQOTMQj_Q6T9rC6p2TJ@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKYZ-_\n\nShop: https://stza.co/+vKYZ-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT
+* River Cats @ 51s
+<2018-09-03 Mon 14:05-17:05>
+:PROPERTIES:
+:ID:       z-1c0t79Z7y_ba1yRUDfFRRD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+River Cats @ 51s River Cats @ 51s
+
+Follow on MiLB First Pitch  https //stza.co/+vKY_-2I
+
+Shop  https //stza.co/+vKY_-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:River Cats @ 51s
+END:VALARM
+DTSTART:20180903T190500Z
+DTEND:20180903T220500Z
+UID:z-1c0t79Z7y_ba1yRUDfFRRD@stanza.co
+SUMMARY:River Cats @ 51s
+DESCRIPTION:River Cats @ 51s\n\nFollow on MiLB First Pitch: https://stza.co/+vKY_-2I\n\nShop: https://stza.co/+vKY_-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144555Z
+LAST-MODIFIED:20180213T144555Z
+TRANSP:OPAQUE
+END:VEVENT

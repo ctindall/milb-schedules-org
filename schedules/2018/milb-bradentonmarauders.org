@@ -1,0 +1,5092 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Marauders @ Mets
+<2018-04-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       AfTfFzMTIVrmf2n7tTBBci8c@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Mets Marauders @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMaJ-I
+
+Shop  https //stza.co/+vMaJ-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Mets
+END:VALARM
+DTSTART:20180405T223000Z
+DTEND:20180406T013000Z
+UID:AfTfFzMTIVrmf2n7tTBBci8c@stanza.co
+SUMMARY:Marauders @ Mets
+DESCRIPTION:Marauders @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMaJ-I\n\nShop: https://stza.co/+vMaJ-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Mets
+<2018-04-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       qsLNuQFwbV_1R1AawsHdcLg0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Mets Marauders @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMaK-P
+
+Shop  https //stza.co/+vMaK-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Mets
+END:VALARM
+DTSTART:20180406T223000Z
+DTEND:20180407T013000Z
+UID:qsLNuQFwbV_1R1AawsHdcLg0@stanza.co
+SUMMARY:Marauders @ Mets
+DESCRIPTION:Marauders @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMaK-P\n\nShop: https://stza.co/+vMaK-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Mets
+<2018-04-07 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       IyA21CbgwW6hIesUeKCV2D3V@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Mets Marauders vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vhbJ-2u
+
+Shop  https //stza.co/+vhbJ-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Mets
+END:VALARM
+DTSTART:20180407T223000Z
+DTEND:20180408T013000Z
+UID:IyA21CbgwW6hIesUeKCV2D3V@stanza.co
+SUMMARY:Marauders vs. Mets
+DESCRIPTION:Marauders vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vhbJ-2u\n\nShop: https://stza.co/+vhbJ-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Mets
+<2018-04-08 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       1nL3KLYxMp6vpcz6GfE3rKg1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Mets Marauders vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vhbM-K
+
+Shop  https //stza.co/+vhbM-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Mets
+END:VALARM
+DTSTART:20180408T170000Z
+DTEND:20180408T200000Z
+UID:1nL3KLYxMp6vpcz6GfE3rKg1@stanza.co
+SUMMARY:Marauders vs. Mets
+DESCRIPTION:Marauders vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vhbM-K\n\nShop: https://stza.co/+vhbM-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Flying Tigers
+<2018-04-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       T1NVSWHNy_KCQfEjQc0EFASR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Flying Tigers Marauders @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKLw-2y
+
+Shop  https //stza.co/+wKLw-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Flying Tigers
+END:VALARM
+DTSTART:20180409T223000Z
+DTEND:20180410T013000Z
+UID:T1NVSWHNy_KCQfEjQc0EFASR@stanza.co
+SUMMARY:Marauders @ Flying Tigers
+DESCRIPTION:Marauders @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKLw-2y\n\nShop: https://stza.co/+wKLw-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Flying Tigers
+<2018-04-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       kCpoBbJVdW5hsg_xxXpf-eC-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Flying Tigers Marauders @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKLx-2C
+
+Shop  https //stza.co/+wKLx-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Flying Tigers
+END:VALARM
+DTSTART:20180410T223000Z
+DTEND:20180411T013000Z
+UID:kCpoBbJVdW5hsg_xxXpf-eC-@stanza.co
+SUMMARY:Marauders @ Flying Tigers
+DESCRIPTION:Marauders @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKLx-2C\n\nShop: https://stza.co/+wKLx-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Flying Tigers
+<2018-04-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       W_OeUpI6C6Lw6OVlfNCfNtX9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Flying Tigers Marauders @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKLy-3o
+
+Shop  https //stza.co/+wKLy-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Flying Tigers
+END:VALARM
+DTSTART:20180411T223000Z
+DTEND:20180412T013000Z
+UID:W_OeUpI6C6Lw6OVlfNCfNtX9@stanza.co
+SUMMARY:Marauders @ Flying Tigers
+DESCRIPTION:Marauders @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKLy-3o\n\nShop: https://stza.co/+wKLy-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Flying Tigers
+<2018-04-12 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       mk1-5quqq_bZuI-h4oeQuxtY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Flying Tigers Marauders @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKLz-q
+
+Shop  https //stza.co/+wKLz-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Flying Tigers
+END:VALARM
+DTSTART:20180412T223000Z
+DTEND:20180413T013000Z
+UID:mk1-5quqq_bZuI-h4oeQuxtY@stanza.co
+SUMMARY:Marauders @ Flying Tigers
+DESCRIPTION:Marauders @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKLz-q\n\nShop: https://stza.co/+wKLz-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Threshers
+<2018-04-13 Fri 17:15-20:15>
+:PROPERTIES:
+:ID:       xhw4_pSezcgjSrQBwG5BxZKy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Threshers Marauders @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xB7u-20
+
+Shop  https //stza.co/+xB7u-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Threshers
+END:VALARM
+DTSTART:20180413T221500Z
+DTEND:20180414T011500Z
+UID:xhw4_pSezcgjSrQBwG5BxZKy@stanza.co
+SUMMARY:Marauders @ Threshers
+DESCRIPTION:Marauders @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xB7u-20\n\nShop: https://stza.co/+xB7u-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Threshers
+<2018-04-14 Sat 17:15-20:15>
+:PROPERTIES:
+:ID:       TE9on9LLu38qEtNQUi-PRfMG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Threshers Marauders @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xB7v-1t
+
+Shop  https //stza.co/+xB7v-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Threshers
+END:VALARM
+DTSTART:20180414T221500Z
+DTEND:20180415T011500Z
+UID:TE9on9LLu38qEtNQUi-PRfMG@stanza.co
+SUMMARY:Marauders @ Threshers
+DESCRIPTION:Marauders @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xB7v-1t\n\nShop: https://stza.co/+xB7v-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Threshers
+<2018-04-15 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       jm3oIyqNenHZaBQtK81bDUUA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Threshers Marauders @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xB7w-y
+
+Shop  https //stza.co/+xB7w-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Threshers
+END:VALARM
+DTSTART:20180415T170000Z
+DTEND:20180415T200000Z
+UID:jm3oIyqNenHZaBQtK81bDUUA@stanza.co
+SUMMARY:Marauders @ Threshers
+DESCRIPTION:Marauders @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xB7w-y\n\nShop: https://stza.co/+xB7w-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-04-17 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       rqJmiN3_yN5CTB8lEsbOwCWj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vhbO-18
+
+Shop  https //stza.co/+vhbO-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180417T223000Z
+DTEND:20180418T013000Z
+UID:rqJmiN3_yN5CTB8lEsbOwCWj@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vhbO-18\n\nShop: https://stza.co/+vhbO-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-04-18 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       m4-7QOXgGNP3KxjWuM2N-xyr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vhbP-2w
+
+Shop  https //stza.co/+vhbP-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180418T223000Z
+DTEND:20180419T013000Z
+UID:m4-7QOXgGNP3KxjWuM2N-xyr@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vhbP-2w\n\nShop: https://stza.co/+vhbP-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-04-19 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       Yg61T8qn2lH4Y1RAeJYoHcbz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vhbS-3q
+
+Shop  https //stza.co/+vhbS-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180419T223000Z
+DTEND:20180420T013000Z
+UID:Yg61T8qn2lH4Y1RAeJYoHcbz@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vhbS-3q\n\nShop: https://stza.co/+vhbS-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-04-20 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       CnCGaampd_uEJzmS4SXOb8Pa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM7P-3N
+
+Shop  https //stza.co/+vM7P-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180420T223000Z
+DTEND:20180421T013000Z
+UID:CnCGaampd_uEJzmS4SXOb8Pa@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM7P-3N\n\nShop: https://stza.co/+vM7P-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-04-21 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       uzxgodroL916G6NOlFK4kaiZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM7R-2g
+
+Shop  https //stza.co/+vM7R-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180421T223000Z
+DTEND:20180422T013000Z
+UID:uzxgodroL916G6NOlFK4kaiZ@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM7R-2g\n\nShop: https://stza.co/+vM7R-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-04-22 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       Ewpz5sTYVYqwMfO5pKo8mvfA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM7T-2I
+
+Shop  https //stza.co/+vM7T-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180422T170000Z
+DTEND:20180422T200000Z
+UID:Ewpz5sTYVYqwMfO5pKo8mvfA@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM7T-2I\n\nShop: https://stza.co/+vM7T-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tarpons
+<2018-04-23 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       5zlETEub2_9crmtPBUg8RsBL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tarpons Marauders vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vM7V-Y
+
+Shop  https //stza.co/+vM7V-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tarpons
+END:VALARM
+DTSTART:20180423T223000Z
+DTEND:20180424T013000Z
+UID:5zlETEub2_9crmtPBUg8RsBL@stanza.co
+SUMMARY:Marauders vs. Tarpons
+DESCRIPTION:Marauders vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vM7V-Y\n\nShop: https://stza.co/+vM7V-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tarpons
+<2018-04-24 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       0Md-QDqqSg_ZBpBu38iT1est@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tarpons Marauders vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vM7X-1e
+
+Shop  https //stza.co/+vM7X-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tarpons
+END:VALARM
+DTSTART:20180424T223000Z
+DTEND:20180425T013000Z
+UID:0Md-QDqqSg_ZBpBu38iT1est@stanza.co
+SUMMARY:Marauders vs. Tarpons
+DESCRIPTION:Marauders vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vM7X-1e\n\nShop: https://stza.co/+vM7X-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tarpons
+<2018-04-25 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       RBA1_lIvH_qFw3ZMW_oIENQ5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tarpons Marauders vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vM7Y-N
+
+Shop  https //stza.co/+vM7Y-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tarpons
+END:VALARM
+DTSTART:20180425T223000Z
+DTEND:20180426T013000Z
+UID:RBA1_lIvH_qFw3ZMW_oIENQ5@stanza.co
+SUMMARY:Marauders vs. Tarpons
+DESCRIPTION:Marauders vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vM7Y-N\n\nShop: https://stza.co/+vM7Y-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Hammerheads
+<2018-04-26 Thu>--<2018-04-25 Wed>
+:PROPERTIES:
+:ID:       Xw31xhvoDoH2F4rfTrnbjyXn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Hammerheads Marauders @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMas
+
+Follow on MiLB First Pitch  https //stza.co/+vMas-2o
+
+Shop  https //stza.co/+vMas-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180426
+UID:Xw31xhvoDoH2F4rfTrnbjyXn@stanza.co
+SUMMARY:Marauders @ Hammerheads
+DESCRIPTION:Marauders @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMas\n\nFollow on MiLB First Pitch: https://stza.co/+vMas-2o\n\nShop: https://stza.co/+vMas-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Hammerheads
+<2018-04-27 Fri>--<2018-04-26 Thu>
+:PROPERTIES:
+:ID:       qflU3Q4QEgxedcqMo0vVahed@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Hammerheads Marauders @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMat
+
+Follow on MiLB First Pitch  https //stza.co/+vMat-3g
+
+Shop  https //stza.co/+vMat-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180427
+UID:qflU3Q4QEgxedcqMo0vVahed@stanza.co
+SUMMARY:Marauders @ Hammerheads
+DESCRIPTION:Marauders @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMat\n\nFollow on MiLB First Pitch: https://stza.co/+vMat-3g\n\nShop: https://stza.co/+vMat-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Hammerheads
+<2018-04-28 Sat>--<2018-04-27 Fri>
+:PROPERTIES:
+:ID:       EJ82qjbBf73dXpPO4GZgfoK8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Hammerheads Marauders @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMau
+
+Follow on MiLB First Pitch  https //stza.co/+vMau-35
+
+Shop  https //stza.co/+vMau-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180428
+UID:EJ82qjbBf73dXpPO4GZgfoK8@stanza.co
+SUMMARY:Marauders @ Hammerheads
+DESCRIPTION:Marauders @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMau\n\nFollow on MiLB First Pitch: https://stza.co/+vMau-35\n\nShop: https://stza.co/+vMau-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Hammerheads
+<2018-04-29 Sun>--<2018-04-28 Sat>
+:PROPERTIES:
+:ID:       UaiuFXr8XeY7FIC22Ho0VVGD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Hammerheads Marauders @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMav
+
+Follow on MiLB First Pitch  https //stza.co/+vMav-2N
+
+Shop  https //stza.co/+vMav-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180429
+UID:UaiuFXr8XeY7FIC22Ho0VVGD@stanza.co
+SUMMARY:Marauders @ Hammerheads
+DESCRIPTION:Marauders @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMav\n\nFollow on MiLB First Pitch: https://stza.co/+vMav-2N\n\nShop: https://stza.co/+vMav-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Blue Jays
+<2018-05-01 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       m8lAYvzDzU0V9VLeH0ekHCgM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Blue Jays Marauders vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vM7$-37
+
+Shop  https //stza.co/+vM7$-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Blue Jays
+END:VALARM
+DTSTART:20180501T223000Z
+DTEND:20180502T013000Z
+UID:m8lAYvzDzU0V9VLeH0ekHCgM@stanza.co
+SUMMARY:Marauders vs. Blue Jays
+DESCRIPTION:Marauders vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vM7$-37\n\nShop: https://stza.co/+vM7$-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Blue Jays
+<2018-05-02 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       v1It2HEnClYh4SygwHbdVnZz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Blue Jays Marauders vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vM81-1M
+
+Shop  https //stza.co/+vM81-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Blue Jays
+END:VALARM
+DTSTART:20180502T223000Z
+DTEND:20180503T013000Z
+UID:v1It2HEnClYh4SygwHbdVnZz@stanza.co
+SUMMARY:Marauders vs. Blue Jays
+DESCRIPTION:Marauders vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vM81-1M\n\nShop: https://stza.co/+vM81-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Blue Jays
+<2018-05-03 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       8wt3a-yIgOV1WC5sbnNedPhN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Blue Jays Marauders vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vM82-m
+
+Shop  https //stza.co/+vM82-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Blue Jays
+END:VALARM
+DTSTART:20180503T223000Z
+DTEND:20180504T013000Z
+UID:8wt3a-yIgOV1WC5sbnNedPhN@stanza.co
+SUMMARY:Marauders vs. Blue Jays
+DESCRIPTION:Marauders vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vM82-m\n\nShop: https://stza.co/+vM82-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Stone Crabs
+<2018-05-04 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       L212Rsfnn7Ari7lXsEHM-pr8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Stone Crabs Marauders @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYiV-3T
+
+Shop  https //stza.co/+wYiV-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Stone Crabs
+END:VALARM
+DTSTART:20180504T223500Z
+DTEND:20180505T013500Z
+UID:L212Rsfnn7Ari7lXsEHM-pr8@stanza.co
+SUMMARY:Marauders @ Stone Crabs
+DESCRIPTION:Marauders @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYiV-3T\n\nShop: https://stza.co/+wYiV-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Stone Crabs
+<2018-05-05 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       hjhgdM23jbfBexqzIwxSYXn0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Stone Crabs Marauders @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYiW-1T
+
+Shop  https //stza.co/+wYiW-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Stone Crabs
+END:VALARM
+DTSTART:20180505T220500Z
+DTEND:20180506T010500Z
+UID:hjhgdM23jbfBexqzIwxSYXn0@stanza.co
+SUMMARY:Marauders @ Stone Crabs
+DESCRIPTION:Marauders @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYiW-1T\n\nShop: https://stza.co/+wYiW-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Stone Crabs
+<2018-05-06 Sun 11:35-14:35>
+:PROPERTIES:
+:ID:       MDcAb7VW7q85rB-dS8T9javV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Stone Crabs Marauders @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYiX-2F
+
+Shop  https //stza.co/+wYiX-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Stone Crabs
+END:VALARM
+DTSTART:20180506T163500Z
+DTEND:20180506T193500Z
+UID:MDcAb7VW7q85rB-dS8T9javV@stanza.co
+SUMMARY:Marauders @ Stone Crabs
+DESCRIPTION:Marauders @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYiX-2F\n\nShop: https://stza.co/+wYiX-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Blue Jays
+<2018-05-07 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       InXJd4dEphFpAML5wBrB86ZL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Blue Jays Marauders @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Fg-2t
+
+Shop  https //stza.co/+y0Fg-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Blue Jays
+END:VALARM
+DTSTART:20180507T223000Z
+DTEND:20180508T013000Z
+UID:InXJd4dEphFpAML5wBrB86ZL@stanza.co
+SUMMARY:Marauders @ Blue Jays
+DESCRIPTION:Marauders @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Fg-2t\n\nShop: https://stza.co/+y0Fg-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Blue Jays
+<2018-05-08 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       ajYpA9hDhbxKRj_5MoESmyyV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Blue Jays Marauders @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Fh-1d
+
+Shop  https //stza.co/+y0Fh-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Blue Jays
+END:VALARM
+DTSTART:20180508T223000Z
+DTEND:20180509T013000Z
+UID:ajYpA9hDhbxKRj_5MoESmyyV@stanza.co
+SUMMARY:Marauders @ Blue Jays
+DESCRIPTION:Marauders @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Fh-1d\n\nShop: https://stza.co/+y0Fh-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Blue Jays
+<2018-05-09 Wed 10:00-13:00>
+:PROPERTIES:
+:ID:       70yWGtkaKqhJ5_UKxvJz6mPX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Blue Jays Marauders @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Fi-k
+
+Shop  https //stza.co/+y0Fi-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Blue Jays
+END:VALARM
+DTSTART:20180509T150000Z
+DTEND:20180509T180000Z
+UID:70yWGtkaKqhJ5_UKxvJz6mPX@stanza.co
+SUMMARY:Marauders @ Blue Jays
+DESCRIPTION:Marauders @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Fi-k\n\nShop: https://stza.co/+y0Fi-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-05-10 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       8ikXky_Zdl2ZKimXyXpOAtme@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vM84-3Y
+
+Shop  https //stza.co/+vM84-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180510T223000Z
+DTEND:20180511T013000Z
+UID:8ikXky_Zdl2ZKimXyXpOAtme@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vM84-3Y\n\nShop: https://stza.co/+vM84-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-05-11 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       woTFeRKOvtJqN17fVrePX2zL@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vM86-C
+
+Shop  https //stza.co/+vM86-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180511T223000Z
+DTEND:20180512T013000Z
+UID:woTFeRKOvtJqN17fVrePX2zL@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vM86-C\n\nShop: https://stza.co/+vM86-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-05-12 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       sGMoJ7W9zFW2UxjTr_a6JyVP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vM88-11
+
+Shop  https //stza.co/+vM88-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180512T223000Z
+DTEND:20180513T013000Z
+UID:sGMoJ7W9zFW2UxjTr_a6JyVP@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vM88-11\n\nShop: https://stza.co/+vM88-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tortugas
+<2018-05-14 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       1-MdNMJgoj8Ycb9OwWWyGsWq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tortugas Marauders vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vM8b-1l
+
+Shop  https //stza.co/+vM8b-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tortugas
+END:VALARM
+DTSTART:20180514T223000Z
+DTEND:20180515T013000Z
+UID:1-MdNMJgoj8Ycb9OwWWyGsWq@stanza.co
+SUMMARY:Marauders vs. Tortugas
+DESCRIPTION:Marauders vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vM8b-1l\n\nShop: https://stza.co/+vM8b-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tortugas
+<2018-05-15 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       2AK5ix4aQ84_tcceuaCV0PNZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tortugas Marauders vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vM8d-C
+
+Shop  https //stza.co/+vM8d-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tortugas
+END:VALARM
+DTSTART:20180515T223000Z
+DTEND:20180516T013000Z
+UID:2AK5ix4aQ84_tcceuaCV0PNZ@stanza.co
+SUMMARY:Marauders vs. Tortugas
+DESCRIPTION:Marauders vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vM8d-C\n\nShop: https://stza.co/+vM8d-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tortugas
+<2018-05-16 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       168iyt7BsxtlbrnUPaP9tDKO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tortugas Marauders vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vM8f-11
+
+Shop  https //stza.co/+vM8f-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tortugas
+END:VALARM
+DTSTART:20180516T143000Z
+DTEND:20180516T173000Z
+UID:168iyt7BsxtlbrnUPaP9tDKO@stanza.co
+SUMMARY:Marauders vs. Tortugas
+DESCRIPTION:Marauders vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vM8f-11\n\nShop: https://stza.co/+vM8f-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tortugas
+<2018-05-17 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       9Q6QRuXZRiJSFr_-e1UrNMkr@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tortugas Marauders vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vM8h-1n
+
+Shop  https //stza.co/+vM8h-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tortugas
+END:VALARM
+DTSTART:20180517T223000Z
+DTEND:20180518T013000Z
+UID:9Q6QRuXZRiJSFr_-e1UrNMkr@stanza.co
+SUMMARY:Marauders vs. Tortugas
+DESCRIPTION:Marauders vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vM8h-1n\n\nShop: https://stza.co/+vM8h-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Cardinals
+<2018-05-18 Fri>--<2018-05-17 Thu>
+:PROPERTIES:
+:ID:       Qp6yxuI1CR-kE_7IR9GJzAEE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Cardinals Marauders @ Cardinals
+
+Buy tickets here  https //stza.co/~vMaD
+
+Follow on MiLB First Pitch  https //stza.co/+vMaD-3U
+
+Shop  https //stza.co/+vMaD-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180518
+DTEND;VALUE=DATE:20180518
+UID:Qp6yxuI1CR-kE_7IR9GJzAEE@stanza.co
+SUMMARY:Marauders @ Cardinals
+DESCRIPTION:Marauders @ Cardinals\n\nBuy tickets here: https://stza.co/~vMaD\n\nFollow on MiLB First Pitch: https://stza.co/+vMaD-3U\n\nShop: https://stza.co/+vMaD-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Cardinals
+<2018-05-19 Sat>--<2018-05-18 Fri>
+:PROPERTIES:
+:ID:       zL46EGsLDknuc24G0FFzGKsy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Cardinals Marauders @ Cardinals
+
+Buy tickets here  https //stza.co/~vMaE
+
+Follow on MiLB First Pitch  https //stza.co/+vMaE-3k
+
+Shop  https //stza.co/+vMaE-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180519
+DTEND;VALUE=DATE:20180519
+UID:zL46EGsLDknuc24G0FFzGKsy@stanza.co
+SUMMARY:Marauders @ Cardinals
+DESCRIPTION:Marauders @ Cardinals\n\nBuy tickets here: https://stza.co/~vMaE\n\nFollow on MiLB First Pitch: https://stza.co/+vMaE-3k\n\nShop: https://stza.co/+vMaE-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Cardinals
+<2018-05-20 Sun>--<2018-05-19 Sat>
+:PROPERTIES:
+:ID:       8iUne2mWCajlCNV4UXaNfdzs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Cardinals Marauders @ Cardinals
+
+Buy tickets here  https //stza.co/~vMaF
+
+Follow on MiLB First Pitch  https //stza.co/+vMaF-F
+
+Shop  https //stza.co/+vMaF-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180520
+DTEND;VALUE=DATE:20180520
+UID:8iUne2mWCajlCNV4UXaNfdzs@stanza.co
+SUMMARY:Marauders @ Cardinals
+DESCRIPTION:Marauders @ Cardinals\n\nBuy tickets here: https://stza.co/~vMaF\n\nFollow on MiLB First Pitch: https://stza.co/+vMaF-F\n\nShop: https://stza.co/+vMaF-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Miracle
+<2018-05-21 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       W_H6kul49SbLudkX_JoiYv4X@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Miracle Marauders @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMa2-1k
+
+Shop  https //stza.co/+xMa2-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Miracle
+END:VALARM
+DTSTART:20180521T230000Z
+DTEND:20180522T020000Z
+UID:W_H6kul49SbLudkX_JoiYv4X@stanza.co
+SUMMARY:Marauders @ Miracle
+DESCRIPTION:Marauders @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMa2-1k\n\nShop: https://stza.co/+xMa2-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Miracle
+<2018-05-22 Tue 10:00-13:00>
+:PROPERTIES:
+:ID:       MgG-eVoJHW_EV0ydG2516mkP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Miracle Marauders @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMa3-2A
+
+Shop  https //stza.co/+xMa3-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Miracle
+END:VALARM
+DTSTART:20180522T150000Z
+DTEND:20180522T180000Z
+UID:MgG-eVoJHW_EV0ydG2516mkP@stanza.co
+SUMMARY:Marauders @ Miracle
+DESCRIPTION:Marauders @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMa3-2A\n\nShop: https://stza.co/+xMa3-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Miracle
+<2018-05-23 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       A6HsFDWai-__eQ3Vat6wu1SH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Miracle Marauders @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMa4-3J
+
+Shop  https //stza.co/+xMa4-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Miracle
+END:VALARM
+DTSTART:20180523T160000Z
+DTEND:20180523T190000Z
+UID:A6HsFDWai-__eQ3Vat6wu1SH@stanza.co
+SUMMARY:Marauders @ Miracle
+DESCRIPTION:Marauders @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMa4-3J\n\nShop: https://stza.co/+xMa4-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Hammerheads
+<2018-05-24 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       gjBDhPyo_FYNDUlaCUnnFWRO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Hammerheads Marauders vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vM8i-1r
+
+Shop  https //stza.co/+vM8i-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Hammerheads
+END:VALARM
+DTSTART:20180524T223000Z
+DTEND:20180525T013000Z
+UID:gjBDhPyo_FYNDUlaCUnnFWRO@stanza.co
+SUMMARY:Marauders vs. Hammerheads
+DESCRIPTION:Marauders vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vM8i-1r\n\nShop: https://stza.co/+vM8i-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Hammerheads
+<2018-05-25 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       GWLhTI1269q1oJHrtD5HK29U@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Hammerheads Marauders vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vM8l-1R
+
+Shop  https //stza.co/+vM8l-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Hammerheads
+END:VALARM
+DTSTART:20180525T223000Z
+DTEND:20180526T013000Z
+UID:GWLhTI1269q1oJHrtD5HK29U@stanza.co
+SUMMARY:Marauders vs. Hammerheads
+DESCRIPTION:Marauders vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vM8l-1R\n\nShop: https://stza.co/+vM8l-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Hammerheads
+<2018-05-26 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       1B9gOkVeFg3KggbMqe9T-ExL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Hammerheads Marauders vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vM8n-3D
+
+Shop  https //stza.co/+vM8n-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Hammerheads
+END:VALARM
+DTSTART:20180526T223000Z
+DTEND:20180527T013000Z
+UID:1B9gOkVeFg3KggbMqe9T-ExL@stanza.co
+SUMMARY:Marauders vs. Hammerheads
+DESCRIPTION:Marauders vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vM8n-3D\n\nShop: https://stza.co/+vM8n-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Hammerheads
+<2018-05-27 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       rh114ilHHTwKjekfpn8GdpLX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Hammerheads Marauders vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vM8p-3J
+
+Shop  https //stza.co/+vM8p-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Hammerheads
+END:VALARM
+DTSTART:20180527T170000Z
+DTEND:20180527T200000Z
+UID:rh114ilHHTwKjekfpn8GdpLX@stanza.co
+SUMMARY:Marauders vs. Hammerheads
+DESCRIPTION:Marauders vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vM8p-3J\n\nShop: https://stza.co/+vM8p-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tortugas
+<2018-05-29 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       TKtzFG3IXhGzSwMAqjoGBIPd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tortugas Marauders @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMa1-9
+
+Shop  https //stza.co/+vMa1-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tortugas
+END:VALARM
+DTSTART:20180529T230500Z
+DTEND:20180530T020500Z
+UID:TKtzFG3IXhGzSwMAqjoGBIPd@stanza.co
+SUMMARY:Marauders @ Tortugas
+DESCRIPTION:Marauders @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMa1-9\n\nShop: https://stza.co/+vMa1-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tortugas
+<2018-05-30 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       4m6wMIfUvjUFxATjoXryWJN0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tortugas Marauders @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMa2-1N
+
+Shop  https //stza.co/+vMa2-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tortugas
+END:VALARM
+DTSTART:20180530T230500Z
+DTEND:20180531T020500Z
+UID:4m6wMIfUvjUFxATjoXryWJN0@stanza.co
+SUMMARY:Marauders @ Tortugas
+DESCRIPTION:Marauders @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMa2-1N\n\nShop: https://stza.co/+vMa2-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tortugas
+<2018-05-31 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       qpX4Ivn1Ur0hDw6xklWK9b0s@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tortugas Marauders @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMa3-2G
+
+Shop  https //stza.co/+vMa3-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tortugas
+END:VALARM
+DTSTART:20180531T230500Z
+DTEND:20180601T020500Z
+UID:qpX4Ivn1Ur0hDw6xklWK9b0s@stanza.co
+SUMMARY:Marauders @ Tortugas
+DESCRIPTION:Marauders @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMa3-2G\n\nShop: https://stza.co/+vMa3-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Stone Crabs
+<2018-06-01 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       ZAyHFfxIg3RlJ_9_BlQSpnil@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Stone Crabs Marauders vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vM8r-3P
+
+Shop  https //stza.co/+vM8r-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Stone Crabs
+END:VALARM
+DTSTART:20180601T223000Z
+DTEND:20180602T013000Z
+UID:ZAyHFfxIg3RlJ_9_BlQSpnil@stanza.co
+SUMMARY:Marauders vs. Stone Crabs
+DESCRIPTION:Marauders vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vM8r-3P\n\nShop: https://stza.co/+vM8r-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Stone Crabs
+<2018-06-02 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       q6qchV675BzmsiNoT7W_1VvS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Stone Crabs Marauders vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vM8s-2w
+
+Shop  https //stza.co/+vM8s-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Stone Crabs
+END:VALARM
+DTSTART:20180602T223000Z
+DTEND:20180603T013000Z
+UID:q6qchV675BzmsiNoT7W_1VvS@stanza.co
+SUMMARY:Marauders vs. Stone Crabs
+DESCRIPTION:Marauders vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vM8s-2w\n\nShop: https://stza.co/+vM8s-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Stone Crabs
+<2018-06-03 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       1-06F7Ki12xlYbpXKlnUtKPW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Stone Crabs Marauders vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vM8u-3j
+
+Shop  https //stza.co/+vM8u-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Stone Crabs
+END:VALARM
+DTSTART:20180603T170000Z
+DTEND:20180603T200000Z
+UID:1-06F7Ki12xlYbpXKlnUtKPW@stanza.co
+SUMMARY:Marauders vs. Stone Crabs
+DESCRIPTION:Marauders vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vM8u-3j\n\nShop: https://stza.co/+vM8u-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Fire Frogs
+<2018-06-04 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       HiUXWbPZEKFFLqQX2KU8q7ZF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Fire Frogs Marauders vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vM8x-2i
+
+Shop  https //stza.co/+vM8x-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Fire Frogs
+END:VALARM
+DTSTART:20180604T223000Z
+DTEND:20180605T013000Z
+UID:HiUXWbPZEKFFLqQX2KU8q7ZF@stanza.co
+SUMMARY:Marauders vs. Fire Frogs
+DESCRIPTION:Marauders vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vM8x-2i\n\nShop: https://stza.co/+vM8x-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Fire Frogs
+<2018-06-05 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       49zq0JL_zv_vj0Cw_iI1A5VV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Fire Frogs Marauders vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vM8y-2F
+
+Shop  https //stza.co/+vM8y-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Fire Frogs
+END:VALARM
+DTSTART:20180605T223000Z
+DTEND:20180606T013000Z
+UID:49zq0JL_zv_vj0Cw_iI1A5VV@stanza.co
+SUMMARY:Marauders vs. Fire Frogs
+DESCRIPTION:Marauders vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vM8y-2F\n\nShop: https://stza.co/+vM8y-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Fire Frogs
+<2018-06-06 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       hV7C9SD-UULz3UC2s9_dd13s@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Fire Frogs Marauders vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vM8A-1d
+
+Shop  https //stza.co/+vM8A-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Fire Frogs
+END:VALARM
+DTSTART:20180606T223000Z
+DTEND:20180607T013000Z
+UID:hV7C9SD-UULz3UC2s9_dd13s@stanza.co
+SUMMARY:Marauders vs. Fire Frogs
+DESCRIPTION:Marauders vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vM8A-1d\n\nShop: https://stza.co/+vM8A-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Fire Frogs
+<2018-06-07 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       VvScp_Ov3uFn1gQ7m2heawjI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Fire Frogs Marauders vs. Fire Frogs
+
+Follow on MiLB First Pitch  https //stza.co/+vM8D-1x
+
+Shop  https //stza.co/+vM8D-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Fire Frogs
+END:VALARM
+DTSTART:20180607T223000Z
+DTEND:20180608T013000Z
+UID:VvScp_Ov3uFn1gQ7m2heawjI@stanza.co
+SUMMARY:Marauders vs. Fire Frogs
+DESCRIPTION:Marauders vs. Fire Frogs\n\nFollow on MiLB First Pitch: https://stza.co/+vM8D-1x\n\nShop: https://stza.co/+vM8D-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-06-08 Fri>--<2018-06-07 Thu>
+:PROPERTIES:
+:ID:       m4WZQkLQJvv0AL7epM3qb2L0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMaN-3i
+
+Shop  https //stza.co/+vMaN-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180608
+DTEND;VALUE=DATE:20180608
+UID:m4WZQkLQJvv0AL7epM3qb2L0@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMaN-3i\n\nShop: https://stza.co/+vMaN-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-06-09 Sat>--<2018-06-08 Fri>
+:PROPERTIES:
+:ID:       eiofYNEQYjm7V_Jn6WRDVeHQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMaO-36
+
+Shop  https //stza.co/+vMaO-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180609
+DTEND;VALUE=DATE:20180609
+UID:eiofYNEQYjm7V_Jn6WRDVeHQ@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMaO-36\n\nShop: https://stza.co/+vMaO-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-06-10 Sun>--<2018-06-09 Sat>
+:PROPERTIES:
+:ID:       zWEJ82FQ0w2j4j4ZhhrDhjDk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMaP-3t
+
+Shop  https //stza.co/+vMaP-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180610
+DTEND;VALUE=DATE:20180610
+UID:zWEJ82FQ0w2j4j4ZhhrDhjDk@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMaP-3t\n\nShop: https://stza.co/+vMaP-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-06-11 Mon 17:31-20:31>
+:PROPERTIES:
+:ID:       Cpvutdt2EgTn5JqLxwhwmhXZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKk
+
+Follow on MiLB First Pitch  https //stza.co/+xWKk-1Y
+
+Shop  https //stza.co/+xWKk-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180611T223100Z
+DTEND:20180612T013100Z
+UID:Cpvutdt2EgTn5JqLxwhwmhXZ@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKk\n\nFollow on MiLB First Pitch: https://stza.co/+xWKk-1Y\n\nShop: https://stza.co/+xWKk-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-06-12 Tue 17:31-20:31>
+:PROPERTIES:
+:ID:       ezivi-V0HeDuedKfhXXD0QuV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKl
+
+Follow on MiLB First Pitch  https //stza.co/+xWKl-24
+
+Shop  https //stza.co/+xWKl-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180612T223100Z
+DTEND:20180613T013100Z
+UID:ezivi-V0HeDuedKfhXXD0QuV@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKl\n\nFollow on MiLB First Pitch: https://stza.co/+xWKl-24\n\nShop: https://stza.co/+xWKl-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-06-13 Wed 17:31-20:31>
+:PROPERTIES:
+:ID:       luzRk_U_JGAq787g8J4tyU5x@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKm
+
+Follow on MiLB First Pitch  https //stza.co/+xWKm-S
+
+Shop  https //stza.co/+xWKm-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180613T223100Z
+DTEND:20180614T013100Z
+UID:luzRk_U_JGAq787g8J4tyU5x@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKm\n\nFollow on MiLB First Pitch: https://stza.co/+xWKm-S\n\nShop: https://stza.co/+xWKm-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-06-14 Thu 17:31-20:31>
+:PROPERTIES:
+:ID:       gzhZIJ0Amhbmc4duTi1w9WoH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKn
+
+Follow on MiLB First Pitch  https //stza.co/+xWKn-Q
+
+Shop  https //stza.co/+xWKn-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180614T223100Z
+DTEND:20180615T013100Z
+UID:gzhZIJ0Amhbmc4duTi1w9WoH@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKn\n\nFollow on MiLB First Pitch: https://stza.co/+xWKn-Q\n\nShop: https://stza.co/+xWKn-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Threshers
+<2018-06-18 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       pgSkpmMOVW1-RPumVYNLAPdh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Threshers Marauders vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vM8F-4
+
+Shop  https //stza.co/+vM8F-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Threshers
+END:VALARM
+DTSTART:20180618T223000Z
+DTEND:20180619T013000Z
+UID:pgSkpmMOVW1-RPumVYNLAPdh@stanza.co
+SUMMARY:Marauders vs. Threshers
+DESCRIPTION:Marauders vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vM8F-4\n\nShop: https://stza.co/+vM8F-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Threshers
+<2018-06-19 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       v9AxThBo_gIIjKkm6tJJFuJX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Threshers Marauders vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vM8H-23
+
+Shop  https //stza.co/+vM8H-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Threshers
+END:VALARM
+DTSTART:20180619T223000Z
+DTEND:20180620T013000Z
+UID:v9AxThBo_gIIjKkm6tJJFuJX@stanza.co
+SUMMARY:Marauders vs. Threshers
+DESCRIPTION:Marauders vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vM8H-23\n\nShop: https://stza.co/+vM8H-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Threshers
+<2018-06-20 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       N-gMOYdbF-mSkBrKkDFTOvcm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Threshers Marauders vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vM8I-I
+
+Shop  https //stza.co/+vM8I-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Threshers
+END:VALARM
+DTSTART:20180620T143000Z
+DTEND:20180620T173000Z
+UID:N-gMOYdbF-mSkBrKkDFTOvcm@stanza.co
+SUMMARY:Marauders vs. Threshers
+DESCRIPTION:Marauders vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vM8I-I\n\nShop: https://stza.co/+vM8I-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-06-21 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       SOzB83uenZJwOaPlbkcGcFBY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM8L-m
+
+Shop  https //stza.co/+vM8L-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180621T223000Z
+DTEND:20180622T013000Z
+UID:SOzB83uenZJwOaPlbkcGcFBY@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM8L-m\n\nShop: https://stza.co/+vM8L-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-06-22 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       YOnxXaTyN8iD7uBmLEpMXHF-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM8N-4
+
+Shop  https //stza.co/+vM8N-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180622T223000Z
+DTEND:20180623T013000Z
+UID:YOnxXaTyN8iD7uBmLEpMXHF-@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM8N-4\n\nShop: https://stza.co/+vM8N-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-06-23 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       oz2AYZX3ZS6f-RJ8JyowtlJQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM8P-1T
+
+Shop  https //stza.co/+vM8P-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180623T223000Z
+DTEND:20180624T013000Z
+UID:oz2AYZX3ZS6f-RJ8JyowtlJQ@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM8P-1T\n\nShop: https://stza.co/+vM8P-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-06-24 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       aZSPVVLA5rIb9MmabWLNk-ck@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM8R-B
+
+Shop  https //stza.co/+vM8R-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180624T170000Z
+DTEND:20180624T200000Z
+UID:aZSPVVLA5rIb9MmabWLNk-ck@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM8R-B\n\nShop: https://stza.co/+vM8R-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Cardinals
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       yr6TL1MC7mtJBMCwsXVJWRy1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Cardinals Marauders @ Cardinals
+
+Buy tickets here  https //stza.co/~vMaG
+
+Follow on MiLB First Pitch  https //stza.co/+vMaG-3w
+
+Shop  https //stza.co/+vMaG-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:yr6TL1MC7mtJBMCwsXVJWRy1@stanza.co
+SUMMARY:Marauders @ Cardinals
+DESCRIPTION:Marauders @ Cardinals\n\nBuy tickets here: https://stza.co/~vMaG\n\nFollow on MiLB First Pitch: https://stza.co/+vMaG-3w\n\nShop: https://stza.co/+vMaG-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Cardinals
+<2018-06-27 Wed>--<2018-06-26 Tue>
+:PROPERTIES:
+:ID:       zA1mYmgZAE1TKZcAmaa3gIdy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Cardinals Marauders @ Cardinals
+
+Buy tickets here  https //stza.co/~vMaH
+
+Follow on MiLB First Pitch  https //stza.co/+vMaH-3X
+
+Shop  https //stza.co/+vMaH-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180627
+UID:zA1mYmgZAE1TKZcAmaa3gIdy@stanza.co
+SUMMARY:Marauders @ Cardinals
+DESCRIPTION:Marauders @ Cardinals\n\nBuy tickets here: https://stza.co/~vMaH\n\nFollow on MiLB First Pitch: https://stza.co/+vMaH-3X\n\nShop: https://stza.co/+vMaH-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Cardinals
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       Y0MNQE_bYoS3PhFjASm3RgpM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Cardinals Marauders @ Cardinals
+
+Buy tickets here  https //stza.co/~vMaI
+
+Follow on MiLB First Pitch  https //stza.co/+vMaI-j
+
+Shop  https //stza.co/+vMaI-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:Y0MNQE_bYoS3PhFjASm3RgpM@stanza.co
+SUMMARY:Marauders @ Cardinals
+DESCRIPTION:Marauders @ Cardinals\n\nBuy tickets here: https://stza.co/~vMaI\n\nFollow on MiLB First Pitch: https://stza.co/+vMaI-j\n\nShop: https://stza.co/+vMaI-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Blue Jays
+<2018-06-29 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       qn_Bv61ctxkslOeuK0K46fpb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Blue Jays Marauders @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Fj-2t
+
+Shop  https //stza.co/+y0Fj-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Blue Jays
+END:VALARM
+DTSTART:20180629T223000Z
+DTEND:20180630T013000Z
+UID:qn_Bv61ctxkslOeuK0K46fpb@stanza.co
+SUMMARY:Marauders @ Blue Jays
+DESCRIPTION:Marauders @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Fj-2t\n\nShop: https://stza.co/+y0Fj-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Blue Jays
+<2018-06-30 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       _5Vo0RISu3JCaBMVcOOnRGOS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Blue Jays Marauders @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Fk-1d
+
+Shop  https //stza.co/+y0Fk-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Blue Jays
+END:VALARM
+DTSTART:20180630T223000Z
+DTEND:20180701T013000Z
+UID:_5Vo0RISu3JCaBMVcOOnRGOS@stanza.co
+SUMMARY:Marauders @ Blue Jays
+DESCRIPTION:Marauders @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Fk-1d\n\nShop: https://stza.co/+y0Fk-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Blue Jays
+<2018-07-01 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       JhOGTeVgrkj-O1K7YeSGJrNc@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Blue Jays Marauders @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0Fl-3s
+
+Shop  https //stza.co/+y0Fl-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Blue Jays
+END:VALARM
+DTSTART:20180701T170000Z
+DTEND:20180701T200000Z
+UID:JhOGTeVgrkj-O1K7YeSGJrNc@stanza.co
+SUMMARY:Marauders @ Blue Jays
+DESCRIPTION:Marauders @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0Fl-3s\n\nShop: https://stza.co/+y0Fl-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-07-02 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       ATdTcAStxeEJvzvYdvR6G6g1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vM8S-2x
+
+Shop  https //stza.co/+vM8S-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180702T223000Z
+DTEND:20180703T013000Z
+UID:ATdTcAStxeEJvzvYdvR6G6g1@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vM8S-2x\n\nShop: https://stza.co/+vM8S-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Cardinals
+<2018-07-03 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       HgS9zvnprpCWDgQuvCOxZ3I3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Cardinals Marauders vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+vM8U-2z
+
+Shop  https //stza.co/+vM8U-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Cardinals
+END:VALARM
+DTSTART:20180703T223000Z
+DTEND:20180704T013000Z
+UID:HgS9zvnprpCWDgQuvCOxZ3I3@stanza.co
+SUMMARY:Marauders vs. Cardinals
+DESCRIPTION:Marauders vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+vM8U-2z\n\nShop: https://stza.co/+vM8U-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Mets
+<2018-07-04 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       5toHIwkbwIQqaNNjJbtDc4WI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Mets Marauders @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMaL-P
+
+Shop  https //stza.co/+vMaL-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Mets
+END:VALARM
+DTSTART:20180704T223000Z
+DTEND:20180705T013000Z
+UID:5toHIwkbwIQqaNNjJbtDc4WI@stanza.co
+SUMMARY:Marauders @ Mets
+DESCRIPTION:Marauders @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMaL-P\n\nShop: https://stza.co/+vMaL-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Mets
+<2018-07-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       TSWCAHl9kFWYMCF1qSo8h6tM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Mets Marauders @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMaM-25
+
+Shop  https //stza.co/+vMaM-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Mets
+END:VALARM
+DTSTART:20180705T223000Z
+DTEND:20180706T013000Z
+UID:TSWCAHl9kFWYMCF1qSo8h6tM@stanza.co
+SUMMARY:Marauders @ Mets
+DESCRIPTION:Marauders @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMaM-25\n\nShop: https://stza.co/+vMaM-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-07-06 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       Mnnm1UGbjSJUbXkNVWDlZC0t@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM8X-3k
+
+Shop  https //stza.co/+vM8X-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180706T223000Z
+DTEND:20180707T013000Z
+UID:Mnnm1UGbjSJUbXkNVWDlZC0t@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM8X-3k\n\nShop: https://stza.co/+vM8X-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-07-07 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       8zpQ-8AK__6Z8jEx4_9vAOME@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM8Y-2t
+
+Shop  https //stza.co/+vM8Y-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180707T223000Z
+DTEND:20180708T013000Z
+UID:8zpQ-8AK__6Z8jEx4_9vAOME@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM8Y-2t\n\nShop: https://stza.co/+vM8Y-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Miracle
+<2018-07-08 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       Kdulq7FCBqBhVQ9rWlTM1F5s@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Miracle Marauders vs. Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+vM8$-1
+
+Shop  https //stza.co/+vM8$-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Miracle
+END:VALARM
+DTSTART:20180708T170000Z
+DTEND:20180708T200000Z
+UID:Kdulq7FCBqBhVQ9rWlTM1F5s@stanza.co
+SUMMARY:Marauders vs. Miracle
+DESCRIPTION:Marauders vs. Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+vM8$-1\n\nShop: https://stza.co/+vM8$-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Flying Tigers
+<2018-07-09 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       7ejbfqoEYF7rOfkZyXgI81eu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Flying Tigers Marauders vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vM91-q
+
+Shop  https //stza.co/+vM91-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Flying Tigers
+END:VALARM
+DTSTART:20180709T223000Z
+DTEND:20180710T013000Z
+UID:7ejbfqoEYF7rOfkZyXgI81eu@stanza.co
+SUMMARY:Marauders vs. Flying Tigers
+DESCRIPTION:Marauders vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vM91-q\n\nShop: https://stza.co/+vM91-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Flying Tigers
+<2018-07-10 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       qCEAiIwxSad_J5ZOTC3hNBhH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Flying Tigers Marauders vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vM93-2P
+
+Shop  https //stza.co/+vM93-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Flying Tigers
+END:VALARM
+DTSTART:20180710T223000Z
+DTEND:20180711T013000Z
+UID:qCEAiIwxSad_J5ZOTC3hNBhH@stanza.co
+SUMMARY:Marauders vs. Flying Tigers
+DESCRIPTION:Marauders vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vM93-2P\n\nShop: https://stza.co/+vM93-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Flying Tigers
+<2018-07-11 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       N6EXFfa1FE4dJRM5c8XyL7kR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Flying Tigers Marauders vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vM94-2r
+
+Shop  https //stza.co/+vM94-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Flying Tigers
+END:VALARM
+DTSTART:20180711T223000Z
+DTEND:20180712T013000Z
+UID:N6EXFfa1FE4dJRM5c8XyL7kR@stanza.co
+SUMMARY:Marauders vs. Flying Tigers
+DESCRIPTION:Marauders vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vM94-2r\n\nShop: https://stza.co/+vM94-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Flying Tigers
+<2018-07-12 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       aSZA8NDpIz3bU4-N8NHMVLCI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Flying Tigers Marauders vs. Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+vM96-2M
+
+Shop  https //stza.co/+vM96-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Flying Tigers
+END:VALARM
+DTSTART:20180712T223000Z
+DTEND:20180713T013000Z
+UID:aSZA8NDpIz3bU4-N8NHMVLCI@stanza.co
+SUMMARY:Marauders vs. Flying Tigers
+DESCRIPTION:Marauders vs. Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+vM96-2M\n\nShop: https://stza.co/+vM96-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tortugas
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       xfkW0ZcCkjTQ7rztIn4EvTkU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tortugas Marauders @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMa4-3H
+
+Shop  https //stza.co/+vMa4-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tortugas
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:xfkW0ZcCkjTQ7rztIn4EvTkU@stanza.co
+SUMMARY:Marauders @ Tortugas
+DESCRIPTION:Marauders @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMa4-3H\n\nShop: https://stza.co/+vMa4-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tortugas
+<2018-07-14 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       hCRUXBebwiHjk93mA9xPmy3e@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tortugas Marauders @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMa5-2q
+
+Shop  https //stza.co/+vMa5-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tortugas
+END:VALARM
+DTSTART:20180714T230500Z
+DTEND:20180715T020500Z
+UID:hCRUXBebwiHjk93mA9xPmy3e@stanza.co
+SUMMARY:Marauders @ Tortugas
+DESCRIPTION:Marauders @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMa5-2q\n\nShop: https://stza.co/+vMa5-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tortugas
+<2018-07-15 Sun 16:35-19:35>
+:PROPERTIES:
+:ID:       y7wrrKRYaB_pVc20KQt53I-v@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tortugas Marauders @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMa6-e
+
+Shop  https //stza.co/+vMa6-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tortugas
+END:VALARM
+DTSTART:20180715T213500Z
+DTEND:20180716T003500Z
+UID:y7wrrKRYaB_pVc20KQt53I-v@stanza.co
+SUMMARY:Marauders @ Tortugas
+DESCRIPTION:Marauders @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMa6-e\n\nShop: https://stza.co/+vMa6-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Hammerheads
+<2018-07-16 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       p9nmeUTfkttEuXAXVtk1FRwP@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Hammerheads Marauders vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vM98-1U
+
+Shop  https //stza.co/+vM98-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Hammerheads
+END:VALARM
+DTSTART:20180716T223000Z
+DTEND:20180717T013000Z
+UID:p9nmeUTfkttEuXAXVtk1FRwP@stanza.co
+SUMMARY:Marauders vs. Hammerheads
+DESCRIPTION:Marauders vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vM98-1U\n\nShop: https://stza.co/+vM98-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Hammerheads
+<2018-07-17 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       56jhHj88e9PtRwxfO22MxqDg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Hammerheads Marauders vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vM9a-26
+
+Shop  https //stza.co/+vM9a-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Hammerheads
+END:VALARM
+DTSTART:20180717T223000Z
+DTEND:20180718T013000Z
+UID:56jhHj88e9PtRwxfO22MxqDg@stanza.co
+SUMMARY:Marauders vs. Hammerheads
+DESCRIPTION:Marauders vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vM9a-26\n\nShop: https://stza.co/+vM9a-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Hammerheads
+<2018-07-18 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       2OAw1D9eI9pRoSLET7W79pfx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Hammerheads Marauders vs. Hammerheads
+
+Follow on MiLB First Pitch  https //stza.co/+vM9d-O
+
+Shop  https //stza.co/+vM9d-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Hammerheads
+END:VALARM
+DTSTART:20180718T143000Z
+DTEND:20180718T173000Z
+UID:2OAw1D9eI9pRoSLET7W79pfx@stanza.co
+SUMMARY:Marauders vs. Hammerheads
+DESCRIPTION:Marauders vs. Hammerheads\n\nFollow on MiLB First Pitch: https://stza.co/+vM9d-O\n\nShop: https://stza.co/+vM9d-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tortugas
+<2018-07-19 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       43Jw7JK2dYkZT4MAFwhu7tjJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tortugas Marauders vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vM9e-3I
+
+Shop  https //stza.co/+vM9e-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tortugas
+END:VALARM
+DTSTART:20180719T223000Z
+DTEND:20180720T013000Z
+UID:43Jw7JK2dYkZT4MAFwhu7tjJ@stanza.co
+SUMMARY:Marauders vs. Tortugas
+DESCRIPTION:Marauders vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vM9e-3I\n\nShop: https://stza.co/+vM9e-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tortugas
+<2018-07-20 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       Lz2Zz64HYXATI80K6Em39232@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tortugas Marauders vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vM9g-3h
+
+Shop  https //stza.co/+vM9g-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tortugas
+END:VALARM
+DTSTART:20180720T223000Z
+DTEND:20180721T013000Z
+UID:Lz2Zz64HYXATI80K6Em39232@stanza.co
+SUMMARY:Marauders vs. Tortugas
+DESCRIPTION:Marauders vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vM9g-3h\n\nShop: https://stza.co/+vM9g-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tortugas
+<2018-07-21 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       _056FPQfYLqkBYsTgl0zU9Tw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tortugas Marauders vs. Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vM9j-c
+
+Shop  https //stza.co/+vM9j-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tortugas
+END:VALARM
+DTSTART:20180721T223000Z
+DTEND:20180722T013000Z
+UID:_056FPQfYLqkBYsTgl0zU9Tw@stanza.co
+SUMMARY:Marauders vs. Tortugas
+DESCRIPTION:Marauders vs. Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vM9j-c\n\nShop: https://stza.co/+vM9j-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       GQ4Nxf5KX3GQ4rQwN3TNyZvR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMaQ-3Z
+
+Shop  https //stza.co/+vMaQ-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:GQ4Nxf5KX3GQ4rQwN3TNyZvR@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMaQ-3Z\n\nShop: https://stza.co/+vMaQ-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       V3UYqgMTE8Csr0PjMB5BluFi@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vhHm-3l
+
+Shop  https //stza.co/+vhHm-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:V3UYqgMTE8Csr0PjMB5BluFi@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vhHm-3l\n\nShop: https://stza.co/+vhHm-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       mHmQH1mgTQhviSw6rI908Kv3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vgXf-36
+
+Shop  https //stza.co/+vgXf-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:mHmQH1mgTQhviSw6rI908Kv3@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vgXf-36\n\nShop: https://stza.co/+vgXf-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-07-26 Thu 17:31-20:31>
+:PROPERTIES:
+:ID:       ExEmayfDF7CCh7blYH0LXnfV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKo
+
+Follow on MiLB First Pitch  https //stza.co/+xWKo-3a
+
+Shop  https //stza.co/+xWKo-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180726T223100Z
+DTEND:20180727T013100Z
+UID:ExEmayfDF7CCh7blYH0LXnfV@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKo\n\nFollow on MiLB First Pitch: https://stza.co/+xWKo-3a\n\nShop: https://stza.co/+xWKo-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-07-27 Fri 17:31-20:31>
+:PROPERTIES:
+:ID:       HWueVIq3A544pSUXFY9HEWad@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKp
+
+Follow on MiLB First Pitch  https //stza.co/+xWKp-2T
+
+Shop  https //stza.co/+xWKp-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180727T223100Z
+DTEND:20180728T013100Z
+UID:HWueVIq3A544pSUXFY9HEWad@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKp\n\nFollow on MiLB First Pitch: https://stza.co/+xWKp-2T\n\nShop: https://stza.co/+xWKp-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-07-28 Sat 17:31-20:31>
+:PROPERTIES:
+:ID:       glwxxMjvCLUEmvEvvduaRo-W@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKq
+
+Follow on MiLB First Pitch  https //stza.co/+xWKq-B
+
+Shop  https //stza.co/+xWKq-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180728T223100Z
+DTEND:20180729T013100Z
+UID:glwxxMjvCLUEmvEvvduaRo-W@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKq\n\nFollow on MiLB First Pitch: https://stza.co/+xWKq-B\n\nShop: https://stza.co/+xWKq-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Fire Frogs
+<2018-07-29 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       4TK_MqVrerrje7buty6FiNVN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Fire Frogs Marauders @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWKr
+
+Follow on MiLB First Pitch  https //stza.co/+xWKr-p
+
+Shop  https //stza.co/+xWKr-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Fire Frogs
+END:VALARM
+DTSTART:20180729T150000Z
+DTEND:20180729T180000Z
+UID:4TK_MqVrerrje7buty6FiNVN@stanza.co
+SUMMARY:Marauders @ Fire Frogs
+DESCRIPTION:Marauders @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWKr\n\nFollow on MiLB First Pitch: https://stza.co/+xWKr-p\n\nShop: https://stza.co/+xWKr-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Mets
+<2018-07-31 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       3ZbITjg26M9aSdygivAhBA6U@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Mets Marauders vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vM9k-15
+
+Shop  https //stza.co/+vM9k-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Mets
+END:VALARM
+DTSTART:20180731T223000Z
+DTEND:20180801T013000Z
+UID:3ZbITjg26M9aSdygivAhBA6U@stanza.co
+SUMMARY:Marauders vs. Mets
+DESCRIPTION:Marauders vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vM9k-15\n\nShop: https://stza.co/+vM9k-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Mets
+<2018-08-01 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       MWAkcEe_XPH8DoPfkvpOZJ2g@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Mets Marauders vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vM9m-1Q
+
+Shop  https //stza.co/+vM9m-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Mets
+END:VALARM
+DTSTART:20180801T223000Z
+DTEND:20180802T013000Z
+UID:MWAkcEe_XPH8DoPfkvpOZJ2g@stanza.co
+SUMMARY:Marauders vs. Mets
+DESCRIPTION:Marauders vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vM9m-1Q\n\nShop: https://stza.co/+vM9m-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Mets
+<2018-08-02 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       XmfUd1hkvKAYaVBl_vp7LLmF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Mets Marauders vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vM9p-c
+
+Shop  https //stza.co/+vM9p-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Mets
+END:VALARM
+DTSTART:20180802T223000Z
+DTEND:20180803T013000Z
+UID:XmfUd1hkvKAYaVBl_vp7LLmF@stanza.co
+SUMMARY:Marauders vs. Mets
+DESCRIPTION:Marauders vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vM9p-c\n\nShop: https://stza.co/+vM9p-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Threshers
+<2018-08-03 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       0MSEJQ8FcoRIyoSWisbFhbiJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Threshers Marauders vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vM9q-O
+
+Shop  https //stza.co/+vM9q-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Threshers
+END:VALARM
+DTSTART:20180803T223000Z
+DTEND:20180804T013000Z
+UID:0MSEJQ8FcoRIyoSWisbFhbiJ@stanza.co
+SUMMARY:Marauders vs. Threshers
+DESCRIPTION:Marauders vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vM9q-O\n\nShop: https://stza.co/+vM9q-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Threshers
+<2018-08-04 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       1vGArunsHbhF-Yix7hfLeW99@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Threshers Marauders vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vM9t-1C
+
+Shop  https //stza.co/+vM9t-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Threshers
+END:VALARM
+DTSTART:20180804T223000Z
+DTEND:20180805T013000Z
+UID:1vGArunsHbhF-Yix7hfLeW99@stanza.co
+SUMMARY:Marauders vs. Threshers
+DESCRIPTION:Marauders vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vM9t-1C\n\nShop: https://stza.co/+vM9t-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Threshers
+<2018-08-05 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       I_6RhMzP1Npf1rBg9lLAOQUY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Threshers Marauders vs. Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+vM9v-3m
+
+Shop  https //stza.co/+vM9v-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Threshers
+END:VALARM
+DTSTART:20180805T170000Z
+DTEND:20180805T200000Z
+UID:I_6RhMzP1Npf1rBg9lLAOQUY@stanza.co
+SUMMARY:Marauders vs. Threshers
+DESCRIPTION:Marauders vs. Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+vM9v-3m\n\nShop: https://stza.co/+vM9v-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Stone Crabs
+<2018-08-06 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       6EveeutmmAwQUCYVjNTAmRwI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Stone Crabs Marauders @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYiY-2J
+
+Shop  https //stza.co/+wYiY-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Stone Crabs
+END:VALARM
+DTSTART:20180806T223500Z
+DTEND:20180807T013500Z
+UID:6EveeutmmAwQUCYVjNTAmRwI@stanza.co
+SUMMARY:Marauders @ Stone Crabs
+DESCRIPTION:Marauders @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYiY-2J\n\nShop: https://stza.co/+wYiY-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Stone Crabs
+<2018-08-07 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       3K6sRyUA7iDCG8zn1H7nN2lm@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Stone Crabs Marauders @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYi_-15
+
+Shop  https //stza.co/+wYi_-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Stone Crabs
+END:VALARM
+DTSTART:20180807T223500Z
+DTEND:20180808T013500Z
+UID:3K6sRyUA7iDCG8zn1H7nN2lm@stanza.co
+SUMMARY:Marauders @ Stone Crabs
+DESCRIPTION:Marauders @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYi_-15\n\nShop: https://stza.co/+wYi_-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Stone Crabs
+<2018-08-08 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       ltMJN3KcLYO9wPuGYp1PEPAy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Stone Crabs Marauders @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYj0-b
+
+Shop  https //stza.co/+wYj0-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Stone Crabs
+END:VALARM
+DTSTART:20180808T223500Z
+DTEND:20180809T013500Z
+UID:ltMJN3KcLYO9wPuGYp1PEPAy@stanza.co
+SUMMARY:Marauders @ Stone Crabs
+DESCRIPTION:Marauders @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYj0-b\n\nShop: https://stza.co/+wYj0-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tarpons
+<2018-08-09 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       pgC6nr8A5T2Iimm4scfDSqev@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tarpons Marauders vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vM9w-3X
+
+Shop  https //stza.co/+vM9w-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tarpons
+END:VALARM
+DTSTART:20180809T223000Z
+DTEND:20180810T013000Z
+UID:pgC6nr8A5T2Iimm4scfDSqev@stanza.co
+SUMMARY:Marauders vs. Tarpons
+DESCRIPTION:Marauders vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vM9w-3X\n\nShop: https://stza.co/+vM9w-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tarpons
+<2018-08-10 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       2H-eMjhuYZhK-zKBro_TdK32@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tarpons Marauders vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vM9y-2C
+
+Shop  https //stza.co/+vM9y-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tarpons
+END:VALARM
+DTSTART:20180810T223000Z
+DTEND:20180811T013000Z
+UID:2H-eMjhuYZhK-zKBro_TdK32@stanza.co
+SUMMARY:Marauders vs. Tarpons
+DESCRIPTION:Marauders vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vM9y-2C\n\nShop: https://stza.co/+vM9y-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tarpons
+<2018-08-11 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       Umbt7Q5BXHPcaeoUsdsUxKZX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tarpons Marauders vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vM9B-X
+
+Shop  https //stza.co/+vM9B-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tarpons
+END:VALARM
+DTSTART:20180811T223000Z
+DTEND:20180812T013000Z
+UID:Umbt7Q5BXHPcaeoUsdsUxKZX@stanza.co
+SUMMARY:Marauders vs. Tarpons
+DESCRIPTION:Marauders vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vM9B-X\n\nShop: https://stza.co/+vM9B-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Tarpons
+<2018-08-12 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       dScQsGwfhBGknR1tbUC8X-U2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Tarpons Marauders vs. Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vM9C-1G
+
+Shop  https //stza.co/+vM9C-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Tarpons
+END:VALARM
+DTSTART:20180812T170000Z
+DTEND:20180812T200000Z
+UID:dScQsGwfhBGknR1tbUC8X-U2@stanza.co
+SUMMARY:Marauders vs. Tarpons
+DESCRIPTION:Marauders vs. Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vM9C-1G\n\nShop: https://stza.co/+vM9C-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Threshers
+<2018-08-13 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       tCwx_l3sncduhzw6SWD3nVLq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Threshers Marauders @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xB7x-3f
+
+Shop  https //stza.co/+xB7x-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Threshers
+END:VALARM
+DTSTART:20180813T230000Z
+DTEND:20180814T020000Z
+UID:tCwx_l3sncduhzw6SWD3nVLq@stanza.co
+SUMMARY:Marauders @ Threshers
+DESCRIPTION:Marauders @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xB7x-3f\n\nShop: https://stza.co/+xB7x-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Threshers
+<2018-08-14 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       tJuF-q3MOyW1nDEailWf--W3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Threshers Marauders @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xB7y-a
+
+Shop  https //stza.co/+xB7y-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Threshers
+END:VALARM
+DTSTART:20180814T230000Z
+DTEND:20180815T020000Z
+UID:tJuF-q3MOyW1nDEailWf--W3@stanza.co
+SUMMARY:Marauders @ Threshers
+DESCRIPTION:Marauders @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xB7y-a\n\nShop: https://stza.co/+xB7y-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Threshers
+<2018-08-15 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       X8mc8FgSQow6kbygiSdO22sZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Threshers Marauders @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xB7z-5
+
+Shop  https //stza.co/+xB7z-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Threshers
+END:VALARM
+DTSTART:20180815T230000Z
+DTEND:20180816T020000Z
+UID:X8mc8FgSQow6kbygiSdO22sZ@stanza.co
+SUMMARY:Marauders @ Threshers
+DESCRIPTION:Marauders @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xB7z-5\n\nShop: https://stza.co/+xB7z-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Threshers
+<2018-08-16 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       JVp3uU7HfuK6rlqZzgTC7z3X@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Threshers Marauders @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xB7A-2V
+
+Shop  https //stza.co/+xB7A-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Threshers
+END:VALARM
+DTSTART:20180816T230000Z
+DTEND:20180817T020000Z
+UID:JVp3uU7HfuK6rlqZzgTC7z3X@stanza.co
+SUMMARY:Marauders @ Threshers
+DESCRIPTION:Marauders @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xB7A-2V\n\nShop: https://stza.co/+xB7A-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Hammerheads
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       q7Xvfe6o_RUy4Tv-LjzzcWIj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Hammerheads Marauders @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMaw
+
+Follow on MiLB First Pitch  https //stza.co/+vMaw-U
+
+Shop  https //stza.co/+vMaw-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:q7Xvfe6o_RUy4Tv-LjzzcWIj@stanza.co
+SUMMARY:Marauders @ Hammerheads
+DESCRIPTION:Marauders @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMaw\n\nFollow on MiLB First Pitch: https://stza.co/+vMaw-U\n\nShop: https://stza.co/+vMaw-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Hammerheads
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       KfCC3blTO5J3hZ_W2wUa90g8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Hammerheads Marauders @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMax
+
+Follow on MiLB First Pitch  https //stza.co/+vMax-35
+
+Shop  https //stza.co/+vMax-3R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:KfCC3blTO5J3hZ_W2wUa90g8@stanza.co
+SUMMARY:Marauders @ Hammerheads
+DESCRIPTION:Marauders @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMax\n\nFollow on MiLB First Pitch: https://stza.co/+vMax-35\n\nShop: https://stza.co/+vMax-3R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Hammerheads
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       Lz9Yc93tyrU2u2zaZ5oj9SAZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Hammerheads Marauders @ Hammerheads
+
+Buy tickets here  https //stza.co/~vMay
+
+Follow on MiLB First Pitch  https //stza.co/+vMay-C
+
+Shop  https //stza.co/+vMay-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Hammerheads
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:Lz9Yc93tyrU2u2zaZ5oj9SAZ@stanza.co
+SUMMARY:Marauders @ Hammerheads
+DESCRIPTION:Marauders @ Hammerheads\n\nBuy tickets here: https://stza.co/~vMay\n\nFollow on MiLB First Pitch: https://stza.co/+vMay-C\n\nShop: https://stza.co/+vMay-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Stone Crabs
+<2018-08-21 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       Gpj1KEpiqUVBkG-Cvglx3lmo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Stone Crabs Marauders vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vM9F-1n
+
+Shop  https //stza.co/+vM9F-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Stone Crabs
+END:VALARM
+DTSTART:20180821T223000Z
+DTEND:20180822T013000Z
+UID:Gpj1KEpiqUVBkG-Cvglx3lmo@stanza.co
+SUMMARY:Marauders vs. Stone Crabs
+DESCRIPTION:Marauders vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vM9F-1n\n\nShop: https://stza.co/+vM9F-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Stone Crabs
+<2018-08-22 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       rxJUPNZRCWl4iSi_nFCoH69c@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Stone Crabs Marauders vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vM9G-6
+
+Shop  https //stza.co/+vM9G-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Stone Crabs
+END:VALARM
+DTSTART:20180822T223000Z
+DTEND:20180823T013000Z
+UID:rxJUPNZRCWl4iSi_nFCoH69c@stanza.co
+SUMMARY:Marauders vs. Stone Crabs
+DESCRIPTION:Marauders vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vM9G-6\n\nShop: https://stza.co/+vM9G-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Stone Crabs
+<2018-08-23 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       qXDGGyXgl38neR0am0RTz00Z@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Stone Crabs Marauders vs. Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+vM9J-4
+
+Shop  https //stza.co/+vM9J-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Stone Crabs
+END:VALARM
+DTSTART:20180823T223000Z
+DTEND:20180824T013000Z
+UID:qXDGGyXgl38neR0am0RTz00Z@stanza.co
+SUMMARY:Marauders vs. Stone Crabs
+DESCRIPTION:Marauders vs. Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+vM9J-4\n\nShop: https://stza.co/+vM9J-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Blue Jays
+<2018-08-24 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       Z2IQO8l0_P99sovJOq_zI9G2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Blue Jays Marauders vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vM9L-2g
+
+Shop  https //stza.co/+vM9L-2a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Blue Jays
+END:VALARM
+DTSTART:20180824T223000Z
+DTEND:20180825T013000Z
+UID:Z2IQO8l0_P99sovJOq_zI9G2@stanza.co
+SUMMARY:Marauders vs. Blue Jays
+DESCRIPTION:Marauders vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vM9L-2g\n\nShop: https://stza.co/+vM9L-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Blue Jays
+<2018-08-25 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       FWHM7xYBxJ-5bmYBxcslEzhR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Blue Jays Marauders vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vM9M-O
+
+Shop  https //stza.co/+vM9M-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Blue Jays
+END:VALARM
+DTSTART:20180825T223000Z
+DTEND:20180826T013000Z
+UID:FWHM7xYBxJ-5bmYBxcslEzhR@stanza.co
+SUMMARY:Marauders vs. Blue Jays
+DESCRIPTION:Marauders vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vM9M-O\n\nShop: https://stza.co/+vM9M-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders vs. Blue Jays
+<2018-08-26 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       auPNqc_dqyUqlUjOz_4rsozF@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders vs. Blue Jays Marauders vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+vM9P-X
+
+Shop  https //stza.co/+vM9P-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Marauders vs. Blue Jays
+END:VALARM
+DTSTART:20180826T170000Z
+DTEND:20180826T200000Z
+UID:auPNqc_dqyUqlUjOz_4rsozF@stanza.co
+SUMMARY:Marauders vs. Blue Jays
+DESCRIPTION:Marauders vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+vM9P-X\n\nShop: https://stza.co/+vM9P-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Miracle
+<2018-08-27 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       Qhxv8Mb7jOTAO3cr8HuNNCO1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Miracle Marauders @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMa5-U
+
+Shop  https //stza.co/+xMa5-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Miracle
+END:VALARM
+DTSTART:20180827T230000Z
+DTEND:20180828T020000Z
+UID:Qhxv8Mb7jOTAO3cr8HuNNCO1@stanza.co
+SUMMARY:Marauders @ Miracle
+DESCRIPTION:Marauders @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMa5-U\n\nShop: https://stza.co/+xMa5-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Miracle
+<2018-08-28 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       jOMq3J_n5rD2U4WpZWgHHQo0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Miracle Marauders @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMa6-8
+
+Shop  https //stza.co/+xMa6-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Miracle
+END:VALARM
+DTSTART:20180828T230000Z
+DTEND:20180829T020000Z
+UID:jOMq3J_n5rD2U4WpZWgHHQo0@stanza.co
+SUMMARY:Marauders @ Miracle
+DESCRIPTION:Marauders @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMa6-8\n\nShop: https://stza.co/+xMa6-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Miracle
+<2018-08-29 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       zwGXulPDlRF95rUMayv-SYCc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Miracle Marauders @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMa7-2I
+
+Shop  https //stza.co/+xMa7-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Miracle
+END:VALARM
+DTSTART:20180829T230000Z
+DTEND:20180830T020000Z
+UID:zwGXulPDlRF95rUMayv-SYCc@stanza.co
+SUMMARY:Marauders @ Miracle
+DESCRIPTION:Marauders @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMa7-2I\n\nShop: https://stza.co/+xMa7-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Miracle
+<2018-08-30 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       wAGY8nuga-brAXWWU_MPleNS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Miracle Marauders @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMa8-2D
+
+Shop  https //stza.co/+xMa8-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Miracle
+END:VALARM
+DTSTART:20180830T230000Z
+DTEND:20180831T020000Z
+UID:wAGY8nuga-brAXWWU_MPleNS@stanza.co
+SUMMARY:Marauders @ Miracle
+DESCRIPTION:Marauders @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMa8-2D\n\nShop: https://stza.co/+xMa8-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       i0So3Xbw2ewK1OOaOY-w1g9Q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vgXg-13
+
+Shop  https //stza.co/+vgXg-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:i0So3Xbw2ewK1OOaOY-w1g9Q@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vgXg-13\n\nShop: https://stza.co/+vgXg-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       aJkdj5GXgn7wna8t_PkROabk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vgXh-3b
+
+Shop  https //stza.co/+vgXh-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:aJkdj5GXgn7wna8t_PkROabk@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vgXh-3b\n\nShop: https://stza.co/+vgXh-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT
+* Marauders @ Tarpons
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       05XpppzJy9-iyGxt3YkqK58Y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Marauders @ Tarpons Marauders @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vgXi-2a
+
+Shop  https //stza.co/+vgXi-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Marauders @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:05XpppzJy9-iyGxt3YkqK58Y@stanza.co
+SUMMARY:Marauders @ Tarpons
+DESCRIPTION:Marauders @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vgXi-2a\n\nShop: https://stza.co/+vgXi-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144508Z
+LAST-MODIFIED:20180213T144508Z
+TRANSP:OPAQUE
+END:VEVENT

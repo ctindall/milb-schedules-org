@@ -1,0 +1,4944 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Hammerheads @ Cardinals
+<2018-04-05 Thu>--<2018-04-04 Wed>
+:PROPERTIES:
+:ID:       HnU2iFGKi_qHzFtm_Fx50v2X@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMx9
+
+Follow on MiLB First Pitch  https //stza.co/+vMx9-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180405
+DTEND;VALUE=DATE:20180405
+UID:HnU2iFGKi_qHzFtm_Fx50v2X@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMx9\n\nFollow on MiLB First Pitch: https://stza.co/+vMx9-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-04-06 Fri>--<2018-04-05 Thu>
+:PROPERTIES:
+:ID:       pC5whqdufj4Vc2h6cFuwcIMs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxa
+
+Follow on MiLB First Pitch  https //stza.co/+vMxa-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180406
+UID:pC5whqdufj4Vc2h6cFuwcIMs@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxa\n\nFollow on MiLB First Pitch: https://stza.co/+vMxa-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-04-07 Sat>--<2018-04-06 Fri>
+:PROPERTIES:
+:ID:       QW6FIJ9H7llsQGkA0FPIDj33@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMuT
+
+Follow on MiLB First Pitch  https //stza.co/+vMuT-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180407
+UID:QW6FIJ9H7llsQGkA0FPIDj33@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMuT\n\nFollow on MiLB First Pitch: https://stza.co/+vMuT-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-04-08 Sun>--<2018-04-07 Sat>
+:PROPERTIES:
+:ID:       vozkciJHlzjjIT-Jttq4gcr0@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMuW
+
+Follow on MiLB First Pitch  https //stza.co/+vMuW-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180408
+UID:vozkciJHlzjjIT-Jttq4gcr0@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMuW\n\nFollow on MiLB First Pitch: https://stza.co/+vMuW-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Threshers
+<2018-04-09 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       3M9LVsxsNFSg_z4c8O8WIwTp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Threshers Hammerheads @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBeM-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Threshers
+END:VALARM
+DTSTART:20180409T230000Z
+DTEND:20180410T020000Z
+UID:3M9LVsxsNFSg_z4c8O8WIwTp@stanza.co
+SUMMARY:Hammerheads @ Threshers
+DESCRIPTION:Hammerheads @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBeM-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Threshers
+<2018-04-10 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       pCpi8RIDvOpB6jvI0vsnKFQG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Threshers Hammerheads @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBeS-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Threshers
+END:VALARM
+DTSTART:20180410T230000Z
+DTEND:20180411T020000Z
+UID:pCpi8RIDvOpB6jvI0vsnKFQG@stanza.co
+SUMMARY:Hammerheads @ Threshers
+DESCRIPTION:Hammerheads @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBeS-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Threshers
+<2018-04-11 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       aQ_N-S9ZVsNJG35UnmWC4eAY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Threshers Hammerheads @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBeX-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Threshers
+END:VALARM
+DTSTART:20180411T160000Z
+DTEND:20180411T190000Z
+UID:aQ_N-S9ZVsNJG35UnmWC4eAY@stanza.co
+SUMMARY:Hammerheads @ Threshers
+DESCRIPTION:Hammerheads @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBeX-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Threshers
+<2018-04-12 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       N20zwcICy1ASOoHo6LdgwR0K@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Threshers Hammerheads @ Threshers
+
+Follow on MiLB First Pitch  https //stza.co/+xBf0-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Threshers
+END:VALARM
+DTSTART:20180412T230000Z
+DTEND:20180413T020000Z
+UID:N20zwcICy1ASOoHo6LdgwR0K@stanza.co
+SUMMARY:Hammerheads @ Threshers
+DESCRIPTION:Hammerheads @ Threshers\n\nFollow on MiLB First Pitch: https://stza.co/+xBf0-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-04-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       TsLPHaHMBI2d5Gi6yMYoV4f2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMut-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180413T230500Z
+DTEND:20180414T020500Z
+UID:TsLPHaHMBI2d5Gi6yMYoV4f2@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMut-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-04-14 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       pYB3JTLMPJnHG_wne32mrnlv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuu-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180414T230500Z
+DTEND:20180415T020500Z
+UID:pYB3JTLMPJnHG_wne32mrnlv@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuu-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-04-15 Sun 16:35-19:35>
+:PROPERTIES:
+:ID:       6dGUpzx3nsBaJMg92YCF0RZw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuv-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180415T213500Z
+DTEND:20180416T003500Z
+UID:6dGUpzx3nsBaJMg92YCF0RZw@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuv-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Flying Tigers
+<2018-04-17 Tue>--<2018-04-16 Mon>
+:PROPERTIES:
+:ID:       RZMprNpYD43HmMdp47MDAAiq@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Flying Tigers Hammerheads vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMuX
+
+Follow on MiLB First Pitch  https //stza.co/+vMuX-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180417
+DTEND;VALUE=DATE:20180417
+UID:RZMprNpYD43HmMdp47MDAAiq@stanza.co
+SUMMARY:Hammerheads vs. Flying Tigers
+DESCRIPTION:Hammerheads vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMuX\n\nFollow on MiLB First Pitch: https://stza.co/+vMuX-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Flying Tigers
+<2018-04-18 Wed>--<2018-04-17 Tue>
+:PROPERTIES:
+:ID:       D3DHjSi3XUmgaOZURTlqsClk@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Flying Tigers Hammerheads vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMuZ
+
+Follow on MiLB First Pitch  https //stza.co/+vMuZ-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180418
+DTEND;VALUE=DATE:20180418
+UID:D3DHjSi3XUmgaOZURTlqsClk@stanza.co
+SUMMARY:Hammerheads vs. Flying Tigers
+DESCRIPTION:Hammerheads vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMuZ\n\nFollow on MiLB First Pitch: https://stza.co/+vMuZ-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Flying Tigers
+<2018-04-19 Thu>--<2018-04-18 Wed>
+:PROPERTIES:
+:ID:       dzRnyeb6q_XpkixTJPPk5lH7@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Flying Tigers Hammerheads vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMv0
+
+Follow on MiLB First Pitch  https //stza.co/+vMv0-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180419
+DTEND;VALUE=DATE:20180419
+UID:dzRnyeb6q_XpkixTJPPk5lH7@stanza.co
+SUMMARY:Hammerheads vs. Flying Tigers
+DESCRIPTION:Hammerheads vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMv0\n\nFollow on MiLB First Pitch: https://stza.co/+vMv0-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-04-20 Fri>--<2018-04-19 Thu>
+:PROPERTIES:
+:ID:       JMPfx03Ya87KMC1-7A5awmSr@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMv2
+
+Follow on MiLB First Pitch  https //stza.co/+vMv2-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180420
+DTEND;VALUE=DATE:20180420
+UID:JMPfx03Ya87KMC1-7A5awmSr@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMv2\n\nFollow on MiLB First Pitch: https://stza.co/+vMv2-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-04-21 Sat>--<2018-04-20 Fri>
+:PROPERTIES:
+:ID:       405UAr7-ypUy2080uPNA0GOj@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMv4
+
+Follow on MiLB First Pitch  https //stza.co/+vMv4-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180421
+DTEND;VALUE=DATE:20180421
+UID:405UAr7-ypUy2080uPNA0GOj@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMv4\n\nFollow on MiLB First Pitch: https://stza.co/+vMv4-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-04-22 Sun>--<2018-04-21 Sat>
+:PROPERTIES:
+:ID:       xW8zCi6gJwN2BtFfuM7uG7rx@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMv5
+
+Follow on MiLB First Pitch  https //stza.co/+vMv5-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180422
+DTEND;VALUE=DATE:20180422
+UID:xW8zCi6gJwN2BtFfuM7uG7rx@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMv5\n\nFollow on MiLB First Pitch: https://stza.co/+vMv5-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-04-23 Mon>--<2018-04-22 Sun>
+:PROPERTIES:
+:ID:       i3l073oKDIp3ceNhh3FRmfqn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxb
+
+Follow on MiLB First Pitch  https //stza.co/+vMxb-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180423
+DTEND;VALUE=DATE:20180423
+UID:i3l073oKDIp3ceNhh3FRmfqn@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxb\n\nFollow on MiLB First Pitch: https://stza.co/+vMxb-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-04-24 Tue>--<2018-04-23 Mon>
+:PROPERTIES:
+:ID:       n-_GVbJ-riLzcYcn8yIN2Ew7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxc
+
+Follow on MiLB First Pitch  https //stza.co/+vMxc-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180424
+UID:n-_GVbJ-riLzcYcn8yIN2Ew7@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxc\n\nFollow on MiLB First Pitch: https://stza.co/+vMxc-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-04-25 Wed>--<2018-04-24 Tue>
+:PROPERTIES:
+:ID:       sDNHxBHu7652RYtloIYIOtzS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxd
+
+Follow on MiLB First Pitch  https //stza.co/+vMxd-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180425
+DTEND;VALUE=DATE:20180425
+UID:sDNHxBHu7652RYtloIYIOtzS@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxd\n\nFollow on MiLB First Pitch: https://stza.co/+vMxd-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Marauders
+<2018-04-26 Thu>--<2018-04-25 Wed>
+:PROPERTIES:
+:ID:       HgDSgIp0BkHiw4e5BWdambg9@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Marauders Hammerheads vs. Marauders
+
+Buy tickets here  https //stza.co/~vMv8
+
+Follow on MiLB First Pitch  https //stza.co/+vMv8-G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180426
+UID:HgDSgIp0BkHiw4e5BWdambg9@stanza.co
+SUMMARY:Hammerheads vs. Marauders
+DESCRIPTION:Hammerheads vs. Marauders\n\nBuy tickets here: https://stza.co/~vMv8\n\nFollow on MiLB First Pitch: https://stza.co/+vMv8-G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Marauders
+<2018-04-27 Fri>--<2018-04-26 Thu>
+:PROPERTIES:
+:ID:       9-dVYxmculHytqvHy2HbNbe9@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Marauders Hammerheads vs. Marauders
+
+Buy tickets here  https //stza.co/~vMv9
+
+Follow on MiLB First Pitch  https //stza.co/+vMv9-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180427
+UID:9-dVYxmculHytqvHy2HbNbe9@stanza.co
+SUMMARY:Hammerheads vs. Marauders
+DESCRIPTION:Hammerheads vs. Marauders\n\nBuy tickets here: https://stza.co/~vMv9\n\nFollow on MiLB First Pitch: https://stza.co/+vMv9-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Marauders
+<2018-04-28 Sat>--<2018-04-27 Fri>
+:PROPERTIES:
+:ID:       T363xCXrVI8GKQ0IJNdx8Iu7@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Marauders Hammerheads vs. Marauders
+
+Buy tickets here  https //stza.co/~vMvc
+
+Follow on MiLB First Pitch  https //stza.co/+vMvc-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180428
+UID:T363xCXrVI8GKQ0IJNdx8Iu7@stanza.co
+SUMMARY:Hammerheads vs. Marauders
+DESCRIPTION:Hammerheads vs. Marauders\n\nBuy tickets here: https://stza.co/~vMvc\n\nFollow on MiLB First Pitch: https://stza.co/+vMvc-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Marauders
+<2018-04-29 Sun>--<2018-04-28 Sat>
+:PROPERTIES:
+:ID:       aMyh-xXyhFHGv0kewY_blVD3@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Marauders Hammerheads vs. Marauders
+
+Buy tickets here  https //stza.co/~vMve
+
+Follow on MiLB First Pitch  https //stza.co/+vMve-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180429
+UID:aMyh-xXyhFHGv0kewY_blVD3@stanza.co
+SUMMARY:Hammerheads vs. Marauders
+DESCRIPTION:Hammerheads vs. Marauders\n\nBuy tickets here: https://stza.co/~vMve\n\nFollow on MiLB First Pitch: https://stza.co/+vMve-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tortugas
+<2018-05-01 Tue>--<2018-04-30 Mon>
+:PROPERTIES:
+:ID:       TYs4alZ5p2GgLxD8DfQiuB56@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tortugas Hammerheads vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMvg
+
+Follow on MiLB First Pitch  https //stza.co/+vMvg-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180501
+DTEND;VALUE=DATE:20180501
+UID:TYs4alZ5p2GgLxD8DfQiuB56@stanza.co
+SUMMARY:Hammerheads vs. Tortugas
+DESCRIPTION:Hammerheads vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMvg\n\nFollow on MiLB First Pitch: https://stza.co/+vMvg-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tortugas
+<2018-05-02 Wed>--<2018-05-01 Tue>
+:PROPERTIES:
+:ID:       mxVF7ajeIMtvyzgFnFLIWXuI@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tortugas Hammerheads vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMvi
+
+Follow on MiLB First Pitch  https //stza.co/+vMvi-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180502
+DTEND;VALUE=DATE:20180502
+UID:mxVF7ajeIMtvyzgFnFLIWXuI@stanza.co
+SUMMARY:Hammerheads vs. Tortugas
+DESCRIPTION:Hammerheads vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMvi\n\nFollow on MiLB First Pitch: https://stza.co/+vMvi-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tortugas
+<2018-05-03 Thu>--<2018-05-02 Wed>
+:PROPERTIES:
+:ID:       _88m0urkup7MFd1v4ok7jWjg@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tortugas Hammerheads vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMvk
+
+Follow on MiLB First Pitch  https //stza.co/+vMvk-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180503
+DTEND;VALUE=DATE:20180503
+UID:_88m0urkup7MFd1v4ok7jWjg@stanza.co
+SUMMARY:Hammerheads vs. Tortugas
+DESCRIPTION:Hammerheads vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMvk\n\nFollow on MiLB First Pitch: https://stza.co/+vMvk-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Miracle
+<2018-05-04 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       WOseeFC1zttd4quddIDn724h@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Miracle Hammerheads @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMd2-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Miracle
+END:VALARM
+DTSTART:20180504T230000Z
+DTEND:20180505T020000Z
+UID:WOseeFC1zttd4quddIDn724h@stanza.co
+SUMMARY:Hammerheads @ Miracle
+DESCRIPTION:Hammerheads @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMd2-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Miracle
+<2018-05-05 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       yYSpDiq_i1KAlpb3IihVBGdK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Miracle Hammerheads @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMd3-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Miracle
+END:VALARM
+DTSTART:20180505T220000Z
+DTEND:20180506T010000Z
+UID:yYSpDiq_i1KAlpb3IihVBGdK@stanza.co
+SUMMARY:Hammerheads @ Miracle
+DESCRIPTION:Hammerheads @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMd3-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Miracle
+<2018-05-06 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       xzwi6GKImkX58Zp8qRWH_YED@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Miracle Hammerheads @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMd4-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Miracle
+END:VALARM
+DTSTART:20180506T200000Z
+DTEND:20180506T230000Z
+UID:xzwi6GKImkX58Zp8qRWH_YED@stanza.co
+SUMMARY:Hammerheads @ Miracle
+DESCRIPTION:Hammerheads @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMd4-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-05-07 Mon>--<2018-05-06 Sun>
+:PROPERTIES:
+:ID:       7rIz82qPJo0S0dUDZnsfImqx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxe
+
+Follow on MiLB First Pitch  https //stza.co/+vMxe-D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180507
+DTEND;VALUE=DATE:20180507
+UID:7rIz82qPJo0S0dUDZnsfImqx@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxe\n\nFollow on MiLB First Pitch: https://stza.co/+vMxe-D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-05-08 Tue>--<2018-05-07 Mon>
+:PROPERTIES:
+:ID:       vKWoavpcGixi8dzrxzFCz8di@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxf
+
+Follow on MiLB First Pitch  https //stza.co/+vMxf-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180508
+DTEND;VALUE=DATE:20180508
+UID:vKWoavpcGixi8dzrxzFCz8di@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxf\n\nFollow on MiLB First Pitch: https://stza.co/+vMxf-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-05-09 Wed>--<2018-05-08 Tue>
+:PROPERTIES:
+:ID:       1iLLKaFlkexiWKkcT3-SKB8C@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxg
+
+Follow on MiLB First Pitch  https //stza.co/+vMxg-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180509
+DTEND;VALUE=DATE:20180509
+UID:1iLLKaFlkexiWKkcT3-SKB8C@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxg\n\nFollow on MiLB First Pitch: https://stza.co/+vMxg-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Stone Crabs
+<2018-05-10 Thu>--<2018-05-09 Wed>
+:PROPERTIES:
+:ID:       eQS72ktDsDN-uVgueq2WI0sW@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Stone Crabs Hammerheads vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMvm
+
+Follow on MiLB First Pitch  https //stza.co/+vMvm-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180510
+DTEND;VALUE=DATE:20180510
+UID:eQS72ktDsDN-uVgueq2WI0sW@stanza.co
+SUMMARY:Hammerheads vs. Stone Crabs
+DESCRIPTION:Hammerheads vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMvm\n\nFollow on MiLB First Pitch: https://stza.co/+vMvm-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Stone Crabs
+<2018-05-11 Fri>--<2018-05-10 Thu>
+:PROPERTIES:
+:ID:       6sDFG--cNxkjY2Z9l34GLoYd@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Stone Crabs Hammerheads vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMvo
+
+Follow on MiLB First Pitch  https //stza.co/+vMvo-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180511
+DTEND;VALUE=DATE:20180511
+UID:6sDFG--cNxkjY2Z9l34GLoYd@stanza.co
+SUMMARY:Hammerheads vs. Stone Crabs
+DESCRIPTION:Hammerheads vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMvo\n\nFollow on MiLB First Pitch: https://stza.co/+vMvo-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Stone Crabs
+<2018-05-12 Sat>--<2018-05-11 Fri>
+:PROPERTIES:
+:ID:       bratAt3sVeKysZO3N-vP6ww_@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Stone Crabs Hammerheads vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMvq
+
+Follow on MiLB First Pitch  https //stza.co/+vMvq-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180512
+DTEND;VALUE=DATE:20180512
+UID:bratAt3sVeKysZO3N-vP6ww_@stanza.co
+SUMMARY:Hammerheads vs. Stone Crabs
+DESCRIPTION:Hammerheads vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMvq\n\nFollow on MiLB First Pitch: https://stza.co/+vMvq-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Miracle
+<2018-05-14 Mon>--<2018-05-13 Sun>
+:PROPERTIES:
+:ID:       j_qIy2mtYkLe4R2qcXM9nA5b@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Miracle Hammerheads vs. Miracle
+
+Buy tickets here  https //stza.co/~vMvs
+
+Follow on MiLB First Pitch  https //stza.co/+vMvs-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180514
+DTEND;VALUE=DATE:20180514
+UID:j_qIy2mtYkLe4R2qcXM9nA5b@stanza.co
+SUMMARY:Hammerheads vs. Miracle
+DESCRIPTION:Hammerheads vs. Miracle\n\nBuy tickets here: https://stza.co/~vMvs\n\nFollow on MiLB First Pitch: https://stza.co/+vMvs-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Miracle
+<2018-05-15 Tue>--<2018-05-14 Mon>
+:PROPERTIES:
+:ID:       ipMZeyWfjVk23Q-Y5CrAMLWu@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Miracle Hammerheads vs. Miracle
+
+Buy tickets here  https //stza.co/~vMvt
+
+Follow on MiLB First Pitch  https //stza.co/+vMvt-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180515
+DTEND;VALUE=DATE:20180515
+UID:ipMZeyWfjVk23Q-Y5CrAMLWu@stanza.co
+SUMMARY:Hammerheads vs. Miracle
+DESCRIPTION:Hammerheads vs. Miracle\n\nBuy tickets here: https://stza.co/~vMvt\n\nFollow on MiLB First Pitch: https://stza.co/+vMvt-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Miracle
+<2018-05-16 Wed>--<2018-05-15 Tue>
+:PROPERTIES:
+:ID:       lSNBciu6mrOWCAnFPe9kzsyl@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Miracle Hammerheads vs. Miracle
+
+Buy tickets here  https //stza.co/~vMvw
+
+Follow on MiLB First Pitch  https //stza.co/+vMvw-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180516
+DTEND;VALUE=DATE:20180516
+UID:lSNBciu6mrOWCAnFPe9kzsyl@stanza.co
+SUMMARY:Hammerheads vs. Miracle
+DESCRIPTION:Hammerheads vs. Miracle\n\nBuy tickets here: https://stza.co/~vMvw\n\nFollow on MiLB First Pitch: https://stza.co/+vMvw-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Miracle
+<2018-05-17 Thu>--<2018-05-16 Wed>
+:PROPERTIES:
+:ID:       -Auq88JdxobysJkGy9W4QO1u@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Miracle Hammerheads vs. Miracle
+
+Buy tickets here  https //stza.co/~vMvy
+
+Follow on MiLB First Pitch  https //stza.co/+vMvy-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180517
+DTEND;VALUE=DATE:20180517
+UID:-Auq88JdxobysJkGy9W4QO1u@stanza.co
+SUMMARY:Hammerheads vs. Miracle
+DESCRIPTION:Hammerheads vs. Miracle\n\nBuy tickets here: https://stza.co/~vMvy\n\nFollow on MiLB First Pitch: https://stza.co/+vMvy-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Stone Crabs
+<2018-05-18 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       x-tCvJaxeSExu6o1Kn_uwQrV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Stone Crabs Hammerheads @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYp3-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Stone Crabs
+END:VALARM
+DTSTART:20180518T223500Z
+DTEND:20180519T013500Z
+UID:x-tCvJaxeSExu6o1Kn_uwQrV@stanza.co
+SUMMARY:Hammerheads @ Stone Crabs
+DESCRIPTION:Hammerheads @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYp3-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Stone Crabs
+<2018-05-19 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       7o7Q2cF_cAXjsPn-9q2btVQ4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Stone Crabs Hammerheads @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYp4-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Stone Crabs
+END:VALARM
+DTSTART:20180519T220500Z
+DTEND:20180520T010500Z
+UID:7o7Q2cF_cAXjsPn-9q2btVQ4@stanza.co
+SUMMARY:Hammerheads @ Stone Crabs
+DESCRIPTION:Hammerheads @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYp4-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Stone Crabs
+<2018-05-20 Sun 11:35-14:35>
+:PROPERTIES:
+:ID:       ta6C_pcqTSxbJX5s4_XWv1zE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Stone Crabs Hammerheads @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYp5-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Stone Crabs
+END:VALARM
+DTSTART:20180520T163500Z
+DTEND:20180520T193500Z
+UID:ta6C_pcqTSxbJX5s4_XWv1zE@stanza.co
+SUMMARY:Hammerheads @ Stone Crabs
+DESCRIPTION:Hammerheads @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYp5-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tortugas
+<2018-05-21 Mon>--<2018-05-20 Sun>
+:PROPERTIES:
+:ID:       sM_ast-uC9NJWKDz94CKp7GZ@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tortugas Hammerheads vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMvA
+
+Follow on MiLB First Pitch  https //stza.co/+vMvA-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180521
+DTEND;VALUE=DATE:20180521
+UID:sM_ast-uC9NJWKDz94CKp7GZ@stanza.co
+SUMMARY:Hammerheads vs. Tortugas
+DESCRIPTION:Hammerheads vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMvA\n\nFollow on MiLB First Pitch: https://stza.co/+vMvA-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tortugas
+<2018-05-22 Tue>--<2018-05-21 Mon>
+:PROPERTIES:
+:ID:       RMH09YzHDhhCGX3jF0JqoSu1@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tortugas Hammerheads vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMvC
+
+Follow on MiLB First Pitch  https //stza.co/+vMvC-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180522
+DTEND;VALUE=DATE:20180522
+UID:RMH09YzHDhhCGX3jF0JqoSu1@stanza.co
+SUMMARY:Hammerheads vs. Tortugas
+DESCRIPTION:Hammerheads vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMvC\n\nFollow on MiLB First Pitch: https://stza.co/+vMvC-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tortugas
+<2018-05-23 Wed>--<2018-05-22 Tue>
+:PROPERTIES:
+:ID:       DkAFvOGIZbe-XRS6umiX8XQ-@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tortugas Hammerheads vs. Tortugas
+
+Buy tickets here  https //stza.co/~vMvD
+
+Follow on MiLB First Pitch  https //stza.co/+vMvD-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tortugas
+END:VALARM
+DTSTART;VALUE=DATE:20180523
+DTEND;VALUE=DATE:20180523
+UID:DkAFvOGIZbe-XRS6umiX8XQ-@stanza.co
+SUMMARY:Hammerheads vs. Tortugas
+DESCRIPTION:Hammerheads vs. Tortugas\n\nBuy tickets here: https://stza.co/~vMvD\n\nFollow on MiLB First Pitch: https://stza.co/+vMvD-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Marauders
+<2018-05-24 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       cw-3WJo9SiXCfPWW0gPx1EPu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Marauders Hammerheads @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMuc-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Marauders
+END:VALARM
+DTSTART:20180524T223000Z
+DTEND:20180525T013000Z
+UID:cw-3WJo9SiXCfPWW0gPx1EPu@stanza.co
+SUMMARY:Hammerheads @ Marauders
+DESCRIPTION:Hammerheads @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMuc-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Marauders
+<2018-05-25 Fri 17:30-20:30>
+:PROPERTIES:
+:ID:       XUTDYvnpK5o9qWIdJrMTGqxx@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Marauders Hammerheads @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMud-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Marauders
+END:VALARM
+DTSTART:20180525T223000Z
+DTEND:20180526T013000Z
+UID:XUTDYvnpK5o9qWIdJrMTGqxx@stanza.co
+SUMMARY:Hammerheads @ Marauders
+DESCRIPTION:Hammerheads @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMud-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Marauders
+<2018-05-26 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       vC9tM0idOlCJToxivrM8mj7Q@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Marauders Hammerheads @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMue-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Marauders
+END:VALARM
+DTSTART:20180526T223000Z
+DTEND:20180527T013000Z
+UID:vC9tM0idOlCJToxivrM8mj7Q@stanza.co
+SUMMARY:Hammerheads @ Marauders
+DESCRIPTION:Hammerheads @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMue-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Marauders
+<2018-05-27 Sun 12:00-15:00>
+:PROPERTIES:
+:ID:       yhEyuPXOyiiFI2y5X5W_mzrD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Marauders Hammerheads @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMuf-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Marauders
+END:VALARM
+DTSTART:20180527T170000Z
+DTEND:20180527T200000Z
+UID:yhEyuPXOyiiFI2y5X5W_mzrD@stanza.co
+SUMMARY:Hammerheads @ Marauders
+DESCRIPTION:Hammerheads @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMuf-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Mets
+<2018-05-29 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       r6kg-kw8Iaxb0H5vBJlURxyv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Mets Hammerheads @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMxk-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Mets
+END:VALARM
+DTSTART:20180529T223000Z
+DTEND:20180530T013000Z
+UID:r6kg-kw8Iaxb0H5vBJlURxyv@stanza.co
+SUMMARY:Hammerheads @ Mets
+DESCRIPTION:Hammerheads @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMxk-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Mets
+<2018-05-30 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       qbk5uo4KlmXqRwKaWzblG1FZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Mets Hammerheads @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMxl-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Mets
+END:VALARM
+DTSTART:20180530T223000Z
+DTEND:20180531T013000Z
+UID:qbk5uo4KlmXqRwKaWzblG1FZ@stanza.co
+SUMMARY:Hammerheads @ Mets
+DESCRIPTION:Hammerheads @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMxl-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Mets
+<2018-05-31 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       QPovgcp4id7cfyjwgfmwNnmI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Mets Hammerheads @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMxm-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Mets
+END:VALARM
+DTSTART:20180531T223000Z
+DTEND:20180601T013000Z
+UID:QPovgcp4id7cfyjwgfmwNnmI@stanza.co
+SUMMARY:Hammerheads @ Mets
+DESCRIPTION:Hammerheads @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMxm-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-06-01 Fri>--<2018-05-31 Thu>
+:PROPERTIES:
+:ID:       _yh5OpPWu5X5z6FOxTOLx1gq@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMvG
+
+Follow on MiLB First Pitch  https //stza.co/+vMvG-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180601
+DTEND;VALUE=DATE:20180601
+UID:_yh5OpPWu5X5z6FOxTOLx1gq@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMvG\n\nFollow on MiLB First Pitch: https://stza.co/+vMvG-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-06-02 Sat>--<2018-06-01 Fri>
+:PROPERTIES:
+:ID:       06tB65k2XzKANcwdqnVrC9fU@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMvH
+
+Follow on MiLB First Pitch  https //stza.co/+vMvH-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180602
+DTEND;VALUE=DATE:20180602
+UID:06tB65k2XzKANcwdqnVrC9fU@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMvH\n\nFollow on MiLB First Pitch: https://stza.co/+vMvH-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-06-03 Sun>--<2018-06-02 Sat>
+:PROPERTIES:
+:ID:       mQwjj3zhvSAuMfscUqVK2tEP@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMvJ
+
+Follow on MiLB First Pitch  https //stza.co/+vMvJ-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180603
+DTEND;VALUE=DATE:20180603
+UID:mQwjj3zhvSAuMfscUqVK2tEP@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMvJ\n\nFollow on MiLB First Pitch: https://stza.co/+vMvJ-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Flying Tigers
+<2018-06-04 Mon>--<2018-06-03 Sun>
+:PROPERTIES:
+:ID:       wMNUbRpGtgzJONN-Xl2ZdhbI@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Flying Tigers Hammerheads vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMvL
+
+Follow on MiLB First Pitch  https //stza.co/+vMvL-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180604
+DTEND;VALUE=DATE:20180604
+UID:wMNUbRpGtgzJONN-Xl2ZdhbI@stanza.co
+SUMMARY:Hammerheads vs. Flying Tigers
+DESCRIPTION:Hammerheads vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMvL\n\nFollow on MiLB First Pitch: https://stza.co/+vMvL-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Flying Tigers
+<2018-06-05 Tue>--<2018-06-04 Mon>
+:PROPERTIES:
+:ID:       GLski3IHUn86cb9JWefOycpg@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Flying Tigers Hammerheads vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMvO
+
+Follow on MiLB First Pitch  https //stza.co/+vMvO-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180605
+DTEND;VALUE=DATE:20180605
+UID:GLski3IHUn86cb9JWefOycpg@stanza.co
+SUMMARY:Hammerheads vs. Flying Tigers
+DESCRIPTION:Hammerheads vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMvO\n\nFollow on MiLB First Pitch: https://stza.co/+vMvO-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Flying Tigers
+<2018-06-06 Wed>--<2018-06-05 Tue>
+:PROPERTIES:
+:ID:       De640gF27XdwePDPlFRINcAK@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Flying Tigers Hammerheads vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMvQ
+
+Follow on MiLB First Pitch  https //stza.co/+vMvQ-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180606
+DTEND;VALUE=DATE:20180606
+UID:De640gF27XdwePDPlFRINcAK@stanza.co
+SUMMARY:Hammerheads vs. Flying Tigers
+DESCRIPTION:Hammerheads vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMvQ\n\nFollow on MiLB First Pitch: https://stza.co/+vMvQ-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Flying Tigers
+<2018-06-07 Thu>--<2018-06-06 Wed>
+:PROPERTIES:
+:ID:       kdfWKSFQlT6TlBBdd5W0Hliv@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Flying Tigers Hammerheads vs. Flying Tigers
+
+Buy tickets here  https //stza.co/~vMvR
+
+Follow on MiLB First Pitch  https //stza.co/+vMvR-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Flying Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180607
+DTEND;VALUE=DATE:20180607
+UID:kdfWKSFQlT6TlBBdd5W0Hliv@stanza.co
+SUMMARY:Hammerheads vs. Flying Tigers
+DESCRIPTION:Hammerheads vs. Flying Tigers\n\nBuy tickets here: https://stza.co/~vMvR\n\nFollow on MiLB First Pitch: https://stza.co/+vMvR-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Fire Frogs
+<2018-06-08 Fri 17:31-20:31>
+:PROPERTIES:
+:ID:       rzDByg3J_bjOUE3BQLVj0aUl@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Fire Frogs Hammerheads @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNc
+
+Follow on MiLB First Pitch  https //stza.co/+xWNc-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Fire Frogs
+END:VALARM
+DTSTART:20180608T223100Z
+DTEND:20180609T013100Z
+UID:rzDByg3J_bjOUE3BQLVj0aUl@stanza.co
+SUMMARY:Hammerheads @ Fire Frogs
+DESCRIPTION:Hammerheads @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNc\n\nFollow on MiLB First Pitch: https://stza.co/+xWNc-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Fire Frogs
+<2018-06-09 Sat 17:31-20:31>
+:PROPERTIES:
+:ID:       uUHZG_A5t5xU0n_njEIytLwB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Fire Frogs Hammerheads @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNd
+
+Follow on MiLB First Pitch  https //stza.co/+xWNd-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Fire Frogs
+END:VALARM
+DTSTART:20180609T223100Z
+DTEND:20180610T013100Z
+UID:uUHZG_A5t5xU0n_njEIytLwB@stanza.co
+SUMMARY:Hammerheads @ Fire Frogs
+DESCRIPTION:Hammerheads @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNd\n\nFollow on MiLB First Pitch: https://stza.co/+xWNd-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Fire Frogs
+<2018-06-10 Sun 10:00-13:00>
+:PROPERTIES:
+:ID:       UH_sB75vAZ7qqM3RaS9Biese@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Fire Frogs Hammerheads @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNe
+
+Follow on MiLB First Pitch  https //stza.co/+xWNe-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Fire Frogs
+END:VALARM
+DTSTART:20180610T150000Z
+DTEND:20180610T180000Z
+UID:UH_sB75vAZ7qqM3RaS9Biese@stanza.co
+SUMMARY:Hammerheads @ Fire Frogs
+DESCRIPTION:Hammerheads @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNe\n\nFollow on MiLB First Pitch: https://stza.co/+xWNe-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Flying Tigers
+<2018-06-11 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       DwnBeNp8Ctd2MmHy_CWgcYmi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Flying Tigers Hammerheads @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKNC-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Flying Tigers
+END:VALARM
+DTSTART:20180611T223000Z
+DTEND:20180612T013000Z
+UID:DwnBeNp8Ctd2MmHy_CWgcYmi@stanza.co
+SUMMARY:Hammerheads @ Flying Tigers
+DESCRIPTION:Hammerheads @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKNC-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Flying Tigers
+<2018-06-12 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       LoDG3NtOxgxV4H4gu6naJDyN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Flying Tigers Hammerheads @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKND-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Flying Tigers
+END:VALARM
+DTSTART:20180612T223000Z
+DTEND:20180613T013000Z
+UID:LoDG3NtOxgxV4H4gu6naJDyN@stanza.co
+SUMMARY:Hammerheads @ Flying Tigers
+DESCRIPTION:Hammerheads @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKND-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Flying Tigers
+<2018-06-13 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       FMIMOJe2k-qvZWtzuzGLwxAd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Flying Tigers Hammerheads @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKNE-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Flying Tigers
+END:VALARM
+DTSTART:20180613T223000Z
+DTEND:20180614T013000Z
+UID:FMIMOJe2k-qvZWtzuzGLwxAd@stanza.co
+SUMMARY:Hammerheads @ Flying Tigers
+DESCRIPTION:Hammerheads @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKNE-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Flying Tigers
+<2018-06-14 Thu 09:30-12:30>
+:PROPERTIES:
+:ID:       bN2tUyFCGZnDFwNOb_5KK4Xu@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Flying Tigers Hammerheads @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKNF-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Flying Tigers
+END:VALARM
+DTSTART:20180614T143000Z
+DTEND:20180614T173000Z
+UID:bN2tUyFCGZnDFwNOb_5KK4Xu@stanza.co
+SUMMARY:Hammerheads @ Flying Tigers
+DESCRIPTION:Hammerheads @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKNF-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Fire Frogs
+<2018-06-18 Mon>--<2018-06-17 Sun>
+:PROPERTIES:
+:ID:       SZccuzLJ9QAIYEMUntFD-kxL@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Fire Frogs Hammerheads vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMvT
+
+Follow on MiLB First Pitch  https //stza.co/+vMvT-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180618
+UID:SZccuzLJ9QAIYEMUntFD-kxL@stanza.co
+SUMMARY:Hammerheads vs. Fire Frogs
+DESCRIPTION:Hammerheads vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMvT\n\nFollow on MiLB First Pitch: https://stza.co/+vMvT-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Fire Frogs
+<2018-06-19 Tue>--<2018-06-18 Mon>
+:PROPERTIES:
+:ID:       Hhjtq8zHNYGK7Fcfrx3gsfO9@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Fire Frogs Hammerheads vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMvV
+
+Follow on MiLB First Pitch  https //stza.co/+vMvV-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180619
+UID:Hhjtq8zHNYGK7Fcfrx3gsfO9@stanza.co
+SUMMARY:Hammerheads vs. Fire Frogs
+DESCRIPTION:Hammerheads vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMvV\n\nFollow on MiLB First Pitch: https://stza.co/+vMvV-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Fire Frogs
+<2018-06-20 Wed>--<2018-06-19 Tue>
+:PROPERTIES:
+:ID:       ZPl7Z4DzkZ5Tt6jeyICtO0A_@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Fire Frogs Hammerheads vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMvY
+
+Follow on MiLB First Pitch  https //stza.co/+vMvY-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180620
+UID:ZPl7Z4DzkZ5Tt6jeyICtO0A_@stanza.co
+SUMMARY:Hammerheads vs. Fire Frogs
+DESCRIPTION:Hammerheads vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMvY\n\nFollow on MiLB First Pitch: https://stza.co/+vMvY-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tarpons
+<2018-06-21 Thu>--<2018-06-20 Wed>
+:PROPERTIES:
+:ID:       DaijUAxIHvk_LwRx67nWH8SQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tarpons Hammerheads @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vMxq-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180621
+UID:DaijUAxIHvk_LwRx67nWH8SQ@stanza.co
+SUMMARY:Hammerheads @ Tarpons
+DESCRIPTION:Hammerheads @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vMxq-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tarpons
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       usUYux4iXqcqwpYBUl4UquzB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tarpons Hammerheads @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vlgg-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:usUYux4iXqcqwpYBUl4UquzB@stanza.co
+SUMMARY:Hammerheads @ Tarpons
+DESCRIPTION:Hammerheads @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vlgg-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tarpons
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       lDPLUEh_Wj6r-BQqeV1hoGFQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tarpons Hammerheads @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vlgi-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:lDPLUEh_Wj6r-BQqeV1hoGFQ@stanza.co
+SUMMARY:Hammerheads @ Tarpons
+DESCRIPTION:Hammerheads @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vlgi-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tarpons
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       VstYpM1KOCJe4-qZs9cXC1QM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tarpons Hammerheads @ Tarpons
+
+Follow on MiLB First Pitch  https //stza.co/+vlgr-6
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:VstYpM1KOCJe4-qZs9cXC1QM@stanza.co
+SUMMARY:Hammerheads @ Tarpons
+DESCRIPTION:Hammerheads @ Tarpons\n\nFollow on MiLB First Pitch: https://stza.co/+vlgr-6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Mets
+<2018-06-26 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       _9g-bBYBQ0tQr0Y8Nzu2yUXD@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Mets Hammerheads @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMxn-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Mets
+END:VALARM
+DTSTART:20180626T223000Z
+DTEND:20180627T013000Z
+UID:_9g-bBYBQ0tQr0Y8Nzu2yUXD@stanza.co
+SUMMARY:Hammerheads @ Mets
+DESCRIPTION:Hammerheads @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMxn-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Mets
+<2018-06-27 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       t28oPTkURqMT9DF7YFMHeJI9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Mets Hammerheads @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMxo-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Mets
+END:VALARM
+DTSTART:20180627T223000Z
+DTEND:20180628T013000Z
+UID:t28oPTkURqMT9DF7YFMHeJI9@stanza.co
+SUMMARY:Hammerheads @ Mets
+DESCRIPTION:Hammerheads @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMxo-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Mets
+<2018-06-28 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       i6paXLp1Ea_FT_FHldnDsF5n@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Mets Hammerheads @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+vMxp-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Mets
+END:VALARM
+DTSTART:20180628T223000Z
+DTEND:20180629T013000Z
+UID:i6paXLp1Ea_FT_FHldnDsF5n@stanza.co
+SUMMARY:Hammerheads @ Mets
+DESCRIPTION:Hammerheads @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+vMxp-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       NnkemhdCRLtdpcN34lYSfAFu@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMv_
+
+Follow on MiLB First Pitch  https //stza.co/+vMv_-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:NnkemhdCRLtdpcN34lYSfAFu@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMv_\n\nFollow on MiLB First Pitch: https://stza.co/+vMv_-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-06-30 Sat>--<2018-06-29 Fri>
+:PROPERTIES:
+:ID:       nXGCutt_2yEzaLd9ecDiciHt@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMw0
+
+Follow on MiLB First Pitch  https //stza.co/+vMw0-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180630
+UID:nXGCutt_2yEzaLd9ecDiciHt@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMw0\n\nFollow on MiLB First Pitch: https://stza.co/+vMw0-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       pRUisyenwNDj_1H0za-wtoLj@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMw2
+
+Follow on MiLB First Pitch  https //stza.co/+vMw2-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:pRUisyenwNDj_1H0za-wtoLj@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMw2\n\nFollow on MiLB First Pitch: https://stza.co/+vMw2-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Fire Frogs
+<2018-07-02 Mon>--<2018-07-01 Sun>
+:PROPERTIES:
+:ID:       bOUyxGC5Cb2J2royeguGMmoC@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Fire Frogs Hammerheads vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMw3
+
+Follow on MiLB First Pitch  https //stza.co/+vMw3-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180702
+UID:bOUyxGC5Cb2J2royeguGMmoC@stanza.co
+SUMMARY:Hammerheads vs. Fire Frogs
+DESCRIPTION:Hammerheads vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMw3\n\nFollow on MiLB First Pitch: https://stza.co/+vMw3-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Fire Frogs
+<2018-07-03 Tue>--<2018-07-02 Mon>
+:PROPERTIES:
+:ID:       UwwhHXxOjq_00oX95Z_htnwo@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Fire Frogs Hammerheads vs. Fire Frogs
+
+Buy tickets here  https //stza.co/~vMw5
+
+Follow on MiLB First Pitch  https //stza.co/+vMw5-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Fire Frogs
+END:VALARM
+DTSTART;VALUE=DATE:20180703
+DTEND;VALUE=DATE:20180703
+UID:UwwhHXxOjq_00oX95Z_htnwo@stanza.co
+SUMMARY:Hammerheads vs. Fire Frogs
+DESCRIPTION:Hammerheads vs. Fire Frogs\n\nBuy tickets here: https://stza.co/~vMw5\n\nFollow on MiLB First Pitch: https://stza.co/+vMw5-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Flying Tigers
+<2018-07-04 Wed 16:00-19:00>
+:PROPERTIES:
+:ID:       bH6HmIWRI89A-0_mkgTRf1ur@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Flying Tigers Hammerheads @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKNI-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Flying Tigers
+END:VALARM
+DTSTART:20180704T210000Z
+DTEND:20180705T000000Z
+UID:bH6HmIWRI89A-0_mkgTRf1ur@stanza.co
+SUMMARY:Hammerheads @ Flying Tigers
+DESCRIPTION:Hammerheads @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKNI-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Flying Tigers
+<2018-07-05 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       84fUSqNVJyK80untOb5DhALt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Flying Tigers Hammerheads @ Flying Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+wKNJ-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Flying Tigers
+END:VALARM
+DTSTART:20180705T223000Z
+DTEND:20180706T013000Z
+UID:84fUSqNVJyK80untOb5DhALt@stanza.co
+SUMMARY:Hammerheads @ Flying Tigers
+DESCRIPTION:Hammerheads @ Flying Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+wKNJ-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       6oA2BnB8W2F2NC8DF9ybCOjj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuw-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:6oA2BnB8W2F2NC8DF9ybCOjj@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuw-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-07-07 Sat 11:35-14:35>
+:PROPERTIES:
+:ID:       3WLASsOIIDTrLzwCfKdpv6OH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+xBf5-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180707T163500Z
+DTEND:20180707T193500Z
+UID:3WLASsOIIDTrLzwCfKdpv6OH@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+xBf5-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-07-08 Sun 16:35-19:35>
+:PROPERTIES:
+:ID:       ylv_6-TKWTBKSGm2LkEcC6f0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuy-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180708T213500Z
+DTEND:20180709T003500Z
+UID:ylv_6-TKWTBKSGm2LkEcC6f0@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuy-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tarpons
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       s1qIuvA3Jbje75iGI4u2bKk7@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tarpons Hammerheads vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMw7
+
+Follow on MiLB First Pitch  https //stza.co/+vMw7-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:s1qIuvA3Jbje75iGI4u2bKk7@stanza.co
+SUMMARY:Hammerheads vs. Tarpons
+DESCRIPTION:Hammerheads vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMw7\n\nFollow on MiLB First Pitch: https://stza.co/+vMw7-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tarpons
+<2018-07-10 Tue>--<2018-07-09 Mon>
+:PROPERTIES:
+:ID:       osTI4z8qjN53VovfFVCADhzG@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tarpons Hammerheads vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMwa
+
+Follow on MiLB First Pitch  https //stza.co/+vMwa-3p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180710
+UID:osTI4z8qjN53VovfFVCADhzG@stanza.co
+SUMMARY:Hammerheads vs. Tarpons
+DESCRIPTION:Hammerheads vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMwa\n\nFollow on MiLB First Pitch: https://stza.co/+vMwa-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tarpons
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       jwn9CkW3pQaQvP21ztqJggcH@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tarpons Hammerheads vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMwc
+
+Follow on MiLB First Pitch  https //stza.co/+vMwc-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:jwn9CkW3pQaQvP21ztqJggcH@stanza.co
+SUMMARY:Hammerheads vs. Tarpons
+DESCRIPTION:Hammerheads vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMwc\n\nFollow on MiLB First Pitch: https://stza.co/+vMwc-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Tarpons
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       7tSODvbHFjzqxxxj0QX5j4uy@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Tarpons Hammerheads vs. Tarpons
+
+Buy tickets here  https //stza.co/~vMwe
+
+Follow on MiLB First Pitch  https //stza.co/+vMwe-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Tarpons
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:7tSODvbHFjzqxxxj0QX5j4uy@stanza.co
+SUMMARY:Hammerheads vs. Tarpons
+DESCRIPTION:Hammerheads vs. Tarpons\n\nBuy tickets here: https://stza.co/~vMwe\n\nFollow on MiLB First Pitch: https://stza.co/+vMwe-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Stone Crabs
+<2018-07-13 Fri>--<2018-07-12 Thu>
+:PROPERTIES:
+:ID:       TrDiK3QV_cn9fhsaslqnpD2W@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Stone Crabs Hammerheads vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMwg
+
+Follow on MiLB First Pitch  https //stza.co/+vMwg-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180713
+DTEND;VALUE=DATE:20180713
+UID:TrDiK3QV_cn9fhsaslqnpD2W@stanza.co
+SUMMARY:Hammerheads vs. Stone Crabs
+DESCRIPTION:Hammerheads vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMwg\n\nFollow on MiLB First Pitch: https://stza.co/+vMwg-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Stone Crabs
+<2018-07-14 Sat>--<2018-07-13 Fri>
+:PROPERTIES:
+:ID:       xG3RRor9DqTjaVRnZVDmT3l3@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Stone Crabs Hammerheads vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMwh
+
+Follow on MiLB First Pitch  https //stza.co/+vMwh-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180714
+DTEND;VALUE=DATE:20180714
+UID:xG3RRor9DqTjaVRnZVDmT3l3@stanza.co
+SUMMARY:Hammerheads vs. Stone Crabs
+DESCRIPTION:Hammerheads vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMwh\n\nFollow on MiLB First Pitch: https://stza.co/+vMwh-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Stone Crabs
+<2018-07-15 Sun>--<2018-07-14 Sat>
+:PROPERTIES:
+:ID:       BFriYN3p6Eun98e8Y2cobg5v@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Stone Crabs Hammerheads vs. Stone Crabs
+
+Buy tickets here  https //stza.co/~vMwj
+
+Follow on MiLB First Pitch  https //stza.co/+vMwj-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Stone Crabs
+END:VALARM
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180715
+UID:BFriYN3p6Eun98e8Y2cobg5v@stanza.co
+SUMMARY:Hammerheads vs. Stone Crabs
+DESCRIPTION:Hammerheads vs. Stone Crabs\n\nBuy tickets here: https://stza.co/~vMwj\n\nFollow on MiLB First Pitch: https://stza.co/+vMwj-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Marauders
+<2018-07-16 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       wXXHmMDDA9ycSPgZUG-qMVht@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Marauders Hammerheads @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMug-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Marauders
+END:VALARM
+DTSTART:20180716T223000Z
+DTEND:20180717T013000Z
+UID:wXXHmMDDA9ycSPgZUG-qMVht@stanza.co
+SUMMARY:Hammerheads @ Marauders
+DESCRIPTION:Hammerheads @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMug-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Marauders
+<2018-07-17 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       Zd079PElg_bdq6-t0hpdZIWC@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Marauders Hammerheads @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMuh-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Marauders
+END:VALARM
+DTSTART:20180717T223000Z
+DTEND:20180718T013000Z
+UID:Zd079PElg_bdq6-t0hpdZIWC@stanza.co
+SUMMARY:Hammerheads @ Marauders
+DESCRIPTION:Hammerheads @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMuh-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Marauders
+<2018-07-18 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       yE8MX2e10xzPVf2_jPL6jFk8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Marauders Hammerheads @ Marauders
+
+Follow on MiLB First Pitch  https //stza.co/+vMui-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Marauders
+END:VALARM
+DTSTART:20180718T143000Z
+DTEND:20180718T173000Z
+UID:yE8MX2e10xzPVf2_jPL6jFk8@stanza.co
+SUMMARY:Hammerheads @ Marauders
+DESCRIPTION:Hammerheads @ Marauders\n\nFollow on MiLB First Pitch: https://stza.co/+vMui-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Stone Crabs
+<2018-07-19 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       KBsh1blvlE_9-t9aM759266P@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Stone Crabs Hammerheads @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYp7-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Stone Crabs
+END:VALARM
+DTSTART:20180719T223500Z
+DTEND:20180720T013500Z
+UID:KBsh1blvlE_9-t9aM759266P@stanza.co
+SUMMARY:Hammerheads @ Stone Crabs
+DESCRIPTION:Hammerheads @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYp7-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Stone Crabs
+<2018-07-20 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       IyczZ37Pw9SkIYQLZZfua1aH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Stone Crabs Hammerheads @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpa-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Stone Crabs
+END:VALARM
+DTSTART:20180720T223500Z
+DTEND:20180721T013500Z
+UID:IyczZ37Pw9SkIYQLZZfua1aH@stanza.co
+SUMMARY:Hammerheads @ Stone Crabs
+DESCRIPTION:Hammerheads @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpa-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Stone Crabs
+<2018-07-21 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       qaEyqlAgZjhRCpQwFqb0zHkR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Stone Crabs Hammerheads @ Stone Crabs
+
+Follow on MiLB First Pitch  https //stza.co/+wYpc-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Stone Crabs
+END:VALARM
+DTSTART:20180721T220500Z
+DTEND:20180722T010500Z
+UID:qaEyqlAgZjhRCpQwFqb0zHkR@stanza.co
+SUMMARY:Hammerheads @ Stone Crabs
+DESCRIPTION:Hammerheads @ Stone Crabs\n\nFollow on MiLB First Pitch: https://stza.co/+wYpc-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Miracle
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       V7rokhqOrVrN2Rgg8URdduf5@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Miracle Hammerheads vs. Miracle
+
+Buy tickets here  https //stza.co/~vMwm
+
+Follow on MiLB First Pitch  https //stza.co/+vMwm-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:V7rokhqOrVrN2Rgg8URdduf5@stanza.co
+SUMMARY:Hammerheads vs. Miracle
+DESCRIPTION:Hammerheads vs. Miracle\n\nBuy tickets here: https://stza.co/~vMwm\n\nFollow on MiLB First Pitch: https://stza.co/+vMwm-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Miracle
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       hGBFqYz4RWLS7CZEpUG0rdy5@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Miracle Hammerheads vs. Miracle
+
+Buy tickets here  https //stza.co/~vMwo
+
+Follow on MiLB First Pitch  https //stza.co/+vMwo-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:hGBFqYz4RWLS7CZEpUG0rdy5@stanza.co
+SUMMARY:Hammerheads vs. Miracle
+DESCRIPTION:Hammerheads vs. Miracle\n\nBuy tickets here: https://stza.co/~vMwo\n\nFollow on MiLB First Pitch: https://stza.co/+vMwo-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Miracle
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       Mf0fxSSs8qOhscqpqu_MIrQX@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Miracle Hammerheads vs. Miracle
+
+Buy tickets here  https //stza.co/~vMwp
+
+Follow on MiLB First Pitch  https //stza.co/+vMwp-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Miracle
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:Mf0fxSSs8qOhscqpqu_MIrQX@stanza.co
+SUMMARY:Hammerheads vs. Miracle
+DESCRIPTION:Hammerheads vs. Miracle\n\nBuy tickets here: https://stza.co/~vMwp\n\nFollow on MiLB First Pitch: https://stza.co/+vMwp-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Blue Jays
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       YYyJmYqp0_rTyzCFjtZ5jMd1@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Blue Jays Hammerheads vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMws
+
+Follow on MiLB First Pitch  https //stza.co/+vMws-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:YYyJmYqp0_rTyzCFjtZ5jMd1@stanza.co
+SUMMARY:Hammerheads vs. Blue Jays
+DESCRIPTION:Hammerheads vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMws\n\nFollow on MiLB First Pitch: https://stza.co/+vMws-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Blue Jays
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       w-GcCTkG_bM1Y8k_pRMEb1-C@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Blue Jays Hammerheads vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMwt
+
+Follow on MiLB First Pitch  https //stza.co/+vMwt-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:w-GcCTkG_bM1Y8k_pRMEb1-C@stanza.co
+SUMMARY:Hammerheads vs. Blue Jays
+DESCRIPTION:Hammerheads vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMwt\n\nFollow on MiLB First Pitch: https://stza.co/+vMwt-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Blue Jays
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       SWdLlyUZa391744saBP3F7Y4@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Blue Jays Hammerheads vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMww
+
+Follow on MiLB First Pitch  https //stza.co/+vMww-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:SWdLlyUZa391744saBP3F7Y4@stanza.co
+SUMMARY:Hammerheads vs. Blue Jays
+DESCRIPTION:Hammerheads vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMww\n\nFollow on MiLB First Pitch: https://stza.co/+vMww-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Blue Jays
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       Mx3ysWP-tEhJ_-ERVH4pfECq@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Blue Jays Hammerheads vs. Blue Jays
+
+Buy tickets here  https //stza.co/~vMwy
+
+Follow on MiLB First Pitch  https //stza.co/+vMwy-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:Mx3ysWP-tEhJ_-ERVH4pfECq@stanza.co
+SUMMARY:Hammerheads vs. Blue Jays
+DESCRIPTION:Hammerheads vs. Blue Jays\n\nBuy tickets here: https://stza.co/~vMwy\n\nFollow on MiLB First Pitch: https://stza.co/+vMwy-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Miracle
+<2018-07-31 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       B-Kt5sf18dJBNoS8BfhhLR6G@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Miracle Hammerheads @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMd5-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Miracle
+END:VALARM
+DTSTART:20180731T230000Z
+DTEND:20180801T020000Z
+UID:B-Kt5sf18dJBNoS8BfhhLR6G@stanza.co
+SUMMARY:Hammerheads @ Miracle
+DESCRIPTION:Hammerheads @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMd5-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Miracle
+<2018-08-01 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       1h1hU_mYFEPBqMvLyGVetVGp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Miracle Hammerheads @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMd6-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Miracle
+END:VALARM
+DTSTART:20180801T230000Z
+DTEND:20180802T020000Z
+UID:1h1hU_mYFEPBqMvLyGVetVGp@stanza.co
+SUMMARY:Hammerheads @ Miracle
+DESCRIPTION:Hammerheads @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMd6-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Miracle
+<2018-08-02 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       uBqxisB9Zz9iQzBwigtAer6p@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Miracle Hammerheads @ Miracle
+
+Follow on MiLB First Pitch  https //stza.co/+xMd7-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Miracle
+END:VALARM
+DTSTART:20180802T230000Z
+DTEND:20180803T020000Z
+UID:uBqxisB9Zz9iQzBwigtAer6p@stanza.co
+SUMMARY:Hammerheads @ Miracle
+DESCRIPTION:Hammerheads @ Miracle\n\nFollow on MiLB First Pitch: https://stza.co/+xMd7-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       43tS_1MEHTaRa-yYFqDNcJEu@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMwA
+
+Follow on MiLB First Pitch  https //stza.co/+vMwA-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:43tS_1MEHTaRa-yYFqDNcJEu@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMwA\n\nFollow on MiLB First Pitch: https://stza.co/+vMwA-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       -uUvCuwaAkH0gCuJSlrhTpdV@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMwC
+
+Follow on MiLB First Pitch  https //stza.co/+vMwC-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:-uUvCuwaAkH0gCuJSlrhTpdV@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMwC\n\nFollow on MiLB First Pitch: https://stza.co/+vMwC-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Cardinals
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       XAklJqPj65pwbZAOR4R5vdOX@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Cardinals Hammerheads vs. Cardinals
+
+Buy tickets here  https //stza.co/~vMwE
+
+Follow on MiLB First Pitch  https //stza.co/+vMwE-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:XAklJqPj65pwbZAOR4R5vdOX@stanza.co
+SUMMARY:Hammerheads vs. Cardinals
+DESCRIPTION:Hammerheads vs. Cardinals\n\nBuy tickets here: https://stza.co/~vMwE\n\nFollow on MiLB First Pitch: https://stza.co/+vMwE-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       JX-AO-Ya7KaHZmiML4KgBSb-@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMwG
+
+Follow on MiLB First Pitch  https //stza.co/+vMwG-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:JX-AO-Ya7KaHZmiML4KgBSb-@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMwG\n\nFollow on MiLB First Pitch: https://stza.co/+vMwG-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       LeSSi1UILWaXvTYpOpbHK6Lq@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMwI
+
+Follow on MiLB First Pitch  https //stza.co/+vMwI-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:LeSSi1UILWaXvTYpOpbHK6Lq@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMwI\n\nFollow on MiLB First Pitch: https://stza.co/+vMwI-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       rQmTvWHAp8I29W3rXvxldD0V@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMwJ
+
+Follow on MiLB First Pitch  https //stza.co/+vMwJ-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:rQmTvWHAp8I29W3rXvxldD0V@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMwJ\n\nFollow on MiLB First Pitch: https://stza.co/+vMwJ-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       LEFLWVjrbaA0sk7j5CtR3W0L@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuz-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:LEFLWVjrbaA0sk7j5CtR3W0L@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuz-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-08-10 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       _uHbc5XwZpXmTqS349EUHb51@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuA-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180810T230500Z
+DTEND:20180811T020500Z
+UID:_uHbc5XwZpXmTqS349EUHb51@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuA-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-08-11 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       RCKdYXDsGbeufl1EUs2X7Cgt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuB-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180811T230500Z
+DTEND:20180812T020500Z
+UID:RCKdYXDsGbeufl1EUs2X7Cgt@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuB-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Tortugas
+<2018-08-12 Sun 16:35-19:35>
+:PROPERTIES:
+:ID:       W6E0BB888fpTl0qM1cWkDTaI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Tortugas Hammerheads @ Tortugas
+
+Follow on MiLB First Pitch  https //stza.co/+vMuC-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Tortugas
+END:VALARM
+DTSTART:20180812T213500Z
+DTEND:20180813T003500Z
+UID:W6E0BB888fpTl0qM1cWkDTaI@stanza.co
+SUMMARY:Hammerheads @ Tortugas
+DESCRIPTION:Hammerheads @ Tortugas\n\nFollow on MiLB First Pitch: https://stza.co/+vMuC-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Blue Jays
+<2018-08-13 Mon 17:30-20:30>
+:PROPERTIES:
+:ID:       3JdUlQNtX5y2y38c0ZaJ__pM@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Blue Jays Hammerheads @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JJ-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Blue Jays
+END:VALARM
+DTSTART:20180813T223000Z
+DTEND:20180814T013000Z
+UID:3JdUlQNtX5y2y38c0ZaJ__pM@stanza.co
+SUMMARY:Hammerheads @ Blue Jays
+DESCRIPTION:Hammerheads @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JJ-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Blue Jays
+<2018-08-14 Tue 17:30-20:30>
+:PROPERTIES:
+:ID:       QdSUBzs0lLXtwrRGTsJbZE-f@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Blue Jays Hammerheads @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JL-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Blue Jays
+END:VALARM
+DTSTART:20180814T223000Z
+DTEND:20180815T013000Z
+UID:QdSUBzs0lLXtwrRGTsJbZE-f@stanza.co
+SUMMARY:Hammerheads @ Blue Jays
+DESCRIPTION:Hammerheads @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JL-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Blue Jays
+<2018-08-15 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       u17pnC4t04KLXGC_I-ZWoOph@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Blue Jays Hammerheads @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JM-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Blue Jays
+END:VALARM
+DTSTART:20180815T223000Z
+DTEND:20180816T013000Z
+UID:u17pnC4t04KLXGC_I-ZWoOph@stanza.co
+SUMMARY:Hammerheads @ Blue Jays
+DESCRIPTION:Hammerheads @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JM-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Blue Jays
+<2018-08-16 Thu 17:30-20:30>
+:PROPERTIES:
+:ID:       VqNLu1n1j2qO1B6mHxP1w9kn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Blue Jays Hammerheads @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+y0JN-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Blue Jays
+END:VALARM
+DTSTART:20180816T223000Z
+DTEND:20180817T013000Z
+UID:VqNLu1n1j2qO1B6mHxP1w9kn@stanza.co
+SUMMARY:Hammerheads @ Blue Jays
+DESCRIPTION:Hammerheads @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+y0JN-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Marauders
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       PJtDE-fP39fgL0am9wgFHybO@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Marauders Hammerheads vs. Marauders
+
+Buy tickets here  https //stza.co/~vMwM
+
+Follow on MiLB First Pitch  https //stza.co/+vMwM-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:PJtDE-fP39fgL0am9wgFHybO@stanza.co
+SUMMARY:Hammerheads vs. Marauders
+DESCRIPTION:Hammerheads vs. Marauders\n\nBuy tickets here: https://stza.co/~vMwM\n\nFollow on MiLB First Pitch: https://stza.co/+vMwM-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Marauders
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       99WGk656NYzgNTVEgi-75g4s@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Marauders Hammerheads vs. Marauders
+
+Buy tickets here  https //stza.co/~vMwO
+
+Follow on MiLB First Pitch  https //stza.co/+vMwO-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:99WGk656NYzgNTVEgi-75g4s@stanza.co
+SUMMARY:Hammerheads vs. Marauders
+DESCRIPTION:Hammerheads vs. Marauders\n\nBuy tickets here: https://stza.co/~vMwO\n\nFollow on MiLB First Pitch: https://stza.co/+vMwO-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Marauders
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       V68aFSqjnC5-KKbPXv1JhfJs@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Marauders Hammerheads vs. Marauders
+
+Buy tickets here  https //stza.co/~vMwQ
+
+Follow on MiLB First Pitch  https //stza.co/+vMwQ-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Marauders
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:V68aFSqjnC5-KKbPXv1JhfJs@stanza.co
+SUMMARY:Hammerheads vs. Marauders
+DESCRIPTION:Hammerheads vs. Marauders\n\nBuy tickets here: https://stza.co/~vMwQ\n\nFollow on MiLB First Pitch: https://stza.co/+vMwQ-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Fire Frogs
+<2018-08-21 Tue 17:31-20:31>
+:PROPERTIES:
+:ID:       7jUB3EdlyuiwY4MLgAs1wuZd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Fire Frogs Hammerheads @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNf
+
+Follow on MiLB First Pitch  https //stza.co/+xWNf-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Fire Frogs
+END:VALARM
+DTSTART:20180821T223100Z
+DTEND:20180822T013100Z
+UID:7jUB3EdlyuiwY4MLgAs1wuZd@stanza.co
+SUMMARY:Hammerheads @ Fire Frogs
+DESCRIPTION:Hammerheads @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNf\n\nFollow on MiLB First Pitch: https://stza.co/+xWNf-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Fire Frogs
+<2018-08-22 Wed 17:31-20:31>
+:PROPERTIES:
+:ID:       7QK5a6a7wjLTjo7JoSRt7pNP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Fire Frogs Hammerheads @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNg
+
+Follow on MiLB First Pitch  https //stza.co/+xWNg-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Fire Frogs
+END:VALARM
+DTSTART:20180822T223100Z
+DTEND:20180823T013100Z
+UID:7QK5a6a7wjLTjo7JoSRt7pNP@stanza.co
+SUMMARY:Hammerheads @ Fire Frogs
+DESCRIPTION:Hammerheads @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNg\n\nFollow on MiLB First Pitch: https://stza.co/+xWNg-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Fire Frogs
+<2018-08-23 Thu 17:31-20:31>
+:PROPERTIES:
+:ID:       NGSwCYWtOP5oW3eKETyM9bUz@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Fire Frogs Hammerheads @ Fire Frogs
+
+Buy tickets here  https //stza.co/~xWNh
+
+Follow on MiLB First Pitch  https //stza.co/+xWNh-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Fire Frogs
+END:VALARM
+DTSTART:20180823T223100Z
+DTEND:20180824T013100Z
+UID:NGSwCYWtOP5oW3eKETyM9bUz@stanza.co
+SUMMARY:Hammerheads @ Fire Frogs
+DESCRIPTION:Hammerheads @ Fire Frogs\n\nBuy tickets here: https://stza.co/~xWNh\n\nFollow on MiLB First Pitch: https://stza.co/+xWNh-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-08-24 Fri>--<2018-08-23 Thu>
+:PROPERTIES:
+:ID:       V8MbJDaQ2JkTbXPYHY-hHZyF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxh
+
+Follow on MiLB First Pitch  https //stza.co/+vMxh-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180824
+UID:V8MbJDaQ2JkTbXPYHY-hHZyF@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxh\n\nFollow on MiLB First Pitch: https://stza.co/+vMxh-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-08-25 Sat>--<2018-08-24 Fri>
+:PROPERTIES:
+:ID:       LwjVuW0JcLrxhRKPqw9bGo5D@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxi
+
+Follow on MiLB First Pitch  https //stza.co/+vMxi-2o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180825
+UID:LwjVuW0JcLrxhRKPqw9bGo5D@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxi\n\nFollow on MiLB First Pitch: https://stza.co/+vMxi-2o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads @ Cardinals
+<2018-08-26 Sun>--<2018-08-25 Sat>
+:PROPERTIES:
+:ID:       CuIUL00GJmHxP7K5_AHhwhdB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads @ Cardinals Hammerheads @ Cardinals
+
+Buy tickets here  https //stza.co/~vMxj
+
+Follow on MiLB First Pitch  https //stza.co/+vMxj-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180826
+UID:CuIUL00GJmHxP7K5_AHhwhdB@stanza.co
+SUMMARY:Hammerheads @ Cardinals
+DESCRIPTION:Hammerheads @ Cardinals\n\nBuy tickets here: https://stza.co/~vMxj\n\nFollow on MiLB First Pitch: https://stza.co/+vMxj-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Threshers
+<2018-08-27 Mon>--<2018-08-26 Sun>
+:PROPERTIES:
+:ID:       6yGDS9wLA6eCpvf2e5GC_UGq@stanza.co
+:LOCATION: Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Threshers Hammerheads vs. Threshers
+
+Buy tickets here  https //stza.co/~vMwR
+
+Follow on MiLB First Pitch  https //stza.co/+vMwR-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180827
+DTEND;VALUE=DATE:20180827
+UID:6yGDS9wLA6eCpvf2e5GC_UGq@stanza.co
+SUMMARY:Hammerheads vs. Threshers
+DESCRIPTION:Hammerheads vs. Threshers\n\nBuy tickets here: https://stza.co/~vMwR\n\nFollow on MiLB First Pitch: https://stza.co/+vMwR-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe to get tickets for the game tonight. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Threshers
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       UyriCw-MBCCxKd15OYUeyTuO@stanza.co
+:LOCATION: Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Threshers Hammerheads vs. Threshers
+
+Buy tickets here  https //stza.co/~vMwU
+
+Follow on MiLB First Pitch  https //stza.co/+vMwU-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:UyriCw-MBCCxKd15OYUeyTuO@stanza.co
+SUMMARY:Hammerheads vs. Threshers
+DESCRIPTION:Hammerheads vs. Threshers\n\nBuy tickets here: https://stza.co/~vMwU\n\nFollow on MiLB First Pitch: https://stza.co/+vMwU-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Swipe for last minute tickets for tonight's game. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Threshers
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       XPo8OODob0Q18mmGPpwUDYDk@stanza.co
+:LOCATION: Ready for the game? Swipe for tickets and more information.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Threshers Hammerheads vs. Threshers
+
+Buy tickets here  https //stza.co/~vMwV
+
+Follow on MiLB First Pitch  https //stza.co/+vMwV-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:XPo8OODob0Q18mmGPpwUDYDk@stanza.co
+SUMMARY:Hammerheads vs. Threshers
+DESCRIPTION:Hammerheads vs. Threshers\n\nBuy tickets here: https://stza.co/~vMwV\n\nFollow on MiLB First Pitch: https://stza.co/+vMwV-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Swipe for tickets and more information.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Threshers
+<2018-08-30 Thu>--<2018-08-29 Wed>
+:PROPERTIES:
+:ID:       1Zxdp8mPFVhUjp3VEipww7Vq@stanza.co
+:LOCATION: Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Threshers Hammerheads vs. Threshers
+
+Buy tickets here  https //stza.co/~vMwX
+
+Follow on MiLB First Pitch  https //stza.co/+vMwX-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Threshers
+END:VALARM
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180830
+UID:1Zxdp8mPFVhUjp3VEipww7Vq@stanza.co
+SUMMARY:Hammerheads vs. Threshers
+DESCRIPTION:Hammerheads vs. Threshers\n\nBuy tickets here: https://stza.co/~vMwX\n\nFollow on MiLB First Pitch: https://stza.co/+vMwX-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Looking for something to do tonight? Get tickets here for tonight’s game and view promotions.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       Fe--KbUARuAbZ9cpFG-IqldO@stanza.co
+:LOCATION: Great seats still available for tonight’s game. Purchase them here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMwZ
+
+Follow on MiLB First Pitch  https //stza.co/+vMwZ-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:Fe--KbUARuAbZ9cpFG-IqldO@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMwZ\n\nFollow on MiLB First Pitch: https://stza.co/+vMwZ-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Great seats still available for tonight’s game. Purchase them here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       1hTW6Rd7wznG94WnzBmY7sIP@stanza.co
+:LOCATION: Need something fun to do tonight? Get Hammerheads tickets here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMx0
+
+Follow on MiLB First Pitch  https //stza.co/+vMx0-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:1hTW6Rd7wznG94WnzBmY7sIP@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMx0\n\nFollow on MiLB First Pitch: https://stza.co/+vMx0-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Need something fun to do tonight? Get Hammerheads tickets here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT
+* Hammerheads vs. Mets
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       7GV5k3J4xlydv4NiA7zt7cNq@stanza.co
+:LOCATION: Don’t miss out! Hammerheads tickets still available here.
+:STATUS:   CONFIRMED
+:END:
+
+Hammerheads vs. Mets Hammerheads vs. Mets
+
+Buy tickets here  https //stza.co/~vMx2
+
+Follow on MiLB First Pitch  https //stza.co/+vMx2-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Hammerheads vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:7GV5k3J4xlydv4NiA7zt7cNq@stanza.co
+SUMMARY:Hammerheads vs. Mets
+DESCRIPTION:Hammerheads vs. Mets\n\nBuy tickets here: https://stza.co/~vMx2\n\nFollow on MiLB First Pitch: https://stza.co/+vMx2-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don’t miss out! Hammerheads tickets still available here.
+STATUS:CONFIRMED
+CREATED:20180213T144536Z
+LAST-MODIFIED:20180213T144536Z
+TRANSP:OPAQUE
+END:VEVENT

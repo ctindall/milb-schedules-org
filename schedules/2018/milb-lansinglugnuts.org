@@ -1,0 +1,5114 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Lugnuts @ Loons
+<2018-04-05 Thu 17:05-20:05>
+:PROPERTIES:
+:ID:       Op8NOnvV_2aRRGzTiRIUcam9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Loons Lugnuts @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9T-7
+
+Shop  https //stza.co/+vN9T-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Loons
+END:VALARM
+DTSTART:20180405T220500Z
+DTEND:20180406T010500Z
+UID:Op8NOnvV_2aRRGzTiRIUcam9@stanza.co
+SUMMARY:Lugnuts @ Loons
+DESCRIPTION:Lugnuts @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9T-7\n\nShop: https://stza.co/+vN9T-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Loons
+<2018-04-06 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       bf1_z9P9DsZg9gzv0yg3wMLu@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Loons Lugnuts @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9U-3J
+
+Shop  https //stza.co/+vN9U-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Loons
+END:VALARM
+DTSTART:20180406T220500Z
+DTEND:20180407T010500Z
+UID:bf1_z9P9DsZg9gzv0yg3wMLu@stanza.co
+SUMMARY:Lugnuts @ Loons
+DESCRIPTION:Lugnuts @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9U-3J\n\nShop: https://stza.co/+vN9U-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-04-07 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       n7bvqqg4LznG1BVWG8b1QtZQ@stanza.co
+:LOCATION: Opening Day Block Party and Scarf Giveaway presented by Auto Owners Insurance
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons The Lansing Lugnuts are kicking off the 2018 baseball season with a huge block party! Live music, entertainers, inflatables, and MORE. There will also be a scarf giveaway for the first 1000 fans presented by Auto-Owners Insurance!
+
+Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Follow on MiLB First Pitch  https //stza.co/+vNa3-2I
+
+Shop  https //stza.co/+vNa3-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180407T220500Z
+DTEND:20180408T010500Z
+UID:n7bvqqg4LznG1BVWG8b1QtZQ@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:The Lansing Lugnuts are kicking off the 2018 baseball season with a huge block party! Live music, entertainers, inflatables, and MORE. There will also be a scarf giveaway for the first 1000 fans presented by Auto-Owners Insurance!\n\nCome watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nFollow on MiLB First Pitch: https://stza.co/+vNa3-2I\n\nShop: https://stza.co/+vNa3-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Opening Day Block Party and Scarf Giveaway presented by Auto Owners Insurance
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-04-08 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       KwfWMnrvI5wCGi-e2BgYpzyK@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNa6-i
+
+Shop  https //stza.co/+vNa6-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180408T170500Z
+DTEND:20180408T200500Z
+UID:KwfWMnrvI5wCGi-e2BgYpzyK@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNa6-i\n\nShop: https://stza.co/+vNa6-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-04-09 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       Tfg-1DwR_6i58IwnKguk4-DZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9I-29
+
+Shop  https //stza.co/+vN9I-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180409T230500Z
+DTEND:20180410T020500Z
+UID:Tfg-1DwR_6i58IwnKguk4-DZ@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9I-29\n\nShop: https://stza.co/+vN9I-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-04-10 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       hFxsuDzHE-ht76migPV518X9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9J-3L
+
+Shop  https //stza.co/+vN9J-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180410T230500Z
+DTEND:20180411T020500Z
+UID:hFxsuDzHE-ht76migPV518X9@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9J-3L\n\nShop: https://stza.co/+vN9J-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-04-11 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       VQlq94dFqMT_0pU6nPJXVefg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9K-h
+
+Shop  https //stza.co/+vN9K-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180411T150500Z
+DTEND:20180411T180500Z
+UID:VQlq94dFqMT_0pU6nPJXVefg@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9K-h\n\nShop: https://stza.co/+vN9K-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-04-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       3GeN9SK4rUmrg1Qa-bf_KOGa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9L-X
+
+Shop  https //stza.co/+vN9L-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180412T230500Z
+DTEND:20180413T020500Z
+UID:3GeN9SK4rUmrg1Qa-bf_KOGa@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9L-X\n\nShop: https://stza.co/+vN9L-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Whitecaps
+<2018-04-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       gy-1MOCjagvpxJ81qybPdMh0@stanza.co
+:LOCATION: Friday The 13th
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Whitecaps Friday the 13th is a notoriously unlucky day, come to the ballpark and give the Lugnuts luck. No black cats, broken mirrors, open ladders, or umbrellas opened indoors permitted.
+
+Follow on MiLB First Pitch  https //stza.co/+vNa7-Z
+
+Shop  https //stza.co/+vNa7-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Whitecaps
+END:VALARM
+DTSTART:20180413T230500Z
+DTEND:20180414T020500Z
+UID:gy-1MOCjagvpxJ81qybPdMh0@stanza.co
+SUMMARY:Lugnuts vs. Whitecaps
+DESCRIPTION:Friday the 13th is a notoriously unlucky day, come to the ballpark and give the Lugnuts luck. No black cats, broken mirrors, open ladders, or umbrellas opened indoors permitted.\n\nFollow on MiLB First Pitch: https://stza.co/+vNa7-Z\n\nShop: https://stza.co/+vNa7-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Friday The 13th
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Whitecaps
+<2018-04-14 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       E4karldzUs9CazQ0G0DGcdgG@stanza.co
+:LOCATION: College Keystone and Salute to Bro-Tanks with Bro-Tank Giveaway
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Whitecaps Enjoy Keystone specials all game long! Come get a free LugLife bro-tank at the gates limited to the first 1,000 fans!
+
+Follow on MiLB First Pitch  https //stza.co/+w_v_-9
+
+Shop  https //stza.co/+w_v_-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Whitecaps
+END:VALARM
+DTSTART:20180414T220500Z
+DTEND:20180415T010500Z
+UID:E4karldzUs9CazQ0G0DGcdgG@stanza.co
+SUMMARY:Lugnuts vs. Whitecaps
+DESCRIPTION:Enjoy Keystone specials all game long! Come get a free LugLife bro-tank at the gates limited to the first 1,000 fans!\n\nFollow on MiLB First Pitch: https://stza.co/+w_v_-9\n\nShop: https://stza.co/+w_v_-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:College Keystone and Salute to Bro-Tanks with Bro-Tank Giveaway
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Whitecaps
+<2018-04-15 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       ifo8j2p3Ne9JjlAWFc1tt0pd@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Whitecaps Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+
+
+Follow on MiLB First Pitch  https //stza.co/+vNab-2T
+
+Shop  https //stza.co/+vNab-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Whitecaps
+END:VALARM
+DTSTART:20180415T170500Z
+DTEND:20180415T200500Z
+UID:ifo8j2p3Ne9JjlAWFc1tt0pd@stanza.co
+SUMMARY:Lugnuts vs. Whitecaps
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\n\n\nFollow on MiLB First Pitch: https://stza.co/+vNab-2T\n\nShop: https://stza.co/+vNab-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-04-17 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       E9BwK7MTV2jt2T0cLeOmBn_T@stanza.co
+:LOCATION: Dollar Deal Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!
+
+Follow on MiLB First Pitch  https //stza.co/+vNae-e
+
+Shop  https //stza.co/+vNae-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180417T230500Z
+DTEND:20180418T020500Z
+UID:E9BwK7MTV2jt2T0cLeOmBn_T@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!\n\nFollow on MiLB First Pitch: https://stza.co/+vNae-e\n\nShop: https://stza.co/+vNae-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Deal Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-04-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       G9pO4fXZ53jRGjsdzbmg__z2@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaf-Z
+
+Shop  https //stza.co/+vNaf-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180418T230500Z
+DTEND:20180419T020500Z
+UID:G9pO4fXZ53jRGjsdzbmg__z2@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaf-Z\n\nShop: https://stza.co/+vNaf-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-04-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       A9WYZrPlngw1ezcoKjjWWAUn@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Smell that Rabbit? It's Super Troopers Night at Cooley Law School Stadium. Enjoy a night celebrating the classic movie with in-game promotions, specialty drinks and food and MORE!
+
+Follow on MiLB First Pitch  https //stza.co/+vNai-31
+
+Shop  https //stza.co/+vNai-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180419T230500Z
+DTEND:20180420T020500Z
+UID:A9WYZrPlngw1ezcoKjjWWAUn@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nSmell that Rabbit? It's Super Troopers Night at Cooley Law School Stadium. Enjoy a night celebrating the classic movie with in-game promotions, specialty drinks and food and MORE!\n\nFollow on MiLB First Pitch: https://stza.co/+vNai-31\n\nShop: https://stza.co/+vNai-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-04-20 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       -vuPID5FflBraf0xstK1YidS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNcf-3X
+
+Shop  https //stza.co/+vNcf-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180420T233500Z
+DTEND:20180421T023500Z
+UID:-vuPID5FflBraf0xstK1YidS@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNcf-3X\n\nShop: https://stza.co/+vNcf-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-04-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       LjhkdA8-Lw-ajpWNBzSelDis@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNcg-l
+
+Shop  https //stza.co/+vNcg-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180421T230500Z
+DTEND:20180422T020500Z
+UID:LjhkdA8-Lw-ajpWNBzSelDis@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNcg-l\n\nShop: https://stza.co/+vNcg-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-04-22 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       pQVeusR282LSRsZzfR4SVyEJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+xAEd-p
+
+Shop  https //stza.co/+xAEd-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180422T180500Z
+DTEND:20180422T210500Z
+UID:pQVeusR282LSRsZzfR4SVyEJ@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+xAEd-p\n\nShop: https://stza.co/+xAEd-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-04-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       qiGqRwlsAk9BAz27-qP0xXUx@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNak-3R
+
+Shop  https //stza.co/+vNak-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180423T230500Z
+DTEND:20180424T020500Z
+UID:qiGqRwlsAk9BAz27-qP0xXUx@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNak-3R\n\nShop: https://stza.co/+vNak-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-04-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       4quJApkH4Thty6KhgrEmplLE@stanza.co
+:LOCATION: Dollar Deal Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!
+
+Follow on MiLB First Pitch  https //stza.co/+vNal-3i
+
+Shop  https //stza.co/+vNal-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180424T230500Z
+DTEND:20180425T020500Z
+UID:4quJApkH4Thty6KhgrEmplLE@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!\n\nFollow on MiLB First Pitch: https://stza.co/+vNal-3i\n\nShop: https://stza.co/+vNal-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Deal Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-04-25 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       xR_c3YtclaPS-UgZnuS29fyA@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNan-3C
+
+Shop  https //stza.co/+vNan-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180425T230500Z
+DTEND:20180426T020500Z
+UID:xR_c3YtclaPS-UgZnuS29fyA@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNan-3C\n\nShop: https://stza.co/+vNan-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-04-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       W-pQIjYCsffTk0K51kxq1Sam@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Come for a night out at the ballpark and network with like-minded individuals in a fun and friendly atmosphere! 
+
+Follow on MiLB First Pitch  https //stza.co/+vNaq-B
+
+Shop  https //stza.co/+vNaq-1r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180426T230500Z
+DTEND:20180427T020500Z
+UID:W-pQIjYCsffTk0K51kxq1Sam@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nCome for a night out at the ballpark and network with like-minded individuals in a fun and friendly atmosphere! \n\nFollow on MiLB First Pitch: https://stza.co/+vNaq-B\n\nShop: https://stza.co/+vNaq-1r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-04-27 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       4QlMV6O-tLc9kD8rzNNUA4xY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vNcp-z
+
+Shop  https //stza.co/+vNcp-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180427T223500Z
+DTEND:20180428T013500Z
+UID:4QlMV6O-tLc9kD8rzNNUA4xY@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vNcp-z\n\nShop: https://stza.co/+vNcp-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-04-28 Sat 15:00-18:00>
+:PROPERTIES:
+:ID:       JifwiyNr_r606OHcUM5wuPui@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vNcq-2e
+
+Shop  https //stza.co/+vNcq-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180428T200000Z
+DTEND:20180428T230000Z
+UID:JifwiyNr_r606OHcUM5wuPui@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vNcq-2e\n\nShop: https://stza.co/+vNcq-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-04-29 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       O2RFOCfsts0i9aRiaYmqykt5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vNcr-C
+
+Shop  https //stza.co/+vNcr-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180429T180000Z
+DTEND:20180429T210000Z
+UID:O2RFOCfsts0i9aRiaYmqykt5@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vNcr-C\n\nShop: https://stza.co/+vNcr-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cougars
+<2018-05-01 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       K3LvQhZGWokxMLV7_UIRtsuw@stanza.co
+:LOCATION: Dollar Deal Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cougars Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!
+
+Follow on MiLB First Pitch  https //stza.co/+vNar-3r
+
+Shop  https //stza.co/+vNar-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cougars
+END:VALARM
+DTSTART:20180501T230500Z
+DTEND:20180502T020500Z
+UID:K3LvQhZGWokxMLV7_UIRtsuw@stanza.co
+SUMMARY:Lugnuts vs. Cougars
+DESCRIPTION:Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!\n\nFollow on MiLB First Pitch: https://stza.co/+vNar-3r\n\nShop: https://stza.co/+vNar-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Deal Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cougars
+<2018-05-02 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       Ea3Rb37Dooiz8IEY6tMcnXka@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cougars If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Grand Slam School Days are 10 35am games customized especially for Mid-Michigan area schools. They offer a great end of the year event that is cost effective, educational and fun!
+
+Follow on MiLB First Pitch  https //stza.co/+vNau-2t
+
+Shop  https //stza.co/+vNau-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cougars
+END:VALARM
+DTSTART:20180502T143500Z
+DTEND:20180502T173500Z
+UID:Ea3Rb37Dooiz8IEY6tMcnXka@stanza.co
+SUMMARY:Lugnuts vs. Cougars
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nGrand Slam School Days are 10:35am games customized especially for Mid-Michigan area schools. They offer a great end of the year event that is cost effective, educational and fun!\n\nFollow on MiLB First Pitch: https://stza.co/+vNau-2t\n\nShop: https://stza.co/+vNau-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cougars
+<2018-05-03 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       nNrxqo9aw_EdFA4CKDTt4DxK@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cougars Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Join us in honoring former Michigan State punter, Mike Sadler, with a night dedicated in his memory. The first 1,000 fans will receive a Michigan State-Green Lugnut #3 jersey. Hey Diddle Diddle, a craft beer dedicated to Mike, will be available for sale courtesy of Atwater Brewery. Proceeds from the game will go to the Sadler Foundation. 
+
+Follow on MiLB First Pitch  https //stza.co/+vNav-15
+
+Shop  https //stza.co/+vNav-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cougars
+END:VALARM
+DTSTART:20180503T230500Z
+DTEND:20180504T020500Z
+UID:nNrxqo9aw_EdFA4CKDTt4DxK@stanza.co
+SUMMARY:Lugnuts vs. Cougars
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nJoin us in honoring former Michigan State punter, Mike Sadler, with a night dedicated in his memory. The first 1,000 fans will receive a Michigan State-Green Lugnut #3 jersey. Hey Diddle Diddle, a craft beer dedicated to Mike, will be available for sale courtesy of Atwater Brewery. Proceeds from the game will go to the Sadler Foundation. \n\nFollow on MiLB First Pitch: https://stza.co/+vNav-15\n\nShop: https://stza.co/+vNav-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. River Bandits
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       rJYiIe9SxK0_Y_rkL9cICuk9@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. River Bandits Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Join us for a great end of the year event that is cost effective, safe and a great time for everyone! Rally will also be performing family-fun entertainment all throughout the night!
+
+Follow on MiLB First Pitch  https //stza.co/+vNax-3k
+
+Shop  https //stza.co/+vNax-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. River Bandits
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:rJYiIe9SxK0_Y_rkL9cICuk9@stanza.co
+SUMMARY:Lugnuts vs. River Bandits
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nJoin us for a great end of the year event that is cost effective, safe and a great time for everyone! Rally will also be performing family-fun entertainment all throughout the night!\n\nFollow on MiLB First Pitch: https://stza.co/+vNax-3k\n\nShop: https://stza.co/+vNax-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. River Bandits
+<2018-05-05 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       BeZArW0298UzzFhR_u37nTOs@stanza.co
+:LOCATION: Comic-Con Night - Avengers Comic Giveaway
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. River Bandits It's a bird, it's a plane, NO it's Comic-Con Night at Cooley Law School Stadium! Join us as we celebrate everything Comic-Con, vendors on the concourse, Comic-Con themed promotions and an Avengers comic book giveaway to the first 500 fans!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaz-1A
+
+Shop  https //stza.co/+vNaz-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. River Bandits
+END:VALARM
+DTSTART:20180505T230500Z
+DTEND:20180506T020500Z
+UID:BeZArW0298UzzFhR_u37nTOs@stanza.co
+SUMMARY:Lugnuts vs. River Bandits
+DESCRIPTION:It's a bird, it's a plane, NO it's Comic-Con Night at Cooley Law School Stadium! Join us as we celebrate everything Comic-Con, vendors on the concourse, Comic-Con themed promotions and an Avengers comic book giveaway to the first 500 fans!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaz-1A\n\nShop: https://stza.co/+vNaz-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Comic-Con Night - Avengers Comic Giveaway
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. River Bandits
+<2018-05-06 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       kJnfnLr0yHMPjodD2ZAxk4ha@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. River Bandits Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Join us for an event like none other, a helicopter dropping prizes onto the field after the game! Kids can run onto the field and gather a prize of their choosing!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaC-16
+
+Shop  https //stza.co/+vNaC-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. River Bandits
+END:VALARM
+DTSTART:20180506T170500Z
+DTEND:20180506T200500Z
+UID:kJnfnLr0yHMPjodD2ZAxk4ha@stanza.co
+SUMMARY:Lugnuts vs. River Bandits
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nJoin us for an event like none other, a helicopter dropping prizes onto the field after the game! Kids can run onto the field and gather a prize of their choosing!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaC-16\n\nShop: https://stza.co/+vNaC-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Timber Rattlers
+<2018-05-07 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       EWNK43XT28M5FJQcr6QP1niB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Timber Rattlers Lugnuts @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vs9A-3n
+
+Shop  https //stza.co/+vs9A-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Timber Rattlers
+END:VALARM
+DTSTART:20180507T233500Z
+DTEND:20180508T023500Z
+UID:EWNK43XT28M5FJQcr6QP1niB@stanza.co
+SUMMARY:Lugnuts @ Timber Rattlers
+DESCRIPTION:Lugnuts @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vs9A-3n\n\nShop: https://stza.co/+vs9A-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Timber Rattlers
+<2018-05-08 Tue 12:05-15:05>
+:PROPERTIES:
+:ID:       g2fFPMGM_w6Ap7jFYwBM7qpR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Timber Rattlers Lugnuts @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vs9F-l
+
+Shop  https //stza.co/+vs9F-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Timber Rattlers
+END:VALARM
+DTSTART:20180508T170500Z
+DTEND:20180508T200500Z
+UID:g2fFPMGM_w6Ap7jFYwBM7qpR@stanza.co
+SUMMARY:Lugnuts @ Timber Rattlers
+DESCRIPTION:Lugnuts @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vs9F-l\n\nShop: https://stza.co/+vs9F-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Timber Rattlers
+<2018-05-09 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       BmxDmdj8i0rxnBNXE_cCXCzE@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Timber Rattlers Lugnuts @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vs9M-2y
+
+Shop  https //stza.co/+vs9M-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Timber Rattlers
+END:VALARM
+DTSTART:20180509T233500Z
+DTEND:20180510T023500Z
+UID:BmxDmdj8i0rxnBNXE_cCXCzE@stanza.co
+SUMMARY:Lugnuts @ Timber Rattlers
+DESCRIPTION:Lugnuts @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vs9M-2y\n\nShop: https://stza.co/+vs9M-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Snappers
+<2018-05-10 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       eEbEAbELRCvSaBh13M2R9QlK@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Snappers Lugnuts @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSN3-2b
+
+Shop  https //stza.co/+wSN3-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Snappers
+END:VALARM
+DTSTART:20180510T233000Z
+DTEND:20180511T023000Z
+UID:eEbEAbELRCvSaBh13M2R9QlK@stanza.co
+SUMMARY:Lugnuts @ Snappers
+DESCRIPTION:Lugnuts @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSN3-2b\n\nShop: https://stza.co/+wSN3-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Snappers
+<2018-05-11 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       lGtcOStmzOxNvppg07RQcv6_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Snappers Lugnuts @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSN4-1R
+
+Shop  https //stza.co/+wSN4-_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Snappers
+END:VALARM
+DTSTART:20180511T233000Z
+DTEND:20180512T023000Z
+UID:lGtcOStmzOxNvppg07RQcv6_@stanza.co
+SUMMARY:Lugnuts @ Snappers
+DESCRIPTION:Lugnuts @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSN4-1R\n\nShop: https://stza.co/+wSN4-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Snappers
+<2018-05-12 Sat 16:00-19:00>
+:PROPERTIES:
+:ID:       zCWfC2lv40qbWfXyZcsAfZt0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Snappers Lugnuts @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSN6-3C
+
+Shop  https //stza.co/+wSN6-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Snappers
+END:VALARM
+DTSTART:20180512T210000Z
+DTEND:20180513T000000Z
+UID:zCWfC2lv40qbWfXyZcsAfZt0@stanza.co
+SUMMARY:Lugnuts @ Snappers
+DESCRIPTION:Lugnuts @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSN6-3C\n\nShop: https://stza.co/+wSN6-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-05-14 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       yG3A9e9SbJGzICL2IsSlaLPJ@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaE-O
+
+Shop  https //stza.co/+vNaE-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180514T230500Z
+DTEND:20180515T020500Z
+UID:yG3A9e9SbJGzICL2IsSlaLPJ@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaE-O\n\nShop: https://stza.co/+vNaE-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-05-15 Tue 09:35-12:35>
+:PROPERTIES:
+:ID:       luJlUYBNrBTrFklB2GqJNtcj@stanza.co
+:LOCATION: Dollar Deal Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!
+
+Grand Slam School Days are 10 35am games customized especially for Mid-Michigan area schools. They offer a great end of the year event that is cost effective, educational and fun!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaG-J
+
+Shop  https //stza.co/+vNaG-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180515T143500Z
+DTEND:20180515T173500Z
+UID:luJlUYBNrBTrFklB2GqJNtcj@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!\n\nGrand Slam School Days are 10:35am games customized especially for Mid-Michigan area schools. They offer a great end of the year event that is cost effective, educational and fun!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaG-J\n\nShop: https://stza.co/+vNaG-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Deal Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-05-16 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       KyM_6MPJJ4rDZodc5QAusKRc@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaH-t
+
+Shop  https //stza.co/+vNaH-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180516T230500Z
+DTEND:20180517T020500Z
+UID:KyM_6MPJJ4rDZodc5QAusKRc@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaH-t\n\nShop: https://stza.co/+vNaH-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-05-17 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       20HgZUfwBNtOk1fPKCf_H69w@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+The Beer Mile Race is coming to Lansing! Drink beer and run a mile at Cooley Law School Stadium.
+
+Follow on MiLB First Pitch  https //stza.co/+vNaK-1k
+
+Shop  https //stza.co/+vNaK-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180517T230500Z
+DTEND:20180518T020500Z
+UID:20HgZUfwBNtOk1fPKCf_H69w@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nThe Beer Mile Race is coming to Lansing! Drink beer and run a mile at Cooley Law School Stadium.\n\nFollow on MiLB First Pitch: https://stza.co/+vNaK-1k\n\nShop: https://stza.co/+vNaK-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Hot Rods
+<2018-05-18 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       ForhPD2YpfDs6X0wV6oBuTO-@stanza.co
+:LOCATION: Pride Night
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Hot Rods All are welcome to celebrate Pride Night at Cooley Law School Stadium! 
+
+Follow on MiLB First Pitch  https //stza.co/+vNaM-31
+
+Shop  https //stza.co/+vNaM-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Hot Rods
+END:VALARM
+DTSTART:20180518T230500Z
+DTEND:20180519T020500Z
+UID:ForhPD2YpfDs6X0wV6oBuTO-@stanza.co
+SUMMARY:Lugnuts vs. Hot Rods
+DESCRIPTION:All are welcome to celebrate Pride Night at Cooley Law School Stadium! \n\nFollow on MiLB First Pitch: https://stza.co/+vNaM-31\n\nShop: https://stza.co/+vNaM-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Pride Night
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Hot Rods
+<2018-05-19 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       HvDZvPSKWZxeJXs44IV6YgrW@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Hot Rods Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Baseball is coming to Cooley Law School Stadium. Join fellow fans in celebrating Game of Thrones Night. Sit on the throne, enjoy wine tastings, food specials and more! The first 1,000 fans get a custom Noah Syndergaard Game of Thrones bobblehead! 
+
+Follow on MiLB First Pitch  https //stza.co/+vNaO-1i
+
+Shop  https //stza.co/+vNaO-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Hot Rods
+END:VALARM
+DTSTART:20180519T230500Z
+DTEND:20180520T020500Z
+UID:HvDZvPSKWZxeJXs44IV6YgrW@stanza.co
+SUMMARY:Lugnuts vs. Hot Rods
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nBaseball is coming to Cooley Law School Stadium. Join fellow fans in celebrating Game of Thrones Night. Sit on the throne, enjoy wine tastings, food specials and more! The first 1,000 fans get a custom Noah Syndergaard Game of Thrones bobblehead! \n\nFollow on MiLB First Pitch: https://stza.co/+vNaO-1i\n\nShop: https://stza.co/+vNaO-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Hot Rods
+<2018-05-20 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       qRwX1lICE8u5jInfwGTQkYrg@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Hot Rods Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Limited to the first 1,000 fans.
+
+Follow on MiLB First Pitch  https //stza.co/+vNaQ-3a
+
+Shop  https //stza.co/+vNaQ-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Hot Rods
+END:VALARM
+DTSTART:20180520T170500Z
+DTEND:20180520T200500Z
+UID:qRwX1lICE8u5jInfwGTQkYrg@stanza.co
+SUMMARY:Lugnuts vs. Hot Rods
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nLimited to the first 1,000 fans.\n\nFollow on MiLB First Pitch: https://stza.co/+vNaQ-3a\n\nShop: https://stza.co/+vNaQ-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-05-21 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       oT34MhKdQDMgVH6IeyXh32EI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNci-k
+
+Shop  https //stza.co/+vNci-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180521T230500Z
+DTEND:20180522T020500Z
+UID:oT34MhKdQDMgVH6IeyXh32EI@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNci-k\n\nShop: https://stza.co/+vNci-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-05-22 Tue 09:35-12:35>
+:PROPERTIES:
+:ID:       e2sVpoiEjsRoGWFj9gBcZTaQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNcj-3r
+
+Shop  https //stza.co/+vNcj-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180522T143500Z
+DTEND:20180522T173500Z
+UID:e2sVpoiEjsRoGWFj9gBcZTaQ@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNcj-3r\n\nShop: https://stza.co/+vNcj-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-05-23 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       2eJqEvcf4OEuTr6hjU_lP3Nx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNck-Q
+
+Shop  https //stza.co/+vNck-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180523T230500Z
+DTEND:20180524T020500Z
+UID:2eJqEvcf4OEuTr6hjU_lP3Nx@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNck-Q\n\nShop: https://stza.co/+vNck-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-05-24 Thu 09:35-12:35>
+:PROPERTIES:
+:ID:       CQibuOvSQGox-UCTPTQjodrs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNcl-2N
+
+Shop  https //stza.co/+vNcl-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180524T143500Z
+DTEND:20180524T173500Z
+UID:CQibuOvSQGox-UCTPTQjodrs@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNcl-2N\n\nShop: https://stza.co/+vNcl-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. TinCaps
+<2018-05-25 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       BdbW3Hp77rT6q_J4gKgvkDSN@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. TinCaps Lugnuts vs. TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vNaR-2D
+
+Shop  https //stza.co/+vNaR-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. TinCaps
+END:VALARM
+DTSTART:20180525T230500Z
+DTEND:20180526T020500Z
+UID:BdbW3Hp77rT6q_J4gKgvkDSN@stanza.co
+SUMMARY:Lugnuts vs. TinCaps
+DESCRIPTION:Lugnuts vs. TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vNaR-2D\n\nShop: https://stza.co/+vNaR-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. TinCaps
+<2018-05-26 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       fDA1tZ2I3g6LIiqtur9m5Y_s@stanza.co
+:LOCATION: Eat-A-Palooza Night
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. TinCaps Come sample all your favorite food items at the ballpark such as Super Nachos, Pulled Pork Sandwiches, Philly Cheesesteaks and much more all at Eat-A-Palooza!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaU-2q
+
+Shop  https //stza.co/+vNaU-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. TinCaps
+END:VALARM
+DTSTART:20180526T230500Z
+DTEND:20180527T020500Z
+UID:fDA1tZ2I3g6LIiqtur9m5Y_s@stanza.co
+SUMMARY:Lugnuts vs. TinCaps
+DESCRIPTION:Come sample all your favorite food items at the ballpark such as Super Nachos, Pulled Pork Sandwiches, Philly Cheesesteaks and much more all at Eat-A-Palooza!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaU-2q\n\nShop: https://stza.co/+vNaU-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Eat-A-Palooza Night
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. TinCaps
+<2018-05-27 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       LMWG1FUg6ocxK3FRZCPbfAgF@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. TinCaps Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaW-14
+
+Shop  https //stza.co/+vNaW-1V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. TinCaps
+END:VALARM
+DTSTART:20180527T170500Z
+DTEND:20180527T200500Z
+UID:LMWG1FUg6ocxK3FRZCPbfAgF@stanza.co
+SUMMARY:Lugnuts vs. TinCaps
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaW-14\n\nShop: https://stza.co/+vNaW-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. TinCaps
+<2018-05-28 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       yVTEjqYJh_JiU70YXVdQEX2A@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. TinCaps Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaY-1n
+
+Shop  https //stza.co/+vNaY-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. TinCaps
+END:VALARM
+DTSTART:20180528T170500Z
+DTEND:20180528T200500Z
+UID:yVTEjqYJh_JiU70YXVdQEX2A@stanza.co
+SUMMARY:Lugnuts vs. TinCaps
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaY-1n\n\nShop: https://stza.co/+vNaY-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-05-29 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       s3VIsbdRrNYnkjmtH2D4K2Ik@stanza.co
+:LOCATION: Dollar Deal Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!
+
+Follow on MiLB First Pitch  https //stza.co/+vNaZ-1c
+
+Shop  https //stza.co/+vNaZ-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180529T230500Z
+DTEND:20180530T020500Z
+UID:s3VIsbdRrNYnkjmtH2D4K2Ik@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!\n\nFollow on MiLB First Pitch: https://stza.co/+vNaZ-1c\n\nShop: https://stza.co/+vNaZ-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Deal Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-05-30 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       Nw_Rc_L0VbEZUl4zcLUL8ZRj@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Grand Slam School Days are 10 35am games customized especially for Mid-Michigan area schools. They offer a great end of the year event that is cost effective, educational and fun!
+
+Follow on MiLB First Pitch  https //stza.co/+vNb0-1s
+
+Shop  https //stza.co/+vNb0-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180530T143500Z
+DTEND:20180530T173500Z
+UID:Nw_Rc_L0VbEZUl4zcLUL8ZRj@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nGrand Slam School Days are 10:35am games customized especially for Mid-Michigan area schools. They offer a great end of the year event that is cost effective, educational and fun!\n\nFollow on MiLB First Pitch: https://stza.co/+vNb0-1s\n\nShop: https://stza.co/+vNb0-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-05-31 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       xL60qnMexR0thVRAlL7f3UtE@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Get ready to meet your match on Swipe Right Night! Open Tinder, Bumble or any dating app you use and find your match at the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+vNb1-3z
+
+Shop  https //stza.co/+vNb1-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180531T230500Z
+DTEND:20180601T020500Z
+UID:xL60qnMexR0thVRAlL7f3UtE@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nGet ready to meet your match on Swipe Right Night! Open Tinder, Bumble or any dating app you use and find your match at the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+vNb1-3z\n\nShop: https://stza.co/+vNb1-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-06-01 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       GFCTE3icjvmc2avY-5gmd8f7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9x-b
+
+Shop  https //stza.co/+vN9x-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180601T230000Z
+DTEND:20180602T020000Z
+UID:GFCTE3icjvmc2avY-5gmd8f7@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9x-b\n\nShop: https://stza.co/+vN9x-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-06-02 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       83KqlMEGBQtnnCDk2DpVB-6G@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9y-3q
+
+Shop  https //stza.co/+vN9y-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180602T230000Z
+DTEND:20180603T020000Z
+UID:83KqlMEGBQtnnCDk2DpVB-6G@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9y-3q\n\nShop: https://stza.co/+vN9y-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-06-03 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       03kjYfo5WZkNJcAIS4HDsDy5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9z-2Y
+
+Shop  https //stza.co/+vN9z-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180603T180000Z
+DTEND:20180603T210000Z
+UID:03kjYfo5WZkNJcAIS4HDsDy5@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9z-2Y\n\nShop: https://stza.co/+vN9z-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Hot Rods
+<2018-06-05 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       0pBWkbf6uwWMgUmjdHnj4TUL@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Hot Rods Lugnuts @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN9l-Q
+
+Shop  https //stza.co/+vN9l-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Hot Rods
+END:VALARM
+DTSTART:20180605T233500Z
+DTEND:20180606T023500Z
+UID:0pBWkbf6uwWMgUmjdHnj4TUL@stanza.co
+SUMMARY:Lugnuts @ Hot Rods
+DESCRIPTION:Lugnuts @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN9l-Q\n\nShop: https://stza.co/+vN9l-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Hot Rods
+<2018-06-06 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       vfO7V3Kq9AkA1XQuKMsjtvm3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Hot Rods Lugnuts @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN9m-W
+
+Shop  https //stza.co/+vN9m-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Hot Rods
+END:VALARM
+DTSTART:20180606T233500Z
+DTEND:20180607T023500Z
+UID:vfO7V3Kq9AkA1XQuKMsjtvm3@stanza.co
+SUMMARY:Lugnuts @ Hot Rods
+DESCRIPTION:Lugnuts @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN9m-W\n\nShop: https://stza.co/+vN9m-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Hot Rods
+<2018-06-07 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       Xb-Jn0HW61UPX6nfkumNhTPT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Hot Rods Lugnuts @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN9n-g
+
+Shop  https //stza.co/+vN9n-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Hot Rods
+END:VALARM
+DTSTART:20180607T233500Z
+DTEND:20180608T023500Z
+UID:Xb-Jn0HW61UPX6nfkumNhTPT@stanza.co
+SUMMARY:Lugnuts @ Hot Rods
+DESCRIPTION:Lugnuts @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN9n-g\n\nShop: https://stza.co/+vN9n-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-06-08 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       zgEUafyucncGQL3nU8Vi1F09@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9M-3
+
+Shop  https //stza.co/+vN9M-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180608T230500Z
+DTEND:20180609T020500Z
+UID:zgEUafyucncGQL3nU8Vi1F09@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9M-3\n\nShop: https://stza.co/+vN9M-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-06-09 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       la6ayvfeZctxwv36SP4801k-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9N-2e
+
+Shop  https //stza.co/+vN9N-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180609T230500Z
+DTEND:20180610T020500Z
+UID:la6ayvfeZctxwv36SP4801k-@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9N-2e\n\nShop: https://stza.co/+vN9N-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-06-10 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       xJlvJ9ECnJflVO3_ipC7LKp8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9O-3A
+
+Shop  https //stza.co/+vN9O-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180610T190500Z
+DTEND:20180610T220500Z
+UID:xJlvJ9ECnJflVO3_ipC7LKp8@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9O-3A\n\nShop: https://stza.co/+vN9O-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-06-11 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       PfkbRvNJa58KG65_ScKFN0Tj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9P-y
+
+Shop  https //stza.co/+vN9P-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180611T230500Z
+DTEND:20180612T020500Z
+UID:PfkbRvNJa58KG65_ScKFN0Tj@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9P-y\n\nShop: https://stza.co/+vN9P-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Captains
+<2018-06-12 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       UwyXEc_TBP2qh5Czx44XYWwp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Captains Lugnuts @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xADJ-2C
+
+Shop  https //stza.co/+xADJ-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Captains
+END:VALARM
+DTSTART:20180612T230000Z
+DTEND:20180613T020000Z
+UID:UwyXEc_TBP2qh5Czx44XYWwp@stanza.co
+SUMMARY:Lugnuts @ Captains
+DESCRIPTION:Lugnuts @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xADJ-2C\n\nShop: https://stza.co/+xADJ-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Captains
+<2018-06-13 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       KDhJn6-2dG3ScrX8Ojq1w7nG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Captains Lugnuts @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xADK-3C
+
+Shop  https //stza.co/+xADK-1N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Captains
+END:VALARM
+DTSTART:20180613T160000Z
+DTEND:20180613T190000Z
+UID:KDhJn6-2dG3ScrX8Ojq1w7nG@stanza.co
+SUMMARY:Lugnuts @ Captains
+DESCRIPTION:Lugnuts @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xADK-3C\n\nShop: https://stza.co/+xADK-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Captains
+<2018-06-14 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       uz81GKCBaU5X61-QcZYn64aZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Captains Lugnuts @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xADL-3X
+
+Shop  https //stza.co/+xADL-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Captains
+END:VALARM
+DTSTART:20180614T230000Z
+DTEND:20180615T020000Z
+UID:uz81GKCBaU5X61-QcZYn64aZ@stanza.co
+SUMMARY:Lugnuts @ Captains
+DESCRIPTION:Lugnuts @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xADL-3X\n\nShop: https://stza.co/+xADL-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       CPywacy-RUmU76AMsOHxNASY@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Family Faith Night is a night that acknowledges and celebrates local churches in the surrounding area on the field with a pre-game Faith All-Star Line-Up. Come see a member of your church be recognized in front of the Cooley Law School Stadium Crowd!
+
+Follow on MiLB First Pitch  https //stza.co/+vNb4-3y
+
+Shop  https //stza.co/+vNb4-15
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:CPywacy-RUmU76AMsOHxNASY@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nFamily Faith Night is a night that acknowledges and celebrates local churches in the surrounding area on the field with a pre-game Faith All-Star Line-Up. Come see a member of your church be recognized in front of the Cooley Law School Stadium Crowd!\n\nFollow on MiLB First Pitch: https://stza.co/+vNb4-3y\n\nShop: https://stza.co/+vNb4-15\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-06-16 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       aNd0CGKxobK1HKWnVo9nMCBj@stanza.co
+:LOCATION: May the force be with you! Come check out Stars Wars Night at the park
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+May the force be with you on Star Wars Night! Star Wars themed music, contests, and special guests from the 501st Legion will be found throughout Cooley Law School Stadium!
+
+Follow on MiLB First Pitch  https //stza.co/+vNb5-1_
+
+Shop  https //stza.co/+vNb5-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180616T230500Z
+DTEND:20180617T020500Z
+UID:aNd0CGKxobK1HKWnVo9nMCBj@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nMay the force be with you on Star Wars Night! Star Wars themed music, contests, and special guests from the 501st Legion will be found throughout Cooley Law School Stadium!\n\nFollow on MiLB First Pitch: https://stza.co/+vNb5-1_\n\nShop: https://stza.co/+vNb5-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:May the force be with you! Come check out Stars Wars Night at the park
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-06-17 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       8SOIJvhTjXfdJOLc4qzFGuFr@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Come to Cooley Law School Stadium on Father's Day and get your Father's Day Lugnuts themed Blue Jays jersey! Limited to the first 1,000 fans
+
+Follow on MiLB First Pitch  https //stza.co/+vNb7-2$
+
+Shop  https //stza.co/+vNb7-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180617T170500Z
+DTEND:20180617T200500Z
+UID:8SOIJvhTjXfdJOLc4qzFGuFr@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nCome to Cooley Law School Stadium on Father's Day and get your Father's Day Lugnuts themed Blue Jays jersey! Limited to the first 1,000 fans\n\nFollow on MiLB First Pitch: https://stza.co/+vNb7-2$\n\nShop: https://stza.co/+vNb7-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       1BMMaUWzutnRkypRnKmT_2G3@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Follow on MiLB First Pitch  https //stza.co/+vNb9-11
+
+Shop  https //stza.co/+vNb9-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:1BMMaUWzutnRkypRnKmT_2G3@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nFollow on MiLB First Pitch: https://stza.co/+vNb9-11\n\nShop: https://stza.co/+vNb9-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       x27w91xzU4emxlp_rt0NFvP2@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbc-1f
+
+Shop  https //stza.co/+vNbc-x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:x27w91xzU4emxlp_rt0NFvP2@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbc-1f\n\nShop: https://stza.co/+vNbc-x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       VhtrovCS0_vPxRf6lxQEkloT@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+The magic is back at Cooley Law School Stadium! Join Harry, Ron and Hermione as the stadium is transformed in Hogwarts School of Witchcraft and Wizardry. Enjoy Butterbeer, Quidditch, photo-ops, trivia, sorting, House Cup challenge and more! PLUS, a Tri-Wizard Cup giveaway to the first 1,000 fans! 
+
+Follow on MiLB First Pitch  https //stza.co/+vNbe-1s
+
+Shop  https //stza.co/+vNbe-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:VhtrovCS0_vPxRf6lxQEkloT@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nThe magic is back at Cooley Law School Stadium! Join Harry, Ron and Hermione as the stadium is transformed in Hogwarts School of Witchcraft and Wizardry. Enjoy Butterbeer, Quidditch, photo-ops, trivia, sorting, House Cup challenge and more! PLUS, a Tri-Wizard Cup giveaway to the first 1,000 fans! \n\nFollow on MiLB First Pitch: https://stza.co/+vNbe-1s\n\nShop: https://stza.co/+vNbe-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-06-24 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       5_trD8ZUr57uxKjhURQay_90@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbg-M
+
+Shop  https //stza.co/+vNbg-7
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180624T170500Z
+DTEND:20180624T200500Z
+UID:5_trD8ZUr57uxKjhURQay_90@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbg-M\n\nShop: https://stza.co/+vNbg-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       ZyzTkV_JzVi31Vc0nySTKvpw@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbh-19
+
+Shop  https //stza.co/+vNbh-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:ZyzTkV_JzVi31Vc0nySTKvpw@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbh-19\n\nShop: https://stza.co/+vNbh-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-06-26 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       GVlqqqLhxdOknDnxmdg6aUe6@stanza.co
+:LOCATION: Dollar Deal Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbj-D
+
+Shop  https //stza.co/+vNbj-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180626T230500Z
+DTEND:20180627T020500Z
+UID:GVlqqqLhxdOknDnxmdg6aUe6@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbj-D\n\nShop: https://stza.co/+vNbj-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Deal Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Captains
+<2018-06-27 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       TtbrVMcl-LEAza8jTP1QCgfI@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Captains If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbm-2l
+
+Shop  https //stza.co/+vNbm-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Captains
+END:VALARM
+DTSTART:20180627T160500Z
+DTEND:20180627T190500Z
+UID:TtbrVMcl-LEAza8jTP1QCgfI@stanza.co
+SUMMARY:Lugnuts vs. Captains
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbm-2l\n\nShop: https://stza.co/+vNbm-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Loons
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       1TpiC5PBuE5upSZAiDcndLQs@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Loons Lugnuts @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9V-g
+
+Shop  https //stza.co/+vN9V-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Loons
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:1TpiC5PBuE5upSZAiDcndLQs@stanza.co
+SUMMARY:Lugnuts @ Loons
+DESCRIPTION:Lugnuts @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9V-g\n\nShop: https://stza.co/+vN9V-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Loons
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       sWRVcuyh8ymIY6TSyaslgHO3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Loons Lugnuts @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9W-_
+
+Shop  https //stza.co/+vN9W-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Loons
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:sWRVcuyh8ymIY6TSyaslgHO3@stanza.co
+SUMMARY:Lugnuts @ Loons
+DESCRIPTION:Lugnuts @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9W-_\n\nShop: https://stza.co/+vN9W-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Loons
+<2018-06-30 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       WHLPpTPHH_NMZK7sEcn3g2Fw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Loons Lugnuts @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9X-30
+
+Shop  https //stza.co/+vN9X-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Loons
+END:VALARM
+DTSTART:20180630T230500Z
+DTEND:20180701T020500Z
+UID:WHLPpTPHH_NMZK7sEcn3g2Fw@stanza.co
+SUMMARY:Lugnuts @ Loons
+DESCRIPTION:Lugnuts @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9X-30\n\nShop: https://stza.co/+vN9X-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Loons
+<2018-07-01 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       1yy149xVp3dxkZiIf51FjzSN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Loons Lugnuts @ Loons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9Y-1j
+
+Shop  https //stza.co/+vN9Y-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Loons
+END:VALARM
+DTSTART:20180701T180500Z
+DTEND:20180701T210500Z
+UID:1yy149xVp3dxkZiIf51FjzSN@stanza.co
+SUMMARY:Lugnuts @ Loons
+DESCRIPTION:Lugnuts @ Loons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9Y-1j\n\nShop: https://stza.co/+vN9Y-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-07-02 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       eJXZqU09VNqlff9hD1etNwXk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vNcs-2u
+
+Shop  https //stza.co/+vNcs-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180702T230500Z
+DTEND:20180703T020500Z
+UID:eJXZqU09VNqlff9hD1etNwXk@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vNcs-2u\n\nShop: https://stza.co/+vNcs-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-07-03 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       HmVXr9G-5PJdockqqk3r_Gmr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vNct-34
+
+Shop  https //stza.co/+vNct-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180703T230500Z
+DTEND:20180704T020500Z
+UID:HmVXr9G-5PJdockqqk3r_Gmr@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vNct-34\n\nShop: https://stza.co/+vNct-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Whitecaps
+<2018-07-04 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       GSGaPNsiMd4M_15ptnBLeTuy@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Whitecaps If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Nothing is more American than baseball, hot dogs, and fireworks on the 4th of July! Don't miss our huge post-game LAFCU fireworks show set to patriotic music!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbo-2V
+
+Shop  https //stza.co/+vNbo-o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Whitecaps
+END:VALARM
+DTSTART:20180704T223500Z
+DTEND:20180705T013500Z
+UID:GSGaPNsiMd4M_15ptnBLeTuy@stanza.co
+SUMMARY:Lugnuts vs. Whitecaps
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nCome watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nNothing is more American than baseball, hot dogs, and fireworks on the 4th of July! Don't miss our huge post-game LAFCU fireworks show set to patriotic music!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbo-2V\n\nShop: https://stza.co/+vNbo-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Whitecaps
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       v2wccl47K6nDvN6vNPd72UqI@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Whitecaps Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbp-3
+
+Shop  https //stza.co/+vNbp-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Whitecaps
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:v2wccl47K6nDvN6vNPd72UqI@stanza.co
+SUMMARY:Lugnuts vs. Whitecaps
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbp-3\n\nShop: https://stza.co/+vNbp-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       GppE2im8bfj0mdVA0zkV7EEe@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbs-3a
+
+Shop  https //stza.co/+vNbs-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:GppE2im8bfj0mdVA0zkV7EEe@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbs-3a\n\nShop: https://stza.co/+vNbs-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-07-07 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       NXPzxbTrMDansrPGTAQ-QiX6@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbu-1y
+
+Shop  https //stza.co/+vNbu-3x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180707T230500Z
+DTEND:20180708T020500Z
+UID:NXPzxbTrMDansrPGTAQ-QiX6@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbu-1y\n\nShop: https://stza.co/+vNbu-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-07-08 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       PgB1VFDay1Hfyiw1QmC97P3p@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbw-I
+
+Shop  https //stza.co/+vNbw-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180708T170500Z
+DTEND:20180708T200500Z
+UID:PgB1VFDay1Hfyiw1QmC97P3p@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbw-I\n\nShop: https://stza.co/+vNbw-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-07-09 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       XVjPxrb5ESAKo0yqpzVWXU0z@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNby-2Q
+
+Shop  https //stza.co/+vNby-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180709T230500Z
+DTEND:20180710T020500Z
+UID:XVjPxrb5ESAKo0yqpzVWXU0z@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNby-2Q\n\nShop: https://stza.co/+vNby-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Bees
+<2018-07-11 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       zceUd6rPDUxOuPB6CUeOmd5d@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Bees Lugnuts @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xADv-2e
+
+Shop  https //stza.co/+xADv-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Bees
+END:VALARM
+DTSTART:20180711T233000Z
+DTEND:20180712T023000Z
+UID:zceUd6rPDUxOuPB6CUeOmd5d@stanza.co
+SUMMARY:Lugnuts @ Bees
+DESCRIPTION:Lugnuts @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xADv-2e\n\nShop: https://stza.co/+xADv-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Bees
+<2018-07-12 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       Ze2ZFn8IH1euR2Yst1Qt_LHm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Bees Lugnuts @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xADw-j
+
+Shop  https //stza.co/+xADw-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Bees
+END:VALARM
+DTSTART:20180712T233000Z
+DTEND:20180713T023000Z
+UID:Ze2ZFn8IH1euR2Yst1Qt_LHm@stanza.co
+SUMMARY:Lugnuts @ Bees
+DESCRIPTION:Lugnuts @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xADw-j\n\nShop: https://stza.co/+xADw-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Bees
+<2018-07-13 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       iO6utMJANVl1Pul2eTsoLcYN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Bees Lugnuts @ Bees
+
+Follow on MiLB First Pitch  https //stza.co/+xADx-1M
+
+Shop  https //stza.co/+xADx-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Bees
+END:VALARM
+DTSTART:20180713T233000Z
+DTEND:20180714T023000Z
+UID:iO6utMJANVl1Pul2eTsoLcYN@stanza.co
+SUMMARY:Lugnuts @ Bees
+DESCRIPTION:Lugnuts @ Bees\n\nFollow on MiLB First Pitch: https://stza.co/+xADx-1M\n\nShop: https://stza.co/+xADx-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ LumberKings
+<2018-07-14 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       HtsCtNNb32rx0FBHT141JqiX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ LumberKings Lugnuts @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vN9u-N
+
+Shop  https //stza.co/+vN9u-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ LumberKings
+END:VALARM
+DTSTART:20180714T233000Z
+DTEND:20180715T023000Z
+UID:HtsCtNNb32rx0FBHT141JqiX@stanza.co
+SUMMARY:Lugnuts @ LumberKings
+DESCRIPTION:Lugnuts @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vN9u-N\n\nShop: https://stza.co/+vN9u-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ LumberKings
+<2018-07-15 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       C_4n35LnYrsjdWZZ18VhDfBn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ LumberKings Lugnuts @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vN9v-10
+
+Shop  https //stza.co/+vN9v-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ LumberKings
+END:VALARM
+DTSTART:20180715T190000Z
+DTEND:20180715T220000Z
+UID:C_4n35LnYrsjdWZZ18VhDfBn@stanza.co
+SUMMARY:Lugnuts @ LumberKings
+DESCRIPTION:Lugnuts @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vN9v-10\n\nShop: https://stza.co/+vN9v-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ LumberKings
+<2018-07-16 Mon 11:00-14:00>
+:PROPERTIES:
+:ID:       H7IW7G67hFFDN6P473xj-ofb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ LumberKings Lugnuts @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vN9w-y
+
+Shop  https //stza.co/+vN9w-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ LumberKings
+END:VALARM
+DTSTART:20180716T160000Z
+DTEND:20180716T190000Z
+UID:H7IW7G67hFFDN6P473xj-ofb@stanza.co
+SUMMARY:Lugnuts @ LumberKings
+DESCRIPTION:Lugnuts @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vN9w-y\n\nShop: https://stza.co/+vN9w-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Chiefs
+<2018-07-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       K4mCmaOWVMtGscpvxon_6yz1@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Chiefs If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbz-3c
+
+Shop  https //stza.co/+vNbz-2u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Chiefs
+END:VALARM
+DTSTART:20180718T230500Z
+DTEND:20180719T020500Z
+UID:K4mCmaOWVMtGscpvxon_6yz1@stanza.co
+SUMMARY:Lugnuts vs. Chiefs
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbz-3c\n\nShop: https://stza.co/+vNbz-2u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Chiefs
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       HHkclJUtQ-ly6vAInOFEX8Jm@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Chiefs Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Love beer? Come to Cooley Law School Stadium and get a free beer stein limited to the first 1,000 fans. Craft beer will be served throughout the stadium!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbB-3A
+
+Shop  https //stza.co/+vNbB-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Chiefs
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:HHkclJUtQ-ly6vAInOFEX8Jm@stanza.co
+SUMMARY:Lugnuts vs. Chiefs
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nLove beer? Come to Cooley Law School Stadium and get a free beer stein limited to the first 1,000 fans. Craft beer will be served throughout the stadium!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbB-3A\n\nShop: https://stza.co/+vNbB-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Chiefs
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       HyB6-0UeKJO33qevBL-WKRjL@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Chiefs Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+The Lugnuts are dedicating this night to recognize the brave men and women who have served or are currently serving in our armed forces. Join us for patriotic themed music and LAFCU Fireworks after the game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbD-2D
+
+Shop  https //stza.co/+vNbD-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Chiefs
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:HyB6-0UeKJO33qevBL-WKRjL@stanza.co
+SUMMARY:Lugnuts vs. Chiefs
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nThe Lugnuts are dedicating this night to recognize the brave men and women who have served or are currently serving in our armed forces. Join us for patriotic themed music and LAFCU Fireworks after the game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbD-2D\n\nShop: https://stza.co/+vNbD-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Kernels
+<2018-07-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       NF_1HlUFl7JE6X1Brf9VYwqr@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Kernels Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+If anyone asked where I am, I've left to go to Cooley Law School Stadium for Stranger Things Night! Join the Lugnuts  as we celebrate the wildly popular TV Series, Stranger Things. With Eggo Waffle food specials and special in game entertainment, this night will be bigger than Season 3 getting announced!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbF-31
+
+Shop  https //stza.co/+vNbF-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Kernels
+END:VALARM
+DTSTART:20180721T230500Z
+DTEND:20180722T020500Z
+UID:NF_1HlUFl7JE6X1Brf9VYwqr@stanza.co
+SUMMARY:Lugnuts vs. Kernels
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nIf anyone asked where I am, I've left to go to Cooley Law School Stadium for Stranger Things Night! Join the Lugnuts  as we celebrate the wildly popular TV Series, Stranger Things. With Eggo Waffle food specials and special in game entertainment, this night will be bigger than Season 3 getting announced!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbF-31\n\nShop: https://stza.co/+vNbF-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Kernels
+<2018-07-22 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       8xHxwJm3R5IUbuTB6mpJvVLA@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Kernels Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Up, up and away! Come to Cooley Law School Stadium and dress up as your favorite superhero! We will also be giving away a Superhero themed Lugnuts jersey! Limited to the first 1000 fans.
+
+Follow on MiLB First Pitch  https //stza.co/+vNbH-3r
+
+Shop  https //stza.co/+vNbH-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Kernels
+END:VALARM
+DTSTART:20180722T170500Z
+DTEND:20180722T200500Z
+UID:8xHxwJm3R5IUbuTB6mpJvVLA@stanza.co
+SUMMARY:Lugnuts vs. Kernels
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nUp, up and away! Come to Cooley Law School Stadium and dress up as your favorite superhero! We will also be giving away a Superhero themed Lugnuts jersey! Limited to the first 1000 fans.\n\nFollow on MiLB First Pitch: https://stza.co/+vNbH-3r\n\nShop: https://stza.co/+vNbH-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Kernels
+<2018-07-23 Mon 11:05-14:05>
+:PROPERTIES:
+:ID:       yUFnRE4vH37r8Q_yN7Hm-Jrj@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Kernels Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbK-c
+
+Shop  https //stza.co/+vNbK-33
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Kernels
+END:VALARM
+DTSTART:20180723T160500Z
+DTEND:20180723T190500Z
+UID:yUFnRE4vH37r8Q_yN7Hm-Jrj@stanza.co
+SUMMARY:Lugnuts vs. Kernels
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbK-c\n\nShop: https://stza.co/+vNbK-33\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-07-25 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       25EwRD8VwFCRZvxsFYR-rqY4@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNcm-2K
+
+Shop  https //stza.co/+vNcm-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180725T230500Z
+DTEND:20180726T020500Z
+UID:25EwRD8VwFCRZvxsFYR-rqY4@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNcm-2K\n\nShop: https://stza.co/+vNcm-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       OLL-gOQr0jRmjazlf_vCk8gf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNcn-2R
+
+Shop  https //stza.co/+vNcn-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:OLL-gOQr0jRmjazlf_vCk8gf@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNcn-2R\n\nShop: https://stza.co/+vNcn-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Cubs
+<2018-07-27 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       RJLyHNQAzuMvWAzofKmAH_U3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Cubs Lugnuts @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vNco-3S
+
+Shop  https //stza.co/+vNco-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Cubs
+END:VALARM
+DTSTART:20180727T233500Z
+DTEND:20180728T023500Z
+UID:RJLyHNQAzuMvWAzofKmAH_U3@stanza.co
+SUMMARY:Lugnuts @ Cubs
+DESCRIPTION:Lugnuts @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vNco-3S\n\nShop: https://stza.co/+vNco-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-07-28 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       sK1h16gowkZneXXtcezb1kKL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9A-G
+
+Shop  https //stza.co/+vN9A-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180728T230000Z
+DTEND:20180729T020000Z
+UID:sK1h16gowkZneXXtcezb1kKL@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9A-G\n\nShop: https://stza.co/+vN9A-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-07-29 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       VTgKhJtm0W5HYiA_qg5oXSMW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9B-1d
+
+Shop  https //stza.co/+vN9B-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180729T180000Z
+DTEND:20180729T210000Z
+UID:VTgKhJtm0W5HYiA_qg5oXSMW@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9B-1d\n\nShop: https://stza.co/+vN9B-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-07-30 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       7zrQMY_XXzpPqOup93sIqxBP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9C-i
+
+Shop  https //stza.co/+vN9C-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180730T230000Z
+DTEND:20180731T020000Z
+UID:7zrQMY_XXzpPqOup93sIqxBP@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9C-i\n\nShop: https://stza.co/+vN9C-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-07-31 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       VpFcAMfCipZ6tajCWvs8bDY9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9D-3P
+
+Shop  https //stza.co/+vN9D-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180731T230000Z
+DTEND:20180801T020000Z
+UID:VpFcAMfCipZ6tajCWvs8bDY9@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9D-3P\n\nShop: https://stza.co/+vN9D-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-08-01 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       bEF8CxCvGsz5cf_N41GJEPF1@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbL-1P
+
+Shop  https //stza.co/+vNbL-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180801T230500Z
+DTEND:20180802T020500Z
+UID:bEF8CxCvGsz5cf_N41GJEPF1@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbL-1P\n\nShop: https://stza.co/+vNbL-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       50hka2Wy5ZfbQZpaC_QbFxuK@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Come for a night out at the ballpark and network with like-minded individuals in a fun and friendly atmosphere! 
+
+Follow on MiLB First Pitch  https //stza.co/+vNbN-3f
+
+Shop  https //stza.co/+vNbN-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:50hka2Wy5ZfbQZpaC_QbFxuK@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nCome for a night out at the ballpark and network with like-minded individuals in a fun and friendly atmosphere! \n\nFollow on MiLB First Pitch: https://stza.co/+vNbN-3f\n\nShop: https://stza.co/+vNbN-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Cubs
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       UairVObGzydOnMLRJ44mMo1U@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Cubs Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Family Faith Night is a night that acknowledges and celebrates local churches in the surrounding area on the field with a pre-game Faith All-Star Line-Up. Come see a member of your church be recognized in front of the Cooley Law School Stadium Crowd!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbQ-27
+
+Shop  https //stza.co/+vNbQ-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Cubs
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:UairVObGzydOnMLRJ44mMo1U@stanza.co
+SUMMARY:Lugnuts vs. Cubs
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nFamily Faith Night is a night that acknowledges and celebrates local churches in the surrounding area on the field with a pre-game Faith All-Star Line-Up. Come see a member of your church be recognized in front of the Cooley Law School Stadium Crowd!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbQ-27\n\nShop: https://stza.co/+vNbQ-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-08-04 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       X__1OZgDIKPwEpWJ8TFym9nj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9Q-2J
+
+Shop  https //stza.co/+vN9Q-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180804T230500Z
+DTEND:20180805T020500Z
+UID:X__1OZgDIKPwEpWJ8TFym9nj@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9Q-2J\n\nShop: https://stza.co/+vN9Q-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-08-05 Sun 14:05-17:05>
+:PROPERTIES:
+:ID:       pxfrIZtXOi_TUeQ9ISipH4_F@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9R-1E
+
+Shop  https //stza.co/+vN9R-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180805T190500Z
+DTEND:20180805T220500Z
+UID:pxfrIZtXOi_TUeQ9ISipH4_F@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9R-1E\n\nShop: https://stza.co/+vN9R-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ TinCaps
+<2018-08-06 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       kMAw8u1cxBm1ZHa5xrGrnQWj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ TinCaps Lugnuts @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vN9S-2g
+
+Shop  https //stza.co/+vN9S-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ TinCaps
+END:VALARM
+DTSTART:20180806T230500Z
+DTEND:20180807T020500Z
+UID:kMAw8u1cxBm1ZHa5xrGrnQWj@stanza.co
+SUMMARY:Lugnuts @ TinCaps
+DESCRIPTION:Lugnuts @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vN9S-2g\n\nShop: https://stza.co/+vN9S-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-08-08 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       yLVFR7U28Bo9DDvL006ZYgOt@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbR-_
+
+Shop  https //stza.co/+vNbR-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180808T230500Z
+DTEND:20180809T020500Z
+UID:yLVFR7U28Bo9DDvL006ZYgOt@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbR-_\n\nShop: https://stza.co/+vNbR-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       fFLeKTTTbGwbedmC-sGbxK7b@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Get the girls together and enjoy a game together at the Lugnuts! Drink specials will be offered as well as fun activities and games. More details to come!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbU-1g
+
+Shop  https //stza.co/+vNbU-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:fFLeKTTTbGwbedmC-sGbxK7b@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nGet the girls together and enjoy a game together at the Lugnuts! Drink specials will be offered as well as fun activities and games. More details to come!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbU-1g\n\nShop: https://stza.co/+vNbU-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Dragons
+<2018-08-10 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       b3uTfjetiAzRamu--yvxJ8YF@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Dragons Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Cottage Inn will be handing out coupons to the first 500 fans for a free slice of Cottage Inn Pizza at the park! In honor of the Knights of Columbus, there will be a Catholic information fair before the game, and Knights of Columbus will also be singing the National Anthem and presenting the colors. This is a celebration of vocations for the seminary and sisters of the church.
+
+Follow on MiLB First Pitch  https //stza.co/+vNbW-2y
+
+Shop  https //stza.co/+vNbW-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Dragons
+END:VALARM
+DTSTART:20180810T230500Z
+DTEND:20180811T020500Z
+UID:b3uTfjetiAzRamu--yvxJ8YF@stanza.co
+SUMMARY:Lugnuts vs. Dragons
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nCottage Inn will be handing out coupons to the first 500 fans for a free slice of Cottage Inn Pizza at the park! In honor of the Knights of Columbus, there will be a Catholic information fair before the game, and Knights of Columbus will also be singing the National Anthem and presenting the colors. This is a celebration of vocations for the seminary and sisters of the church.\n\nFollow on MiLB First Pitch: https://stza.co/+vNbW-2y\n\nShop: https://stza.co/+vNbW-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Hot Rods
+<2018-08-11 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       42k0EVadEXcZFvjqu0A0FLta@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Hot Rods Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+The Lugnuts are honoring the great state of Michigan with Pure Michigan night presented by Farm Bureau Insurance! First 1,000 fans will receive a Michigan-Inspired jersey. Watch as the 2018 Michigan Baseball Hall of Fame class is inducted!
+
+Follow on MiLB First Pitch  https //stza.co/+vNbX-b
+
+Shop  https //stza.co/+vNbX-1M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Hot Rods
+END:VALARM
+DTSTART:20180811T230500Z
+DTEND:20180812T020500Z
+UID:42k0EVadEXcZFvjqu0A0FLta@stanza.co
+SUMMARY:Lugnuts vs. Hot Rods
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nThe Lugnuts are honoring the great state of Michigan with Pure Michigan night presented by Farm Bureau Insurance! First 1,000 fans will receive a Michigan-Inspired jersey. Watch as the 2018 Michigan Baseball Hall of Fame class is inducted!\n\nFollow on MiLB First Pitch: https://stza.co/+vNbX-b\n\nShop: https://stza.co/+vNbX-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Hot Rods
+<2018-08-12 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       qqjnGG9Ow_9dm5mH_m2_S_Mj@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Hot Rods Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Join us for an event like none other, a helicopter dropping prizes onto the field after the game! Kids can run onto the field and gather a prize of their choosing!
+
+Follow on MiLB First Pitch  https //stza.co/+xZUq-1C
+
+Shop  https //stza.co/+xZUq-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Hot Rods
+END:VALARM
+DTSTART:20180812T170500Z
+DTEND:20180812T200500Z
+UID:qqjnGG9Ow_9dm5mH_m2_S_Mj@stanza.co
+SUMMARY:Lugnuts vs. Hot Rods
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nJoin us for an event like none other, a helicopter dropping prizes onto the field after the game! Kids can run onto the field and gather a prize of their choosing!\n\nFollow on MiLB First Pitch: https://stza.co/+xZUq-1C\n\nShop: https://stza.co/+xZUq-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Hot Rods
+<2018-08-13 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       EUFhYYk6YpgdailO7gkue2hP@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Hot Rods Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNc0-1R
+
+Shop  https //stza.co/+vNc0-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Hot Rods
+END:VALARM
+DTSTART:20180813T230500Z
+DTEND:20180814T020500Z
+UID:EUFhYYk6YpgdailO7gkue2hP@stanza.co
+SUMMARY:Lugnuts vs. Hot Rods
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNc0-1R\n\nShop: https://stza.co/+vNc0-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Hot Rods
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       eaLlOw9h-Yz-I9z7aa59mcpU@stanza.co
+:LOCATION: Dollar Deal Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Hot Rods Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!
+
+Follow on MiLB First Pitch  https //stza.co/+vNc2-2a
+
+Shop  https //stza.co/+vNc2-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Hot Rods
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:eaLlOw9h-Yz-I9z7aa59mcpU@stanza.co
+SUMMARY:Lugnuts vs. Hot Rods
+DESCRIPTION:Dollar Deal Day is back and better than ever, with $1 hot dogs, Miller High Life, fountain drinks, ice cream sandwiches, and popcorn. The deals are too good to pass up!\n\nFollow on MiLB First Pitch: https://stza.co/+vNc2-2a\n\nShop: https://stza.co/+vNc2-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dollar Deal Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       LHvsX7o9dk4sKAMnMBprZidy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vNcu-4
+
+Shop  https //stza.co/+vNcu-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:LHvsX7o9dk4sKAMnMBprZidy@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vNcu-4\n\nShop: https://stza.co/+vNcu-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       MhRb_gmsUtFrdt70w29LQJNJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vs9n-3a
+
+Shop  https //stza.co/+vs9n-2l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:MhRb_gmsUtFrdt70w29LQJNJ@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vs9n-3a\n\nShop: https://stza.co/+vs9n-2l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Whitecaps
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       J45FZjsJLZSiU6w3u1LnrUhi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Whitecaps Lugnuts @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vs9t-U
+
+Shop  https //stza.co/+vs9t-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Whitecaps
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:J45FZjsJLZSiU6w3u1LnrUhi@stanza.co
+SUMMARY:Lugnuts @ Whitecaps
+DESCRIPTION:Lugnuts @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vs9t-U\n\nShop: https://stza.co/+vs9t-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. TinCaps
+<2018-08-18 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       D4K17DLM3cKgko7qc32dfI-4@stanza.co
+:LOCATION: LAFCU Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. TinCaps Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!
+
+Salute to Backyard Baseball and the G.O.A.T himself Pablo Sanchez. Come celebrate the iconic 1997 video game on Pablo Sanchez's 21st birthday. First 1,000 fans will receive a Pablo Sanchez Lugnuts themed bobblehead!
+
+Follow on MiLB First Pitch  https //stza.co/+vNc3-C
+
+Shop  https //stza.co/+vNc3-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. TinCaps
+END:VALARM
+DTSTART:20180818T230500Z
+DTEND:20180819T020500Z
+UID:D4K17DLM3cKgko7qc32dfI-4@stanza.co
+SUMMARY:Lugnuts vs. TinCaps
+DESCRIPTION:Come watch as LAFCU Fireworks light up the sky of Cooley Law School Stadium on select Friday and Saturday games!\n\nSalute to Backyard Baseball and the G.O.A.T himself Pablo Sanchez. Come celebrate the iconic 1997 video game on Pablo Sanchez's 21st birthday. First 1,000 fans will receive a Pablo Sanchez Lugnuts themed bobblehead!\n\nFollow on MiLB First Pitch: https://stza.co/+vNc3-C\n\nShop: https://stza.co/+vNc3-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LAFCU Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. TinCaps
+<2018-08-19 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       dl-rbO1UrrlS6YBoR7X8chSe@stanza.co
+:LOCATION: Delta Dental's Kids Day
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. TinCaps Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!
+
+Follow on MiLB First Pitch  https //stza.co/+vNc6-L
+
+Shop  https //stza.co/+vNc6-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. TinCaps
+END:VALARM
+DTSTART:20180819T170500Z
+DTEND:20180819T200500Z
+UID:dl-rbO1UrrlS6YBoR7X8chSe@stanza.co
+SUMMARY:Lugnuts vs. TinCaps
+DESCRIPTION:Join the Lugnuts for Delta Dental's Kids Day! Kids can play catch on the field and get to run the bases. Meet some of your favorite Lugnuts with player autographs after the game!\n\nFollow on MiLB First Pitch: https://stza.co/+vNc6-L\n\nShop: https://stza.co/+vNc6-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Delta Dental's Kids Day
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. TinCaps
+<2018-08-20 Mon 11:05-14:05>
+:PROPERTIES:
+:ID:       Rh1iVzYEqcrACzk-atnKqrVg@stanza.co
+:LOCATION: Dog Days Of Summer
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. TinCaps Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!
+
+Follow on MiLB First Pitch  https //stza.co/+vNc7-x
+
+Shop  https //stza.co/+vNc7-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. TinCaps
+END:VALARM
+DTSTART:20180820T160500Z
+DTEND:20180820T190500Z
+UID:Rh1iVzYEqcrACzk-atnKqrVg@stanza.co
+SUMMARY:Lugnuts vs. TinCaps
+DESCRIPTION:Bring your dog to the ballpark every Monday home game for the Dog Days of Summer!\n\nFollow on MiLB First Pitch: https://stza.co/+vNc7-x\n\nShop: https://stza.co/+vNc7-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Dog Days Of Summer
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Hot Rods
+<2018-08-21 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       POih8uS8Q6DrooH8_lLYowGU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Hot Rods Lugnuts @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN9o-1m
+
+Shop  https //stza.co/+vN9o-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Hot Rods
+END:VALARM
+DTSTART:20180821T233500Z
+DTEND:20180822T023500Z
+UID:POih8uS8Q6DrooH8_lLYowGU@stanza.co
+SUMMARY:Lugnuts @ Hot Rods
+DESCRIPTION:Lugnuts @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN9o-1m\n\nShop: https://stza.co/+vN9o-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Hot Rods
+<2018-08-22 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       mhP1WW4aNhmZzOLVri12rDYm@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Hot Rods Lugnuts @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN9p-3z
+
+Shop  https //stza.co/+vN9p-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Hot Rods
+END:VALARM
+DTSTART:20180822T233500Z
+DTEND:20180823T023500Z
+UID:mhP1WW4aNhmZzOLVri12rDYm@stanza.co
+SUMMARY:Lugnuts @ Hot Rods
+DESCRIPTION:Lugnuts @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN9p-3z\n\nShop: https://stza.co/+vN9p-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Hot Rods
+<2018-08-23 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       PKvTRAd4HqP04IZHqgvWcy5u@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Hot Rods Lugnuts @ Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+vN9q-S
+
+Shop  https //stza.co/+vN9q-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Hot Rods
+END:VALARM
+DTSTART:20180823T233500Z
+DTEND:20180824T023500Z
+UID:PKvTRAd4HqP04IZHqgvWcy5u@stanza.co
+SUMMARY:Lugnuts @ Hot Rods
+DESCRIPTION:Lugnuts @ Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+vN9q-S\n\nShop: https://stza.co/+vN9q-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-08-24 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       1-D_1F_J9G1DuXHX-mMOFFY5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9E-1t
+
+Shop  https //stza.co/+vN9E-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180824T230000Z
+DTEND:20180825T020000Z
+UID:1-D_1F_J9G1DuXHX-mMOFFY5@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9E-1t\n\nShop: https://stza.co/+vN9E-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-08-25 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       _cuvyKnxAhJzYfmZFp6M1KG8@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9F-2T
+
+Shop  https //stza.co/+vN9F-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180825T230000Z
+DTEND:20180826T020000Z
+UID:_cuvyKnxAhJzYfmZFp6M1KG8@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9F-2T\n\nShop: https://stza.co/+vN9F-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-08-26 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       2FQmAg9mBXNowZBJnS4an-YR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9G-l
+
+Shop  https //stza.co/+vN9G-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180826T180000Z
+DTEND:20180826T210000Z
+UID:2FQmAg9mBXNowZBJnS4an-YR@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9G-l\n\nShop: https://stza.co/+vN9G-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Dragons
+<2018-08-27 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       GHuyIywS0U4EfPNgvlP7FjbP@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Dragons Lugnuts @ Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+vN9H-3g
+
+Shop  https //stza.co/+vN9H-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Dragons
+END:VALARM
+DTSTART:20180827T230000Z
+DTEND:20180828T020000Z
+UID:GHuyIywS0U4EfPNgvlP7FjbP@stanza.co
+SUMMARY:Lugnuts @ Dragons
+DESCRIPTION:Lugnuts @ Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+vN9H-3g\n\nShop: https://stza.co/+vN9H-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-08-29 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       7vQwFAZsTfgM7r7zTVoZPnrl@stanza.co
+:LOCATION: Winning Wednesday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!
+
+Come sample all your favorite food items at the ballpark such as Super Nachos, Pulled Pork Sandwiches, Philly Cheesesteaks and much more all at Eat-A-Palooza!
+
+Follow on MiLB First Pitch  https //stza.co/+vNca-2T
+
+Shop  https //stza.co/+vNca-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180829T230500Z
+DTEND:20180830T020500Z
+UID:7vQwFAZsTfgM7r7zTVoZPnrl@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:If the Lugnuts win, YOU win! If the Lugnuts win, raincheck your ticket at the box office for another game!\n\nCome sample all your favorite food items at the ballpark such as Super Nachos, Pulled Pork Sandwiches, Philly Cheesesteaks and much more all at Eat-A-Palooza!\n\nFollow on MiLB First Pitch: https://stza.co/+vNca-2T\n\nShop: https://stza.co/+vNca-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Winning Wednesday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-08-30 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       _CLt-bODCgCaFVVtPUVWfSok@stanza.co
+:LOCATION: Labatt Thirsty Thursday
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!
+
+Follow on MiLB First Pitch  https //stza.co/+vNcb-E
+
+Shop  https //stza.co/+vNcb-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180830T230500Z
+DTEND:20180831T020500Z
+UID:_CLt-bODCgCaFVVtPUVWfSok@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:Come grab a drink on Labatt Thirsty Thursdays! With $2 beers, half off crafts and $2 wine you can't go wrong!\n\nFollow on MiLB First Pitch: https://stza.co/+vNcb-E\n\nShop: https://stza.co/+vNcb-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Labatt Thirsty Thursday
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts vs. Loons
+<2018-08-31 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       hV6njGMn2sNgRMip0BmQ5AeB@stanza.co
+:LOCATION: Fan Appreciation and Dan Henry Distributing Lugnut Charties Jersey Auction Night
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts vs. Loons The Lugnuts want to celebrate YOU the fans for the being the best fans in baseball. With in game promotions, events and more planned. We wanted to show our appreciation for you!
+
+Follow on MiLB First Pitch  https //stza.co/+vNce-1r
+
+Shop  https //stza.co/+vNce-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts vs. Loons
+END:VALARM
+DTSTART:20180831T230500Z
+DTEND:20180901T020500Z
+UID:hV6njGMn2sNgRMip0BmQ5AeB@stanza.co
+SUMMARY:Lugnuts vs. Loons
+DESCRIPTION:The Lugnuts want to celebrate YOU the fans for the being the best fans in baseball. With in game promotions, events and more planned. We wanted to show our appreciation for you!\n\nFollow on MiLB First Pitch: https://stza.co/+vNce-1r\n\nShop: https://stza.co/+vNce-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Fan Appreciation and Dan Henry Distributing Lugnut Charties Jersey Auction Night
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Captains
+<2018-09-01 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       6KodBDwWDdfiNnaBjo9Cc1ZQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Captains Lugnuts @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xADM-37
+
+Shop  https //stza.co/+xADM-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Captains
+END:VALARM
+DTSTART:20180901T230000Z
+DTEND:20180902T020000Z
+UID:6KodBDwWDdfiNnaBjo9Cc1ZQ@stanza.co
+SUMMARY:Lugnuts @ Captains
+DESCRIPTION:Lugnuts @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xADM-37\n\nShop: https://stza.co/+xADM-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Captains
+<2018-09-02 Sun 12:30-15:30>
+:PROPERTIES:
+:ID:       J21l0-3-F4T7BVtrE_sSPuWa@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Captains Lugnuts @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xADP-3C
+
+Shop  https //stza.co/+xADP-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Captains
+END:VALARM
+DTSTART:20180902T173000Z
+DTEND:20180902T203000Z
+UID:J21l0-3-F4T7BVtrE_sSPuWa@stanza.co
+SUMMARY:Lugnuts @ Captains
+DESCRIPTION:Lugnuts @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xADP-3C\n\nShop: https://stza.co/+xADP-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lugnuts @ Captains
+<2018-09-03 Mon 12:00-15:00>
+:PROPERTIES:
+:ID:       rQ6-9gsMe2rUusDI5KX4Bmak@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lugnuts @ Captains Lugnuts @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xADQ-2A
+
+Shop  https //stza.co/+xADQ-3m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lugnuts @ Captains
+END:VALARM
+DTSTART:20180903T170000Z
+DTEND:20180903T200000Z
+UID:rQ6-9gsMe2rUusDI5KX4Bmak@stanza.co
+SUMMARY:Lugnuts @ Captains
+DESCRIPTION:Lugnuts @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xADQ-2A\n\nShop: https://stza.co/+xADQ-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T145004Z
+LAST-MODIFIED:20180213T145004Z
+TRANSP:OPAQUE
+END:VEVENT

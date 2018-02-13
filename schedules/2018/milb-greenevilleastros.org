@@ -1,0 +1,2458 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Astros vs. Pirates
+<2018-06-19 Tue>--<2018-06-18 Mon>
+:PROPERTIES:
+:ID:       f3BQsWjfbPuhrVisNQAksHBC@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Pirates Astros vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCge-16
+
+Shop  https //stza.co/+xCge-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180619
+UID:f3BQsWjfbPuhrVisNQAksHBC@stanza.co
+SUMMARY:Astros vs. Pirates
+DESCRIPTION:Astros vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCge-16\n\nShop: https://stza.co/+xCge-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Pirates
+<2018-06-20 Wed>--<2018-06-19 Tue>
+:PROPERTIES:
+:ID:       Pm6Fht5NPswqjKy_BedU-z3e@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Pirates Astros vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCgh-C
+
+Shop  https //stza.co/+xCgh-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180620
+UID:Pm6Fht5NPswqjKy_BedU-z3e@stanza.co
+SUMMARY:Astros vs. Pirates
+DESCRIPTION:Astros vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCgh-C\n\nShop: https://stza.co/+xCgh-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Pirates
+<2018-06-21 Thu>--<2018-06-20 Wed>
+:PROPERTIES:
+:ID:       JRUmw6ILTeN_wzEFI25SGq2z@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Pirates Astros vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCgk-3g
+
+Shop  https //stza.co/+xCgk-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180621
+UID:JRUmw6ILTeN_wzEFI25SGq2z@stanza.co
+SUMMARY:Astros vs. Pirates
+DESCRIPTION:Astros vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCgk-3g\n\nShop: https://stza.co/+xCgk-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Yankees
+<2018-06-22 Fri>--<2018-06-21 Thu>
+:PROPERTIES:
+:ID:       TeAbr0exr_eNN3--otP_POh5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Yankees Astros @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCgm-E
+
+Shop  https //stza.co/+xCgm-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180622
+DTEND;VALUE=DATE:20180622
+UID:TeAbr0exr_eNN3--otP_POh5@stanza.co
+SUMMARY:Astros @ Yankees
+DESCRIPTION:Astros @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCgm-E\n\nShop: https://stza.co/+xCgm-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Yankees
+<2018-06-23 Sat>--<2018-06-22 Fri>
+:PROPERTIES:
+:ID:       tStC_eh2RzRcx2DfpFcYPizj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Yankees Astros @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCgo-1D
+
+Shop  https //stza.co/+xCgo-3t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180623
+UID:tStC_eh2RzRcx2DfpFcYPizj@stanza.co
+SUMMARY:Astros @ Yankees
+DESCRIPTION:Astros @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCgo-1D\n\nShop: https://stza.co/+xCgo-3t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Yankees
+<2018-06-24 Sun>--<2018-06-23 Sat>
+:PROPERTIES:
+:ID:       Ym0lPSb9MRloK04fgKuU_388@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Yankees Astros @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xCgp-1W
+
+Shop  https //stza.co/+xCgp-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180624
+UID:Ym0lPSb9MRloK04fgKuU_388@stanza.co
+SUMMARY:Astros @ Yankees
+DESCRIPTION:Astros @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xCgp-1W\n\nShop: https://stza.co/+xCgp-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Mets
+<2018-06-25 Mon>--<2018-06-24 Sun>
+:PROPERTIES:
+:ID:       g-UKmCXZZZv3XoRsoA7pyjI0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Mets Astros vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCgq-2I
+
+Shop  https //stza.co/+xCgq-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180625
+DTEND;VALUE=DATE:20180625
+UID:g-UKmCXZZZv3XoRsoA7pyjI0@stanza.co
+SUMMARY:Astros vs. Mets
+DESCRIPTION:Astros vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCgq-2I\n\nShop: https://stza.co/+xCgq-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Mets
+<2018-06-26 Tue>--<2018-06-25 Mon>
+:PROPERTIES:
+:ID:       plBMozC8SBmEXtj9acq121h2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Mets Astros vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCgs-B
+
+Shop  https //stza.co/+xCgs-2
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180626
+UID:plBMozC8SBmEXtj9acq121h2@stanza.co
+SUMMARY:Astros vs. Mets
+DESCRIPTION:Astros vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCgs-B\n\nShop: https://stza.co/+xCgs-2\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Blue Jays
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       yO33QDAtNLPKf7ehccVNVfY7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Blue Jays Astros vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCgy-2Z
+
+Shop  https //stza.co/+xCgy-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:yO33QDAtNLPKf7ehccVNVfY7@stanza.co
+SUMMARY:Astros vs. Blue Jays
+DESCRIPTION:Astros vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCgy-2Z\n\nShop: https://stza.co/+xCgy-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Blue Jays
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       MU0gtgOXS63zg_kEzyzCuiR-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Blue Jays Astros vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCgz-7
+
+Shop  https //stza.co/+xCgz-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:MU0gtgOXS63zg_kEzyzCuiR-@stanza.co
+SUMMARY:Astros vs. Blue Jays
+DESCRIPTION:Astros vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCgz-7\n\nShop: https://stza.co/+xCgz-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Blue Jays
+<2018-06-30 Sat>--<2018-06-29 Fri>
+:PROPERTIES:
+:ID:       YAXb4iVA5WqqyjJiV8-e9WJQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Blue Jays Astros vs. Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xCgB-1M
+
+Shop  https //stza.co/+xCgB-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180630
+UID:YAXb4iVA5WqqyjJiV8-e9WJQ@stanza.co
+SUMMARY:Astros vs. Blue Jays
+DESCRIPTION:Astros vs. Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xCgB-1M\n\nShop: https://stza.co/+xCgB-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Cardinals
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       uO3VAe69VzvyeG_GCHWw6Szq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Cardinals Astros vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCgD-1t
+
+Shop  https //stza.co/+xCgD-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:uO3VAe69VzvyeG_GCHWw6Szq@stanza.co
+SUMMARY:Astros vs. Cardinals
+DESCRIPTION:Astros vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCgD-1t\n\nShop: https://stza.co/+xCgD-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Cardinals
+<2018-07-02 Mon>--<2018-07-01 Sun>
+:PROPERTIES:
+:ID:       2p1kiUD8QC8kOiYnQkEyAcja@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Cardinals Astros @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCgF-c
+
+Shop  https //stza.co/+xCgF-35
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180702
+UID:2p1kiUD8QC8kOiYnQkEyAcja@stanza.co
+SUMMARY:Astros @ Cardinals
+DESCRIPTION:Astros @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCgF-c\n\nShop: https://stza.co/+xCgF-35\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Cardinals
+<2018-07-03 Tue>--<2018-07-02 Mon>
+:PROPERTIES:
+:ID:       1XD16drYbTccQNb3g6Fm0oDZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Cardinals Astros @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCgH-2y
+
+Shop  https //stza.co/+xCgH-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180703
+DTEND;VALUE=DATE:20180703
+UID:1XD16drYbTccQNb3g6Fm0oDZ@stanza.co
+SUMMARY:Astros @ Cardinals
+DESCRIPTION:Astros @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCgH-2y\n\nShop: https://stza.co/+xCgH-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Braves
+<2018-07-04 Wed>--<2018-07-03 Tue>
+:PROPERTIES:
+:ID:       lpCsg8pXIF1LFyG0pOueDB9J@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Braves Astros vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCgL-2K
+
+Shop  https //stza.co/+xCgL-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180704
+DTEND;VALUE=DATE:20180704
+UID:lpCsg8pXIF1LFyG0pOueDB9J@stanza.co
+SUMMARY:Astros vs. Braves
+DESCRIPTION:Astros vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCgL-2K\n\nShop: https://stza.co/+xCgL-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Braves
+<2018-07-05 Thu>--<2018-07-04 Wed>
+:PROPERTIES:
+:ID:       8qz_X8Ur1CYzBzm1VKa7A7Ox@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Braves Astros vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCgM-1f
+
+Shop  https //stza.co/+xCgM-24
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180705
+UID:8qz_X8Ur1CYzBzm1VKa7A7Ox@stanza.co
+SUMMARY:Astros vs. Braves
+DESCRIPTION:Astros vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCgM-1f\n\nShop: https://stza.co/+xCgM-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Braves
+<2018-07-06 Fri>--<2018-07-05 Thu>
+:PROPERTIES:
+:ID:       Jv66U9UCHfQ5T8CinBiFowaB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Braves Astros vs. Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xCgP-2U
+
+Shop  https //stza.co/+xCgP-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Braves
+END:VALARM
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180706
+UID:Jv66U9UCHfQ5T8CinBiFowaB@stanza.co
+SUMMARY:Astros vs. Braves
+DESCRIPTION:Astros vs. Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xCgP-2U\n\nShop: https://stza.co/+xCgP-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Royals
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       f1cbQesUB6LFJmpmMd7jhthS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Royals Astros @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCgS-2G
+
+Shop  https //stza.co/+xCgS-20
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:f1cbQesUB6LFJmpmMd7jhthS@stanza.co
+SUMMARY:Astros @ Royals
+DESCRIPTION:Astros @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCgS-2G\n\nShop: https://stza.co/+xCgS-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Royals
+<2018-07-08 Sun>--<2018-07-07 Sat>
+:PROPERTIES:
+:ID:       pKOrER1kANzKQJB1AEQWvkA-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Royals Astros @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCgT-2J
+
+Shop  https //stza.co/+xCgT-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180708
+DTEND;VALUE=DATE:20180708
+UID:pKOrER1kANzKQJB1AEQWvkA-@stanza.co
+SUMMARY:Astros @ Royals
+DESCRIPTION:Astros @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCgT-2J\n\nShop: https://stza.co/+xCgT-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Royals
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       GKk6TjKeyW143PpY5Ne89dki@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Royals Astros @ Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xCgU-t
+
+Shop  https //stza.co/+xCgU-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:GKk6TjKeyW143PpY5Ne89dki@stanza.co
+SUMMARY:Astros @ Royals
+DESCRIPTION:Astros @ Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xCgU-t\n\nShop: https://stza.co/+xCgU-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Mets
+<2018-07-10 Tue>--<2018-07-09 Mon>
+:PROPERTIES:
+:ID:       Bjv9P7vQSMsc4QKd5Qefzo9r@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Mets Astros @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCgV-24
+
+Shop  https //stza.co/+xCgV-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180710
+UID:Bjv9P7vQSMsc4QKd5Qefzo9r@stanza.co
+SUMMARY:Astros @ Mets
+DESCRIPTION:Astros @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCgV-24\n\nShop: https://stza.co/+xCgV-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Mets
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       GCRydqHPef42jkbAp3ohMUoY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Mets Astros @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCgY-2x
+
+Shop  https //stza.co/+xCgY-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:GCRydqHPef42jkbAp3ohMUoY@stanza.co
+SUMMARY:Astros @ Mets
+DESCRIPTION:Astros @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCgY-2x\n\nShop: https://stza.co/+xCgY-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Mets
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       Lw9hYSwdjQows-NevbR_wKBJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Mets Astros @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCgZ-1i
+
+Shop  https //stza.co/+xCgZ-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:Lw9hYSwdjQows-NevbR_wKBJ@stanza.co
+SUMMARY:Astros @ Mets
+DESCRIPTION:Astros @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCgZ-1i\n\nShop: https://stza.co/+xCgZ-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Mets
+<2018-07-13 Fri>--<2018-07-12 Thu>
+:PROPERTIES:
+:ID:       xWfc75CAbSOjVD9s1rKijUd9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Mets Astros @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCg$-27
+
+Shop  https //stza.co/+xCg$-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180713
+DTEND;VALUE=DATE:20180713
+UID:xWfc75CAbSOjVD9s1rKijUd9@stanza.co
+SUMMARY:Astros @ Mets
+DESCRIPTION:Astros @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCg$-27\n\nShop: https://stza.co/+xCg$-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Pirates
+<2018-07-14 Sat>--<2018-07-13 Fri>
+:PROPERTIES:
+:ID:       SoamyK8PT5Du9bXe--3-zrea@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Pirates Astros vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCh0-6
+
+Shop  https //stza.co/+xCh0-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180714
+DTEND;VALUE=DATE:20180714
+UID:SoamyK8PT5Du9bXe--3-zrea@stanza.co
+SUMMARY:Astros vs. Pirates
+DESCRIPTION:Astros vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCh0-6\n\nShop: https://stza.co/+xCh0-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Pirates
+<2018-07-15 Sun>--<2018-07-14 Sat>
+:PROPERTIES:
+:ID:       AJAWwWyafF8HlOnk9blWnAHt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Pirates Astros vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCh3-3t
+
+Shop  https //stza.co/+xCh3-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180715
+UID:AJAWwWyafF8HlOnk9blWnAHt@stanza.co
+SUMMARY:Astros vs. Pirates
+DESCRIPTION:Astros vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCh3-3t\n\nShop: https://stza.co/+xCh3-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Pirates
+<2018-07-16 Mon>--<2018-07-15 Sun>
+:PROPERTIES:
+:ID:       OskXOrmIDAzKae1Rz6Lx6TdG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Pirates Astros vs. Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xCh5-2F
+
+Shop  https //stza.co/+xCh5-1S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180716
+UID:OskXOrmIDAzKae1Rz6Lx6TdG@stanza.co
+SUMMARY:Astros vs. Pirates
+DESCRIPTION:Astros vs. Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xCh5-2F\n\nShop: https://stza.co/+xCh5-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Twins
+<2018-07-18 Wed>--<2018-07-17 Tue>
+:PROPERTIES:
+:ID:       b3FmfJ7heyMlsDlUFR5Hd_Gn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Twins Astros @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCh7-1v
+
+Shop  https //stza.co/+xCh7-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180718
+UID:b3FmfJ7heyMlsDlUFR5Hd_Gn@stanza.co
+SUMMARY:Astros @ Twins
+DESCRIPTION:Astros @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCh7-1v\n\nShop: https://stza.co/+xCh7-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Twins
+<2018-07-19 Thu>--<2018-07-18 Wed>
+:PROPERTIES:
+:ID:       Ni8qjyAVjJ4Y4Sa564wYc21e@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Twins Astros @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCha-21
+
+Shop  https //stza.co/+xCha-38
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180719
+UID:Ni8qjyAVjJ4Y4Sa564wYc21e@stanza.co
+SUMMARY:Astros @ Twins
+DESCRIPTION:Astros @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCha-21\n\nShop: https://stza.co/+xCha-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Twins
+<2018-07-20 Fri>--<2018-07-19 Thu>
+:PROPERTIES:
+:ID:       8ccLaAyDF90CfsleReJmC-nN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Twins Astros @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xChb-t
+
+Shop  https //stza.co/+xChb-2s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180720
+DTEND;VALUE=DATE:20180720
+UID:8ccLaAyDF90CfsleReJmC-nN@stanza.co
+SUMMARY:Astros @ Twins
+DESCRIPTION:Astros @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xChb-t\n\nShop: https://stza.co/+xChb-2s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Royals
+<2018-07-21 Sat>--<2018-07-20 Fri>
+:PROPERTIES:
+:ID:       0a9pcgh5PI_2MV-NGKwvwHJE@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Royals Astros vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xChd-1e
+
+Shop  https //stza.co/+xChd-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180721
+UID:0a9pcgh5PI_2MV-NGKwvwHJE@stanza.co
+SUMMARY:Astros vs. Royals
+DESCRIPTION:Astros vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xChd-1e\n\nShop: https://stza.co/+xChd-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Royals
+<2018-07-22 Sun>--<2018-07-21 Sat>
+:PROPERTIES:
+:ID:       G4dEh8W9IZs6nep8A4mu6Sm3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Royals Astros vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xChf-2f
+
+Shop  https //stza.co/+xChf-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180722
+DTEND;VALUE=DATE:20180722
+UID:G4dEh8W9IZs6nep8A4mu6Sm3@stanza.co
+SUMMARY:Astros vs. Royals
+DESCRIPTION:Astros vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xChf-2f\n\nShop: https://stza.co/+xChf-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Royals
+<2018-07-23 Mon>--<2018-07-22 Sun>
+:PROPERTIES:
+:ID:       yulGPjgsplcxUqwB9nsBD9pW@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Royals Astros vs. Royals
+
+Follow on MiLB First Pitch  https //stza.co/+xChi-23
+
+Shop  https //stza.co/+xChi-d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Royals
+END:VALARM
+DTSTART;VALUE=DATE:20180723
+DTEND;VALUE=DATE:20180723
+UID:yulGPjgsplcxUqwB9nsBD9pW@stanza.co
+SUMMARY:Astros vs. Royals
+DESCRIPTION:Astros vs. Royals\n\nFollow on MiLB First Pitch: https://stza.co/+xChi-23\n\nShop: https://stza.co/+xChi-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Rays
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       zU4wcUtefST2vG-spZDoj8dc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Rays Astros @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xChm-13
+
+Shop  https //stza.co/+xChm-14
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:zU4wcUtefST2vG-spZDoj8dc@stanza.co
+SUMMARY:Astros @ Rays
+DESCRIPTION:Astros @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xChm-13\n\nShop: https://stza.co/+xChm-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Rays
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       n-oB7sm5zows-OgxTIDEdoY7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Rays Astros @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xChn-2G
+
+Shop  https //stza.co/+xChn-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:n-oB7sm5zows-OgxTIDEdoY7@stanza.co
+SUMMARY:Astros @ Rays
+DESCRIPTION:Astros @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xChn-2G\n\nShop: https://stza.co/+xChn-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Rays
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       8oE6J9Zau6F1XKhCze9zj6fa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Rays Astros @ Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCho-C
+
+Shop  https //stza.co/+xCho-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:8oE6J9Zau6F1XKhCze9zj6fa@stanza.co
+SUMMARY:Astros @ Rays
+DESCRIPTION:Astros @ Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCho-C\n\nShop: https://stza.co/+xCho-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Yankees
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       cDxPqfUYQ4ytY2BR_fUmgkI2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Yankees Astros vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xChr-U
+
+Shop  https //stza.co/+xChr-I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:cDxPqfUYQ4ytY2BR_fUmgkI2@stanza.co
+SUMMARY:Astros vs. Yankees
+DESCRIPTION:Astros vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xChr-U\n\nShop: https://stza.co/+xChr-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Yankees
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       XvHA7vi7clCHVPS26J_T1BgO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Yankees Astros vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xChu-3u
+
+Shop  https //stza.co/+xChu-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:XvHA7vi7clCHVPS26J_T1BgO@stanza.co
+SUMMARY:Astros vs. Yankees
+DESCRIPTION:Astros vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xChu-3u\n\nShop: https://stza.co/+xChu-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Yankees
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       yFc9Fl6Hoq8pX7hSIVu4qIg3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Yankees Astros vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xChx-1t
+
+Shop  https //stza.co/+xChx-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:yFc9Fl6Hoq8pX7hSIVu4qIg3@stanza.co
+SUMMARY:Astros vs. Yankees
+DESCRIPTION:Astros vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xChx-1t\n\nShop: https://stza.co/+xChx-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Mets
+<2018-07-31 Tue>--<2018-07-30 Mon>
+:PROPERTIES:
+:ID:       UUcyJDBiHHDvUDt9ZZQZiYm9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Mets Astros @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xChz-3M
+
+Shop  https //stza.co/+xChz-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180731
+DTEND;VALUE=DATE:20180731
+UID:UUcyJDBiHHDvUDt9ZZQZiYm9@stanza.co
+SUMMARY:Astros @ Mets
+DESCRIPTION:Astros @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xChz-3M\n\nShop: https://stza.co/+xChz-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Mets
+<2018-08-01 Wed>--<2018-07-31 Tue>
+:PROPERTIES:
+:ID:       M7M8YhDBnuN6whqSJQd9p5GE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Mets Astros @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xChC-2X
+
+Shop  https //stza.co/+xChC-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180801
+UID:M7M8YhDBnuN6whqSJQd9p5GE@stanza.co
+SUMMARY:Astros @ Mets
+DESCRIPTION:Astros @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xChC-2X\n\nShop: https://stza.co/+xChC-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Mets
+<2018-08-02 Thu>--<2018-08-01 Wed>
+:PROPERTIES:
+:ID:       rOXLEtLZlANrBvIMrjob89sw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Mets Astros @ Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xChD-2
+
+Shop  https //stza.co/+xChD-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180802
+UID:rOXLEtLZlANrBvIMrjob89sw@stanza.co
+SUMMARY:Astros @ Mets
+DESCRIPTION:Astros @ Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xChD-2\n\nShop: https://stza.co/+xChD-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Cardinals
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       UJ-Kf4O2nyy3hPP-bQgKxT-L@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Cardinals Astros vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xChE-2J
+
+Shop  https //stza.co/+xChE-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:UJ-Kf4O2nyy3hPP-bQgKxT-L@stanza.co
+SUMMARY:Astros vs. Cardinals
+DESCRIPTION:Astros vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xChE-2J\n\nShop: https://stza.co/+xChE-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Cardinals
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       s3qHTjwwVfkb6zFPX0jg9sCb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Cardinals Astros vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xChG-3n
+
+Shop  https //stza.co/+xChG-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:s3qHTjwwVfkb6zFPX0jg9sCb@stanza.co
+SUMMARY:Astros vs. Cardinals
+DESCRIPTION:Astros vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xChG-3n\n\nShop: https://stza.co/+xChG-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Cardinals
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       LGlFTqaHyYLilQzzqhKjdhwO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Cardinals Astros vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xChM-L
+
+Shop  https //stza.co/+xChM-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:LGlFTqaHyYLilQzzqhKjdhwO@stanza.co
+SUMMARY:Astros vs. Cardinals
+DESCRIPTION:Astros vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xChM-L\n\nShop: https://stza.co/+xChM-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Blue Jays
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       YmJE3joV6B-Ftpfjyp-5uPSi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Blue Jays Astros @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xChN-1t
+
+Shop  https //stza.co/+xChN-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:YmJE3joV6B-Ftpfjyp-5uPSi@stanza.co
+SUMMARY:Astros @ Blue Jays
+DESCRIPTION:Astros @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xChN-1t\n\nShop: https://stza.co/+xChN-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Blue Jays
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       X-3FscjYVuWyqTz-Rhgz8oWo@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Blue Jays Astros @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xChO-2$
+
+Shop  https //stza.co/+xChO-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:X-3FscjYVuWyqTz-Rhgz8oWo@stanza.co
+SUMMARY:Astros @ Blue Jays
+DESCRIPTION:Astros @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xChO-2$\n\nShop: https://stza.co/+xChO-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Blue Jays
+<2018-08-08 Wed>--<2018-08-07 Tue>
+:PROPERTIES:
+:ID:       Ml8dxphoGp4TYh7plcQrsql_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Blue Jays Astros @ Blue Jays
+
+Follow on MiLB First Pitch  https //stza.co/+xChP-1k
+
+Shop  https //stza.co/+xChP-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Blue Jays
+END:VALARM
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180808
+UID:Ml8dxphoGp4TYh7plcQrsql_@stanza.co
+SUMMARY:Astros @ Blue Jays
+DESCRIPTION:Astros @ Blue Jays\n\nFollow on MiLB First Pitch: https://stza.co/+xChP-1k\n\nShop: https://stza.co/+xChP-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Pirates
+<2018-08-09 Thu>--<2018-08-08 Wed>
+:PROPERTIES:
+:ID:       r1WeeEu3_x4eA6oGjuydAJ8v@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Pirates Astros @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xChR-2I
+
+Shop  https //stza.co/+xChR-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+UID:r1WeeEu3_x4eA6oGjuydAJ8v@stanza.co
+SUMMARY:Astros @ Pirates
+DESCRIPTION:Astros @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xChR-2I\n\nShop: https://stza.co/+xChR-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Pirates
+<2018-08-10 Fri>--<2018-08-09 Thu>
+:PROPERTIES:
+:ID:       pnjslRhdlqLQbbfCG8Vwy5C_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Pirates Astros @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xChT-1C
+
+Shop  https //stza.co/+xChT-1z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+UID:pnjslRhdlqLQbbfCG8Vwy5C_@stanza.co
+SUMMARY:Astros @ Pirates
+DESCRIPTION:Astros @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xChT-1C\n\nShop: https://stza.co/+xChT-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Pirates
+<2018-08-11 Sat>--<2018-08-10 Fri>
+:PROPERTIES:
+:ID:       TMH1ZZMC_Ad9y2kBtrOqM_-R@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Pirates Astros @ Pirates
+
+Follow on MiLB First Pitch  https //stza.co/+xChU-1h
+
+Shop  https //stza.co/+xChU-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Pirates
+END:VALARM
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180811
+UID:TMH1ZZMC_Ad9y2kBtrOqM_-R@stanza.co
+SUMMARY:Astros @ Pirates
+DESCRIPTION:Astros @ Pirates\n\nFollow on MiLB First Pitch: https://stza.co/+xChU-1h\n\nShop: https://stza.co/+xChU-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Twins
+<2018-08-12 Sun>--<2018-08-11 Sat>
+:PROPERTIES:
+:ID:       pO0_hnbjMlF6Kriaytypq24a@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Twins Astros vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xChV-2
+
+Shop  https //stza.co/+xChV-2Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180812
+UID:pO0_hnbjMlF6Kriaytypq24a@stanza.co
+SUMMARY:Astros vs. Twins
+DESCRIPTION:Astros vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xChV-2\n\nShop: https://stza.co/+xChV-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Twins
+<2018-08-13 Mon>--<2018-08-12 Sun>
+:PROPERTIES:
+:ID:       5SXwhX8kqKY0-QdXkeEh4bOI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Twins Astros vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCh_-G
+
+Shop  https //stza.co/+xCh_-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180813
+UID:5SXwhX8kqKY0-QdXkeEh4bOI@stanza.co
+SUMMARY:Astros vs. Twins
+DESCRIPTION:Astros vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCh_-G\n\nShop: https://stza.co/+xCh_-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Twins
+<2018-08-14 Tue>--<2018-08-13 Mon>
+:PROPERTIES:
+:ID:       U3GKJIAoQHNNdxX-3iO6et9R@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Twins Astros vs. Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCh$-1Q
+
+Shop  https //stza.co/+xCh$-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180814
+DTEND;VALUE=DATE:20180814
+UID:U3GKJIAoQHNNdxX-3iO6et9R@stanza.co
+SUMMARY:Astros vs. Twins
+DESCRIPTION:Astros vs. Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCh$-1Q\n\nShop: https://stza.co/+xCh$-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Braves
+<2018-08-16 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       A3kZYWrBhadYDZaRsZ4ODR0F@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Braves Astros @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDTK-3y
+
+Shop  https //stza.co/+xDTK-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Braves
+END:VALARM
+DTSTART:20180816T230000Z
+DTEND:20180817T020000Z
+UID:A3kZYWrBhadYDZaRsZ4ODR0F@stanza.co
+SUMMARY:Astros @ Braves
+DESCRIPTION:Astros @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDTK-3y\n\nShop: https://stza.co/+xDTK-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Braves
+<2018-08-17 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       5cihdj56s0BePgF7re8tjQDM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Braves Astros @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDTL-3F
+
+Shop  https //stza.co/+xDTL-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Braves
+END:VALARM
+DTSTART:20180817T230000Z
+DTEND:20180818T020000Z
+UID:5cihdj56s0BePgF7re8tjQDM@stanza.co
+SUMMARY:Astros @ Braves
+DESCRIPTION:Astros @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDTL-3F\n\nShop: https://stza.co/+xDTL-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Braves
+<2018-08-18 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       xMJPj3bJKqtUPVB3vo40ifir@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Braves Astros @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+xDTN-1e
+
+Shop  https //stza.co/+xDTN-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Braves
+END:VALARM
+DTSTART:20180818T230000Z
+DTEND:20180819T020000Z
+UID:xMJPj3bJKqtUPVB3vo40ifir@stanza.co
+SUMMARY:Astros @ Braves
+DESCRIPTION:Astros @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+xDTN-1e\n\nShop: https://stza.co/+xDTN-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Mets
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       QgKUxPotyPjepv8fZVdHzYV2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Mets Astros vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCi6-1l
+
+Shop  https //stza.co/+xCi6-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:QgKUxPotyPjepv8fZVdHzYV2@stanza.co
+SUMMARY:Astros vs. Mets
+DESCRIPTION:Astros vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCi6-1l\n\nShop: https://stza.co/+xCi6-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Mets
+<2018-08-20 Mon>--<2018-08-19 Sun>
+:PROPERTIES:
+:ID:       zs0xKsKBqzm1Yc2zkVBNzZlX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Mets Astros vs. Mets
+
+Follow on MiLB First Pitch  https //stza.co/+xCic-2z
+
+Shop  https //stza.co/+xCic-_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Mets
+END:VALARM
+DTSTART;VALUE=DATE:20180820
+DTEND;VALUE=DATE:20180820
+UID:zs0xKsKBqzm1Yc2zkVBNzZlX@stanza.co
+SUMMARY:Astros vs. Mets
+DESCRIPTION:Astros vs. Mets\n\nFollow on MiLB First Pitch: https://stza.co/+xCic-2z\n\nShop: https://stza.co/+xCic-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Twins
+<2018-08-21 Tue>--<2018-08-20 Mon>
+:PROPERTIES:
+:ID:       A_qEQCD_9vaLn_6eGx9eCYGj@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Twins Astros @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCid-1Y
+
+Shop  https //stza.co/+xCid-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180821
+UID:A_qEQCD_9vaLn_6eGx9eCYGj@stanza.co
+SUMMARY:Astros @ Twins
+DESCRIPTION:Astros @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCid-1Y\n\nShop: https://stza.co/+xCid-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Twins
+<2018-08-22 Wed>--<2018-08-21 Tue>
+:PROPERTIES:
+:ID:       Rv97D-8JCV9zSvOkWsP4UEHU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Twins Astros @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCie-2e
+
+Shop  https //stza.co/+xCie-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180822
+DTEND;VALUE=DATE:20180822
+UID:Rv97D-8JCV9zSvOkWsP4UEHU@stanza.co
+SUMMARY:Astros @ Twins
+DESCRIPTION:Astros @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCie-2e\n\nShop: https://stza.co/+xCie-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Twins
+<2018-08-23 Thu>--<2018-08-22 Wed>
+:PROPERTIES:
+:ID:       osC-BTcYs7OLq_apDrdcgp7z@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Twins Astros @ Twins
+
+Follow on MiLB First Pitch  https //stza.co/+xCif-2s
+
+Shop  https //stza.co/+xCif-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Twins
+END:VALARM
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180823
+UID:osC-BTcYs7OLq_apDrdcgp7z@stanza.co
+SUMMARY:Astros @ Twins
+DESCRIPTION:Astros @ Twins\n\nFollow on MiLB First Pitch: https://stza.co/+xCif-2s\n\nShop: https://stza.co/+xCif-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Cardinals
+<2018-08-24 Fri>--<2018-08-23 Thu>
+:PROPERTIES:
+:ID:       VJMgaS8VqbsBOKVN2QRBg_Lk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Cardinals Astros vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCig-3
+
+Shop  https //stza.co/+xCig-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180824
+UID:VJMgaS8VqbsBOKVN2QRBg_Lk@stanza.co
+SUMMARY:Astros vs. Cardinals
+DESCRIPTION:Astros vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCig-3\n\nShop: https://stza.co/+xCig-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros @ Cardinals
+<2018-08-25 Sat>--<2018-08-24 Fri>
+:PROPERTIES:
+:ID:       IYJt0NelqtZXm3hwbNKACwnL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros @ Cardinals Astros @ Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCik-1i
+
+Shop  https //stza.co/+xCik-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Astros @ Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180825
+UID:IYJt0NelqtZXm3hwbNKACwnL@stanza.co
+SUMMARY:Astros @ Cardinals
+DESCRIPTION:Astros @ Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCik-1i\n\nShop: https://stza.co/+xCik-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Cardinals
+<2018-08-26 Sun>--<2018-08-25 Sat>
+:PROPERTIES:
+:ID:       SFE7ajnSLdSEeiDkFxMamCJ5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Cardinals Astros vs. Cardinals
+
+Follow on MiLB First Pitch  https //stza.co/+xCim-1i
+
+Shop  https //stza.co/+xCim-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Cardinals
+END:VALARM
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180826
+UID:SFE7ajnSLdSEeiDkFxMamCJ5@stanza.co
+SUMMARY:Astros vs. Cardinals
+DESCRIPTION:Astros vs. Cardinals\n\nFollow on MiLB First Pitch: https://stza.co/+xCim-1i\n\nShop: https://stza.co/+xCim-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Rays
+<2018-08-27 Mon>--<2018-08-26 Sun>
+:PROPERTIES:
+:ID:       2awGHAs-Jmbkkw9Sowwteue4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Rays Astros vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCiq-2I
+
+Shop  https //stza.co/+xCiq-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180827
+DTEND;VALUE=DATE:20180827
+UID:2awGHAs-Jmbkkw9Sowwteue4@stanza.co
+SUMMARY:Astros vs. Rays
+DESCRIPTION:Astros vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCiq-2I\n\nShop: https://stza.co/+xCiq-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Rays
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       iqZ-Zix0n0illjbsoTiaPcp7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Rays Astros vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCir-1o
+
+Shop  https //stza.co/+xCir-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:iqZ-Zix0n0illjbsoTiaPcp7@stanza.co
+SUMMARY:Astros vs. Rays
+DESCRIPTION:Astros vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCir-1o\n\nShop: https://stza.co/+xCir-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Astros vs. Rays
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       1UAI9O77sPxg-9CtiJpUp7Se@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Astros vs. Rays Astros vs. Rays
+
+Follow on MiLB First Pitch  https //stza.co/+xCiw-1e
+
+Shop  https //stza.co/+xCiw-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Astros vs. Rays
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:1UAI9O77sPxg-9CtiJpUp7Se@stanza.co
+SUMMARY:Astros vs. Rays
+DESCRIPTION:Astros vs. Rays\n\nFollow on MiLB First Pitch: https://stza.co/+xCiw-1e\n\nShop: https://stza.co/+xCiw-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT

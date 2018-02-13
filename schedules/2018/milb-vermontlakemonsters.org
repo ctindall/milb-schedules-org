@@ -1,0 +1,2746 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Lake Monsters @ ValleyCats
+<2018-06-15 Fri>--<2018-06-14 Thu>
+:PROPERTIES:
+:ID:       Kpl5Pmtohx-2ssz7COaQW15l@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ ValleyCats Lake Monsters @ ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMxR-1b
+
+Shop  https //stza.co/+xMxR-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180615
+DTEND;VALUE=DATE:20180615
+UID:Kpl5Pmtohx-2ssz7COaQW15l@stanza.co
+SUMMARY:Lake Monsters @ ValleyCats
+DESCRIPTION:Lake Monsters @ ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMxR-1b\n\nShop: https://stza.co/+xMxR-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ ValleyCats
+<2018-06-16 Sat>--<2018-06-15 Fri>
+:PROPERTIES:
+:ID:       ZeBCBbVN2o6d3p2bEwGS4jSF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ ValleyCats Lake Monsters @ ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMxS-R
+
+Shop  https //stza.co/+xMxS-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180616
+DTEND;VALUE=DATE:20180616
+UID:ZeBCBbVN2o6d3p2bEwGS4jSF@stanza.co
+SUMMARY:Lake Monsters @ ValleyCats
+DESCRIPTION:Lake Monsters @ ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMxS-R\n\nShop: https://stza.co/+xMxS-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ ValleyCats
+<2018-06-17 Sun>--<2018-06-16 Sat>
+:PROPERTIES:
+:ID:       0gWbDtjL8-IKDVctVYGlGb4S@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ ValleyCats Lake Monsters @ ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMxT-19
+
+Shop  https //stza.co/+xMxT-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180617
+DTEND;VALUE=DATE:20180617
+UID:0gWbDtjL8-IKDVctVYGlGb4S@stanza.co
+SUMMARY:Lake Monsters @ ValleyCats
+DESCRIPTION:Lake Monsters @ ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMxT-19\n\nShop: https://stza.co/+xMxT-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Tigers
+<2018-06-18 Mon>--<2018-06-17 Sun>
+:PROPERTIES:
+:ID:       MmVtIjnbV-oNL2fOUtUpnbtO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Tigers Lake Monsters vs. Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxY-2_
+
+Shop  https //stza.co/+xMxY-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180618
+UID:MmVtIjnbV-oNL2fOUtUpnbtO@stanza.co
+SUMMARY:Lake Monsters vs. Tigers
+DESCRIPTION:Lake Monsters vs. Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxY-2_\n\nShop: https://stza.co/+xMxY-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Tigers
+<2018-06-19 Tue>--<2018-06-18 Mon>
+:PROPERTIES:
+:ID:       UThzqLUawOwkTsum3gZDRoCC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Tigers Lake Monsters vs. Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxZ-2F
+
+Shop  https //stza.co/+xMxZ-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180619
+UID:UThzqLUawOwkTsum3gZDRoCC@stanza.co
+SUMMARY:Lake Monsters vs. Tigers
+DESCRIPTION:Lake Monsters vs. Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxZ-2F\n\nShop: https://stza.co/+xMxZ-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Tigers
+<2018-06-20 Wed>--<2018-06-19 Tue>
+:PROPERTIES:
+:ID:       8UvNJoyx4ibE0AiPwi0aQcb3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Tigers Lake Monsters vs. Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMy0-2b
+
+Shop  https //stza.co/+xMy0-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180620
+UID:8UvNJoyx4ibE0AiPwi0aQcb3@stanza.co
+SUMMARY:Lake Monsters vs. Tigers
+DESCRIPTION:Lake Monsters vs. Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMy0-2b\n\nShop: https://stza.co/+xMy0-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Renegades
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       RNc6fk8AiieIRbDwJSa2imhe@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Renegades Lake Monsters @ Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xW0u-1k
+
+Shop  https //stza.co/+xW0u-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Renegades
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:RNc6fk8AiieIRbDwJSa2imhe@stanza.co
+SUMMARY:Lake Monsters @ Renegades
+DESCRIPTION:Lake Monsters @ Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xW0u-1k\n\nShop: https://stza.co/+xW0u-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Renegades
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       VxzARUtITdg5ddgxdcDtSBL4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Renegades Lake Monsters @ Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xW0v-T
+
+Shop  https //stza.co/+xW0v-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Renegades
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:VxzARUtITdg5ddgxdcDtSBL4@stanza.co
+SUMMARY:Lake Monsters @ Renegades
+DESCRIPTION:Lake Monsters @ Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xW0v-T\n\nShop: https://stza.co/+xW0v-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Renegades
+<2018-06-23 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       vZQTE4JIi2XbecSnirtcLwYp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Renegades Lake Monsters @ Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xW0w-2u
+
+Shop  https //stza.co/+xW0w-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Renegades
+END:VALARM
+DTSTART:20180623T230500Z
+DTEND:20180624T020500Z
+UID:vZQTE4JIi2XbecSnirtcLwYp@stanza.co
+SUMMARY:Lake Monsters @ Renegades
+DESCRIPTION:Lake Monsters @ Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xW0w-2u\n\nShop: https://stza.co/+xW0w-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ IronBirds
+<2018-06-24 Sun 15:05-18:05>
+:PROPERTIES:
+:ID:       poE6kfxST3X-p7MxUL6diZ2j@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ IronBirds Lake Monsters @ IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xXUr-1s
+
+Shop  https //stza.co/+xXUr-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ IronBirds
+END:VALARM
+DTSTART:20180624T200500Z
+DTEND:20180624T230500Z
+UID:poE6kfxST3X-p7MxUL6diZ2j@stanza.co
+SUMMARY:Lake Monsters @ IronBirds
+DESCRIPTION:Lake Monsters @ IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xXUr-1s\n\nShop: https://stza.co/+xXUr-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ IronBirds
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       nJ6Tk09StfrEAOIPPw8r17ua@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ IronBirds Lake Monsters @ IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xXUs-10
+
+Shop  https //stza.co/+xXUs-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ IronBirds
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:nJ6Tk09StfrEAOIPPw8r17ua@stanza.co
+SUMMARY:Lake Monsters @ IronBirds
+DESCRIPTION:Lake Monsters @ IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xXUs-10\n\nShop: https://stza.co/+xXUs-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ IronBirds
+<2018-06-26 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       AegxdFlcVVmwTUpk_ejM7OZ2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ IronBirds Lake Monsters @ IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xXUt-1R
+
+Shop  https //stza.co/+xXUt-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ IronBirds
+END:VALARM
+DTSTART:20180626T230500Z
+DTEND:20180627T020500Z
+UID:AegxdFlcVVmwTUpk_ejM7OZ2@stanza.co
+SUMMARY:Lake Monsters @ IronBirds
+DESCRIPTION:Lake Monsters @ IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xXUt-1R\n\nShop: https://stza.co/+xXUt-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Cyclones
+<2018-06-28 Thu>--<2018-06-27 Wed>
+:PROPERTIES:
+:ID:       b7NaIq-EyZcFyte1-qWmlPVb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Cyclones Lake Monsters vs. Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMy2-3u
+
+Shop  https //stza.co/+xMy2-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180628
+UID:b7NaIq-EyZcFyte1-qWmlPVb@stanza.co
+SUMMARY:Lake Monsters vs. Cyclones
+DESCRIPTION:Lake Monsters vs. Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMy2-3u\n\nShop: https://stza.co/+xMy2-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Cyclones
+<2018-06-29 Fri>--<2018-06-28 Thu>
+:PROPERTIES:
+:ID:       -oaV8OcYrNUGHLe81YBI94xA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Cyclones Lake Monsters vs. Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMy4-3v
+
+Shop  https //stza.co/+xMy4-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180629
+UID:-oaV8OcYrNUGHLe81YBI94xA@stanza.co
+SUMMARY:Lake Monsters vs. Cyclones
+DESCRIPTION:Lake Monsters vs. Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMy4-3v\n\nShop: https://stza.co/+xMy4-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Cyclones
+<2018-06-30 Sat>--<2018-06-29 Fri>
+:PROPERTIES:
+:ID:       y3aXET858LiVqB3rcH2Xrklv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Cyclones Lake Monsters vs. Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMy6-3g
+
+Shop  https //stza.co/+xMy6-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180630
+UID:y3aXET858LiVqB3rcH2Xrklv@stanza.co
+SUMMARY:Lake Monsters vs. Cyclones
+DESCRIPTION:Lake Monsters vs. Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMy6-3g\n\nShop: https://stza.co/+xMy6-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-07-01 Sun>--<2018-06-30 Sat>
+:PROPERTIES:
+:ID:       NPBxURNuQV7KZaABiabnCybq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMy8-F
+
+Shop  https //stza.co/+xMy8-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180701
+UID:NPBxURNuQV7KZaABiabnCybq@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMy8-F\n\nShop: https://stza.co/+xMy8-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-07-02 Mon>--<2018-07-01 Sun>
+:PROPERTIES:
+:ID:       DfB9hMLNUAdm04PUvNtpG4s7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMya-2d
+
+Shop  https //stza.co/+xMya-1K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180702
+UID:DfB9hMLNUAdm04PUvNtpG4s7@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMya-2d\n\nShop: https://stza.co/+xMya-1K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-07-03 Tue>--<2018-07-02 Mon>
+:PROPERTIES:
+:ID:       PRcuhZYDq8S7G0RXeiEAXlJ1@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMyb-u
+
+Shop  https //stza.co/+xMyb-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180703
+DTEND;VALUE=DATE:20180703
+UID:PRcuhZYDq8S7G0RXeiEAXlJ1@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMyb-u\n\nShop: https://stza.co/+xMyb-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ ValleyCats
+<2018-07-04 Wed>--<2018-07-03 Tue>
+:PROPERTIES:
+:ID:       iwn37PU3JA1uWd1vv2XDdBEi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ ValleyCats Lake Monsters @ ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMxU-2C
+
+Shop  https //stza.co/+xMxU-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180704
+DTEND;VALUE=DATE:20180704
+UID:iwn37PU3JA1uWd1vv2XDdBEi@stanza.co
+SUMMARY:Lake Monsters @ ValleyCats
+DESCRIPTION:Lake Monsters @ ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMxU-2C\n\nShop: https://stza.co/+xMxU-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ ValleyCats
+<2018-07-05 Thu>--<2018-07-04 Wed>
+:PROPERTIES:
+:ID:       jdd6qQbdgB1SajoTepNdv0Vk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ ValleyCats Lake Monsters @ ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMxV-1H
+
+Shop  https //stza.co/+xMxV-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180705
+UID:jdd6qQbdgB1SajoTepNdv0Vk@stanza.co
+SUMMARY:Lake Monsters @ ValleyCats
+DESCRIPTION:Lake Monsters @ ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMxV-1H\n\nShop: https://stza.co/+xMxV-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ ValleyCats
+<2018-07-06 Fri>--<2018-07-05 Thu>
+:PROPERTIES:
+:ID:       UeZ2m8FpLWp7Wds7poqyVKDG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ ValleyCats Lake Monsters @ ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMxW-B
+
+Shop  https //stza.co/+xMxW-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180706
+UID:UeZ2m8FpLWp7Wds7poqyVKDG@stanza.co
+SUMMARY:Lake Monsters @ ValleyCats
+DESCRIPTION:Lake Monsters @ ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMxW-B\n\nShop: https://stza.co/+xMxW-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Tigers
+<2018-07-07 Sat>--<2018-07-06 Fri>
+:PROPERTIES:
+:ID:       lu7nFSvRqJ-YaSAYIMOmGWzO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Tigers Lake Monsters vs. Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMye-6
+
+Shop  https //stza.co/+xMye-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180707
+DTEND;VALUE=DATE:20180707
+UID:lu7nFSvRqJ-YaSAYIMOmGWzO@stanza.co
+SUMMARY:Lake Monsters vs. Tigers
+DESCRIPTION:Lake Monsters vs. Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMye-6\n\nShop: https://stza.co/+xMye-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Tigers
+<2018-07-08 Sun>--<2018-07-07 Sat>
+:PROPERTIES:
+:ID:       ieg_BxqNSxpeTjYrTj9r0K2Q@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Tigers Lake Monsters vs. Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMyg-2f
+
+Shop  https //stza.co/+xMyg-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180708
+DTEND;VALUE=DATE:20180708
+UID:ieg_BxqNSxpeTjYrTj9r0K2Q@stanza.co
+SUMMARY:Lake Monsters vs. Tigers
+DESCRIPTION:Lake Monsters vs. Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMyg-2f\n\nShop: https://stza.co/+xMyg-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Tigers
+<2018-07-09 Mon>--<2018-07-08 Sun>
+:PROPERTIES:
+:ID:       0NleG9UyrhgVlnopifdV4uJ7@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Tigers Lake Monsters vs. Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMyi-2e
+
+Shop  https //stza.co/+xMyi-3X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180709
+DTEND;VALUE=DATE:20180709
+UID:0NleG9UyrhgVlnopifdV4uJ7@stanza.co
+SUMMARY:Lake Monsters vs. Tigers
+DESCRIPTION:Lake Monsters vs. Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMyi-2e\n\nShop: https://stza.co/+xMyi-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spikes
+<2018-07-11 Wed>--<2018-07-10 Tue>
+:PROPERTIES:
+:ID:       w-hZFKxbMy-NHQoXgHjKLwll@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spikes Lake Monsters @ Spikes
+
+Follow on MiLB First Pitch  https //stza.co/+xMxL-2K
+
+Shop  https //stza.co/+xMxL-R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spikes
+END:VALARM
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180711
+UID:w-hZFKxbMy-NHQoXgHjKLwll@stanza.co
+SUMMARY:Lake Monsters @ Spikes
+DESCRIPTION:Lake Monsters @ Spikes\n\nFollow on MiLB First Pitch: https://stza.co/+xMxL-2K\n\nShop: https://stza.co/+xMxL-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spikes
+<2018-07-12 Thu>--<2018-07-11 Wed>
+:PROPERTIES:
+:ID:       X3pv2dzSemt4GGIRAiuCqk3L@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spikes Lake Monsters @ Spikes
+
+Follow on MiLB First Pitch  https //stza.co/+xMxM-1n
+
+Shop  https //stza.co/+xMxM-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spikes
+END:VALARM
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+UID:X3pv2dzSemt4GGIRAiuCqk3L@stanza.co
+SUMMARY:Lake Monsters @ Spikes
+DESCRIPTION:Lake Monsters @ Spikes\n\nFollow on MiLB First Pitch: https://stza.co/+xMxM-1n\n\nShop: https://stza.co/+xMxM-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spikes
+<2018-07-13 Fri>--<2018-07-12 Thu>
+:PROPERTIES:
+:ID:       e7-X_jtAO-nzur4f-NPqhnl9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spikes Lake Monsters @ Spikes
+
+Follow on MiLB First Pitch  https //stza.co/+xMxN-1W
+
+Shop  https //stza.co/+xMxN-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spikes
+END:VALARM
+DTSTART;VALUE=DATE:20180713
+DTEND;VALUE=DATE:20180713
+UID:e7-X_jtAO-nzur4f-NPqhnl9@stanza.co
+SUMMARY:Lake Monsters @ Spikes
+DESCRIPTION:Lake Monsters @ Spikes\n\nFollow on MiLB First Pitch: https://stza.co/+xMxN-1W\n\nShop: https://stza.co/+xMxN-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Tigers
+<2018-07-14 Sat>--<2018-07-13 Fri>
+:PROPERTIES:
+:ID:       Hi3hdbLiibSCZRjNQMkyphZx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Tigers Lake Monsters @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxt-3J
+
+Shop  https //stza.co/+xMxt-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180714
+DTEND;VALUE=DATE:20180714
+UID:Hi3hdbLiibSCZRjNQMkyphZx@stanza.co
+SUMMARY:Lake Monsters @ Tigers
+DESCRIPTION:Lake Monsters @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxt-3J\n\nShop: https://stza.co/+xMxt-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Tigers
+<2018-07-15 Sun>--<2018-07-14 Sat>
+:PROPERTIES:
+:ID:       bTsFvEZawIFJK8JX6oRPQCNr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Tigers Lake Monsters @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxu-1k
+
+Shop  https //stza.co/+xMxu-1Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180715
+UID:bTsFvEZawIFJK8JX6oRPQCNr@stanza.co
+SUMMARY:Lake Monsters @ Tigers
+DESCRIPTION:Lake Monsters @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxu-1k\n\nShop: https://stza.co/+xMxu-1Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Tigers
+<2018-07-16 Mon>--<2018-07-15 Sun>
+:PROPERTIES:
+:ID:       qmD_ha5SUbOYgm0rlJzM7mGg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Tigers Lake Monsters @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxv-1b
+
+Shop  https //stza.co/+xMxv-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180716
+UID:qmD_ha5SUbOYgm0rlJzM7mGg@stanza.co
+SUMMARY:Lake Monsters @ Tigers
+DESCRIPTION:Lake Monsters @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxv-1b\n\nShop: https://stza.co/+xMxv-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Yankees
+<2018-07-17 Tue>--<2018-07-16 Mon>
+:PROPERTIES:
+:ID:       s8rP9cD7GeA_pStbcukYb3NZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Yankees Lake Monsters vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMyj-3m
+
+Shop  https //stza.co/+xMyj-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180717
+DTEND;VALUE=DATE:20180717
+UID:s8rP9cD7GeA_pStbcukYb3NZ@stanza.co
+SUMMARY:Lake Monsters vs. Yankees
+DESCRIPTION:Lake Monsters vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMyj-3m\n\nShop: https://stza.co/+xMyj-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Yankees
+<2018-07-18 Wed>--<2018-07-17 Tue>
+:PROPERTIES:
+:ID:       lQCUkopAY6bS5PtxPHTxOlKX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Yankees Lake Monsters vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMym-33
+
+Shop  https //stza.co/+xMym-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180718
+UID:lQCUkopAY6bS5PtxPHTxOlKX@stanza.co
+SUMMARY:Lake Monsters vs. Yankees
+DESCRIPTION:Lake Monsters vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMym-33\n\nShop: https://stza.co/+xMym-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Yankees
+<2018-07-19 Thu>--<2018-07-18 Wed>
+:PROPERTIES:
+:ID:       QS5tkboPn5LMUkFhWrZQx-ru@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Yankees Lake Monsters vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMyo-13
+
+Shop  https //stza.co/+xMyo-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180719
+UID:QS5tkboPn5LMUkFhWrZQx-ru@stanza.co
+SUMMARY:Lake Monsters vs. Yankees
+DESCRIPTION:Lake Monsters vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMyo-13\n\nShop: https://stza.co/+xMyo-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Renegades
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       1xqrnMqghELrzegboyfGlgix@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Renegades Lake Monsters @ Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xW0x-2x
+
+Shop  https //stza.co/+xW0x-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Renegades
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:1xqrnMqghELrzegboyfGlgix@stanza.co
+SUMMARY:Lake Monsters @ Renegades
+DESCRIPTION:Lake Monsters @ Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xW0x-2x\n\nShop: https://stza.co/+xW0x-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Renegades
+<2018-07-21 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       y3ufIOUa6fvaAMEx8srAZqEs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Renegades Lake Monsters @ Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xW0y-2O
+
+Shop  https //stza.co/+xW0y-8
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Renegades
+END:VALARM
+DTSTART:20180721T220500Z
+DTEND:20180722T010500Z
+UID:y3ufIOUa6fvaAMEx8srAZqEs@stanza.co
+SUMMARY:Lake Monsters @ Renegades
+DESCRIPTION:Lake Monsters @ Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xW0y-2O\n\nShop: https://stza.co/+xW0y-8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Renegades
+<2018-07-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       Ze9vBNEXh5keuevBaexU_L4j@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Renegades Lake Monsters @ Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xW0z-1e
+
+Shop  https //stza.co/+xW0z-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Renegades
+END:VALARM
+DTSTART:20180722T210500Z
+DTEND:20180723T000500Z
+UID:Ze9vBNEXh5keuevBaexU_L4j@stanza.co
+SUMMARY:Lake Monsters @ Renegades
+DESCRIPTION:Lake Monsters @ Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xW0z-1e\n\nShop: https://stza.co/+xW0z-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Crosscutters
+<2018-07-24 Tue>--<2018-07-23 Mon>
+:PROPERTIES:
+:ID:       A4nmzApK7ysVHe6LzUh6OGAV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Crosscutters Lake Monsters vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMyq-1C
+
+Shop  https //stza.co/+xMyq-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180724
+UID:A4nmzApK7ysVHe6LzUh6OGAV@stanza.co
+SUMMARY:Lake Monsters vs. Crosscutters
+DESCRIPTION:Lake Monsters vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMyq-1C\n\nShop: https://stza.co/+xMyq-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Crosscutters
+<2018-07-25 Wed>--<2018-07-24 Tue>
+:PROPERTIES:
+:ID:       BQgjNLeDb0l6oHGTO3Jtvrze@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Crosscutters Lake Monsters vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMys-3l
+
+Shop  https //stza.co/+xMys-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180725
+UID:BQgjNLeDb0l6oHGTO3Jtvrze@stanza.co
+SUMMARY:Lake Monsters vs. Crosscutters
+DESCRIPTION:Lake Monsters vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMys-3l\n\nShop: https://stza.co/+xMys-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Crosscutters
+<2018-07-26 Thu>--<2018-07-25 Wed>
+:PROPERTIES:
+:ID:       ifeicXXdLwjYREoWJBKc-hc6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Crosscutters Lake Monsters vs. Crosscutters
+
+Follow on MiLB First Pitch  https //stza.co/+xMyt-b
+
+Shop  https //stza.co/+xMyt-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Crosscutters
+END:VALARM
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180726
+UID:ifeicXXdLwjYREoWJBKc-hc6@stanza.co
+SUMMARY:Lake Monsters vs. Crosscutters
+DESCRIPTION:Lake Monsters vs. Crosscutters\n\nFollow on MiLB First Pitch: https://stza.co/+xMyt-b\n\nShop: https://stza.co/+xMyt-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Muckdogs
+<2018-07-27 Fri>--<2018-07-26 Thu>
+:PROPERTIES:
+:ID:       eJK-85bD9u52KOpdvmqSYfDH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Muckdogs Lake Monsters vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMyv-3V
+
+Shop  https //stza.co/+xMyv-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180727
+UID:eJK-85bD9u52KOpdvmqSYfDH@stanza.co
+SUMMARY:Lake Monsters vs. Muckdogs
+DESCRIPTION:Lake Monsters vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMyv-3V\n\nShop: https://stza.co/+xMyv-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Muckdogs
+<2018-07-28 Sat>--<2018-07-27 Fri>
+:PROPERTIES:
+:ID:       hwdSdeQquSTZ9nSBxU_4WcDj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Muckdogs Lake Monsters vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMyy-2_
+
+Shop  https //stza.co/+xMyy-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180728
+UID:hwdSdeQquSTZ9nSBxU_4WcDj@stanza.co
+SUMMARY:Lake Monsters vs. Muckdogs
+DESCRIPTION:Lake Monsters vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMyy-2_\n\nShop: https://stza.co/+xMyy-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Muckdogs
+<2018-07-29 Sun>--<2018-07-28 Sat>
+:PROPERTIES:
+:ID:       6o7TnQ2vPV0FYcCSA_NiLJWC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Muckdogs Lake Monsters vs. Muckdogs
+
+Follow on MiLB First Pitch  https //stza.co/+xMyz-1Z
+
+Shop  https //stza.co/+xMyz-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Muckdogs
+END:VALARM
+DTSTART;VALUE=DATE:20180729
+DTEND;VALUE=DATE:20180729
+UID:6o7TnQ2vPV0FYcCSA_NiLJWC@stanza.co
+SUMMARY:Lake Monsters vs. Muckdogs
+DESCRIPTION:Lake Monsters vs. Muckdogs\n\nFollow on MiLB First Pitch: https://stza.co/+xMyz-1Z\n\nShop: https://stza.co/+xMyz-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Tigers
+<2018-07-30 Mon>--<2018-07-29 Sun>
+:PROPERTIES:
+:ID:       GOcLlduTmFPDAR9TmrZgGsi-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Tigers Lake Monsters @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxw-F
+
+Shop  https //stza.co/+xMxw-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180730
+DTEND;VALUE=DATE:20180730
+UID:GOcLlduTmFPDAR9TmrZgGsi-@stanza.co
+SUMMARY:Lake Monsters @ Tigers
+DESCRIPTION:Lake Monsters @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxw-F\n\nShop: https://stza.co/+xMxw-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Tigers
+<2018-07-31 Tue>--<2018-07-30 Mon>
+:PROPERTIES:
+:ID:       xqARG8kZBAyYABFvB5zjBah8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Tigers Lake Monsters @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxx-u
+
+Shop  https //stza.co/+xMxx-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180731
+DTEND;VALUE=DATE:20180731
+UID:xqARG8kZBAyYABFvB5zjBah8@stanza.co
+SUMMARY:Lake Monsters @ Tigers
+DESCRIPTION:Lake Monsters @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxx-u\n\nShop: https://stza.co/+xMxx-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Tigers
+<2018-08-01 Wed>--<2018-07-31 Tue>
+:PROPERTIES:
+:ID:       T-BmHYYkbTKtTrmUSqVb-LCa@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Tigers Lake Monsters @ Tigers
+
+Follow on MiLB First Pitch  https //stza.co/+xMxy-1k
+
+Shop  https //stza.co/+xMxy-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Tigers
+END:VALARM
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180801
+UID:T-BmHYYkbTKtTrmUSqVb-LCa@stanza.co
+SUMMARY:Lake Monsters @ Tigers
+DESCRIPTION:Lake Monsters @ Tigers\n\nFollow on MiLB First Pitch: https://stza.co/+xMxy-1k\n\nShop: https://stza.co/+xMxy-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Renegades
+<2018-08-02 Thu>--<2018-08-01 Wed>
+:PROPERTIES:
+:ID:       egNZHH8JxPUhAwe2Yt96mMPB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Renegades Lake Monsters vs. Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xMyC-x
+
+Shop  https //stza.co/+xMyC-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Renegades
+END:VALARM
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180802
+UID:egNZHH8JxPUhAwe2Yt96mMPB@stanza.co
+SUMMARY:Lake Monsters vs. Renegades
+DESCRIPTION:Lake Monsters vs. Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xMyC-x\n\nShop: https://stza.co/+xMyC-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Renegades
+<2018-08-03 Fri>--<2018-08-02 Thu>
+:PROPERTIES:
+:ID:       A7ABNNWn9NUANu8CasOXJIq2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Renegades Lake Monsters vs. Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xMyE-2t
+
+Shop  https //stza.co/+xMyE-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Renegades
+END:VALARM
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180803
+UID:A7ABNNWn9NUANu8CasOXJIq2@stanza.co
+SUMMARY:Lake Monsters vs. Renegades
+DESCRIPTION:Lake Monsters vs. Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xMyE-2t\n\nShop: https://stza.co/+xMyE-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Renegades
+<2018-08-04 Sat>--<2018-08-03 Fri>
+:PROPERTIES:
+:ID:       htWcRHkzWxB7LMuamgPnD7rM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Renegades Lake Monsters vs. Renegades
+
+Follow on MiLB First Pitch  https //stza.co/+xMyG-33
+
+Shop  https //stza.co/+xMyG-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Renegades
+END:VALARM
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180804
+UID:htWcRHkzWxB7LMuamgPnD7rM@stanza.co
+SUMMARY:Lake Monsters vs. Renegades
+DESCRIPTION:Lake Monsters vs. Renegades\n\nFollow on MiLB First Pitch: https://stza.co/+xMyG-33\n\nShop: https://stza.co/+xMyG-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spinners
+<2018-08-05 Sun>--<2018-08-04 Sat>
+:PROPERTIES:
+:ID:       04QyCJjuNuIK2dFH2hwZ7K-C@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spinners Lake Monsters @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMxF-E
+
+Shop  https //stza.co/+xMxF-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180805
+DTEND;VALUE=DATE:20180805
+UID:04QyCJjuNuIK2dFH2hwZ7K-C@stanza.co
+SUMMARY:Lake Monsters @ Spinners
+DESCRIPTION:Lake Monsters @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMxF-E\n\nShop: https://stza.co/+xMxF-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spinners
+<2018-08-06 Mon>--<2018-08-05 Sun>
+:PROPERTIES:
+:ID:       by3-pkJw5maZ7A9r0qvYSUyZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spinners Lake Monsters @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMxG-3t
+
+Shop  https //stza.co/+xMxG-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180806
+UID:by3-pkJw5maZ7A9r0qvYSUyZ@stanza.co
+SUMMARY:Lake Monsters @ Spinners
+DESCRIPTION:Lake Monsters @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMxG-3t\n\nShop: https://stza.co/+xMxG-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spinners
+<2018-08-07 Tue>--<2018-08-06 Mon>
+:PROPERTIES:
+:ID:       s9R0AmKKHUoOfL4jhrsU9MPM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spinners Lake Monsters @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMxH-j
+
+Shop  https //stza.co/+xMxH-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180807
+UID:s9R0AmKKHUoOfL4jhrsU9MPM@stanza.co
+SUMMARY:Lake Monsters @ Spinners
+DESCRIPTION:Lake Monsters @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMxH-j\n\nShop: https://stza.co/+xMxH-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ IronBirds
+<2018-08-08 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       zi6BhQFKhsZHmpEYXnfKGaFi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ IronBirds Lake Monsters @ IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xXUu-r
+
+Shop  https //stza.co/+xXUu-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ IronBirds
+END:VALARM
+DTSTART:20180808T230500Z
+DTEND:20180809T020500Z
+UID:zi6BhQFKhsZHmpEYXnfKGaFi@stanza.co
+SUMMARY:Lake Monsters @ IronBirds
+DESCRIPTION:Lake Monsters @ IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xXUu-r\n\nShop: https://stza.co/+xXUu-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ IronBirds
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       KFxKq0Gl8Lr9naraDliuuBQD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ IronBirds Lake Monsters @ IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xXUv-a
+
+Shop  https //stza.co/+xXUv-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ IronBirds
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:KFxKq0Gl8Lr9naraDliuuBQD@stanza.co
+SUMMARY:Lake Monsters @ IronBirds
+DESCRIPTION:Lake Monsters @ IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xXUv-a\n\nShop: https://stza.co/+xXUv-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ IronBirds
+<2018-08-10 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       WLXgaDkLhiSJeef9JEjFVth-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ IronBirds Lake Monsters @ IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xXUw-2m
+
+Shop  https //stza.co/+xXUw-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ IronBirds
+END:VALARM
+DTSTART:20180810T230500Z
+DTEND:20180811T020500Z
+UID:WLXgaDkLhiSJeef9JEjFVth-@stanza.co
+SUMMARY:Lake Monsters @ IronBirds
+DESCRIPTION:Lake Monsters @ IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xXUw-2m\n\nShop: https://stza.co/+xXUw-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-08-11 Sat>--<2018-08-10 Fri>
+:PROPERTIES:
+:ID:       vnOOzDBacbmvXabJ6VIpROd7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMyI-1g
+
+Shop  https //stza.co/+xMyI-1l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180811
+UID:vnOOzDBacbmvXabJ6VIpROd7@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMyI-1g\n\nShop: https://stza.co/+xMyI-1l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-08-12 Sun>--<2018-08-11 Sat>
+:PROPERTIES:
+:ID:       SsHxkGiOprbDcbvgy5Lw5PGf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMyJ-3N
+
+Shop  https //stza.co/+xMyJ-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180812
+UID:SsHxkGiOprbDcbvgy5Lw5PGf@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMyJ-3N\n\nShop: https://stza.co/+xMyJ-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Cyclones
+<2018-08-15 Wed>--<2018-08-14 Tue>
+:PROPERTIES:
+:ID:       hVWgIixdRX3L0Ao944xafzQ-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Cyclones Lake Monsters @ Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMxr-2u
+
+Shop  https //stza.co/+xMxr-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180815
+DTEND;VALUE=DATE:20180815
+UID:hVWgIixdRX3L0Ao944xafzQ-@stanza.co
+SUMMARY:Lake Monsters @ Cyclones
+DESCRIPTION:Lake Monsters @ Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMxr-2u\n\nShop: https://stza.co/+xMxr-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Cyclones
+<2018-08-16 Thu>--<2018-08-15 Wed>
+:PROPERTIES:
+:ID:       8c0AqEiFv6ejgBq6nLdIdBkF@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Cyclones Lake Monsters @ Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMxs-2U
+
+Shop  https //stza.co/+xMxs-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180816
+UID:8c0AqEiFv6ejgBq6nLdIdBkF@stanza.co
+SUMMARY:Lake Monsters @ Cyclones
+DESCRIPTION:Lake Monsters @ Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMxs-2U\n\nShop: https://stza.co/+xMxs-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Yankees
+<2018-08-17 Fri>--<2018-08-16 Thu>
+:PROPERTIES:
+:ID:       teb-YKIlf6sjFOgqbXW8fkvh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Yankees Lake Monsters vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMyM-2J
+
+Shop  https //stza.co/+xMyM-29
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180817
+DTEND;VALUE=DATE:20180817
+UID:teb-YKIlf6sjFOgqbXW8fkvh@stanza.co
+SUMMARY:Lake Monsters vs. Yankees
+DESCRIPTION:Lake Monsters vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMyM-2J\n\nShop: https://stza.co/+xMyM-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Yankees
+<2018-08-18 Sat>--<2018-08-17 Fri>
+:PROPERTIES:
+:ID:       _ahdwlkR7fj5NmuX6PHU61_c@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Yankees Lake Monsters vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMyO-3r
+
+Shop  https //stza.co/+xMyO-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180818
+DTEND;VALUE=DATE:20180818
+UID:_ahdwlkR7fj5NmuX6PHU61_c@stanza.co
+SUMMARY:Lake Monsters vs. Yankees
+DESCRIPTION:Lake Monsters vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMyO-3r\n\nShop: https://stza.co/+xMyO-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Yankees
+<2018-08-19 Sun>--<2018-08-18 Sat>
+:PROPERTIES:
+:ID:       1JJtlrat5ysGL91O8zrFSYEB@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Yankees Lake Monsters vs. Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMyP-1U
+
+Shop  https //stza.co/+xMyP-h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180819
+DTEND;VALUE=DATE:20180819
+UID:1JJtlrat5ysGL91O8zrFSYEB@stanza.co
+SUMMARY:Lake Monsters vs. Yankees
+DESCRIPTION:Lake Monsters vs. Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMyP-1U\n\nShop: https://stza.co/+xMyP-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. IronBirds
+<2018-08-20 Mon>--<2018-08-19 Sun>
+:PROPERTIES:
+:ID:       A9i40gpX-CvZctKcmIIbBevQ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. IronBirds Lake Monsters vs. IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xMyS-1l
+
+Shop  https //stza.co/+xMyS-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. IronBirds
+END:VALARM
+DTSTART;VALUE=DATE:20180820
+DTEND;VALUE=DATE:20180820
+UID:A9i40gpX-CvZctKcmIIbBevQ@stanza.co
+SUMMARY:Lake Monsters vs. IronBirds
+DESCRIPTION:Lake Monsters vs. IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xMyS-1l\n\nShop: https://stza.co/+xMyS-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. IronBirds
+<2018-08-21 Tue>--<2018-08-20 Mon>
+:PROPERTIES:
+:ID:       TyOybustcMTSCTPny0HyFUvB@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. IronBirds Lake Monsters vs. IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xMyT-3_
+
+Shop  https //stza.co/+xMyT-3C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. IronBirds
+END:VALARM
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180821
+UID:TyOybustcMTSCTPny0HyFUvB@stanza.co
+SUMMARY:Lake Monsters vs. IronBirds
+DESCRIPTION:Lake Monsters vs. IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xMyT-3_\n\nShop: https://stza.co/+xMyT-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. IronBirds
+<2018-08-22 Wed>--<2018-08-21 Tue>
+:PROPERTIES:
+:ID:       OpqIAw0NKrtAEOyFhlj8zZhP@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. IronBirds Lake Monsters vs. IronBirds
+
+Follow on MiLB First Pitch  https //stza.co/+xMyV-T
+
+Shop  https //stza.co/+xMyV-2F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. IronBirds
+END:VALARM
+DTSTART;VALUE=DATE:20180822
+DTEND;VALUE=DATE:20180822
+UID:OpqIAw0NKrtAEOyFhlj8zZhP@stanza.co
+SUMMARY:Lake Monsters vs. IronBirds
+DESCRIPTION:Lake Monsters vs. IronBirds\n\nFollow on MiLB First Pitch: https://stza.co/+xMyV-T\n\nShop: https://stza.co/+xMyV-2F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spinners
+<2018-08-23 Thu>--<2018-08-22 Wed>
+:PROPERTIES:
+:ID:       Sg6ryKMJyrZU2aCJh6Yxho-J@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spinners Lake Monsters @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMxI-3W
+
+Shop  https //stza.co/+xMxI-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180823
+UID:Sg6ryKMJyrZU2aCJh6Yxho-J@stanza.co
+SUMMARY:Lake Monsters @ Spinners
+DESCRIPTION:Lake Monsters @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMxI-3W\n\nShop: https://stza.co/+xMxI-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spinners
+<2018-08-24 Fri>--<2018-08-23 Thu>
+:PROPERTIES:
+:ID:       fWBX28XwojNcr5kagFP1ZfDg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spinners Lake Monsters @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMxJ-p
+
+Shop  https //stza.co/+xMxJ-1g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180824
+UID:fWBX28XwojNcr5kagFP1ZfDg@stanza.co
+SUMMARY:Lake Monsters @ Spinners
+DESCRIPTION:Lake Monsters @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMxJ-p\n\nShop: https://stza.co/+xMxJ-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Spinners
+<2018-08-25 Sat>--<2018-08-24 Fri>
+:PROPERTIES:
+:ID:       f-W3Q_jKOcSrkPHO6IdqeNUR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Spinners Lake Monsters @ Spinners
+
+Follow on MiLB First Pitch  https //stza.co/+xMxK-3J
+
+Shop  https //stza.co/+xMxK-2j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Spinners
+END:VALARM
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180825
+UID:f-W3Q_jKOcSrkPHO6IdqeNUR@stanza.co
+SUMMARY:Lake Monsters @ Spinners
+DESCRIPTION:Lake Monsters @ Spinners\n\nFollow on MiLB First Pitch: https://stza.co/+xMxK-3J\n\nShop: https://stza.co/+xMxK-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Cyclones
+<2018-08-26 Sun>--<2018-08-25 Sat>
+:PROPERTIES:
+:ID:       FFt4cpK7YSXM6uzHlHBXURn5@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Cyclones Lake Monsters vs. Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMyX-o
+
+Shop  https //stza.co/+xMyX-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180826
+UID:FFt4cpK7YSXM6uzHlHBXURn5@stanza.co
+SUMMARY:Lake Monsters vs. Cyclones
+DESCRIPTION:Lake Monsters vs. Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMyX-o\n\nShop: https://stza.co/+xMyX-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Cyclones
+<2018-08-27 Mon>--<2018-08-26 Sun>
+:PROPERTIES:
+:ID:       yz3RcBVoXhWuGF5jOZBWr_Bv@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Cyclones Lake Monsters vs. Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMyZ-25
+
+Shop  https //stza.co/+xMyZ-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180827
+DTEND;VALUE=DATE:20180827
+UID:yz3RcBVoXhWuGF5jOZBWr_Bv@stanza.co
+SUMMARY:Lake Monsters vs. Cyclones
+DESCRIPTION:Lake Monsters vs. Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMyZ-25\n\nShop: https://stza.co/+xMyZ-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. Cyclones
+<2018-08-28 Tue>--<2018-08-27 Mon>
+:PROPERTIES:
+:ID:       UKLfX9-20xnfgXBnXLgJ8Stk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. Cyclones Lake Monsters vs. Cyclones
+
+Follow on MiLB First Pitch  https //stza.co/+xMy$-1G
+
+Shop  https //stza.co/+xMy$-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. Cyclones
+END:VALARM
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180828
+UID:UKLfX9-20xnfgXBnXLgJ8Stk@stanza.co
+SUMMARY:Lake Monsters vs. Cyclones
+DESCRIPTION:Lake Monsters vs. Cyclones\n\nFollow on MiLB First Pitch: https://stza.co/+xMy$-1G\n\nShop: https://stza.co/+xMy$-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Yankees
+<2018-08-29 Wed>--<2018-08-28 Tue>
+:PROPERTIES:
+:ID:       Pn0YrX73siRSBypsr_qKIyHO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Yankees Lake Monsters @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMxO-3h
+
+Shop  https //stza.co/+xMxO-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180829
+UID:Pn0YrX73siRSBypsr_qKIyHO@stanza.co
+SUMMARY:Lake Monsters @ Yankees
+DESCRIPTION:Lake Monsters @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMxO-3h\n\nShop: https://stza.co/+xMxO-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Yankees
+<2018-08-30 Thu>--<2018-08-29 Wed>
+:PROPERTIES:
+:ID:       SQitfIAvVt-SvcOQdFdzgXiy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Yankees Lake Monsters @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMxP-A
+
+Shop  https //stza.co/+xMxP-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180830
+UID:SQitfIAvVt-SvcOQdFdzgXiy@stanza.co
+SUMMARY:Lake Monsters @ Yankees
+DESCRIPTION:Lake Monsters @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMxP-A\n\nShop: https://stza.co/+xMxP-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters @ Yankees
+<2018-08-31 Fri>--<2018-08-30 Thu>
+:PROPERTIES:
+:ID:       B5Q8OZv2a7prHG2vlbJPdal2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters @ Yankees Lake Monsters @ Yankees
+
+Follow on MiLB First Pitch  https //stza.co/+xMxQ-j
+
+Shop  https //stza.co/+xMxQ-3n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters @ Yankees
+END:VALARM
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180831
+UID:B5Q8OZv2a7prHG2vlbJPdal2@stanza.co
+SUMMARY:Lake Monsters @ Yankees
+DESCRIPTION:Lake Monsters @ Yankees\n\nFollow on MiLB First Pitch: https://stza.co/+xMxQ-j\n\nShop: https://stza.co/+xMxQ-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-09-01 Sat>--<2018-08-31 Fri>
+:PROPERTIES:
+:ID:       716V1vcJksu66WmDUwvzGtaI@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMz2-F
+
+Shop  https //stza.co/+xMz2-1a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180901
+UID:716V1vcJksu66WmDUwvzGtaI@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMz2-F\n\nShop: https://stza.co/+xMz2-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-09-02 Sun>--<2018-09-01 Sat>
+:PROPERTIES:
+:ID:       jRfL4v_fCy7ln6rpE-RpNQjw@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMz4-29
+
+Shop  https //stza.co/+xMz4-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180902
+UID:jRfL4v_fCy7ln6rpE-RpNQjw@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMz4-29\n\nShop: https://stza.co/+xMz4-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT
+* Lake Monsters vs. ValleyCats
+<2018-09-03 Mon>--<2018-09-02 Sun>
+:PROPERTIES:
+:ID:       0vMlkkamVIVzWV26UTvWxGRl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Lake Monsters vs. ValleyCats Lake Monsters vs. ValleyCats
+
+Follow on MiLB First Pitch  https //stza.co/+xMz5-21
+
+Shop  https //stza.co/+xMz5-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Lake Monsters vs. ValleyCats
+END:VALARM
+DTSTART;VALUE=DATE:20180903
+DTEND;VALUE=DATE:20180903
+UID:0vMlkkamVIVzWV26UTvWxGRl@stanza.co
+SUMMARY:Lake Monsters vs. ValleyCats
+DESCRIPTION:Lake Monsters vs. ValleyCats\n\nFollow on MiLB First Pitch: https://stza.co/+xMz5-21\n\nShop: https://stza.co/+xMz5-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144604Z
+LAST-MODIFIED:20180213T144604Z
+TRANSP:OPAQUE
+END:VEVENT

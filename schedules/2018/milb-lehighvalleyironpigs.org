@@ -1,0 +1,5082 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* IronPigs @ Red Sox
+<2018-04-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       Tm9iHE-Nygtrbx2eNrJ44gU7@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdM
+
+Follow on MiLB First Pitch  https //stza.co/+vKdM-1O
+
+Shop  https //stza.co/+vKdM-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180406T230500Z
+DTEND:20180407T020500Z
+UID:Tm9iHE-Nygtrbx2eNrJ44gU7@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdM\n\nFollow on MiLB First Pitch: https://stza.co/+vKdM-1O\n\nShop: https://stza.co/+vKdM-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-04-07 Sat 12:35-15:35>
+:PROPERTIES:
+:ID:       ShzPmL3utiA1M72z2uGWpFO1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdN
+
+Follow on MiLB First Pitch  https //stza.co/+vKdN-2R
+
+Shop  https //stza.co/+vKdN-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180407T173500Z
+DTEND:20180407T203500Z
+UID:ShzPmL3utiA1M72z2uGWpFO1@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdN\n\nFollow on MiLB First Pitch: https://stza.co/+vKdN-2R\n\nShop: https://stza.co/+vKdN-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-04-08 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       j86Ewz96U-qt1EoCwJZlN9fQ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdO
+
+Follow on MiLB First Pitch  https //stza.co/+vKdO-2$
+
+Shop  https //stza.co/+vKdO-2w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180408T173500Z
+DTEND:20180408T203500Z
+UID:j86Ewz96U-qt1EoCwJZlN9fQ@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdO\n\nFollow on MiLB First Pitch: https://stza.co/+vKdO-2$\n\nShop: https://stza.co/+vKdO-2w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-04-09 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       MzP4e_FnbqzsH_vPBn2sfHWH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKe5-38
+
+Shop  https //stza.co/+vKe5-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180409T223500Z
+DTEND:20180410T013500Z
+UID:MzP4e_FnbqzsH_vPBn2sfHWH@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKe5-38\n\nShop: https://stza.co/+vKe5-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-04-10 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       noWeR07tDtXD8upmAWeZQlot@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKe6-E
+
+Shop  https //stza.co/+vKe6-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180410T223500Z
+DTEND:20180411T013500Z
+UID:noWeR07tDtXD8upmAWeZQlot@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKe6-E\n\nShop: https://stza.co/+vKe6-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-04-11 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       aroP-2hh6Vq5i049F2a9BmlC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKe7-2w
+
+Shop  https //stza.co/+vKe7-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180411T223500Z
+DTEND:20180412T013500Z
+UID:aroP-2hh6Vq5i049F2a9BmlC@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKe7-2w\n\nShop: https://stza.co/+vKe7-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bats
+<2018-04-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       3mcLTn4qisdew-MCD1EFSF84@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bats IronPigs vs. Bats
+
+Follow on MiLB First Pitch  https //stza.co/+vKbv-1v
+
+Shop  https //stza.co/+vKbv-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bats
+END:VALARM
+DTSTART:20180412T230500Z
+DTEND:20180413T020500Z
+UID:3mcLTn4qisdew-MCD1EFSF84@stanza.co
+SUMMARY:IronPigs vs. Bats
+DESCRIPTION:IronPigs vs. Bats\n\nFollow on MiLB First Pitch: https://stza.co/+vKbv-1v\n\nShop: https://stza.co/+vKbv-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bats
+<2018-04-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       nazvmw7s_XOArlmR0-22Hc5Y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bats IronPigs vs. Bats
+
+Follow on MiLB First Pitch  https //stza.co/+vKbx-11
+
+Shop  https //stza.co/+vKbx-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bats
+END:VALARM
+DTSTART:20180413T230500Z
+DTEND:20180414T020500Z
+UID:nazvmw7s_XOArlmR0-22Hc5Y@stanza.co
+SUMMARY:IronPigs vs. Bats
+DESCRIPTION:IronPigs vs. Bats\n\nFollow on MiLB First Pitch: https://stza.co/+vKbx-11\n\nShop: https://stza.co/+vKbx-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bats
+<2018-04-14 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       0ohBxtQQepd0Z8IuCQbQRdh_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bats IronPigs vs. Bats
+
+Follow on MiLB First Pitch  https //stza.co/+vKby-3i
+
+Shop  https //stza.co/+vKby-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bats
+END:VALARM
+DTSTART:20180414T223500Z
+DTEND:20180415T013500Z
+UID:0ohBxtQQepd0Z8IuCQbQRdh_@stanza.co
+SUMMARY:IronPigs vs. Bats
+DESCRIPTION:IronPigs vs. Bats\n\nFollow on MiLB First Pitch: https://stza.co/+vKby-3i\n\nShop: https://stza.co/+vKby-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bats
+<2018-04-15 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       ItOPOZFOMZi1Uzw42y8o8kg8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bats IronPigs vs. Bats
+
+Follow on MiLB First Pitch  https //stza.co/+vKbA-P
+
+Shop  https //stza.co/+vKbA-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bats
+END:VALARM
+DTSTART:20180415T173500Z
+DTEND:20180415T203500Z
+UID:ItOPOZFOMZi1Uzw42y8o8kg8@stanza.co
+SUMMARY:IronPigs vs. Bats
+DESCRIPTION:IronPigs vs. Bats\n\nFollow on MiLB First Pitch: https://stza.co/+vKbA-P\n\nShop: https://stza.co/+vKbA-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Tides
+<2018-04-16 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       _mOSO7MJUgFEZWKhFVDp8hB3@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Tides IronPigs vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKbD-3B
+
+Shop  https //stza.co/+vKbD-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Tides
+END:VALARM
+DTSTART:20180416T230500Z
+DTEND:20180417T020500Z
+UID:_mOSO7MJUgFEZWKhFVDp8hB3@stanza.co
+SUMMARY:IronPigs vs. Tides
+DESCRIPTION:IronPigs vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKbD-3B\n\nShop: https://stza.co/+vKbD-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Tides
+<2018-04-17 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       DnE5TudKDKOxyD6IruaKLtDD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Tides IronPigs vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKbF-2
+
+Shop  https //stza.co/+vKbF-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Tides
+END:VALARM
+DTSTART:20180417T230500Z
+DTEND:20180418T020500Z
+UID:DnE5TudKDKOxyD6IruaKLtDD@stanza.co
+SUMMARY:IronPigs vs. Tides
+DESCRIPTION:IronPigs vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKbF-2\n\nShop: https://stza.co/+vKbF-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Tides
+<2018-04-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       E4jQfuUuaE_KMJ_AN9Dyc2L2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Tides IronPigs vs. Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKbH-2n
+
+Shop  https //stza.co/+vKbH-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Tides
+END:VALARM
+DTSTART:20180418T230500Z
+DTEND:20180419T020500Z
+UID:E4jQfuUuaE_KMJ_AN9Dyc2L2@stanza.co
+SUMMARY:IronPigs vs. Tides
+DESCRIPTION:IronPigs vs. Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKbH-2n\n\nShop: https://stza.co/+vKbH-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bulls
+<2018-04-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       sbW7fNKFgOCSPrvQpgadBVNv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bulls IronPigs @ Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vKbl-2h
+
+Shop  https //stza.co/+vKbl-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bulls
+END:VALARM
+DTSTART:20180420T230500Z
+DTEND:20180421T020500Z
+UID:sbW7fNKFgOCSPrvQpgadBVNv@stanza.co
+SUMMARY:IronPigs @ Bulls
+DESCRIPTION:IronPigs @ Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vKbl-2h\n\nShop: https://stza.co/+vKbl-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bulls
+<2018-04-21 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       P4tD1Oa2F6wxK_455WdqYS9-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bulls IronPigs @ Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vKbm-2v
+
+Shop  https //stza.co/+vKbm-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bulls
+END:VALARM
+DTSTART:20180421T223500Z
+DTEND:20180422T013500Z
+UID:P4tD1Oa2F6wxK_455WdqYS9-@stanza.co
+SUMMARY:IronPigs @ Bulls
+DESCRIPTION:IronPigs @ Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vKbm-2v\n\nShop: https://stza.co/+vKbm-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bulls
+<2018-04-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       srijqIO4m-XM_fwiyTeIbYyc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bulls IronPigs @ Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vKbn-1Z
+
+Shop  https //stza.co/+vKbn-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bulls
+END:VALARM
+DTSTART:20180422T210500Z
+DTEND:20180423T000500Z
+UID:srijqIO4m-XM_fwiyTeIbYyc@stanza.co
+SUMMARY:IronPigs @ Bulls
+DESCRIPTION:IronPigs @ Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vKbn-1Z\n\nShop: https://stza.co/+vKbn-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Tides
+<2018-04-23 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       OQ3OHp40jh4IbFTCx7IbIDAY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Tides IronPigs @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKdJ-v
+
+Shop  https //stza.co/+vKdJ-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Tides
+END:VALARM
+DTSTART:20180423T223500Z
+DTEND:20180424T013500Z
+UID:OQ3OHp40jh4IbFTCx7IbIDAY@stanza.co
+SUMMARY:IronPigs @ Tides
+DESCRIPTION:IronPigs @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKdJ-v\n\nShop: https://stza.co/+vKdJ-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Tides
+<2018-04-24 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       s80jsvZSAqnNGmxcIN7zddLl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Tides IronPigs @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKdK-29
+
+Shop  https //stza.co/+vKdK-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Tides
+END:VALARM
+DTSTART:20180424T223500Z
+DTEND:20180425T013500Z
+UID:s80jsvZSAqnNGmxcIN7zddLl@stanza.co
+SUMMARY:IronPigs @ Tides
+DESCRIPTION:IronPigs @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKdK-29\n\nShop: https://stza.co/+vKdK-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Tides
+<2018-04-25 Wed 11:05-14:05>
+:PROPERTIES:
+:ID:       qsvED-WTeVB0v1Mr4nnk1A_S@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Tides IronPigs @ Tides
+
+Follow on MiLB First Pitch  https //stza.co/+vKdL-m
+
+Shop  https //stza.co/+vKdL-X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Tides
+END:VALARM
+DTSTART:20180425T160500Z
+DTEND:20180425T190500Z
+UID:qsvED-WTeVB0v1Mr4nnk1A_S@stanza.co
+SUMMARY:IronPigs @ Tides
+DESCRIPTION:IronPigs @ Tides\n\nFollow on MiLB First Pitch: https://stza.co/+vKdL-m\n\nShop: https://stza.co/+vKdL-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-04-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       58-F8XP70cOdATOs6sdn7Rly@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKbJ-a
+
+Shop  https //stza.co/+vKbJ-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180427T230500Z
+DTEND:20180428T020500Z
+UID:58-F8XP70cOdATOs6sdn7Rly@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKbJ-a\n\nShop: https://stza.co/+vKbJ-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-04-28 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       l1hvygAJmlpFG5tYDtILNX_r@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKbL-d
+
+Shop  https //stza.co/+vKbL-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180428T223500Z
+DTEND:20180429T013500Z
+UID:l1hvygAJmlpFG5tYDtILNX_r@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKbL-d\n\nShop: https://stza.co/+vKbL-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-04-29 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       VMCcGLBRsu2_XprsfoUBnBiZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKbM-2e
+
+Shop  https //stza.co/+vKbM-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180429T173500Z
+DTEND:20180429T203500Z
+UID:VMCcGLBRsu2_XprsfoUBnBiZ@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKbM-2e\n\nShop: https://stza.co/+vKbM-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-04-30 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       LKRWLZODWZJzEz3j54gfI41F@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKbP-N
+
+Shop  https //stza.co/+vKbP-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180430T230500Z
+DTEND:20180501T020500Z
+UID:LKRWLZODWZJzEz3j54gfI41F@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKbP-N\n\nShop: https://stza.co/+vKbP-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-05-01 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       Lxd5PevaaQT9LKlY2hTI1Yrd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKbQ-2e
+
+Shop  https //stza.co/+vKbQ-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180501T230500Z
+DTEND:20180502T020500Z
+UID:Lxd5PevaaQT9LKlY2hTI1Yrd@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKbQ-2e\n\nShop: https://stza.co/+vKbQ-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-05-02 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       wHfWk5X6F14NSNLxHvdqSUZI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKbS-M
+
+Shop  https //stza.co/+vKbS-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180502T143500Z
+DTEND:20180502T173500Z
+UID:wHfWk5X6F14NSNLxHvdqSUZI@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKbS-M\n\nShop: https://stza.co/+vKbS-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-05-03 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       I8pZJJEyiSvhsrPWvISgI_-7@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKdW-A
+
+Shop  https //stza.co/+vKdW-3
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180503T230500Z
+DTEND:20180504T020500Z
+UID:I8pZJJEyiSvhsrPWvISgI_-7@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKdW-A\n\nShop: https://stza.co/+vKdW-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-05-04 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       mK_X7tMDBLZj09w8b_z3-DLp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKdX-2Z
+
+Shop  https //stza.co/+vKdX-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180504T230500Z
+DTEND:20180505T020500Z
+UID:mK_X7tMDBLZj09w8b_z3-DLp@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKdX-2Z\n\nShop: https://stza.co/+vKdX-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-05-05 Sat 12:05-15:05>
+:PROPERTIES:
+:ID:       bYvripn0I_L5sMfIgfgiOHmj@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKdY-1W
+
+Shop  https //stza.co/+vKdY-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180505T170500Z
+DTEND:20180505T200500Z
+UID:bYvripn0I_L5sMfIgfgiOHmj@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKdY-1W\n\nShop: https://stza.co/+vKdY-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-05-06 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       TPyMBSk12BCdBMBnFsx2CSDm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKdZ-3e
+
+Shop  https //stza.co/+vKdZ-C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180506T170500Z
+DTEND:20180506T200500Z
+UID:TPyMBSk12BCdBMBnFsx2CSDm@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKdZ-3e\n\nShop: https://stza.co/+vKdZ-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Sox
+<2018-05-07 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       SF0wVc4vdFwQr6cOvwMMLQHg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Sox IronPigs vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+vKbU-3C
+
+Shop  https //stza.co/+vKbU-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Sox
+END:VALARM
+DTSTART:20180507T230500Z
+DTEND:20180508T020500Z
+UID:SF0wVc4vdFwQr6cOvwMMLQHg@stanza.co
+SUMMARY:IronPigs vs. Red Sox
+DESCRIPTION:IronPigs vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+vKbU-3C\n\nShop: https://stza.co/+vKbU-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Sox
+<2018-05-08 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       Z2xzP9-DyZYoqtC8uG8WaPnZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Sox IronPigs vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+vKbW-35
+
+Shop  https //stza.co/+vKbW-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Sox
+END:VALARM
+DTSTART:20180508T230500Z
+DTEND:20180509T020500Z
+UID:Z2xzP9-DyZYoqtC8uG8WaPnZ@stanza.co
+SUMMARY:IronPigs vs. Red Sox
+DESCRIPTION:IronPigs vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+vKbW-35\n\nShop: https://stza.co/+vKbW-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Sox
+<2018-05-09 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       iWyA4QdF9joje6ZiCXNwe5-S@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Sox IronPigs vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+vKbY-q
+
+Shop  https //stza.co/+vKbY-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Sox
+END:VALARM
+DTSTART:20180509T143500Z
+DTEND:20180509T173500Z
+UID:iWyA4QdF9joje6ZiCXNwe5-S@stanza.co
+SUMMARY:IronPigs vs. Red Sox
+DESCRIPTION:IronPigs vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+vKbY-q\n\nShop: https://stza.co/+vKbY-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-05-10 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       xDc2JY0ZMjtSypg6FnscxsvG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKb$-3t
+
+Shop  https //stza.co/+vKb$-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180510T230500Z
+DTEND:20180511T020500Z
+UID:xDc2JY0ZMjtSypg6FnscxsvG@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKb$-3t\n\nShop: https://stza.co/+vKb$-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-05-11 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       ba9mE596nvQ3PZ8Qh_ALpvlh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKc1-2c
+
+Shop  https //stza.co/+vKc1-1Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180511T230500Z
+DTEND:20180512T020500Z
+UID:ba9mE596nvQ3PZ8Qh_ALpvlh@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKc1-2c\n\nShop: https://stza.co/+vKc1-1Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-05-12 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       0xlaHRiDFGqiYMyU4iA2EUXZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKc3-i
+
+Shop  https //stza.co/+vKc3-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180512T223500Z
+DTEND:20180513T013500Z
+UID:0xlaHRiDFGqiYMyU4iA2EUXZ@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKc3-i\n\nShop: https://stza.co/+vKc3-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-05-13 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       3pbRZsyzqhn_05OfP-Qp7JPr@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKc4-2h
+
+Shop  https //stza.co/+vKc4-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180513T173500Z
+DTEND:20180513T203500Z
+UID:3pbRZsyzqhn_05OfP-Qp7JPr@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKc4-2h\n\nShop: https://stza.co/+vKc4-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-05-15 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       IeY85LQSG66GKXTfQfZ3Na9a@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKe8-S
+
+Shop  https //stza.co/+vKe8-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180515T223500Z
+DTEND:20180516T013500Z
+UID:IeY85LQSG66GKXTfQfZ3Na9a@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKe8-S\n\nShop: https://stza.co/+vKe8-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-05-16 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       daQ_wn-yOwSPtyR7_f2rfwhn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKe9-1f
+
+Shop  https //stza.co/+vKe9-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180516T223500Z
+DTEND:20180517T013500Z
+UID:daQ_wn-yOwSPtyR7_f2rfwhn@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKe9-1f\n\nShop: https://stza.co/+vKe9-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-05-17 Thu 09:35-12:35>
+:PROPERTIES:
+:ID:       1h662bqRbg3vWrI6pwxhgR8H@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKea-1f
+
+Shop  https //stza.co/+vKea-t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180517T143500Z
+DTEND:20180517T173500Z
+UID:1h662bqRbg3vWrI6pwxhgR8H@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKea-1f\n\nShop: https://stza.co/+vKea-t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-05-18 Fri 17:35-20:35>
+:PROPERTIES:
+:ID:       0nNpWQpKZBL1GlSqeIW7Hwl3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKee-1w
+
+Shop  https //stza.co/+vKee-3l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180518T223500Z
+DTEND:20180519T013500Z
+UID:0nNpWQpKZBL1GlSqeIW7Hwl3@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKee-1w\n\nShop: https://stza.co/+vKee-3l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-05-19 Sat 12:05-15:05>
+:PROPERTIES:
+:ID:       N2hnpY2XuBSddUpQxlkt6pG9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKef-1J
+
+Shop  https //stza.co/+vKef-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180519T170500Z
+DTEND:20180519T200500Z
+UID:N2hnpY2XuBSddUpQxlkt6pG9@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKef-1J\n\nShop: https://stza.co/+vKef-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-05-20 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       MlcKEYFW46Qs5ckhfKLPKTve@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKeg-1y
+
+Shop  https //stza.co/+vKeg-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180520T170500Z
+DTEND:20180520T200500Z
+UID:MlcKEYFW46Qs5ckhfKLPKTve@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKeg-1y\n\nShop: https://stza.co/+vKeg-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Wings
+<2018-05-21 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       uQB0dwNo5h0ZkGMAIVnpczqy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Wings IronPigs vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKc7-21
+
+Shop  https //stza.co/+vKc7-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Wings
+END:VALARM
+DTSTART:20180521T230500Z
+DTEND:20180522T020500Z
+UID:uQB0dwNo5h0ZkGMAIVnpczqy@stanza.co
+SUMMARY:IronPigs vs. Red Wings
+DESCRIPTION:IronPigs vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKc7-21\n\nShop: https://stza.co/+vKc7-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Wings
+<2018-05-22 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       8aBEpToCzmzUl5f88jja4LYG@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Wings IronPigs vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKc8-1e
+
+Shop  https //stza.co/+vKc8-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Wings
+END:VALARM
+DTSTART:20180522T230500Z
+DTEND:20180523T020500Z
+UID:8aBEpToCzmzUl5f88jja4LYG@stanza.co
+SUMMARY:IronPigs vs. Red Wings
+DESCRIPTION:IronPigs vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKc8-1e\n\nShop: https://stza.co/+vKc8-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Wings
+<2018-05-23 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       0o2WLFT-8ziTPxcgdeOfxV72@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Wings IronPigs vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKcb-3l
+
+Shop  https //stza.co/+vKcb-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Wings
+END:VALARM
+DTSTART:20180523T230500Z
+DTEND:20180524T020500Z
+UID:0o2WLFT-8ziTPxcgdeOfxV72@stanza.co
+SUMMARY:IronPigs vs. Red Wings
+DESCRIPTION:IronPigs vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKcb-3l\n\nShop: https://stza.co/+vKcb-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Wings
+<2018-05-24 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       9z9FIIk6TDH0BrU61YWTCo4l@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Wings IronPigs vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKcc-z
+
+Shop  https //stza.co/+vKcc-q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Wings
+END:VALARM
+DTSTART:20180524T230500Z
+DTEND:20180525T020500Z
+UID:9z9FIIk6TDH0BrU61YWTCo4l@stanza.co
+SUMMARY:IronPigs vs. Red Wings
+DESCRIPTION:IronPigs vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKcc-z\n\nShop: https://stza.co/+vKcc-q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-05-25 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       ayvYhf_S8Jk68w-B91l5Yk58@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdP
+
+Follow on MiLB First Pitch  https //stza.co/+vKdP-2N
+
+Shop  https //stza.co/+vKdP-3K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180525T230500Z
+DTEND:20180526T020500Z
+UID:ayvYhf_S8Jk68w-B91l5Yk58@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdP\n\nFollow on MiLB First Pitch: https://stza.co/+vKdP-2N\n\nShop: https://stza.co/+vKdP-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-05-26 Sat 17:15-20:15>
+:PROPERTIES:
+:ID:       W0iWS20AoZtxO_T0Hao75vKY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdQ
+
+Follow on MiLB First Pitch  https //stza.co/+vKdQ-1j
+
+Shop  https //stza.co/+vKdQ-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180526T221500Z
+DTEND:20180527T011500Z
+UID:W0iWS20AoZtxO_T0Hao75vKY@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdQ\n\nFollow on MiLB First Pitch: https://stza.co/+vKdQ-1j\n\nShop: https://stza.co/+vKdQ-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-05-27 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       F6Mv9Y7f7uFU_wcWD3ZE8FMg@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdR
+
+Follow on MiLB First Pitch  https //stza.co/+vKdR-F
+
+Shop  https //stza.co/+vKdR-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180527T173500Z
+DTEND:20180527T203500Z
+UID:F6Mv9Y7f7uFU_wcWD3ZE8FMg@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdR\n\nFollow on MiLB First Pitch: https://stza.co/+vKdR-F\n\nShop: https://stza.co/+vKdR-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-05-28 Mon 12:35-15:35>
+:PROPERTIES:
+:ID:       ielE5d3n77lu8aV84RXqGenO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdS
+
+Follow on MiLB First Pitch  https //stza.co/+vKdS-2V
+
+Shop  https //stza.co/+vKdS-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180528T173500Z
+DTEND:20180528T203500Z
+UID:ielE5d3n77lu8aV84RXqGenO@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdS\n\nFollow on MiLB First Pitch: https://stza.co/+vKdS-2V\n\nShop: https://stza.co/+vKdS-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Knights
+<2018-05-29 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       j0tzib2wwgastGphFk7VYR__@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Knights IronPigs vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+vKce-29
+
+Shop  https //stza.co/+vKce-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Knights
+END:VALARM
+DTSTART:20180529T230500Z
+DTEND:20180530T020500Z
+UID:j0tzib2wwgastGphFk7VYR__@stanza.co
+SUMMARY:IronPigs vs. Knights
+DESCRIPTION:IronPigs vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+vKce-29\n\nShop: https://stza.co/+vKce-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Knights
+<2018-05-30 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       kA8FwPpPlam0rRORHYpCeYSS@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Knights IronPigs vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+vKcg-23
+
+Shop  https //stza.co/+vKcg-2g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Knights
+END:VALARM
+DTSTART:20180530T230500Z
+DTEND:20180531T020500Z
+UID:kA8FwPpPlam0rRORHYpCeYSS@stanza.co
+SUMMARY:IronPigs vs. Knights
+DESCRIPTION:IronPigs vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+vKcg-23\n\nShop: https://stza.co/+vKcg-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Knights
+<2018-05-31 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       a8zYHGEGsGWl9piStVBzvKFX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Knights IronPigs vs. Knights
+
+Follow on MiLB First Pitch  https //stza.co/+vKci-1r
+
+Shop  https //stza.co/+vKci-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Knights
+END:VALARM
+DTSTART:20180531T230500Z
+DTEND:20180601T020500Z
+UID:a8zYHGEGsGWl9piStVBzvKFX@stanza.co
+SUMMARY:IronPigs vs. Knights
+DESCRIPTION:IronPigs vs. Knights\n\nFollow on MiLB First Pitch: https://stza.co/+vKci-1r\n\nShop: https://stza.co/+vKci-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Mud Hens
+<2018-06-01 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       7DPdYgnErFgCfA0gobuLqqZu@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Mud Hens IronPigs vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKcl-3v
+
+Shop  https //stza.co/+vKcl-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Mud Hens
+END:VALARM
+DTSTART:20180601T230500Z
+DTEND:20180602T020500Z
+UID:7DPdYgnErFgCfA0gobuLqqZu@stanza.co
+SUMMARY:IronPigs vs. Mud Hens
+DESCRIPTION:IronPigs vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKcl-3v\n\nShop: https://stza.co/+vKcl-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Mud Hens
+<2018-06-02 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       cQxQ-gStOXk-dALfb-ItbAFI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Mud Hens IronPigs vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKcn-T
+
+Shop  https //stza.co/+vKcn-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Mud Hens
+END:VALARM
+DTSTART:20180602T223500Z
+DTEND:20180603T013500Z
+UID:cQxQ-gStOXk-dALfb-ItbAFI@stanza.co
+SUMMARY:IronPigs vs. Mud Hens
+DESCRIPTION:IronPigs vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKcn-T\n\nShop: https://stza.co/+vKcn-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Mud Hens
+<2018-06-03 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       nAiRYEVDec_fulG3XiCO_Pfk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Mud Hens IronPigs vs. Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKcp-2$
+
+Shop  https //stza.co/+vKcp-w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Mud Hens
+END:VALARM
+DTSTART:20180603T173500Z
+DTEND:20180603T203500Z
+UID:nAiRYEVDec_fulG3XiCO_Pfk@stanza.co
+SUMMARY:IronPigs vs. Mud Hens
+DESCRIPTION:IronPigs vs. Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKcp-2$\n\nShop: https://stza.co/+vKcp-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Stripers
+<2018-06-05 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       ZVYRvkRLJkjlbh5kqqKpqCQV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Stripers IronPigs @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vKbo-5
+
+Shop  https //stza.co/+vKbo-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Stripers
+END:VALARM
+DTSTART:20180605T230500Z
+DTEND:20180606T020500Z
+UID:ZVYRvkRLJkjlbh5kqqKpqCQV@stanza.co
+SUMMARY:IronPigs @ Stripers
+DESCRIPTION:IronPigs @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vKbo-5\n\nShop: https://stza.co/+vKbo-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Stripers
+<2018-06-06 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       uVrcmCdTrwnGBQrzVLpv6i_1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Stripers IronPigs @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vKbp-2N
+
+Shop  https //stza.co/+vKbp-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Stripers
+END:VALARM
+DTSTART:20180606T230500Z
+DTEND:20180607T020500Z
+UID:uVrcmCdTrwnGBQrzVLpv6i_1@stanza.co
+SUMMARY:IronPigs @ Stripers
+DESCRIPTION:IronPigs @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vKbp-2N\n\nShop: https://stza.co/+vKbp-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Stripers
+<2018-06-07 Thu 11:05-14:05>
+:PROPERTIES:
+:ID:       BnKj0S4YYl6z9sTVdPA_bpeB@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Stripers IronPigs @ Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vKbq-1R
+
+Shop  https //stza.co/+vKbq-3E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Stripers
+END:VALARM
+DTSTART:20180607T160500Z
+DTEND:20180607T190500Z
+UID:BnKj0S4YYl6z9sTVdPA_bpeB@stanza.co
+SUMMARY:IronPigs @ Stripers
+DESCRIPTION:IronPigs @ Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vKbq-1R\n\nShop: https://stza.co/+vKbq-3E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Knights
+<2018-06-08 Fri 18:04-21:04>
+:PROPERTIES:
+:ID:       khrYxf_7l_g2QuIAYVnNxXVn@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Knights IronPigs @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONo-3O
+
+Shop  https //stza.co/+xONo-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Knights
+END:VALARM
+DTSTART:20180608T230400Z
+DTEND:20180609T020400Z
+UID:khrYxf_7l_g2QuIAYVnNxXVn@stanza.co
+SUMMARY:IronPigs @ Knights
+DESCRIPTION:IronPigs @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONo-3O\n\nShop: https://stza.co/+xONo-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Knights
+<2018-06-09 Sat 18:04-21:04>
+:PROPERTIES:
+:ID:       Qwy6ojFmEnqNM-8Bd2Z-VmEX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Knights IronPigs @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+xONp-2y
+
+Shop  https //stza.co/+xONp-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Knights
+END:VALARM
+DTSTART:20180609T230400Z
+DTEND:20180610T020400Z
+UID:Qwy6ojFmEnqNM-8Bd2Z-VmEX@stanza.co
+SUMMARY:IronPigs @ Knights
+DESCRIPTION:IronPigs @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+xONp-2y\n\nShop: https://stza.co/+xONp-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Knights
+<2018-06-10 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       eYcs4zsyZTkUHuoTX1ABGnhk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Knights IronPigs @ Knights
+
+Follow on MiLB First Pitch  https //stza.co/+vKbh-3A
+
+Shop  https //stza.co/+vKbh-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Knights
+END:VALARM
+DTSTART:20180610T180500Z
+DTEND:20180610T210500Z
+UID:eYcs4zsyZTkUHuoTX1ABGnhk@stanza.co
+SUMMARY:IronPigs @ Knights
+DESCRIPTION:IronPigs @ Knights\n\nFollow on MiLB First Pitch: https://stza.co/+vKbh-3A\n\nShop: https://stza.co/+vKbh-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-06-11 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       2gKZ_Rhgm-yIr5QHkT1eDMgY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKcr-1A
+
+Shop  https //stza.co/+vKcr-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180611T230500Z
+DTEND:20180612T020500Z
+UID:2gKZ_Rhgm-yIr5QHkT1eDMgY@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKcr-1A\n\nShop: https://stza.co/+vKcr-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-06-12 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       KVKgTl5YnCVciml-vx548CWW@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKcs-A
+
+Shop  https //stza.co/+vKcs-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180612T230500Z
+DTEND:20180613T020500Z
+UID:KVKgTl5YnCVciml-vx548CWW@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKcs-A\n\nShop: https://stza.co/+vKcs-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-06-13 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       JG1iEGLedUhI6WfpfoZOenac@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKcu-1O
+
+Shop  https //stza.co/+vKcu-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180613T230500Z
+DTEND:20180614T020500Z
+UID:JG1iEGLedUhI6WfpfoZOenac@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKcu-1O\n\nShop: https://stza.co/+vKcu-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Sox
+<2018-06-14 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       NIQM3NG00z8K_yyaXdk_nDwX@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Sox IronPigs vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+vKcx-2Y
+
+Shop  https //stza.co/+vKcx-3c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Sox
+END:VALARM
+DTSTART:20180614T230500Z
+DTEND:20180615T020500Z
+UID:NIQM3NG00z8K_yyaXdk_nDwX@stanza.co
+SUMMARY:IronPigs vs. Red Sox
+DESCRIPTION:IronPigs vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+vKcx-2Y\n\nShop: https://stza.co/+vKcx-3c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Sox
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       ESPgqk3w39yeXd-HHLYMaT9h@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Sox IronPigs vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+vKcz-1U
+
+Shop  https //stza.co/+vKcz-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Sox
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:ESPgqk3w39yeXd-HHLYMaT9h@stanza.co
+SUMMARY:IronPigs vs. Red Sox
+DESCRIPTION:IronPigs vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+vKcz-1U\n\nShop: https://stza.co/+vKcz-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Sox
+<2018-06-16 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       QUifx-Kn5fxSC0qw1iNyRxyt@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Sox IronPigs vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+vKcA-1G
+
+Shop  https //stza.co/+vKcA-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Sox
+END:VALARM
+DTSTART:20180616T223500Z
+DTEND:20180617T013500Z
+UID:QUifx-Kn5fxSC0qw1iNyRxyt@stanza.co
+SUMMARY:IronPigs vs. Red Sox
+DESCRIPTION:IronPigs vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+vKcA-1G\n\nShop: https://stza.co/+vKcA-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Sox
+<2018-06-17 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       E87MXbshSpeitJryKGHtU3dV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Sox IronPigs vs. Red Sox
+
+Follow on MiLB First Pitch  https //stza.co/+vKcC-3f
+
+Shop  https //stza.co/+vKcC-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Sox
+END:VALARM
+DTSTART:20180617T173500Z
+DTEND:20180617T203500Z
+UID:E87MXbshSpeitJryKGHtU3dV@stanza.co
+SUMMARY:IronPigs vs. Red Sox
+DESCRIPTION:IronPigs vs. Red Sox\n\nFollow on MiLB First Pitch: https://stza.co/+vKcC-3f\n\nShop: https://stza.co/+vKcC-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-06-19 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       5YOBusBPIT4OxRB2Yipjduek@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKeb-2G
+
+Shop  https //stza.co/+vKeb-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180619T230500Z
+DTEND:20180620T020500Z
+UID:5YOBusBPIT4OxRB2Yipjduek@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKeb-2G\n\nShop: https://stza.co/+vKeb-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-06-20 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       -SJUvEJVl_QYVhYmhv3RA07G@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKec-18
+
+Shop  https //stza.co/+vKec-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180620T230500Z
+DTEND:20180621T020500Z
+UID:-SJUvEJVl_QYVhYmhv3RA07G@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKec-18\n\nShop: https://stza.co/+vKec-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ RailRiders
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       YOxJohlbXBo95tL2lcwrkzCR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ RailRiders IronPigs @ RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKed-3I
+
+Shop  https //stza.co/+vKed-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ RailRiders
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:YOxJohlbXBo95tL2lcwrkzCR@stanza.co
+SUMMARY:IronPigs @ RailRiders
+DESCRIPTION:IronPigs @ RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKed-3I\n\nShop: https://stza.co/+vKed-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bisons
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       yIjF__EwEcOKw1A3zwkJkvO2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bisons IronPigs @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKb8-2S
+
+Shop  https //stza.co/+vKb8-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bisons
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:yIjF__EwEcOKw1A3zwkJkvO2@stanza.co
+SUMMARY:IronPigs @ Bisons
+DESCRIPTION:IronPigs @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKb8-2S\n\nShop: https://stza.co/+vKb8-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bisons
+<2018-06-23 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       BmrPeYu1Y5LiyekYf0HLIMza@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bisons IronPigs @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKb9-e
+
+Shop  https //stza.co/+vKb9-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bisons
+END:VALARM
+DTSTART:20180623T220500Z
+DTEND:20180624T010500Z
+UID:BmrPeYu1Y5LiyekYf0HLIMza@stanza.co
+SUMMARY:IronPigs @ Bisons
+DESCRIPTION:IronPigs @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKb9-e\n\nShop: https://stza.co/+vKb9-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bisons
+<2018-06-24 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       kv2tHOyjHallcS4S_kFEUq1A@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bisons IronPigs @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKba-l
+
+Shop  https //stza.co/+vKba-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bisons
+END:VALARM
+DTSTART:20180624T170500Z
+DTEND:20180624T200500Z
+UID:kv2tHOyjHallcS4S_kFEUq1A@stanza.co
+SUMMARY:IronPigs @ Bisons
+DESCRIPTION:IronPigs @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKba-l\n\nShop: https://stza.co/+vKba-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-06-25 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       mayEOaVona7o027JkeuEDEh5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKcF-3r
+
+Shop  https //stza.co/+vKcF-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180625T230500Z
+DTEND:20180626T020500Z
+UID:mayEOaVona7o027JkeuEDEh5@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKcF-3r\n\nShop: https://stza.co/+vKcF-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-06-26 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       N9dn-fVFHNwNorccNVvGXNLX@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKcG-2u
+
+Shop  https //stza.co/+vKcG-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180626T230500Z
+DTEND:20180627T020500Z
+UID:N9dn-fVFHNwNorccNVvGXNLX@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKcG-2u\n\nShop: https://stza.co/+vKcG-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-06-27 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       XHEs8b89lz7iAnMOqxHeOHve@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKcI-2c
+
+Shop  https //stza.co/+vKcI-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180627T230500Z
+DTEND:20180628T020500Z
+UID:XHEs8b89lz7iAnMOqxHeOHve@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKcI-2c\n\nShop: https://stza.co/+vKcI-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-06-28 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       cPKo73uITE51PjENWs9o-pzZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKcK-n
+
+Shop  https //stza.co/+vKcK-1s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180628T230500Z
+DTEND:20180629T020500Z
+UID:cPKo73uITE51PjENWs9o-pzZ@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKcK-n\n\nShop: https://stza.co/+vKcK-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-06-29 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       hASt5G68MjzSG59izd_qVdup@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKd_-c
+
+Shop  https //stza.co/+vKd_-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180629T230500Z
+DTEND:20180630T020500Z
+UID:hASt5G68MjzSG59izd_qVdup@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKd_-c\n\nShop: https://stza.co/+vKd_-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-06-30 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       Rc18nm3B_glX3PUUfw7d5dGO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKd$-2b
+
+Shop  https //stza.co/+vKd$-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180630T230500Z
+DTEND:20180701T020500Z
+UID:Rc18nm3B_glX3PUUfw7d5dGO@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKd$-2b\n\nShop: https://stza.co/+vKd$-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-07-01 Sun 12:05-15:05>
+:PROPERTIES:
+:ID:       whKK3ndfOt_-p1bA7bEPcXT6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKe0-25
+
+Shop  https //stza.co/+vKe0-3T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180701T170500Z
+DTEND:20180701T200500Z
+UID:whKK3ndfOt_-p1bA7bEPcXT6@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKe0-25\n\nShop: https://stza.co/+vKe0-3T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-07-02 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       NJILuOOJVo7VEgvldJmhH8hr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKcM-3F
+
+Shop  https //stza.co/+vKcM-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180702T230500Z
+DTEND:20180703T020500Z
+UID:NJILuOOJVo7VEgvldJmhH8hr@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKcM-3F\n\nShop: https://stza.co/+vKcM-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-07-03 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       mn4rMcVCTUpoCLO5oJ1-KxeT@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKcP-34
+
+Shop  https //stza.co/+vKcP-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180703T230500Z
+DTEND:20180704T020500Z
+UID:mn4rMcVCTUpoCLO5oJ1-KxeT@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKcP-34\n\nShop: https://stza.co/+vKcP-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-07-04 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       nBemqKuAdXxEQKPbY7jqxXr1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKeh-1g
+
+Shop  https //stza.co/+vKeh-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180704T230500Z
+DTEND:20180705T020500Z
+UID:nBemqKuAdXxEQKPbY7jqxXr1@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKeh-1g\n\nShop: https://stza.co/+vKeh-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-07-05 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       wteIwHBX-XzpQ7S_1FAaIr_8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKei-3b
+
+Shop  https //stza.co/+vKei-2K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180705T230500Z
+DTEND:20180706T020500Z
+UID:wteIwHBX-XzpQ7S_1FAaIr_8@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKei-3b\n\nShop: https://stza.co/+vKei-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Wings
+<2018-07-06 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       9qy2okoOmWtcOC7rCT4u1C2d@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Wings IronPigs vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKcQ-b
+
+Shop  https //stza.co/+vKcQ-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Wings
+END:VALARM
+DTSTART:20180706T230500Z
+DTEND:20180707T020500Z
+UID:9qy2okoOmWtcOC7rCT4u1C2d@stanza.co
+SUMMARY:IronPigs vs. Red Wings
+DESCRIPTION:IronPigs vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKcQ-b\n\nShop: https://stza.co/+vKcQ-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Wings
+<2018-07-07 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       8-7ZZJx-Hy3a8uA0LVNmb-Sy@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Wings IronPigs vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKcS-W
+
+Shop  https //stza.co/+vKcS-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Wings
+END:VALARM
+DTSTART:20180707T223500Z
+DTEND:20180708T013500Z
+UID:8-7ZZJx-Hy3a8uA0LVNmb-Sy@stanza.co
+SUMMARY:IronPigs vs. Red Wings
+DESCRIPTION:IronPigs vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKcS-W\n\nShop: https://stza.co/+vKcS-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Red Wings
+<2018-07-08 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       6bYquAPF78U_b51opZfLzZyq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Red Wings IronPigs vs. Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKcU-7
+
+Shop  https //stza.co/+vKcU-3s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Red Wings
+END:VALARM
+DTSTART:20180708T173500Z
+DTEND:20180708T203500Z
+UID:6bYquAPF78U_b51opZfLzZyq@stanza.co
+SUMMARY:IronPigs vs. Red Wings
+DESCRIPTION:IronPigs vs. Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKcU-7\n\nShop: https://stza.co/+vKcU-3s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-07-12 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       y7N0gOib_L83YHBWxizkCTB-@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKcW-1S
+
+Shop  https //stza.co/+vKcW-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180712T230500Z
+DTEND:20180713T020500Z
+UID:y7N0gOib_L83YHBWxizkCTB-@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKcW-1S\n\nShop: https://stza.co/+vKcW-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-07-13 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       vtEcq0gGpRIUHMSNCGug522U@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKcY-39
+
+Shop  https //stza.co/+vKcY-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180713T230500Z
+DTEND:20180714T020500Z
+UID:vtEcq0gGpRIUHMSNCGug522U@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKcY-39\n\nShop: https://stza.co/+vKcY-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-07-14 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       jUhIklr_jYEOlelg0NxwQxTS@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKc_-2n
+
+Shop  https //stza.co/+vKc_-2Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180714T223500Z
+DTEND:20180715T013500Z
+UID:jUhIklr_jYEOlelg0NxwQxTS@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKc_-2n\n\nShop: https://stza.co/+vKc_-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bisons
+<2018-07-15 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       A_JKfZt0xDsjBj2zzekSzkRF@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bisons IronPigs vs. Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKd0-16
+
+Shop  https //stza.co/+vKd0-3Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bisons
+END:VALARM
+DTSTART:20180715T173500Z
+DTEND:20180715T203500Z
+UID:A_JKfZt0xDsjBj2zzekSzkRF@stanza.co
+SUMMARY:IronPigs vs. Bisons
+DESCRIPTION:IronPigs vs. Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKd0-16\n\nShop: https://stza.co/+vKd0-3Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Clippers
+<2018-07-16 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       RSKjjKkoz3oEnnoiKeHwZFxc@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Clippers IronPigs @ Clippers
+
+Buy tickets here  https //stza.co/~vKbi
+
+Follow on MiLB First Pitch  https //stza.co/+vKbi-1b
+
+Shop  https //stza.co/+vKbi-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Clippers
+END:VALARM
+DTSTART:20180716T230500Z
+DTEND:20180717T020500Z
+UID:RSKjjKkoz3oEnnoiKeHwZFxc@stanza.co
+SUMMARY:IronPigs @ Clippers
+DESCRIPTION:IronPigs @ Clippers\n\nBuy tickets here: https://stza.co/~vKbi\n\nFollow on MiLB First Pitch: https://stza.co/+vKbi-1b\n\nShop: https://stza.co/+vKbi-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Clippers
+<2018-07-17 Tue 11:05-14:05>
+:PROPERTIES:
+:ID:       mmz5i2fffg3ShWLm7ivs7LDa@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Clippers IronPigs @ Clippers
+
+Buy tickets here  https //stza.co/~vKbj
+
+Follow on MiLB First Pitch  https //stza.co/+vKbj-1Z
+
+Shop  https //stza.co/+vKbj-3_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Clippers
+END:VALARM
+DTSTART:20180717T160500Z
+DTEND:20180717T190500Z
+UID:mmz5i2fffg3ShWLm7ivs7LDa@stanza.co
+SUMMARY:IronPigs @ Clippers
+DESCRIPTION:IronPigs @ Clippers\n\nBuy tickets here: https://stza.co/~vKbj\n\nFollow on MiLB First Pitch: https://stza.co/+vKbj-1Z\n\nShop: https://stza.co/+vKbj-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Clippers
+<2018-07-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       yYmLDerONT6Mi310y60BUu-d@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Clippers IronPigs @ Clippers
+
+Buy tickets here  https //stza.co/~vKbk
+
+Follow on MiLB First Pitch  https //stza.co/+vKbk-2P
+
+Shop  https //stza.co/+vKbk-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Clippers
+END:VALARM
+DTSTART:20180718T230500Z
+DTEND:20180719T020500Z
+UID:yYmLDerONT6Mi310y60BUu-d@stanza.co
+SUMMARY:IronPigs @ Clippers
+DESCRIPTION:IronPigs @ Clippers\n\nBuy tickets here: https://stza.co/~vKbk\n\nFollow on MiLB First Pitch: https://stza.co/+vKbk-2P\n\nShop: https://stza.co/+vKbk-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Mud Hens
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       fgy7XhRh-E_2R2qHCcPLawNt@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Mud Hens IronPigs @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKem-2p
+
+Shop  https //stza.co/+vKem-a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Mud Hens
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:fgy7XhRh-E_2R2qHCcPLawNt@stanza.co
+SUMMARY:IronPigs @ Mud Hens
+DESCRIPTION:IronPigs @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKem-2p\n\nShop: https://stza.co/+vKem-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Mud Hens
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       XsaFKyYjYYFblWDKDI2j6tAs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Mud Hens IronPigs @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKen-2R
+
+Shop  https //stza.co/+vKen-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Mud Hens
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:XsaFKyYjYYFblWDKDI2j6tAs@stanza.co
+SUMMARY:IronPigs @ Mud Hens
+DESCRIPTION:IronPigs @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKen-2R\n\nShop: https://stza.co/+vKen-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Mud Hens
+<2018-07-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       AukfO2ZZ_gQJJ-9rEok765Kl@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Mud Hens IronPigs @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKeo-2O
+
+Shop  https //stza.co/+vKeo-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Mud Hens
+END:VALARM
+DTSTART:20180721T230500Z
+DTEND:20180722T020500Z
+UID:AukfO2ZZ_gQJJ-9rEok765Kl@stanza.co
+SUMMARY:IronPigs @ Mud Hens
+DESCRIPTION:IronPigs @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKeo-2O\n\nShop: https://stza.co/+vKeo-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Mud Hens
+<2018-07-22 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       cBe7_d8BWVnu2BlvZxLR8HJl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Mud Hens IronPigs @ Mud Hens
+
+Follow on MiLB First Pitch  https //stza.co/+vKep-3X
+
+Shop  https //stza.co/+vKep-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Mud Hens
+END:VALARM
+DTSTART:20180722T220500Z
+DTEND:20180723T010500Z
+UID:cBe7_d8BWVnu2BlvZxLR8HJl@stanza.co
+SUMMARY:IronPigs @ Mud Hens
+DESCRIPTION:IronPigs @ Mud Hens\n\nFollow on MiLB First Pitch: https://stza.co/+vKep-3X\n\nShop: https://stza.co/+vKep-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Stripers
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       kDcUpV6c6dxepYzTCNP1ksYK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Stripers IronPigs vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vKd2-12
+
+Shop  https //stza.co/+vKd2-2m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Stripers
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:kDcUpV6c6dxepYzTCNP1ksYK@stanza.co
+SUMMARY:IronPigs vs. Stripers
+DESCRIPTION:IronPigs vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vKd2-12\n\nShop: https://stza.co/+vKd2-2m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Stripers
+<2018-07-25 Wed 10:35-13:35>
+:PROPERTIES:
+:ID:       unvnexD8Y4XiZqCLRC2sdRbY@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Stripers IronPigs vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vKd5-2r
+
+Shop  https //stza.co/+vKd5-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Stripers
+END:VALARM
+DTSTART:20180725T153500Z
+DTEND:20180725T183500Z
+UID:unvnexD8Y4XiZqCLRC2sdRbY@stanza.co
+SUMMARY:IronPigs vs. Stripers
+DESCRIPTION:IronPigs vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vKd5-2r\n\nShop: https://stza.co/+vKd5-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Stripers
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       xuj4VUXwF-pwV0EmRrwB17cb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Stripers IronPigs vs. Stripers
+
+Follow on MiLB First Pitch  https //stza.co/+vKd7-3V
+
+Shop  https //stza.co/+vKd7-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Stripers
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:xuj4VUXwF-pwV0EmRrwB17cb@stanza.co
+SUMMARY:IronPigs vs. Stripers
+DESCRIPTION:IronPigs vs. Stripers\n\nFollow on MiLB First Pitch: https://stza.co/+vKd7-3V\n\nShop: https://stza.co/+vKd7-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Clippers
+<2018-07-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       6u-ZimpKLxyX59hxaTDOshFO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Clippers IronPigs vs. Clippers
+
+Follow on MiLB First Pitch  https //stza.co/+vKd9-2T
+
+Shop  https //stza.co/+vKd9-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Clippers
+END:VALARM
+DTSTART:20180727T230500Z
+DTEND:20180728T020500Z
+UID:6u-ZimpKLxyX59hxaTDOshFO@stanza.co
+SUMMARY:IronPigs vs. Clippers
+DESCRIPTION:IronPigs vs. Clippers\n\nFollow on MiLB First Pitch: https://stza.co/+vKd9-2T\n\nShop: https://stza.co/+vKd9-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Clippers
+<2018-07-28 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       pMLwt-S0VfahXUOFijJObKre@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Clippers IronPigs vs. Clippers
+
+Follow on MiLB First Pitch  https //stza.co/+vKda-3V
+
+Shop  https //stza.co/+vKda-3q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Clippers
+END:VALARM
+DTSTART:20180728T223500Z
+DTEND:20180729T013500Z
+UID:pMLwt-S0VfahXUOFijJObKre@stanza.co
+SUMMARY:IronPigs vs. Clippers
+DESCRIPTION:IronPigs vs. Clippers\n\nFollow on MiLB First Pitch: https://stza.co/+vKda-3V\n\nShop: https://stza.co/+vKda-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Clippers
+<2018-07-29 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       qae90JVTd4ICxCf1usy8NTYI@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Clippers IronPigs vs. Clippers
+
+Follow on MiLB First Pitch  https //stza.co/+vKdc-20
+
+Shop  https //stza.co/+vKdc-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Clippers
+END:VALARM
+DTSTART:20180729T173500Z
+DTEND:20180729T203500Z
+UID:qae90JVTd4ICxCf1usy8NTYI@stanza.co
+SUMMARY:IronPigs vs. Clippers
+DESCRIPTION:IronPigs vs. Clippers\n\nFollow on MiLB First Pitch: https://stza.co/+vKdc-20\n\nShop: https://stza.co/+vKdc-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bisons
+<2018-07-30 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       jel3Mwu4Dp6B5JTVjD4E7tef@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bisons IronPigs @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKbb-3d
+
+Shop  https //stza.co/+vKbb-3e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bisons
+END:VALARM
+DTSTART:20180730T230500Z
+DTEND:20180731T020500Z
+UID:jel3Mwu4Dp6B5JTVjD4E7tef@stanza.co
+SUMMARY:IronPigs @ Bisons
+DESCRIPTION:IronPigs @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKbb-3d\n\nShop: https://stza.co/+vKbb-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bisons
+<2018-07-31 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       AwawpXLhMzOwk0kKSPjO_Q7j@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bisons IronPigs @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKbc-1x
+
+Shop  https //stza.co/+vKbc-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bisons
+END:VALARM
+DTSTART:20180731T230500Z
+DTEND:20180801T020500Z
+UID:AwawpXLhMzOwk0kKSPjO_Q7j@stanza.co
+SUMMARY:IronPigs @ Bisons
+DESCRIPTION:IronPigs @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKbc-1x\n\nShop: https://stza.co/+vKbc-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bisons
+<2018-08-01 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       _lKXo-bRh_QgP_IilWYIwKuU@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bisons IronPigs @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKbd-17
+
+Shop  https //stza.co/+vKbd-30
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bisons
+END:VALARM
+DTSTART:20180801T230500Z
+DTEND:20180802T020500Z
+UID:_lKXo-bRh_QgP_IilWYIwKuU@stanza.co
+SUMMARY:IronPigs @ Bisons
+DESCRIPTION:IronPigs @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKbd-17\n\nShop: https://stza.co/+vKbd-30\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bisons
+<2018-08-02 Thu 12:05-15:05>
+:PROPERTIES:
+:ID:       33l5oJBwrBiRpf7B5Ax2K_LM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bisons IronPigs @ Bisons
+
+Follow on MiLB First Pitch  https //stza.co/+vKbe-2
+
+Shop  https //stza.co/+vKbe-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bisons
+END:VALARM
+DTSTART:20180802T170500Z
+DTEND:20180802T200500Z
+UID:33l5oJBwrBiRpf7B5Ax2K_LM@stanza.co
+SUMMARY:IronPigs @ Bisons
+DESCRIPTION:IronPigs @ Bisons\n\nFollow on MiLB First Pitch: https://stza.co/+vKbe-2\n\nShop: https://stza.co/+vKbe-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       8CTlHWFipIKHVPOZPX3v2o_M@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKde-26
+
+Shop  https //stza.co/+vKde-v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:8CTlHWFipIKHVPOZPX3v2o_M@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKde-26\n\nShop: https://stza.co/+vKde-v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-08-04 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       -bWZJZ6BeTIepB_DU-wJLRgN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKdh-2$
+
+Shop  https //stza.co/+vKdh-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180804T223500Z
+DTEND:20180805T013500Z
+UID:-bWZJZ6BeTIepB_DU-wJLRgN@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKdh-2$\n\nShop: https://stza.co/+vKdh-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Chiefs
+<2018-08-05 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       a6ziTtyXIlTSQVDk5_-gKpMs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Chiefs IronPigs vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKdj-2Q
+
+Shop  https //stza.co/+vKdj-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Chiefs
+END:VALARM
+DTSTART:20180805T173500Z
+DTEND:20180805T203500Z
+UID:a6ziTtyXIlTSQVDk5_-gKpMs@stanza.co
+SUMMARY:IronPigs vs. Chiefs
+DESCRIPTION:IronPigs vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKdj-2Q\n\nShop: https://stza.co/+vKdj-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Indians
+<2018-08-07 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       r0r4sFHiLq7W9GGUh_j54d0S@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Indians IronPigs @ Indians
+
+Follow on MiLB First Pitch  https //stza.co/+vKbr-1O
+
+Shop  https //stza.co/+vKbr-3O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Indians
+END:VALARM
+DTSTART:20180807T230500Z
+DTEND:20180808T020500Z
+UID:r0r4sFHiLq7W9GGUh_j54d0S@stanza.co
+SUMMARY:IronPigs @ Indians
+DESCRIPTION:IronPigs @ Indians\n\nFollow on MiLB First Pitch: https://stza.co/+vKbr-1O\n\nShop: https://stza.co/+vKbr-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Indians
+<2018-08-08 Wed 12:35-15:35>
+:PROPERTIES:
+:ID:       NFeAE4JHP59jpolrpQW9sgf3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Indians IronPigs @ Indians
+
+Follow on MiLB First Pitch  https //stza.co/+vKbs-31
+
+Shop  https //stza.co/+vKbs-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Indians
+END:VALARM
+DTSTART:20180808T173500Z
+DTEND:20180808T203500Z
+UID:NFeAE4JHP59jpolrpQW9sgf3@stanza.co
+SUMMARY:IronPigs @ Indians
+DESCRIPTION:IronPigs @ Indians\n\nFollow on MiLB First Pitch: https://stza.co/+vKbs-31\n\nShop: https://stza.co/+vKbs-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Indians
+<2018-08-09 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       Q4J0mlkx0RNvb0i8qo-9WUHR@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Indians IronPigs @ Indians
+
+Follow on MiLB First Pitch  https //stza.co/+vKbt-3h
+
+Shop  https //stza.co/+vKbt-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Indians
+END:VALARM
+DTSTART:20180809T230500Z
+DTEND:20180810T020500Z
+UID:Q4J0mlkx0RNvb0i8qo-9WUHR@stanza.co
+SUMMARY:IronPigs @ Indians
+DESCRIPTION:IronPigs @ Indians\n\nFollow on MiLB First Pitch: https://stza.co/+vKbt-3h\n\nShop: https://stza.co/+vKbt-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bats
+<2018-08-10 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       -8T64cKQ-5KQs_PE01E1zOEt@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bats IronPigs @ Bats
+
+Buy tickets here  https //stza.co/~vKdG
+
+Follow on MiLB First Pitch  https //stza.co/+vKdG-2U
+
+Shop  https //stza.co/+vKdG-3b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bats
+END:VALARM
+DTSTART:20180810T230000Z
+DTEND:20180811T020000Z
+UID:-8T64cKQ-5KQs_PE01E1zOEt@stanza.co
+SUMMARY:IronPigs @ Bats
+DESCRIPTION:IronPigs @ Bats\n\nBuy tickets here: https://stza.co/~vKdG\n\nFollow on MiLB First Pitch: https://stza.co/+vKdG-2U\n\nShop: https://stza.co/+vKdG-3b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bats
+<2018-08-11 Sat 17:30-20:30>
+:PROPERTIES:
+:ID:       gYhnoLSd6pV6INVbOfwtuqTa@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bats IronPigs @ Bats
+
+Buy tickets here  https //stza.co/~vKdH
+
+Follow on MiLB First Pitch  https //stza.co/+vKdH-q
+
+Shop  https //stza.co/+vKdH-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bats
+END:VALARM
+DTSTART:20180811T223000Z
+DTEND:20180812T013000Z
+UID:gYhnoLSd6pV6INVbOfwtuqTa@stanza.co
+SUMMARY:IronPigs @ Bats
+DESCRIPTION:IronPigs @ Bats\n\nBuy tickets here: https://stza.co/~vKdH\n\nFollow on MiLB First Pitch: https://stza.co/+vKdH-q\n\nShop: https://stza.co/+vKdH-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Bats
+<2018-08-12 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       0dV3Bv_YW94cN6ILS63lChHU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Bats IronPigs @ Bats
+
+Buy tickets here  https //stza.co/~vKdI
+
+Follow on MiLB First Pitch  https //stza.co/+vKdI-28
+
+Shop  https //stza.co/+vKdI-3f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Bats
+END:VALARM
+DTSTART:20180812T180000Z
+DTEND:20180812T210000Z
+UID:0dV3Bv_YW94cN6ILS63lChHU@stanza.co
+SUMMARY:IronPigs @ Bats
+DESCRIPTION:IronPigs @ Bats\n\nBuy tickets here: https://stza.co/~vKdI\n\nFollow on MiLB First Pitch: https://stza.co/+vKdI-28\n\nShop: https://stza.co/+vKdI-3f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bulls
+<2018-08-13 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       41oR_L59fHa1gGp0EMnam6Iz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bulls IronPigs vs. Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vKdl-31
+
+Shop  https //stza.co/+vKdl-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bulls
+END:VALARM
+DTSTART:20180813T230500Z
+DTEND:20180814T020500Z
+UID:41oR_L59fHa1gGp0EMnam6Iz@stanza.co
+SUMMARY:IronPigs vs. Bulls
+DESCRIPTION:IronPigs vs. Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vKdl-31\n\nShop: https://stza.co/+vKdl-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bulls
+<2018-08-14 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       IscFOi7ecbR-NWJDleXXRSrh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bulls IronPigs vs. Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vKdn-1N
+
+Shop  https //stza.co/+vKdn-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bulls
+END:VALARM
+DTSTART:20180814T230500Z
+DTEND:20180815T020500Z
+UID:IscFOi7ecbR-NWJDleXXRSrh@stanza.co
+SUMMARY:IronPigs vs. Bulls
+DESCRIPTION:IronPigs vs. Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vKdn-1N\n\nShop: https://stza.co/+vKdn-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Bulls
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       tKYYD3_AnoNTIme9ICIJaffA@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Bulls IronPigs vs. Bulls
+
+Follow on MiLB First Pitch  https //stza.co/+vKdp-1G
+
+Shop  https //stza.co/+vKdp-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Bulls
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:tKYYD3_AnoNTIme9ICIJaffA@stanza.co
+SUMMARY:IronPigs vs. Bulls
+DESCRIPTION:IronPigs vs. Bulls\n\nFollow on MiLB First Pitch: https://stza.co/+vKdp-1G\n\nShop: https://stza.co/+vKdp-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Indians
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       iGbn0cGDtmYf1mh-fWNxpgxK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Indians IronPigs vs. Indians
+
+Follow on MiLB First Pitch  https //stza.co/+vKdr-2S
+
+Shop  https //stza.co/+vKdr-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Indians
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:iGbn0cGDtmYf1mh-fWNxpgxK@stanza.co
+SUMMARY:IronPigs vs. Indians
+DESCRIPTION:IronPigs vs. Indians\n\nFollow on MiLB First Pitch: https://stza.co/+vKdr-2S\n\nShop: https://stza.co/+vKdr-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Indians
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       wsj4bsA1uSDNJ8U6MQMg4mh-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Indians IronPigs vs. Indians
+
+Follow on MiLB First Pitch  https //stza.co/+vKdt-19
+
+Shop  https //stza.co/+vKdt-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Indians
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:wsj4bsA1uSDNJ8U6MQMg4mh-@stanza.co
+SUMMARY:IronPigs vs. Indians
+DESCRIPTION:IronPigs vs. Indians\n\nFollow on MiLB First Pitch: https://stza.co/+vKdt-19\n\nShop: https://stza.co/+vKdt-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Indians
+<2018-08-18 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       -svgs1capF5xf2uEyJoDTVvh@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Indians IronPigs vs. Indians
+
+Follow on MiLB First Pitch  https //stza.co/+vKdv-Y
+
+Shop  https //stza.co/+vKdv-24
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Indians
+END:VALARM
+DTSTART:20180818T223500Z
+DTEND:20180819T013500Z
+UID:-svgs1capF5xf2uEyJoDTVvh@stanza.co
+SUMMARY:IronPigs vs. Indians
+DESCRIPTION:IronPigs vs. Indians\n\nFollow on MiLB First Pitch: https://stza.co/+vKdv-Y\n\nShop: https://stza.co/+vKdv-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. Indians
+<2018-08-19 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       mRrr7IHi6HfdMIsShJLYK6QR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. Indians IronPigs vs. Indians
+
+Follow on MiLB First Pitch  https //stza.co/+vKdx-1Z
+
+Shop  https //stza.co/+vKdx-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. Indians
+END:VALARM
+DTSTART:20180819T173500Z
+DTEND:20180819T203500Z
+UID:mRrr7IHi6HfdMIsShJLYK6QR@stanza.co
+SUMMARY:IronPigs vs. Indians
+DESCRIPTION:IronPigs vs. Indians\n\nFollow on MiLB First Pitch: https://stza.co/+vKdx-1Z\n\nShop: https://stza.co/+vKdx-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-08-21 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       Wq-vLNotTBzzQQmpLac2LOBZ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKej-3t
+
+Shop  https //stza.co/+vKej-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180821T223500Z
+DTEND:20180822T013500Z
+UID:Wq-vLNotTBzzQQmpLac2LOBZ@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKej-3t\n\nShop: https://stza.co/+vKej-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-08-22 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       W2dp_Ki6qDNz8xxyxkezqNSY@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKek-25
+
+Shop  https //stza.co/+vKek-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180822T223500Z
+DTEND:20180823T013500Z
+UID:W2dp_Ki6qDNz8xxyxkezqNSY@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKek-25\n\nShop: https://stza.co/+vKek-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Chiefs
+<2018-08-23 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       5ITaCzC74uuviQS6tBdYsE22@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Chiefs IronPigs @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+vKel-2A
+
+Shop  https //stza.co/+vKel-3Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Chiefs
+END:VALARM
+DTSTART:20180823T223500Z
+DTEND:20180824T013500Z
+UID:5ITaCzC74uuviQS6tBdYsE22@stanza.co
+SUMMARY:IronPigs @ Chiefs
+DESCRIPTION:IronPigs @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+vKel-2A\n\nShop: https://stza.co/+vKel-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-08-24 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       p-INVxDiWh7_u5Tczb5iQGA8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKdy-s
+
+Shop  https //stza.co/+vKdy-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180824T230500Z
+DTEND:20180825T020500Z
+UID:p-INVxDiWh7_u5Tczb5iQGA8@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKdy-s\n\nShop: https://stza.co/+vKdy-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-08-25 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       XIROnVFwcPp_MtxlYm-AkRPD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKdB-4
+
+Shop  https //stza.co/+vKdB-2i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180825T223500Z
+DTEND:20180826T013500Z
+UID:XIROnVFwcPp_MtxlYm-AkRPD@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKdB-4\n\nShop: https://stza.co/+vKdB-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-08-26 Sun 12:35-15:35>
+:PROPERTIES:
+:ID:       3J5mqJEqoT6koR4z9iXgk5bq@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKdD-r
+
+Shop  https //stza.co/+vKdD-b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180826T173500Z
+DTEND:20180826T203500Z
+UID:3J5mqJEqoT6koR4z9iXgk5bq@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKdD-r\n\nShop: https://stza.co/+vKdD-b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs vs. RailRiders
+<2018-08-27 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       DrWLVqImGW5UElrJhTO12XWi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs vs. RailRiders IronPigs vs. RailRiders
+
+Follow on MiLB First Pitch  https //stza.co/+vKdE-2l
+
+Shop  https //stza.co/+vKdE-2B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs vs. RailRiders
+END:VALARM
+DTSTART:20180827T230500Z
+DTEND:20180828T020500Z
+UID:DrWLVqImGW5UElrJhTO12XWi@stanza.co
+SUMMARY:IronPigs vs. RailRiders
+DESCRIPTION:IronPigs vs. RailRiders\n\nFollow on MiLB First Pitch: https://stza.co/+vKdE-2l\n\nShop: https://stza.co/+vKdE-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-08-28 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       7d4qswI-L7KDR7vgwOSJs0RH@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdT
+
+Follow on MiLB First Pitch  https //stza.co/+vKdT-3D
+
+Shop  https //stza.co/+vKdT-2W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180828T230500Z
+DTEND:20180829T020500Z
+UID:7d4qswI-L7KDR7vgwOSJs0RH@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdT\n\nFollow on MiLB First Pitch: https://stza.co/+vKdT-3D\n\nShop: https://stza.co/+vKdT-2W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-08-29 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       HytQaiTYmEhTwyt6Epwx8Xv3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdU
+
+Follow on MiLB First Pitch  https //stza.co/+vKdU-K
+
+Shop  https //stza.co/+vKdU-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180829T230500Z
+DTEND:20180830T020500Z
+UID:HytQaiTYmEhTwyt6Epwx8Xv3@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdU\n\nFollow on MiLB First Pitch: https://stza.co/+vKdU-K\n\nShop: https://stza.co/+vKdU-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Sox
+<2018-08-30 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       r6ptcEn7-Qont19FzTulMVea@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Sox IronPigs @ Red Sox
+
+Buy tickets here  https //stza.co/~vKdV
+
+Follow on MiLB First Pitch  https //stza.co/+vKdV-$
+
+Shop  https //stza.co/+vKdV-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Sox
+END:VALARM
+DTSTART:20180830T230500Z
+DTEND:20180831T020500Z
+UID:r6ptcEn7-Qont19FzTulMVea@stanza.co
+SUMMARY:IronPigs @ Red Sox
+DESCRIPTION:IronPigs @ Red Sox\n\nBuy tickets here: https://stza.co/~vKdV\n\nFollow on MiLB First Pitch: https://stza.co/+vKdV-$\n\nShop: https://stza.co/+vKdV-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-08-31 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       P-TYypcJ8I1DKU6Oib9dXUUz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKe1-3R
+
+Shop  https //stza.co/+vKe1-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180831T230500Z
+DTEND:20180901T020500Z
+UID:P-TYypcJ8I1DKU6Oib9dXUUz@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKe1-3R\n\nShop: https://stza.co/+vKe1-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-09-01 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       lIUN2jq9C_V43wj_j0tRL_gM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKe2-5
+
+Shop  https //stza.co/+vKe2-2C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180901T220500Z
+DTEND:20180902T010500Z
+UID:lIUN2jq9C_V43wj_j0tRL_gM@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKe2-5\n\nShop: https://stza.co/+vKe2-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-09-02 Sun 17:05-20:05>
+:PROPERTIES:
+:ID:       RReJsrxm2mbzTn4MiD-jzOl_@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+wjvW-c
+
+Shop  https //stza.co/+wjvW-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180902T220500Z
+DTEND:20180903T010500Z
+UID:RReJsrxm2mbzTn4MiD-jzOl_@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+wjvW-c\n\nShop: https://stza.co/+wjvW-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT
+* IronPigs @ Red Wings
+<2018-09-03 Mon 12:05-15:05>
+:PROPERTIES:
+:ID:       j44gl0BeIB9Pjjv_9JiuTrBm@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+IronPigs @ Red Wings IronPigs @ Red Wings
+
+Follow on MiLB First Pitch  https //stza.co/+vKe4-3J
+
+Shop  https //stza.co/+vKe4-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IronPigs @ Red Wings
+END:VALARM
+DTSTART:20180903T170500Z
+DTEND:20180903T200500Z
+UID:j44gl0BeIB9Pjjv_9JiuTrBm@stanza.co
+SUMMARY:IronPigs @ Red Wings
+DESCRIPTION:IronPigs @ Red Wings\n\nFollow on MiLB First Pitch: https://stza.co/+vKe4-3J\n\nShop: https://stza.co/+vKe4-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144541Z
+LAST-MODIFIED:20180213T144541Z
+TRANSP:OPAQUE
+END:VEVENT

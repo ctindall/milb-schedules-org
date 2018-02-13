@@ -1,0 +1,5050 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Grasshoppers vs. Crawdads
+<2018-04-05 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       BTwN4fACz9n3sO0-UIE3pDWF@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wix2-f
+
+Shop  https //stza.co/+wix2-2r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180405T230000Z
+DTEND:20180406T020000Z
+UID:BTwN4fACz9n3sO0-UIE3pDWF@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wix2-f\n\nShop: https://stza.co/+wix2-2r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-04-06 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       P7bJMHoAEQTi5_powSB3EQxs@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wix5-1z
+
+Shop  https //stza.co/+wix5-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180406T230000Z
+DTEND:20180407T020000Z
+UID:P7bJMHoAEQTi5_powSB3EQxs@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wix5-1z\n\nShop: https://stza.co/+wix5-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-04-07 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       ykK0bVgk-xXY8aInTXLKs2eE@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wix6-2s
+
+Shop  https //stza.co/+wix6-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180407T230000Z
+DTEND:20180408T020000Z
+UID:ykK0bVgk-xXY8aInTXLKs2eE@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wix6-2s\n\nShop: https://stza.co/+wix6-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-04-08 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       xDhBfTs_ZJBSFuwd5s2Rg6Xn@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Get to the park early and enjoy a pregame catch on the field from 1 00pm - 1 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wix9-2V
+
+Shop  https //stza.co/+wix9-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180408T180000Z
+DTEND:20180408T210000Z
+UID:xDhBfTs_ZJBSFuwd5s2Rg6Xn@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 1:00pm - 1:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wix9-2V\n\nShop: https://stza.co/+wix9-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. GreenJackets
+<2018-04-09 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       WxFU3ZUJ9JdKAwOT_cJxq2o2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. GreenJackets Grasshoppers vs. GreenJackets
+
+Follow on MiLB First Pitch  https //stza.co/+wixb-3g
+
+Shop  https //stza.co/+wixb-3H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. GreenJackets
+END:VALARM
+DTSTART:20180409T230000Z
+DTEND:20180410T020000Z
+UID:WxFU3ZUJ9JdKAwOT_cJxq2o2@stanza.co
+SUMMARY:Grasshoppers vs. GreenJackets
+DESCRIPTION:Grasshoppers vs. GreenJackets\n\nFollow on MiLB First Pitch: https://stza.co/+wixb-3g\n\nShop: https://stza.co/+wixb-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. GreenJackets
+<2018-04-10 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       W-L8NEsM38XS9P4_-tZiwO5B@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. GreenJackets Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wixd-O
+
+Shop  https //stza.co/+wixd-1k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. GreenJackets
+END:VALARM
+DTSTART:20180410T230000Z
+DTEND:20180411T020000Z
+UID:W-L8NEsM38XS9P4_-tZiwO5B@stanza.co
+SUMMARY:Grasshoppers vs. GreenJackets
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wixd-O\n\nShop: https://stza.co/+wixd-1k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. GreenJackets
+<2018-04-11 Wed 09:45-12:45>
+:PROPERTIES:
+:ID:       T71W1fWI2cKEtoyhOxZYPd_F@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. GreenJackets Grasshoppers vs. GreenJackets
+
+Follow on MiLB First Pitch  https //stza.co/+wixe-3L
+
+Shop  https //stza.co/+wixe-13
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. GreenJackets
+END:VALARM
+DTSTART:20180411T144500Z
+DTEND:20180411T174500Z
+UID:T71W1fWI2cKEtoyhOxZYPd_F@stanza.co
+SUMMARY:Grasshoppers vs. GreenJackets
+DESCRIPTION:Grasshoppers vs. GreenJackets\n\nFollow on MiLB First Pitch: https://stza.co/+wixe-3L\n\nShop: https://stza.co/+wixe-13\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-04-12 Thu 17:05-20:05>
+:PROPERTIES:
+:ID:       _0Znrjt9JxB6NdTagwkIM3YI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_d-F
+
+Shop  https //stza.co/+xE_d-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180412T220500Z
+DTEND:20180413T010500Z
+UID:_0Znrjt9JxB6NdTagwkIM3YI@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_d-F\n\nShop: https://stza.co/+xE_d-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-04-13 Fri 17:05-20:05>
+:PROPERTIES:
+:ID:       hGZ_q645Z6T_fbreif2ZufPw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_e-3
+
+Shop  https //stza.co/+xE_e-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180413T220500Z
+DTEND:20180414T010500Z
+UID:hGZ_q645Z6T_fbreif2ZufPw@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_e-3\n\nShop: https://stza.co/+xE_e-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-04-14 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       R_pdvvrTs0wEeH-110Qd8Ert@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_f-3f
+
+Shop  https //stza.co/+xE_f-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180414T220500Z
+DTEND:20180415T010500Z
+UID:R_pdvvrTs0wEeH-110Qd8Ert@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_f-3f\n\nShop: https://stza.co/+xE_f-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-04-15 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       JoP2tLfDccrdrh7tiTV4uvIN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_g-3H
+
+Shop  https //stza.co/+xE_g-1h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180415T180500Z
+DTEND:20180415T210500Z
+UID:JoP2tLfDccrdrh7tiTV4uvIN@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_g-3H\n\nShop: https://stza.co/+xE_g-1h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-04-16 Mon 17:35-20:35>
+:PROPERTIES:
+:ID:       mjY6ClGK4KRXejJE1Ay5S5bJ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMi-1X
+
+Shop  https //stza.co/+vxMi-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180416T223500Z
+DTEND:20180417T013500Z
+UID:mjY6ClGK4KRXejJE1Ay5S5bJ@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMi-1X\n\nShop: https://stza.co/+vxMi-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-04-17 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       TbQ_2FWWwvC2lTgv5fgTpTbD@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMj-3L
+
+Shop  https //stza.co/+vxMj-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180417T223500Z
+DTEND:20180418T013500Z
+UID:TbQ_2FWWwvC2lTgv5fgTpTbD@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMj-3L\n\nShop: https://stza.co/+vxMj-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-04-18 Wed 17:35-20:35>
+:PROPERTIES:
+:ID:       No0F7Btg38j7GjMJqZ8y-LTP@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMk-1D
+
+Shop  https //stza.co/+vxMk-25
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180418T223500Z
+DTEND:20180419T013500Z
+UID:No0F7Btg38j7GjMJqZ8y-LTP@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMk-1D\n\nShop: https://stza.co/+vxMk-25\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. RiverDogs
+<2018-04-19 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       Wa3dSFu2WXk71nB0xg-3uk15@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. RiverDogs Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wixg-1J
+
+Shop  https //stza.co/+wixg-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. RiverDogs
+END:VALARM
+DTSTART:20180419T230000Z
+DTEND:20180420T020000Z
+UID:Wa3dSFu2WXk71nB0xg-3uk15@stanza.co
+SUMMARY:Grasshoppers vs. RiverDogs
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wixg-1J\n\nShop: https://stza.co/+wixg-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. RiverDogs
+<2018-04-20 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       1AQKGh1SLP3ULNVGmRyHDRrT@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. RiverDogs Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wixi-G
+
+Shop  https //stza.co/+wixi-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. RiverDogs
+END:VALARM
+DTSTART:20180420T230000Z
+DTEND:20180421T020000Z
+UID:1AQKGh1SLP3ULNVGmRyHDRrT@stanza.co
+SUMMARY:Grasshoppers vs. RiverDogs
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wixi-G\n\nShop: https://stza.co/+wixi-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. RiverDogs
+<2018-04-21 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       f3jcb8mxJ7ODpcB2EVs2r_UA@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. RiverDogs More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wixl-3G
+
+Shop  https //stza.co/+wixl-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. RiverDogs
+END:VALARM
+DTSTART:20180421T230000Z
+DTEND:20180422T020000Z
+UID:f3jcb8mxJ7ODpcB2EVs2r_UA@stanza.co
+SUMMARY:Grasshoppers vs. RiverDogs
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wixl-3G\n\nShop: https://stza.co/+wixl-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. RiverDogs
+<2018-04-22 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       YyRwy8KwUACh3hg6jTAg8P-1@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. RiverDogs Get to the park early and enjoy a pregame catch on the field from 1 00pm - 1 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wixn-p
+
+Shop  https //stza.co/+wixn-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. RiverDogs
+END:VALARM
+DTSTART:20180422T180000Z
+DTEND:20180422T210000Z
+UID:YyRwy8KwUACh3hg6jTAg8P-1@stanza.co
+SUMMARY:Grasshoppers vs. RiverDogs
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 1:00pm - 1:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wixn-p\n\nShop: https://stza.co/+wixn-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-04-23 Mon 17:00-20:00>
+:PROPERTIES:
+:ID:       FvYTL0NKj6Q3RMbU4YOFw5ed@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Oo-1U
+
+Shop  https //stza.co/+w0Oo-l
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180423T220000Z
+DTEND:20180424T010000Z
+UID:FvYTL0NKj6Q3RMbU4YOFw5ed@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Oo-1U\n\nShop: https://stza.co/+w0Oo-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-04-24 Tue 17:00-20:00>
+:PROPERTIES:
+:ID:       ialZqqnnmTr7y4uyvxMpcwQC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Op-2F
+
+Shop  https //stza.co/+w0Op-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180424T220000Z
+DTEND:20180425T010000Z
+UID:ialZqqnnmTr7y4uyvxMpcwQC@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Op-2F\n\nShop: https://stza.co/+w0Op-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-04-25 Wed 09:30-12:30>
+:PROPERTIES:
+:ID:       Oq7Mr3cwp6u1TST89-nxHQfx@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Oq-Q
+
+Shop  https //stza.co/+w0Oq-2v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180425T143000Z
+DTEND:20180425T173000Z
+UID:Oq7Mr3cwp6u1TST89-nxHQfx@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Oq-Q\n\nShop: https://stza.co/+w0Oq-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-04-26 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       Er3sCvEfjbDiLD8K_HWA9g-j@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Or-1U
+
+Shop  https //stza.co/+w0Or-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180426T230000Z
+DTEND:20180427T020000Z
+UID:Er3sCvEfjbDiLD8K_HWA9g-j@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Or-1U\n\nShop: https://stza.co/+w0Or-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Tourists
+<2018-04-27 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       iW-lRsnNGgULG9NvgtlrPlct@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Tourists Grasshoppers @ Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+vxfK-2P
+
+Shop  https //stza.co/+vxfK-2d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Tourists
+END:VALARM
+DTSTART:20180427T230500Z
+DTEND:20180428T020500Z
+UID:iW-lRsnNGgULG9NvgtlrPlct@stanza.co
+SUMMARY:Grasshoppers @ Tourists
+DESCRIPTION:Grasshoppers @ Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+vxfK-2P\n\nShop: https://stza.co/+vxfK-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Tourists
+<2018-04-28 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       OO_H8CWMLepE2ioTXGESRdyo@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Tourists Grasshoppers @ Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+vxfL-1M
+
+Shop  https //stza.co/+vxfL-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Tourists
+END:VALARM
+DTSTART:20180428T220500Z
+DTEND:20180429T010500Z
+UID:OO_H8CWMLepE2ioTXGESRdyo@stanza.co
+SUMMARY:Grasshoppers @ Tourists
+DESCRIPTION:Grasshoppers @ Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+vxfL-1M\n\nShop: https://stza.co/+vxfL-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Tourists
+<2018-04-29 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       O68FooXxJPSNkEgOhr9NhkXO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Tourists Grasshoppers @ Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+vxfM-2x
+
+Shop  https //stza.co/+vxfM-s
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Tourists
+END:VALARM
+DTSTART:20180429T180500Z
+DTEND:20180429T210500Z
+UID:O68FooXxJPSNkEgOhr9NhkXO@stanza.co
+SUMMARY:Grasshoppers @ Tourists
+DESCRIPTION:Grasshoppers @ Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+vxfM-2x\n\nShop: https://stza.co/+vxfM-s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Suns
+<2018-05-01 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       mLpo2xcbd-4V834ENJE27LJG@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Suns Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wixq-3t
+
+Shop  https //stza.co/+wixq-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Suns
+END:VALARM
+DTSTART:20180501T230000Z
+DTEND:20180502T020000Z
+UID:mLpo2xcbd-4V834ENJE27LJG@stanza.co
+SUMMARY:Grasshoppers vs. Suns
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wixq-3t\n\nShop: https://stza.co/+wixq-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Suns
+<2018-05-02 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       DI8Oef-9NhmEpe3jwuNtkPze@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Suns Grasshoppers vs. Suns
+
+Follow on MiLB First Pitch  https //stza.co/+wixr-2K
+
+Shop  https //stza.co/+wixr-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Suns
+END:VALARM
+DTSTART:20180502T160000Z
+DTEND:20180502T190000Z
+UID:DI8Oef-9NhmEpe3jwuNtkPze@stanza.co
+SUMMARY:Grasshoppers vs. Suns
+DESCRIPTION:Grasshoppers vs. Suns\n\nFollow on MiLB First Pitch: https://stza.co/+wixr-2K\n\nShop: https://stza.co/+wixr-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Suns
+<2018-05-03 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       2XNPqHgo3uAs4U58JWzNJ3Jl@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Suns Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wixt-L
+
+Shop  https //stza.co/+wixt-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Suns
+END:VALARM
+DTSTART:20180503T230000Z
+DTEND:20180504T020000Z
+UID:2XNPqHgo3uAs4U58JWzNJ3Jl@stanza.co
+SUMMARY:Grasshoppers vs. Suns
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wixt-L\n\nShop: https://stza.co/+wixt-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Drive
+<2018-05-04 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       Iw65iE3a2sQmiYeml-YDZZ_K@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Drive Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wixw-26
+
+Shop  https //stza.co/+wixw-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Drive
+END:VALARM
+DTSTART:20180504T230000Z
+DTEND:20180505T020000Z
+UID:Iw65iE3a2sQmiYeml-YDZZ_K@stanza.co
+SUMMARY:Grasshoppers vs. Drive
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wixw-26\n\nShop: https://stza.co/+wixw-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Drive
+<2018-05-05 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       5oCJ2WSFVq1r5xfyaHqmfhZp@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Drive More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wixx-1a
+
+Shop  https //stza.co/+wixx-3W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Drive
+END:VALARM
+DTSTART:20180505T230000Z
+DTEND:20180506T020000Z
+UID:5oCJ2WSFVq1r5xfyaHqmfhZp@stanza.co
+SUMMARY:Grasshoppers vs. Drive
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wixx-1a\n\nShop: https://stza.co/+wixx-3W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Drive
+<2018-05-06 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       2v7wvxYUZz4UXa6nZb7MXUfM@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Drive Get to the park early and enjoy a pregame catch on the field from 1 00pm - 1 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wixA-w
+
+Shop  https //stza.co/+wixA-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Drive
+END:VALARM
+DTSTART:20180506T180000Z
+DTEND:20180506T210000Z
+UID:2v7wvxYUZz4UXa6nZb7MXUfM@stanza.co
+SUMMARY:Grasshoppers vs. Drive
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 1:00pm - 1:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wixA-w\n\nShop: https://stza.co/+wixA-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Drive
+<2018-05-07 Mon 09:45-12:45>
+:PROPERTIES:
+:ID:       D0VK9XqCQI-3sKQ179H_EWRI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Drive Grasshoppers vs. Drive
+
+Follow on MiLB First Pitch  https //stza.co/+wixB-v
+
+Shop  https //stza.co/+wixB-3N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Drive
+END:VALARM
+DTSTART:20180507T144500Z
+DTEND:20180507T174500Z
+UID:D0VK9XqCQI-3sKQ179H_EWRI@stanza.co
+SUMMARY:Grasshoppers vs. Drive
+DESCRIPTION:Grasshoppers vs. Drive\n\nFollow on MiLB First Pitch: https://stza.co/+wixB-v\n\nShop: https://stza.co/+wixB-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Tourists
+<2018-05-09 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       -_LYGsQORoPiF-6Tiu60qCA9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Tourists Grasshoppers @ Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+vxfN-2e
+
+Shop  https //stza.co/+vxfN-32
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Tourists
+END:VALARM
+DTSTART:20180509T230500Z
+DTEND:20180510T020500Z
+UID:-_LYGsQORoPiF-6Tiu60qCA9@stanza.co
+SUMMARY:Grasshoppers @ Tourists
+DESCRIPTION:Grasshoppers @ Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+vxfN-2e\n\nShop: https://stza.co/+vxfN-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Tourists
+<2018-05-10 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       y9bgXjT745265J9UYRkRb0Sy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Tourists Grasshoppers @ Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+vxfO-1U
+
+Shop  https //stza.co/+vxfO-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Tourists
+END:VALARM
+DTSTART:20180510T230500Z
+DTEND:20180511T020500Z
+UID:y9bgXjT745265J9UYRkRb0Sy@stanza.co
+SUMMARY:Grasshoppers @ Tourists
+DESCRIPTION:Grasshoppers @ Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+vxfO-1U\n\nShop: https://stza.co/+vxfO-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Tourists
+<2018-05-11 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       rGXXGcr9KIIZ_5k030nU7MoM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Tourists Grasshoppers @ Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+vxfP-8
+
+Shop  https //stza.co/+vxfP-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Tourists
+END:VALARM
+DTSTART:20180511T230500Z
+DTEND:20180512T020500Z
+UID:rGXXGcr9KIIZ_5k030nU7MoM@stanza.co
+SUMMARY:Grasshoppers @ Tourists
+DESCRIPTION:Grasshoppers @ Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+vxfP-8\n\nShop: https://stza.co/+vxfP-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ GreenJackets
+<2018-05-12 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       wQePQIbnP-EaDJFz1b42h-Cq@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ GreenJackets Grasshoppers @ GreenJackets
+
+Follow on MiLB First Pitch  https //stza.co/+xBSe-2g
+
+Shop  https //stza.co/+xBSe-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ GreenJackets
+END:VALARM
+DTSTART:20180512T220500Z
+DTEND:20180513T010500Z
+UID:wQePQIbnP-EaDJFz1b42h-Cq@stanza.co
+SUMMARY:Grasshoppers @ GreenJackets
+DESCRIPTION:Grasshoppers @ GreenJackets\n\nFollow on MiLB First Pitch: https://stza.co/+xBSe-2g\n\nShop: https://stza.co/+xBSe-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ GreenJackets
+<2018-05-13 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       QkL41_BsNtBZhUzRYPTudifk@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ GreenJackets Grasshoppers @ GreenJackets
+
+Follow on MiLB First Pitch  https //stza.co/+xBSf-U
+
+Shop  https //stza.co/+xBSf-1i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ GreenJackets
+END:VALARM
+DTSTART:20180513T180500Z
+DTEND:20180513T210500Z
+UID:QkL41_BsNtBZhUzRYPTudifk@stanza.co
+SUMMARY:Grasshoppers @ GreenJackets
+DESCRIPTION:Grasshoppers @ GreenJackets\n\nFollow on MiLB First Pitch: https://stza.co/+xBSf-U\n\nShop: https://stza.co/+xBSf-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ GreenJackets
+<2018-05-14 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       wCLuRA7QMaNsE3QdJhiW5IoZ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ GreenJackets Grasshoppers @ GreenJackets
+
+Follow on MiLB First Pitch  https //stza.co/+xBSg-3J
+
+Shop  https //stza.co/+xBSg-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ GreenJackets
+END:VALARM
+DTSTART:20180514T230500Z
+DTEND:20180515T020500Z
+UID:wCLuRA7QMaNsE3QdJhiW5IoZ@stanza.co
+SUMMARY:Grasshoppers @ GreenJackets
+DESCRIPTION:Grasshoppers @ GreenJackets\n\nFollow on MiLB First Pitch: https://stza.co/+xBSg-3J\n\nShop: https://stza.co/+xBSg-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ GreenJackets
+<2018-05-15 Tue 09:35-12:35>
+:PROPERTIES:
+:ID:       Ha25z6QcE6yNSMLck2oLENg6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ GreenJackets Grasshoppers @ GreenJackets
+
+Follow on MiLB First Pitch  https //stza.co/+xBSh-2m
+
+Shop  https //stza.co/+xBSh-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ GreenJackets
+END:VALARM
+DTSTART:20180515T143500Z
+DTEND:20180515T173500Z
+UID:Ha25z6QcE6yNSMLck2oLENg6@stanza.co
+SUMMARY:Grasshoppers @ GreenJackets
+DESCRIPTION:Grasshoppers @ GreenJackets\n\nFollow on MiLB First Pitch: https://stza.co/+xBSh-2m\n\nShop: https://stza.co/+xBSh-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-05-17 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       82fW4X6OVqTwRA8cH5QrIbsF@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wixE-3K
+
+Shop  https //stza.co/+wixE-O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180517T230000Z
+DTEND:20180518T020000Z
+UID:82fW4X6OVqTwRA8cH5QrIbsF@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wixE-3K\n\nShop: https://stza.co/+wixE-O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-05-18 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       26RF9IY5OBh5df9phhBTYYP-@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wixG-3a
+
+Shop  https //stza.co/+wixG-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180518T230000Z
+DTEND:20180519T020000Z
+UID:26RF9IY5OBh5df9phhBTYYP-@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wixG-3a\n\nShop: https://stza.co/+wixG-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-05-19 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       ZXj2j66gC5Ls3cCwaxAbtuF6@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wixJ-15
+
+Shop  https //stza.co/+wixJ-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180519T230000Z
+DTEND:20180520T020000Z
+UID:ZXj2j66gC5Ls3cCwaxAbtuF6@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wixJ-15\n\nShop: https://stza.co/+wixJ-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-05-20 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       GFFk85zwcy5UesFB-qUd5V9O@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Get to the park early and enjoy a pregame catch on the field from 1 00pm - 1 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wixK-2k
+
+Shop  https //stza.co/+wixK-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180520T180000Z
+DTEND:20180520T210000Z
+UID:GFFk85zwcy5UesFB-qUd5V9O@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 1:00pm - 1:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wixK-2k\n\nShop: https://stza.co/+wixK-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-05-21 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       341AAcWT_8vB86rnWfFVvvXq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Grasshoppers vs. Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wixM-1E
+
+Shop  https //stza.co/+wixM-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180521T230000Z
+DTEND:20180522T020000Z
+UID:341AAcWT_8vB86rnWfFVvvXq@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Grasshoppers vs. Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wixM-1E\n\nShop: https://stza.co/+wixM-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-05-22 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       SGemwemXjTTyqSVxBofTHQXT@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wixP-1X
+
+Shop  https //stza.co/+wixP-31
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180522T230000Z
+DTEND:20180523T020000Z
+UID:SGemwemXjTTyqSVxBofTHQXT@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wixP-1X\n\nShop: https://stza.co/+wixP-31\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-05-23 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       kXi34_BIx5N4fpJacqQQVl3S@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Grasshoppers vs. Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wixQ-11
+
+Shop  https //stza.co/+wixQ-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180523T160000Z
+DTEND:20180523T190000Z
+UID:kXi34_BIx5N4fpJacqQQVl3S@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Grasshoppers vs. Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wixQ-11\n\nShop: https://stza.co/+wixQ-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-05-24 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       m6evmvDitYp34ZRwE0VvdtiJ@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wixS-17
+
+Shop  https //stza.co/+wixS-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180524T230000Z
+DTEND:20180525T020000Z
+UID:m6evmvDitYp34ZRwE0VvdtiJ@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wixS-17\n\nShop: https://stza.co/+wixS-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-05-25 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       FRTD-U8BPRIPfWH06TvuHC7R@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_h-2L
+
+Shop  https //stza.co/+xE_h-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180525T230500Z
+DTEND:20180526T020500Z
+UID:FRTD-U8BPRIPfWH06TvuHC7R@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_h-2L\n\nShop: https://stza.co/+xE_h-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-05-26 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       QzoUxMaUr_AFdBoAewM0mDhT@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_i-3Y
+
+Shop  https //stza.co/+xE_i-N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180526T220500Z
+DTEND:20180527T010500Z
+UID:QzoUxMaUr_AFdBoAewM0mDhT@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_i-3Y\n\nShop: https://stza.co/+xE_i-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-05-27 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       hgLjWPhDKc55997kGCLOn6sU@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_j-2j
+
+Shop  https //stza.co/+xE_j-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180527T180500Z
+DTEND:20180527T210500Z
+UID:hgLjWPhDKc55997kGCLOn6sU@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_j-2j\n\nShop: https://stza.co/+xE_j-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-05-28 Mon 13:05-16:05>
+:PROPERTIES:
+:ID:       bE5vsSjNvdHoZSvTpe0uPbRv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_k-2B
+
+Shop  https //stza.co/+xE_k-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180528T180500Z
+DTEND:20180528T210500Z
+UID:bE5vsSjNvdHoZSvTpe0uPbRv@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_k-2B\n\nShop: https://stza.co/+xE_k-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-05-29 Tue 17:35-20:35>
+:PROPERTIES:
+:ID:       1zLIij_iHPZwxuYOTtNbHVm0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMl-a
+
+Shop  https //stza.co/+vxMl-j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180529T223500Z
+DTEND:20180530T013500Z
+UID:1zLIij_iHPZwxuYOTtNbHVm0@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMl-a\n\nShop: https://stza.co/+vxMl-j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-05-30 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       sFdLMoISLKx9MFuZDOFNku9v@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMm-w
+
+Shop  https //stza.co/+vxMm-2A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180530T150500Z
+DTEND:20180530T180500Z
+UID:sFdLMoISLKx9MFuZDOFNku9v@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMm-w\n\nShop: https://stza.co/+vxMm-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-05-31 Thu 17:35-20:35>
+:PROPERTIES:
+:ID:       vQwUIYb2m5rwbS4JY9V2YdTh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMn-A
+
+Shop  https //stza.co/+vxMn-1H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180531T223500Z
+DTEND:20180601T013500Z
+UID:vQwUIYb2m5rwbS4JY9V2YdTh@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMn-A\n\nShop: https://stza.co/+vxMn-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Power
+<2018-06-01 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       dqVKS-fvR6IEx5gzRE9V3wjo@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Power Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wixV-3j
+
+Shop  https //stza.co/+wixV-m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Power
+END:VALARM
+DTSTART:20180601T230000Z
+DTEND:20180602T020000Z
+UID:dqVKS-fvR6IEx5gzRE9V3wjo@stanza.co
+SUMMARY:Grasshoppers vs. Power
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wixV-3j\n\nShop: https://stza.co/+wixV-m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Power
+<2018-06-02 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       joaP_ZzGaj8th1oQTFS5tAiU@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Power More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wixX-3n
+
+Shop  https //stza.co/+wixX-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Power
+END:VALARM
+DTSTART:20180602T230000Z
+DTEND:20180603T020000Z
+UID:joaP_ZzGaj8th1oQTFS5tAiU@stanza.co
+SUMMARY:Grasshoppers vs. Power
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wixX-3n\n\nShop: https://stza.co/+wixX-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Power
+<2018-06-03 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       tPLNmsTCDLsXS_ehXGptdgf3@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Power Get to the park early and enjoy a pregame catch on the field from 1 00pm - 1 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wixZ-3c
+
+Shop  https //stza.co/+wixZ-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Power
+END:VALARM
+DTSTART:20180603T180000Z
+DTEND:20180603T210000Z
+UID:tPLNmsTCDLsXS_ehXGptdgf3@stanza.co
+SUMMARY:Grasshoppers vs. Power
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 1:00pm - 1:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wixZ-3c\n\nShop: https://stza.co/+wixZ-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Shorebirds
+<2018-06-05 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       alNQIRPfjOYw5nujWhdpRj4o@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Shorebirds Grasshoppers @ Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wHRW-2V
+
+Shop  https //stza.co/+wHRW-37
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Shorebirds
+END:VALARM
+DTSTART:20180605T230500Z
+DTEND:20180606T020500Z
+UID:alNQIRPfjOYw5nujWhdpRj4o@stanza.co
+SUMMARY:Grasshoppers @ Shorebirds
+DESCRIPTION:Grasshoppers @ Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wHRW-2V\n\nShop: https://stza.co/+wHRW-37\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Shorebirds
+<2018-06-06 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       fKq32yn5TXmBVzGI9FfiHK8d@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Shorebirds Grasshoppers @ Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wHRY-h
+
+Shop  https //stza.co/+wHRY-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Shorebirds
+END:VALARM
+DTSTART:20180606T230500Z
+DTEND:20180607T020500Z
+UID:fKq32yn5TXmBVzGI9FfiHK8d@stanza.co
+SUMMARY:Grasshoppers @ Shorebirds
+DESCRIPTION:Grasshoppers @ Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wHRY-h\n\nShop: https://stza.co/+wHRY-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Shorebirds
+<2018-06-07 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       NhMrzKSxM1hxxbtTqHwqfOGu@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Shorebirds Grasshoppers @ Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wHRZ-1y
+
+Shop  https //stza.co/+wHRZ-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Shorebirds
+END:VALARM
+DTSTART:20180607T230500Z
+DTEND:20180608T020500Z
+UID:NhMrzKSxM1hxxbtTqHwqfOGu@stanza.co
+SUMMARY:Grasshoppers @ Shorebirds
+DESCRIPTION:Grasshoppers @ Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wHRZ-1y\n\nShop: https://stza.co/+wHRZ-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-06-08 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       QHlO59q7YToVEA0igJUVAFqL@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wix_-3w
+
+Shop  https //stza.co/+wix_-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180608T230000Z
+DTEND:20180609T020000Z
+UID:QHlO59q7YToVEA0igJUVAFqL@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wix_-3w\n\nShop: https://stza.co/+wix_-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-06-09 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       yiKyPgp2pnFeRQk_VbF7M18F@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wiy1-2Q
+
+Shop  https //stza.co/+wiy1-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180609T230000Z
+DTEND:20180610T020000Z
+UID:yiKyPgp2pnFeRQk_VbF7M18F@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wiy1-2Q\n\nShop: https://stza.co/+wiy1-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-06-10 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       aZFXt75xvxWpzYQWJzqNuRoA@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Get to the park early and enjoy a pregame catch on the field from 1 00pm - 1 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wiy3-1F
+
+Shop  https //stza.co/+wiy3-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180610T180000Z
+DTEND:20180610T210000Z
+UID:aZFXt75xvxWpzYQWJzqNuRoA@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 1:00pm - 1:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wiy3-1F\n\nShop: https://stza.co/+wiy3-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-06-11 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       nBz3dwgwUgX93wHb8SNCryfw@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Grasshoppers vs. Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+wiy5-g
+
+Shop  https //stza.co/+wiy5-1n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180611T230000Z
+DTEND:20180612T020000Z
+UID:nBz3dwgwUgX93wHb8SNCryfw@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Grasshoppers vs. Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+wiy5-g\n\nShop: https://stza.co/+wiy5-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-06-12 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       gHDxMGXLHTTfZOOKMJJ85ndu@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wiy6-2A
+
+Shop  https //stza.co/+wiy6-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180612T230000Z
+DTEND:20180613T020000Z
+UID:gHDxMGXLHTTfZOOKMJJ85ndu@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wiy6-2A\n\nShop: https://stza.co/+wiy6-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-06-13 Wed 11:00-14:00>
+:PROPERTIES:
+:ID:       5GTEGl70BvVNAWYi1eaqGVUA@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Grasshoppers vs. Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+wiy8-25
+
+Shop  https //stza.co/+wiy8-1O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180613T160000Z
+DTEND:20180613T190000Z
+UID:5GTEGl70BvVNAWYi1eaqGVUA@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Grasshoppers vs. Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+wiy8-25\n\nShop: https://stza.co/+wiy8-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-06-14 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       1GvXtRjZldcqRc3IYwnqqeMw@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyb-2N
+
+Shop  https //stza.co/+wiyb-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180614T230000Z
+DTEND:20180615T020000Z
+UID:1GvXtRjZldcqRc3IYwnqqeMw@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyb-2N\n\nShop: https://stza.co/+wiyb-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-06-15 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       94l6ZN5QULLveU3LH4hcvUek@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wIC3-3r
+
+Shop  https //stza.co/+wIC3-11
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180615T230500Z
+DTEND:20180616T020500Z
+UID:94l6ZN5QULLveU3LH4hcvUek@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wIC3-3r\n\nShop: https://stza.co/+wIC3-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-06-16 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       dBRRdydDHxw9r8GU-QMcSBs_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wIC4-3L
+
+Shop  https //stza.co/+wIC4-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180616T230500Z
+DTEND:20180617T020500Z
+UID:dBRRdydDHxw9r8GU-QMcSBs_@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wIC4-3L\n\nShop: https://stza.co/+wIC4-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-06-17 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       ZkKxn0SVPTMW6ei3pctwhSfc@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wIC5-3G
+
+Shop  https //stza.co/+wIC5-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180617T210500Z
+DTEND:20180618T000500Z
+UID:ZkKxn0SVPTMW6ei3pctwhSfc@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wIC5-3G\n\nShop: https://stza.co/+wIC5-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-06-21 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       L6UpdHndSmlRTQFdefTj7UJ8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_l-x
+
+Shop  https //stza.co/+xE_l-2q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180621T230500Z
+DTEND:20180622T020500Z
+UID:L6UpdHndSmlRTQFdefTj7UJ8@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_l-x\n\nShop: https://stza.co/+xE_l-2q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-06-22 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       B5p59kjwMfWdVghM7tnE2eIO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_m-3L
+
+Shop  https //stza.co/+xE_m-36
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180622T230500Z
+DTEND:20180623T020500Z
+UID:B5p59kjwMfWdVghM7tnE2eIO@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_m-3L\n\nShop: https://stza.co/+xE_m-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Suns
+<2018-06-23 Sat 17:05-20:05>
+:PROPERTIES:
+:ID:       Xdi1QE2ZtPQlyBcmfzOHzhYK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Suns Grasshoppers @ Suns
+
+Follow on MiLB First Pitch  https //stza.co/+xE_n-3X
+
+Shop  https //stza.co/+xE_n-2z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Suns
+END:VALARM
+DTSTART:20180623T220500Z
+DTEND:20180624T010500Z
+UID:Xdi1QE2ZtPQlyBcmfzOHzhYK@stanza.co
+SUMMARY:Grasshoppers @ Suns
+DESCRIPTION:Grasshoppers @ Suns\n\nFollow on MiLB First Pitch: https://stza.co/+xE_n-3X\n\nShop: https://stza.co/+xE_n-2z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-06-24 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       TWEZcSR-fRh8vtwDaivY7yEA@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Get to the park early and enjoy a pregame catch on the field from 3 00pm - 3 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyd-1
+
+Shop  https //stza.co/+wiyd-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180624T200000Z
+DTEND:20180624T230000Z
+UID:TWEZcSR-fRh8vtwDaivY7yEA@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 3:00pm - 3:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyd-1\n\nShop: https://stza.co/+wiyd-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-06-25 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       B769WdeKeeieKbnIfUbG7pC-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Grasshoppers vs. Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wiyf-6
+
+Shop  https //stza.co/+wiyf-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180625T230000Z
+DTEND:20180626T020000Z
+UID:B769WdeKeeieKbnIfUbG7pC-@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Grasshoppers vs. Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wiyf-6\n\nShop: https://stza.co/+wiyf-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-06-26 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       7SDmjc5CWDdk5iaykLORAYzh@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyh-3R
+
+Shop  https //stza.co/+wiyh-1$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180626T160000Z
+DTEND:20180626T190000Z
+UID:7SDmjc5CWDdk5iaykLORAYzh@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyh-3R\n\nShop: https://stza.co/+wiyh-1$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Shorebirds
+<2018-06-27 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       WLA6HtQSIjxD7h02fLCexUoy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Shorebirds Grasshoppers vs. Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wiyj-M
+
+Shop  https //stza.co/+wiyj-2H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Shorebirds
+END:VALARM
+DTSTART:20180627T230000Z
+DTEND:20180628T020000Z
+UID:WLA6HtQSIjxD7h02fLCexUoy@stanza.co
+SUMMARY:Grasshoppers vs. Shorebirds
+DESCRIPTION:Grasshoppers vs. Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wiyj-M\n\nShop: https://stza.co/+wiyj-2H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Shorebirds
+<2018-06-28 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       EP5mVBxEm6wP8iPNpJp5Ev96@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Shorebirds Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyk-W
+
+Shop  https //stza.co/+wiyk-2V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Shorebirds
+END:VALARM
+DTSTART:20180628T230000Z
+DTEND:20180629T020000Z
+UID:EP5mVBxEm6wP8iPNpJp5Ev96@stanza.co
+SUMMARY:Grasshoppers vs. Shorebirds
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyk-W\n\nShop: https://stza.co/+wiyk-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Shorebirds
+<2018-06-29 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       uCzG-ZMSpuVwcVIanPzQBIm9@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Shorebirds Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyn-A
+
+Shop  https //stza.co/+wiyn-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Shorebirds
+END:VALARM
+DTSTART:20180629T230000Z
+DTEND:20180630T020000Z
+UID:uCzG-ZMSpuVwcVIanPzQBIm9@stanza.co
+SUMMARY:Grasshoppers vs. Shorebirds
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyn-A\n\nShop: https://stza.co/+wiyn-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-06-30 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       Gofzv0GndqvDtl-f4NfBJqA0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Os-c
+
+Shop  https //stza.co/+w0Os-2D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180630T230000Z
+DTEND:20180701T020000Z
+UID:Gofzv0GndqvDtl-f4NfBJqA0@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Os-c\n\nShop: https://stza.co/+w0Os-2D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-07-01 Sun 16:00-19:00>
+:PROPERTIES:
+:ID:       H56eibgKrK-QwngzbPERfbwb@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ot-3I
+
+Shop  https //stza.co/+w0Ot-2b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180701T210000Z
+DTEND:20180702T000000Z
+UID:H56eibgKrK-QwngzbPERfbwb@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ot-3I\n\nShop: https://stza.co/+w0Ot-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-07-02 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       Usk8KsTHd1GSyHldISE3SUZV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ou-2t
+
+Shop  https //stza.co/+w0Ou-2L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180702T230000Z
+DTEND:20180703T020000Z
+UID:Usk8KsTHd1GSyHldISE3SUZV@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ou-2t\n\nShop: https://stza.co/+w0Ou-2L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-07-03 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       oXFTN824xoDXbAsZWap3TTf2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ov-26
+
+Shop  https //stza.co/+w0Ov-E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180703T230000Z
+DTEND:20180704T020000Z
+UID:oXFTN824xoDXbAsZWap3TTf2@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ov-26\n\nShop: https://stza.co/+w0Ov-E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-07-04 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       s5AgteiIazAsvBwtRohQdiR5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Grasshoppers vs. BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+wiyp-1R
+
+Shop  https //stza.co/+wiyp-2p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180704T230000Z
+DTEND:20180705T020000Z
+UID:s5AgteiIazAsvBwtRohQdiR5@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Grasshoppers vs. BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+wiyp-1R\n\nShop: https://stza.co/+wiyp-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-07-05 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       IO0mO7hotHyM1XymZvbDxTaQ@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyq-2q
+
+Shop  https //stza.co/+wiyq-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180705T230000Z
+DTEND:20180706T020000Z
+UID:IO0mO7hotHyM1XymZvbDxTaQ@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyq-2q\n\nShop: https://stza.co/+wiyq-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-07-06 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       cO4aNzj4BnLz0TO3Sdms7sFb@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyt-S
+
+Shop  https //stza.co/+wiyt-3i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180706T230000Z
+DTEND:20180707T020000Z
+UID:cO4aNzj4BnLz0TO3Sdms7sFb@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyt-S\n\nShop: https://stza.co/+wiyt-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Legends
+<2018-07-07 Sat 17:35-20:35>
+:PROPERTIES:
+:ID:       -ghAw5_u8_JBDY46bCQaLea9@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Legends Grasshoppers @ Legends
+
+Follow on MiLB First Pitch  https //stza.co/+xB2U-2U
+
+Shop  https //stza.co/+xB2U-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Legends
+END:VALARM
+DTSTART:20180707T223500Z
+DTEND:20180708T013500Z
+UID:-ghAw5_u8_JBDY46bCQaLea9@stanza.co
+SUMMARY:Grasshoppers @ Legends
+DESCRIPTION:Grasshoppers @ Legends\n\nFollow on MiLB First Pitch: https://stza.co/+xB2U-2U\n\nShop: https://stza.co/+xB2U-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Legends
+<2018-07-08 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       -XU9A2o31V99ZHelpTHahmOh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Legends Grasshoppers @ Legends
+
+Follow on MiLB First Pitch  https //stza.co/+xB2V-4
+
+Shop  https //stza.co/+xB2V-1R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Legends
+END:VALARM
+DTSTART:20180708T180500Z
+DTEND:20180708T210500Z
+UID:-XU9A2o31V99ZHelpTHahmOh@stanza.co
+SUMMARY:Grasshoppers @ Legends
+DESCRIPTION:Grasshoppers @ Legends\n\nFollow on MiLB First Pitch: https://stza.co/+xB2V-4\n\nShop: https://stza.co/+xB2V-1R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Legends
+<2018-07-09 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       0lPRmrrz_yX8pROw8NTmkfve@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Legends Grasshoppers @ Legends
+
+Follow on MiLB First Pitch  https //stza.co/+xB2Z-3e
+
+Shop  https //stza.co/+xB2Z-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Legends
+END:VALARM
+DTSTART:20180709T230500Z
+DTEND:20180710T020500Z
+UID:0lPRmrrz_yX8pROw8NTmkfve@stanza.co
+SUMMARY:Grasshoppers @ Legends
+DESCRIPTION:Grasshoppers @ Legends\n\nFollow on MiLB First Pitch: https://stza.co/+xB2Z-3e\n\nShop: https://stza.co/+xB2Z-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-07-11 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       0ffIZKO5HGhewVU95mIe4hV8@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Grasshoppers vs. Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wiyv-a
+
+Shop  https //stza.co/+wiyv-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180711T230000Z
+DTEND:20180712T020000Z
+UID:0ffIZKO5HGhewVU95mIe4hV8@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Grasshoppers vs. Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wiyv-a\n\nShop: https://stza.co/+wiyv-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-07-12 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       QORVcl9sU0mujid5fYoCS7Yq@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyw-3v
+
+Shop  https //stza.co/+wiyw-2U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180712T230000Z
+DTEND:20180713T020000Z
+UID:QORVcl9sU0mujid5fYoCS7Yq@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyw-3v\n\nShop: https://stza.co/+wiyw-2U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Intimidators
+<2018-07-13 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       22y2J88lFUrLVBhYOs333t-N@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Intimidators Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyz-1B
+
+Shop  https //stza.co/+wiyz-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Intimidators
+END:VALARM
+DTSTART:20180713T230000Z
+DTEND:20180714T020000Z
+UID:22y2J88lFUrLVBhYOs333t-N@stanza.co
+SUMMARY:Grasshoppers vs. Intimidators
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyz-1B\n\nShop: https://stza.co/+wiyz-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-07-14 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       CRJ2qpbSYoTh04kWs9UYMiV2@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyB-1p
+
+Shop  https //stza.co/+wiyB-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180714T230000Z
+DTEND:20180715T020000Z
+UID:CRJ2qpbSYoTh04kWs9UYMiV2@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyB-1p\n\nShop: https://stza.co/+wiyB-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-07-15 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       HkHC4_gi_xAyV5OoUX7J4CIB@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists Get to the park early and enjoy a pregame catch on the field from 3 00pm - 3 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyC-t
+
+Shop  https //stza.co/+wiyC-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180715T200000Z
+DTEND:20180715T230000Z
+UID:HkHC4_gi_xAyV5OoUX7J4CIB@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 3:00pm - 3:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyC-t\n\nShop: https://stza.co/+wiyC-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-07-16 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       RaAFYmEcWXRwMDa3ginse8mk@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists Grasshoppers vs. Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+wiyF-6
+
+Shop  https //stza.co/+wiyF-1L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180716T230000Z
+DTEND:20180717T020000Z
+UID:RaAFYmEcWXRwMDa3ginse8mk@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:Grasshoppers vs. Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+wiyF-6\n\nShop: https://stza.co/+wiyF-1L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-07-17 Tue 11:00-14:00>
+:PROPERTIES:
+:ID:       B1Ly71fJPGaMAeaBf8X8CTs_@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyG-2g
+
+Shop  https //stza.co/+wiyG-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180717T160000Z
+DTEND:20180717T190000Z
+UID:B1Ly71fJPGaMAeaBf8X8CTs_@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyG-2g\n\nShop: https://stza.co/+wiyG-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Shorebirds
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       y_PMI2AClztPmRGzuipCLVW9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Shorebirds Grasshoppers @ Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wHR_-3i
+
+Shop  https //stza.co/+wHR_-3u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Shorebirds
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:y_PMI2AClztPmRGzuipCLVW9@stanza.co
+SUMMARY:Grasshoppers @ Shorebirds
+DESCRIPTION:Grasshoppers @ Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wHR_-3i\n\nShop: https://stza.co/+wHR_-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Shorebirds
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       GD9YJAMXm3mQmw1JqgP4BC-_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Shorebirds Grasshoppers @ Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wHR$-29
+
+Shop  https //stza.co/+wHR$-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Shorebirds
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:GD9YJAMXm3mQmw1JqgP4BC-_@stanza.co
+SUMMARY:Grasshoppers @ Shorebirds
+DESCRIPTION:Grasshoppers @ Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wHR$-29\n\nShop: https://stza.co/+wHR$-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Shorebirds
+<2018-07-21 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       5laRUmSg9ppKCMp36uaOynpK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Shorebirds Grasshoppers @ Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wHLz-i
+
+Shop  https //stza.co/+wHLz-U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Shorebirds
+END:VALARM
+DTSTART:20180721T230500Z
+DTEND:20180722T020500Z
+UID:5laRUmSg9ppKCMp36uaOynpK@stanza.co
+SUMMARY:Grasshoppers @ Shorebirds
+DESCRIPTION:Grasshoppers @ Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wHLz-i\n\nShop: https://stza.co/+wHLz-U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Shorebirds
+<2018-07-22 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       XJIQ65LrvH-jpF6Sn2zzQDRp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Shorebirds Grasshoppers @ Shorebirds
+
+Follow on MiLB First Pitch  https //stza.co/+wHLD-2t
+
+Shop  https //stza.co/+wHLD-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Shorebirds
+END:VALARM
+DTSTART:20180722T210500Z
+DTEND:20180723T000500Z
+UID:XJIQ65LrvH-jpF6Sn2zzQDRp@stanza.co
+SUMMARY:Grasshoppers @ Shorebirds
+DESCRIPTION:Grasshoppers @ Shorebirds\n\nFollow on MiLB First Pitch: https://stza.co/+wHLD-2t\n\nShop: https://stza.co/+wHLD-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-07-23 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       1Kek5tK_PziO0qeQ_GLhysOf@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMo-
+
+Shop  https //stza.co/+vxMo-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180723T230500Z
+DTEND:20180724T020500Z
+UID:1Kek5tK_PziO0qeQ_GLhysOf@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMo-\n\nShop: https://stza.co/+vxMo-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-07-24 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       YZkrCzuW9CucPFWPkpyjtll6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMp-2G
+
+Shop  https //stza.co/+vxMp-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180724T230500Z
+DTEND:20180725T020500Z
+UID:YZkrCzuW9CucPFWPkpyjtll6@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMp-2G\n\nShop: https://stza.co/+vxMp-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-07-25 Wed 10:05-13:05>
+:PROPERTIES:
+:ID:       KKDQsnDoOOdueyOdfvXBuuLk@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMq-1I
+
+Shop  https //stza.co/+vxMq-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180725T150500Z
+DTEND:20180725T180500Z
+UID:KKDQsnDoOOdueyOdfvXBuuLk@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMq-1I\n\nShop: https://stza.co/+vxMq-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ BlueClaws
+<2018-07-26 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       0krtYE6LZzjfdj5WfF-rBy-F@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ BlueClaws Grasshoppers @ BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+vxMr-3W
+
+Shop  https //stza.co/+vxMr-2T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ BlueClaws
+END:VALARM
+DTSTART:20180726T230500Z
+DTEND:20180727T020500Z
+UID:0krtYE6LZzjfdj5WfF-rBy-F@stanza.co
+SUMMARY:Grasshoppers @ BlueClaws
+DESCRIPTION:Grasshoppers @ BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+vxMr-3W\n\nShop: https://stza.co/+vxMr-2T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-07-27 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       rgLn8nsIymLvU14XQ5gImQUF@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyJ-3_
+
+Shop  https //stza.co/+wiyJ-B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180727T230000Z
+DTEND:20180728T020000Z
+UID:rgLn8nsIymLvU14XQ5gImQUF@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyJ-3_\n\nShop: https://stza.co/+wiyJ-B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-07-28 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       WRDZpAqI2KxSNydI_IeGXStQ@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyL-37
+
+Shop  https //stza.co/+wiyL-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180728T230000Z
+DTEND:20180729T020000Z
+UID:WRDZpAqI2KxSNydI_IeGXStQ@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyL-37\n\nShop: https://stza.co/+wiyL-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Crawdads
+<2018-07-29 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       pj2jo8BuEwkf3CWXzIDMZBxP@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Crawdads Get to the park early and enjoy a pregame catch on the field from 3 00pm - 3 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyN-b
+
+Shop  https //stza.co/+wiyN-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Crawdads
+END:VALARM
+DTSTART:20180729T200000Z
+DTEND:20180729T230000Z
+UID:pj2jo8BuEwkf3CWXzIDMZBxP@stanza.co
+SUMMARY:Grasshoppers vs. Crawdads
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 3:00pm - 3:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyN-b\n\nShop: https://stza.co/+wiyN-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Braves
+<2018-07-30 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       RLw4bqYADUnxWgrBHsTDG8dS@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Braves Grasshoppers @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vxMv-A
+
+Shop  https //stza.co/+vxMv-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Braves
+END:VALARM
+DTSTART:20180730T230000Z
+DTEND:20180731T020000Z
+UID:RLw4bqYADUnxWgrBHsTDG8dS@stanza.co
+SUMMARY:Grasshoppers @ Braves
+DESCRIPTION:Grasshoppers @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vxMv-A\n\nShop: https://stza.co/+vxMv-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Braves
+<2018-07-31 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       MjBQURiZ4GMWzi5wywhTYT2P@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Braves Grasshoppers @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vxMw-16
+
+Shop  https //stza.co/+vxMw-2P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Braves
+END:VALARM
+DTSTART:20180731T230000Z
+DTEND:20180801T020000Z
+UID:MjBQURiZ4GMWzi5wywhTYT2P@stanza.co
+SUMMARY:Grasshoppers @ Braves
+DESCRIPTION:Grasshoppers @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vxMw-16\n\nShop: https://stza.co/+vxMw-2P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Braves
+<2018-08-01 Wed 12:00-15:00>
+:PROPERTIES:
+:ID:       PivMb8MxjDl7Q5oTunS-eVyF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Braves Grasshoppers @ Braves
+
+Follow on MiLB First Pitch  https //stza.co/+vxMx-2h
+
+Shop  https //stza.co/+vxMx-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Braves
+END:VALARM
+DTSTART:20180801T170000Z
+DTEND:20180801T200000Z
+UID:PivMb8MxjDl7Q5oTunS-eVyF@stanza.co
+SUMMARY:Grasshoppers @ Braves
+DESCRIPTION:Grasshoppers @ Braves\n\nFollow on MiLB First Pitch: https://stza.co/+vxMx-2h\n\nShop: https://stza.co/+vxMx-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-02 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       1R9eX3i0_2RfIOKUTfk3kXzp@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wIC6-2V
+
+Shop  https //stza.co/+wIC6-3J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180802T230500Z
+DTEND:20180803T020500Z
+UID:1R9eX3i0_2RfIOKUTfk3kXzp@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wIC6-2V\n\nShop: https://stza.co/+wIC6-3J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-03 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       l6YplcDemGoNu0XcOTD4TYmO@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wIC7-2H
+
+Shop  https //stza.co/+wIC7-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180803T230500Z
+DTEND:20180804T020500Z
+UID:l6YplcDemGoNu0XcOTD4TYmO@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wIC7-2H\n\nShop: https://stza.co/+wIC7-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-04 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       3SVkHVe6Ri48EtfQozCrUscE@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wIC9-3G
+
+Shop  https //stza.co/+wIC9-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180804T230500Z
+DTEND:20180805T020500Z
+UID:3SVkHVe6Ri48EtfQozCrUscE@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wIC9-3G\n\nShop: https://stza.co/+wIC9-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-05 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       _kHp0HMKNBlj3LlMI079opbf@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wICa-1_
+
+Shop  https //stza.co/+wICa-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180805T210500Z
+DTEND:20180806T000500Z
+UID:_kHp0HMKNBlj3LlMI079opbf@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wICa-1_\n\nShop: https://stza.co/+wICa-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Power
+<2018-08-07 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       zTivBcwabtiOiLz3fB-VprGZ@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Power Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyO-2S
+
+Shop  https //stza.co/+wiyO-34
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Power
+END:VALARM
+DTSTART:20180807T230000Z
+DTEND:20180808T020000Z
+UID:zTivBcwabtiOiLz3fB-VprGZ@stanza.co
+SUMMARY:Grasshoppers vs. Power
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyO-2S\n\nShop: https://stza.co/+wiyO-34\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Power
+<2018-08-08 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       87uxHcnvGJ9tubn1_WYFN6VG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Power Grasshoppers vs. Power
+
+Follow on MiLB First Pitch  https //stza.co/+wiyR-G
+
+Shop  https //stza.co/+wiyR-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Power
+END:VALARM
+DTSTART:20180808T230000Z
+DTEND:20180809T020000Z
+UID:87uxHcnvGJ9tubn1_WYFN6VG@stanza.co
+SUMMARY:Grasshoppers vs. Power
+DESCRIPTION:Grasshoppers vs. Power\n\nFollow on MiLB First Pitch: https://stza.co/+wiyR-G\n\nShop: https://stza.co/+wiyR-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Power
+<2018-08-09 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       SgAGCu8TrutcNGg6f802Jltn@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Power Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyS-14
+
+Shop  https //stza.co/+wiyS-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Power
+END:VALARM
+DTSTART:20180809T230000Z
+DTEND:20180810T020000Z
+UID:SgAGCu8TrutcNGg6f802Jltn@stanza.co
+SUMMARY:Grasshoppers vs. Power
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyS-14\n\nShop: https://stza.co/+wiyS-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-08-10 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       9AhvbHcAv9YIQD9M49ry_MC5@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyU-33
+
+Shop  https //stza.co/+wiyU-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180810T230000Z
+DTEND:20180811T020000Z
+UID:9AhvbHcAv9YIQD9M49ry_MC5@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyU-33\n\nShop: https://stza.co/+wiyU-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-08-11 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       -ttkY_iOjl12xYLseBAnKG_8@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyX-k
+
+Shop  https //stza.co/+wiyX-$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180811T230000Z
+DTEND:20180812T020000Z
+UID:-ttkY_iOjl12xYLseBAnKG_8@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyX-k\n\nShop: https://stza.co/+wiyX-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-08-12 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       FWy_X0dF1MErkexwMv8ZXzVA@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists Get to the park early and enjoy a pregame catch on the field from 3 00pm - 3 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wiyZ-34
+
+Shop  https //stza.co/+wiyZ-3d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180812T200000Z
+DTEND:20180812T230000Z
+UID:FWy_X0dF1MErkexwMv8ZXzVA@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 3:00pm - 3:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wiyZ-34\n\nShop: https://stza.co/+wiyZ-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Tourists
+<2018-08-13 Mon 11:00-14:00>
+:PROPERTIES:
+:ID:       0a6osBIOyH2WOvXcmR9ecDPU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Tourists Grasshoppers vs. Tourists
+
+Follow on MiLB First Pitch  https //stza.co/+wiy_-_
+
+Shop  https //stza.co/+wiy_-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Tourists
+END:VALARM
+DTSTART:20180813T160000Z
+DTEND:20180813T190000Z
+UID:0a6osBIOyH2WOvXcmR9ecDPU@stanza.co
+SUMMARY:Grasshoppers vs. Tourists
+DESCRIPTION:Grasshoppers vs. Tourists\n\nFollow on MiLB First Pitch: https://stza.co/+wiy_-_\n\nShop: https://stza.co/+wiy_-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Drive
+<2018-08-15 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       Jc2hHJxqzhWhMHA4D-lG0gem@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Drive Grasshoppers @ Drive
+
+Follow on MiLB First Pitch  https //stza.co/+xE_a-2C
+
+Shop  https //stza.co/+xE_a-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Drive
+END:VALARM
+DTSTART:20180815T230500Z
+DTEND:20180816T020500Z
+UID:Jc2hHJxqzhWhMHA4D-lG0gem@stanza.co
+SUMMARY:Grasshoppers @ Drive
+DESCRIPTION:Grasshoppers @ Drive\n\nFollow on MiLB First Pitch: https://stza.co/+xE_a-2C\n\nShop: https://stza.co/+xE_a-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Drive
+<2018-08-16 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       4ZfI9mxFDx6ssb-f3JSoVcR0@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Drive Grasshoppers @ Drive
+
+Follow on MiLB First Pitch  https //stza.co/+xE_b-2g
+
+Shop  https //stza.co/+xE_b-28
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Drive
+END:VALARM
+DTSTART:20180816T230500Z
+DTEND:20180817T020500Z
+UID:4ZfI9mxFDx6ssb-f3JSoVcR0@stanza.co
+SUMMARY:Grasshoppers @ Drive
+DESCRIPTION:Grasshoppers @ Drive\n\nFollow on MiLB First Pitch: https://stza.co/+xE_b-2g\n\nShop: https://stza.co/+xE_b-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Drive
+<2018-08-17 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       lWIGO1SNBYbjXPLTFtX0Tov2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Drive Grasshoppers @ Drive
+
+Follow on MiLB First Pitch  https //stza.co/+xE_c-2b
+
+Shop  https //stza.co/+xE_c-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Drive
+END:VALARM
+DTSTART:20180817T230500Z
+DTEND:20180818T020500Z
+UID:lWIGO1SNBYbjXPLTFtX0Tov2@stanza.co
+SUMMARY:Grasshoppers @ Drive
+DESCRIPTION:Grasshoppers @ Drive\n\nFollow on MiLB First Pitch: https://stza.co/+xE_c-2b\n\nShop: https://stza.co/+xE_c-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-18 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       nIo1nO3nhKRAUYWBlU5nlBE9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wICb-2G
+
+Shop  https //stza.co/+wICb-1G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180818T230500Z
+DTEND:20180819T020500Z
+UID:nIo1nO3nhKRAUYWBlU5nlBE9@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wICb-2G\n\nShop: https://stza.co/+wICb-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-19 Sun 16:05-19:05>
+:PROPERTIES:
+:ID:       3fMRMe9wBCh18YD7ydAEDRnA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wICc-1f
+
+Shop  https //stza.co/+wICc-3M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180819T210500Z
+DTEND:20180820T000500Z
+UID:3fMRMe9wBCh18YD7ydAEDRnA@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wICc-1f\n\nShop: https://stza.co/+wICc-3M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-20 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       DL9oG041EnxjvQ2FoiuL42M1@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wICd-1s
+
+Shop  https //stza.co/+wICd-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180820T230500Z
+DTEND:20180821T020500Z
+UID:DL9oG041EnxjvQ2FoiuL42M1@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wICd-1s\n\nShop: https://stza.co/+wICd-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Intimidators
+<2018-08-21 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       nF6utjWrEd6S45_f5bmBWsem@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Intimidators Grasshoppers @ Intimidators
+
+Follow on MiLB First Pitch  https //stza.co/+wICe-1U
+
+Shop  https //stza.co/+wICe-2c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Intimidators
+END:VALARM
+DTSTART:20180821T230500Z
+DTEND:20180822T020500Z
+UID:nF6utjWrEd6S45_f5bmBWsem@stanza.co
+SUMMARY:Grasshoppers @ Intimidators
+DESCRIPTION:Grasshoppers @ Intimidators\n\nFollow on MiLB First Pitch: https://stza.co/+wICe-1U\n\nShop: https://stza.co/+wICe-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Shorebirds
+<2018-08-23 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       U9puewh-MMLmnD4p9yxsfbyI@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Shorebirds Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wiz1-2E
+
+Shop  https //stza.co/+wiz1-2J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Shorebirds
+END:VALARM
+DTSTART:20180823T230000Z
+DTEND:20180824T020000Z
+UID:U9puewh-MMLmnD4p9yxsfbyI@stanza.co
+SUMMARY:Grasshoppers vs. Shorebirds
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wiz1-2E\n\nShop: https://stza.co/+wiz1-2J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Shorebirds
+<2018-08-24 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       ta8_lS_lp0fEyxBdcak9H8nu@stanza.co
+:LOCATION: FANomenal Friday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Shorebirds Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!
+
+Follow on MiLB First Pitch  https //stza.co/+wiz2-3Y
+
+Shop  https //stza.co/+wiz2-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Shorebirds
+END:VALARM
+DTSTART:20180824T230000Z
+DTEND:20180825T020000Z
+UID:ta8_lS_lp0fEyxBdcak9H8nu@stanza.co
+SUMMARY:Grasshoppers vs. Shorebirds
+DESCRIPTION:Every Friday home game is a celebration! Enjoy our amazing postgame fireworks show and kick off your weekend in style!\n\nFollow on MiLB First Pitch: https://stza.co/+wiz2-3Y\n\nShop: https://stza.co/+wiz2-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FANomenal Friday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Shorebirds
+<2018-08-25 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       p9IamWnMb5Zn-yG7ZbPHvrQk@stanza.co
+:LOCATION: Spectacular Saturday Fireworks
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Shorebirds More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!
+
+Follow on MiLB First Pitch  https //stza.co/+wiz4-2o
+
+Shop  https //stza.co/+wiz4-3V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Shorebirds
+END:VALARM
+DTSTART:20180825T230000Z
+DTEND:20180826T020000Z
+UID:p9IamWnMb5Zn-yG7ZbPHvrQk@stanza.co
+SUMMARY:Grasshoppers vs. Shorebirds
+DESCRIPTION:More spectacular fireworks follow every Saturday home game, as we light up the summer night sky!\n\nFollow on MiLB First Pitch: https://stza.co/+wiz4-2o\n\nShop: https://stza.co/+wiz4-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Spectacular Saturday Fireworks
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. Shorebirds
+<2018-08-26 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       iSp2X6pzxiQCKWc5iXwKu0JW@stanza.co
+:LOCATION: Wrap up the week with our Family Funday Sunday!
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. Shorebirds Get to the park early and enjoy a pregame catch on the field from 3 00pm - 3 30pm!  And don't forget to stick around for kids run the bases postgame!
+
+Follow on MiLB First Pitch  https //stza.co/+wiz7-2$
+
+Shop  https //stza.co/+wiz7-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. Shorebirds
+END:VALARM
+DTSTART:20180826T200000Z
+DTEND:20180826T230000Z
+UID:iSp2X6pzxiQCKWc5iXwKu0JW@stanza.co
+SUMMARY:Grasshoppers vs. Shorebirds
+DESCRIPTION:Get to the park early and enjoy a pregame catch on the field from 3:00pm - 3:30pm!  And don't forget to stick around for kids run the bases postgame!\n\nFollow on MiLB First Pitch: https://stza.co/+wiz7-2$\n\nShop: https://stza.co/+wiz7-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wrap up the week with our Family Funday Sunday!
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-08-27 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       sp7X7_t5Id3vpaOvdytMvUFp@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Grasshoppers vs. BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+wiz9-3z
+
+Shop  https //stza.co/+wiz9-2k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180827T230000Z
+DTEND:20180828T020000Z
+UID:sp7X7_t5Id3vpaOvdytMvUFp@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Grasshoppers vs. BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+wiz9-3z\n\nShop: https://stza.co/+wiz9-2k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-08-28 Tue 18:00-21:00>
+:PROPERTIES:
+:ID:       kykY-kIhlD_ek88V1CqURWgI@stanza.co
+:LOCATION: Baseball Bingo Tuesday
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!
+
+Follow on MiLB First Pitch  https //stza.co/+wizb-32
+
+Shop  https //stza.co/+wizb-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180828T230000Z
+DTEND:20180829T020000Z
+UID:kykY-kIhlD_ek88V1CqURWgI@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Join us at the ballpark for some baseball bingo! Every play on the field corresponds to a square on your bingo card, so come get your Ducks in a Row with The Elderlaw Firm! Good luck!\n\nFollow on MiLB First Pitch: https://stza.co/+wizb-32\n\nShop: https://stza.co/+wizb-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Baseball Bingo Tuesday
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-08-29 Wed 18:00-21:00>
+:PROPERTIES:
+:ID:       YvMYiD97Trq-0rDy2Tacyl2v@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Grasshoppers vs. BlueClaws
+
+Follow on MiLB First Pitch  https //stza.co/+wion-3D
+
+Shop  https //stza.co/+wion-1x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180829T230000Z
+DTEND:20180830T020000Z
+UID:YvMYiD97Trq-0rDy2Tacyl2v@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Grasshoppers vs. BlueClaws\n\nFollow on MiLB First Pitch: https://stza.co/+wion-3D\n\nShop: https://stza.co/+wion-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers vs. BlueClaws
+<2018-08-30 Thu 18:00-21:00>
+:PROPERTIES:
+:ID:       IgmAu0LE95zNc1agE3m42Z6G@stanza.co
+:LOCATION: The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers vs. BlueClaws Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!
+
+Follow on MiLB First Pitch  https //stza.co/+wior-23
+
+Shop  https //stza.co/+wior-2f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers vs. BlueClaws
+END:VALARM
+DTSTART:20180830T230000Z
+DTEND:20180831T020000Z
+UID:IgmAu0LE95zNc1agE3m42Z6G@stanza.co
+SUMMARY:Grasshoppers vs. BlueClaws
+DESCRIPTION:Come enjoy a night at the ballpark, complete with discounted beverages throughout the ballpark!\n\nFollow on MiLB First Pitch: https://stza.co/+wior-23\n\nShop: https://stza.co/+wior-2f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:The weekend is near! Celebrate with Natty Greene's Thirsty Thursday at the park.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-08-31 Fri 18:00-21:00>
+:PROPERTIES:
+:ID:       6CFbJqkUE1qNX9WnMm5fEn9D@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ow-2L
+
+Shop  https //stza.co/+w0Ow-2_
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180831T230000Z
+DTEND:20180901T020000Z
+UID:6CFbJqkUE1qNX9WnMm5fEn9D@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ow-2L\n\nShop: https://stza.co/+w0Ow-2_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-09-01 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       GtHaGhJ031BzRklfwUWQhhPN@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Ox-2I
+
+Shop  https //stza.co/+w0Ox-12
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180901T230000Z
+DTEND:20180902T020000Z
+UID:GtHaGhJ031BzRklfwUWQhhPN@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Ox-2I\n\nShop: https://stza.co/+w0Ox-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-09-02 Sun 16:00-19:00>
+:PROPERTIES:
+:ID:       V-sUHoJtru3XatpCRWDTAVlg@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Oy-1D
+
+Shop  https //stza.co/+w0Oy-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180902T210000Z
+DTEND:20180903T000000Z
+UID:V-sUHoJtru3XatpCRWDTAVlg@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Oy-1D\n\nShop: https://stza.co/+w0Oy-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT
+* Grasshoppers @ Crawdads
+<2018-09-03 Mon 12:00-15:00>
+:PROPERTIES:
+:ID:       kIWnpwq2dHKbYD1YPBM8lAJM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Grasshoppers @ Crawdads Grasshoppers @ Crawdads
+
+Follow on MiLB First Pitch  https //stza.co/+w0Oz-Y
+
+Shop  https //stza.co/+w0Oz-3g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grasshoppers @ Crawdads
+END:VALARM
+DTSTART:20180903T170000Z
+DTEND:20180903T200000Z
+UID:kIWnpwq2dHKbYD1YPBM8lAJM@stanza.co
+SUMMARY:Grasshoppers @ Crawdads
+DESCRIPTION:Grasshoppers @ Crawdads\n\nFollow on MiLB First Pitch: https://stza.co/+w0Oz-Y\n\nShop: https://stza.co/+w0Oz-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144529Z
+LAST-MODIFIED:20180213T144529Z
+TRANSP:OPAQUE
+END:VEVENT

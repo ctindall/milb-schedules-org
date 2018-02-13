@@ -1,0 +1,5064 @@
+#+TITLE:       Main Google calendar entries
+#+AUTHOR:      Eric S Fraga
+#+EMAIL:       e.fraga@ucl.ac.uk
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    google
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+
+* COMMENT original iCal preamble
+
+* Bees vs. Chiefs
+<2018-04-05 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       STp3x7nEcpUecmcZhTJX-SmQ@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Chiefs Bees vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBjX-2g
+
+Shop  https //stza.co/+xBjX-3L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Chiefs
+END:VALARM
+DTSTART:20180405T233000Z
+DTEND:20180406T023000Z
+UID:STp3x7nEcpUecmcZhTJX-SmQ@stanza.co
+SUMMARY:Bees vs. Chiefs
+DESCRIPTION:Bees vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBjX-2g\n\nShop: https://stza.co/+xBjX-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Chiefs
+<2018-04-06 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       k74t4GFOojsJpzR8ljmc4wry@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Chiefs Bees vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBj$-2G
+
+Shop  https //stza.co/+xBj$-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Chiefs
+END:VALARM
+DTSTART:20180406T233000Z
+DTEND:20180407T023000Z
+UID:k74t4GFOojsJpzR8ljmc4wry@stanza.co
+SUMMARY:Bees vs. Chiefs
+DESCRIPTION:Bees vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBj$-2G\n\nShop: https://stza.co/+xBj$-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-04-07 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       zMhEL3-u8A_vEaqSEiguP4sg@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBou-s
+
+Shop  https //stza.co/+xBou-3h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180407T233000Z
+DTEND:20180408T023000Z
+UID:zMhEL3-u8A_vEaqSEiguP4sg@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBou-s\n\nShop: https://stza.co/+xBou-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-04-08 Sun 17:00-20:00>
+:PROPERTIES:
+:ID:       7KdBWLmhIWK50DDm73xILj77@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBov-3s
+
+Shop  https //stza.co/+xBov-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180408T220000Z
+DTEND:20180409T010000Z
+UID:7KdBWLmhIWK50DDm73xILj77@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBov-3s\n\nShop: https://stza.co/+xBov-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-04-09 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       vlF6UNe1cBJ0deFRPbGGLSpj@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBk6-$
+
+Shop  https //stza.co/+xBk6-3o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180409T233000Z
+DTEND:20180410T023000Z
+UID:vlF6UNe1cBJ0deFRPbGGLSpj@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBk6-$\n\nShop: https://stza.co/+xBk6-3o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-04-10 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       nRPdEqSbNkBB6d_5d8FPft5_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBkc-2P
+
+Shop  https //stza.co/+xBkc-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180410T233000Z
+DTEND:20180411T023000Z
+UID:nRPdEqSbNkBB6d_5d8FPft5_@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBkc-2P\n\nShop: https://stza.co/+xBkc-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-04-11 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       leLms87s5FCRvOUu-CzVCPFX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBki-2a
+
+Shop  https //stza.co/+xBki-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180411T233000Z
+DTEND:20180412T023000Z
+UID:leLms87s5FCRvOUu-CzVCPFX@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBki-2a\n\nShop: https://stza.co/+xBki-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-04-12 Thu 11:30-14:30>
+:PROPERTIES:
+:ID:       5oQTVoNMAfCvYPxbLyWOgw3s@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBks-3w
+
+Shop  https //stza.co/+xBks-39
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180412T163000Z
+DTEND:20180412T193000Z
+UID:5oQTVoNMAfCvYPxbLyWOgw3s@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBks-3w\n\nShop: https://stza.co/+xBks-39\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-04-13 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       -OF_2l7ZpdNrB6FOElCQatI6@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBky-19
+
+Shop  https //stza.co/+xBky-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180413T233000Z
+DTEND:20180414T023000Z
+UID:-OF_2l7ZpdNrB6FOElCQatI6@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBky-19\n\nShop: https://stza.co/+xBky-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-04-14 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       zzJ4xb7cZc0VAFAewWBAEzyn@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBkE-1f
+
+Shop  https //stza.co/+xBkE-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180414T220000Z
+DTEND:20180415T010000Z
+UID:zzJ4xb7cZc0VAFAewWBAEzyn@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBkE-1f\n\nShop: https://stza.co/+xBkE-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-04-15 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       bvclMAgCd6yhOD6sPq9YuMh_@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBkK-b
+
+Shop  https //stza.co/+xBkK-T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180415T190000Z
+DTEND:20180415T220000Z
+UID:bvclMAgCd6yhOD6sPq9YuMh_@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBkK-b\n\nShop: https://stza.co/+xBkK-T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-04-17 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       B20pU6Sl4oTdsmgEq9Vu3-kV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTg-3v
+
+Shop  https //stza.co/+vMTg-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180417T233000Z
+DTEND:20180418T023000Z
+UID:B20pU6Sl4oTdsmgEq9Vu3-kV@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTg-3v\n\nShop: https://stza.co/+vMTg-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-04-18 Wed>--<2018-04-17 Tue>
+:PROPERTIES:
+:ID:       MN3zRKPaJ8kCWfxRCYsi4Zmf@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTh-2i
+
+Shop  https //stza.co/+vMTh-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART;VALUE=DATE:20180418
+DTEND;VALUE=DATE:20180418
+UID:MN3zRKPaJ8kCWfxRCYsi4Zmf@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTh-2i\n\nShop: https://stza.co/+vMTh-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-04-19 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       J6NsAf7Qv5AwCsuAwQuqDNHM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xVYk-W
+
+Shop  https //stza.co/+xVYk-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180419T233000Z
+DTEND:20180420T023000Z
+UID:J6NsAf7Qv5AwCsuAwQuqDNHM@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xVYk-W\n\nShop: https://stza.co/+xVYk-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-04-20 Fri 11:30-14:30>
+:PROPERTIES:
+:ID:       M08rvhfTwcRN1cilVIm0Gws2@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBkP-1U
+
+Shop  https //stza.co/+xBkP-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180420T163000Z
+DTEND:20180420T193000Z
+UID:M08rvhfTwcRN1cilVIm0Gws2@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBkP-1U\n\nShop: https://stza.co/+xBkP-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-04-21 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       ZiB9VO-f5_yGsCY29r78ERxi@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBkW-1h
+
+Shop  https //stza.co/+xBkW-1Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180421T220000Z
+DTEND:20180422T010000Z
+UID:ZiB9VO-f5_yGsCY29r78ERxi@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBkW-1h\n\nShop: https://stza.co/+xBkW-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-04-22 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       l6tvaqVVM5YJ7M7zAPaO7kP2@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBk$-3C
+
+Shop  https //stza.co/+xBk$-1y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180422T190000Z
+DTEND:20180422T220000Z
+UID:l6tvaqVVM5YJ7M7zAPaO7kP2@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBk$-3C\n\nShop: https://stza.co/+xBk$-1y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Kernels
+<2018-04-23 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       UYJmg9NplARmTiRkoB0Uzq2J@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Kernels Bees @ Kernels
+
+Buy tickets here  https //stza.co/~vMT9
+
+Follow on MiLB First Pitch  https //stza.co/+vMT9-3R
+
+Shop  https //stza.co/+vMT9-M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Kernels
+END:VALARM
+DTSTART:20180423T233500Z
+DTEND:20180424T023500Z
+UID:UYJmg9NplARmTiRkoB0Uzq2J@stanza.co
+SUMMARY:Bees @ Kernels
+DESCRIPTION:Bees @ Kernels\n\nBuy tickets here: https://stza.co/~vMT9\n\nFollow on MiLB First Pitch: https://stza.co/+vMT9-3R\n\nShop: https://stza.co/+vMT9-M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Kernels
+<2018-04-24 Tue 18:35-21:35>
+:PROPERTIES:
+:ID:       hjd80A4Z3KaAMmVw1DDlSPk8@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Kernels Bees @ Kernels
+
+Buy tickets here  https //stza.co/~vMTa
+
+Follow on MiLB First Pitch  https //stza.co/+vMTa-3X
+
+Shop  https //stza.co/+vMTa-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Kernels
+END:VALARM
+DTSTART:20180424T233500Z
+DTEND:20180425T023500Z
+UID:hjd80A4Z3KaAMmVw1DDlSPk8@stanza.co
+SUMMARY:Bees @ Kernels
+DESCRIPTION:Bees @ Kernels\n\nBuy tickets here: https://stza.co/~vMTa\n\nFollow on MiLB First Pitch: https://stza.co/+vMTa-3X\n\nShop: https://stza.co/+vMTa-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Kernels
+<2018-04-25 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       G_fQrKPY3JJ8HmMwFxHdzn5y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Kernels Bees @ Kernels
+
+Buy tickets here  https //stza.co/~vMTb
+
+Follow on MiLB First Pitch  https //stza.co/+vMTb-1H
+
+Shop  https //stza.co/+vMTb-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Kernels
+END:VALARM
+DTSTART:20180425T233500Z
+DTEND:20180426T023500Z
+UID:G_fQrKPY3JJ8HmMwFxHdzn5y@stanza.co
+SUMMARY:Bees @ Kernels
+DESCRIPTION:Bees @ Kernels\n\nBuy tickets here: https://stza.co/~vMTb\n\nFollow on MiLB First Pitch: https://stza.co/+vMTb-1H\n\nShop: https://stza.co/+vMTb-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Kernels
+<2018-04-26 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       8Cvx7bZ3oPm73ulVt-wxVmaI@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Kernels Bees @ Kernels
+
+Buy tickets here  https //stza.co/~vMTc
+
+Follow on MiLB First Pitch  https //stza.co/+vMTc-2X
+
+Shop  https //stza.co/+vMTc-3B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Kernels
+END:VALARM
+DTSTART:20180426T233500Z
+DTEND:20180427T023500Z
+UID:8Cvx7bZ3oPm73ulVt-wxVmaI@stanza.co
+SUMMARY:Bees @ Kernels
+DESCRIPTION:Bees @ Kernels\n\nBuy tickets here: https://stza.co/~vMTc\n\nFollow on MiLB First Pitch: https://stza.co/+vMTc-2X\n\nShop: https://stza.co/+vMTc-3B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cougars
+<2018-04-27 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       fVNwGBQ-jF0uqKGMYzTXA7Xx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cougars Bees @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBok-1b
+
+Shop  https //stza.co/+xBok-1d
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cougars
+END:VALARM
+DTSTART:20180427T233000Z
+DTEND:20180428T023000Z
+UID:fVNwGBQ-jF0uqKGMYzTXA7Xx@stanza.co
+SUMMARY:Bees @ Cougars
+DESCRIPTION:Bees @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBok-1b\n\nShop: https://stza.co/+xBok-1d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cougars
+<2018-04-28 Sat 13:00-16:00>
+:PROPERTIES:
+:ID:       YhsevSm2SWmIfakLBmGuo0Fa@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cougars Bees @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBol-3U
+
+Shop  https //stza.co/+xBol-W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cougars
+END:VALARM
+DTSTART:20180428T180000Z
+DTEND:20180428T210000Z
+UID:YhsevSm2SWmIfakLBmGuo0Fa@stanza.co
+SUMMARY:Bees @ Cougars
+DESCRIPTION:Bees @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBol-3U\n\nShop: https://stza.co/+xBol-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cougars
+<2018-04-29 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       OhS7x2L1tVaNx9db0Zov82nN@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cougars Bees @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBom-1G
+
+Shop  https //stza.co/+xBom-2N
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cougars
+END:VALARM
+DTSTART:20180429T180000Z
+DTEND:20180429T210000Z
+UID:OhS7x2L1tVaNx9db0Zov82nN@stanza.co
+SUMMARY:Bees @ Cougars
+DESCRIPTION:Bees @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBom-1G\n\nShop: https://stza.co/+xBom-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Dragons
+<2018-05-01 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       ukB3Qs-cL7F0hFeZ7B_V1tIY@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Dragons Bees vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+xBl5-2y
+
+Shop  https //stza.co/+xBl5-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Dragons
+END:VALARM
+DTSTART:20180501T233000Z
+DTEND:20180502T023000Z
+UID:ukB3Qs-cL7F0hFeZ7B_V1tIY@stanza.co
+SUMMARY:Bees vs. Dragons
+DESCRIPTION:Bees vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+xBl5-2y\n\nShop: https://stza.co/+xBl5-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Dragons
+<2018-05-02 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       o5PSTPo30JcoNv6FWscImqOb@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Dragons Bees vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+xBlc-27
+
+Shop  https //stza.co/+xBlc-1W
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Dragons
+END:VALARM
+DTSTART:20180502T233000Z
+DTEND:20180503T023000Z
+UID:o5PSTPo30JcoNv6FWscImqOb@stanza.co
+SUMMARY:Bees vs. Dragons
+DESCRIPTION:Bees vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+xBlc-27\n\nShop: https://stza.co/+xBlc-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Dragons
+<2018-05-03 Thu 11:30-14:30>
+:PROPERTIES:
+:ID:       K4MfijZSH5XAJCUO7NM3bIff@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Dragons Bees vs. Dragons
+
+Follow on MiLB First Pitch  https //stza.co/+xBlh-7
+
+Shop  https //stza.co/+xBlh-3D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Dragons
+END:VALARM
+DTSTART:20180503T163000Z
+DTEND:20180503T193000Z
+UID:K4MfijZSH5XAJCUO7NM3bIff@stanza.co
+SUMMARY:Bees vs. Dragons
+DESCRIPTION:Bees vs. Dragons\n\nFollow on MiLB First Pitch: https://stza.co/+xBlh-7\n\nShop: https://stza.co/+xBlh-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Hot Rods
+<2018-05-04 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       1pmRdTAui1s2ZwFiXhQm8Qnx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Hot Rods Bees vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+xBlq-3Q
+
+Shop  https //stza.co/+xBlq-2e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Hot Rods
+END:VALARM
+DTSTART:20180504T233000Z
+DTEND:20180505T023000Z
+UID:1pmRdTAui1s2ZwFiXhQm8Qnx@stanza.co
+SUMMARY:Bees vs. Hot Rods
+DESCRIPTION:Bees vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+xBlq-3Q\n\nShop: https://stza.co/+xBlq-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Hot Rods
+<2018-05-05 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       hZ4g8wFGODHciMcq9C8JOac0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Hot Rods Bees vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+xBlw-1x
+
+Shop  https //stza.co/+xBlw-A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Hot Rods
+END:VALARM
+DTSTART:20180505T220000Z
+DTEND:20180506T010000Z
+UID:hZ4g8wFGODHciMcq9C8JOac0@stanza.co
+SUMMARY:Bees vs. Hot Rods
+DESCRIPTION:Bees vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+xBlw-1x\n\nShop: https://stza.co/+xBlw-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Hot Rods
+<2018-05-06 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       AhcCVTmzz_iLm967QWsbtQPd@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Hot Rods Bees vs. Hot Rods
+
+Follow on MiLB First Pitch  https //stza.co/+xBlC-2d
+
+Shop  https //stza.co/+xBlC-k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Hot Rods
+END:VALARM
+DTSTART:20180506T190000Z
+DTEND:20180506T220000Z
+UID:AhcCVTmzz_iLm967QWsbtQPd@stanza.co
+SUMMARY:Bees vs. Hot Rods
+DESCRIPTION:Bees vs. Hot Rods\n\nFollow on MiLB First Pitch: https://stza.co/+xBlC-2d\n\nShop: https://stza.co/+xBlC-k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cubs
+<2018-05-07 Mon 18:05-21:05>
+:PROPERTIES:
+:ID:       hBI8lEXmcmLvCmu5QGhCZnA5@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cubs Bees @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vMTV-2b
+
+Shop  https //stza.co/+vMTV-3I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cubs
+END:VALARM
+DTSTART:20180507T230500Z
+DTEND:20180508T020500Z
+UID:hBI8lEXmcmLvCmu5QGhCZnA5@stanza.co
+SUMMARY:Bees @ Cubs
+DESCRIPTION:Bees @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vMTV-2b\n\nShop: https://stza.co/+vMTV-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cubs
+<2018-05-08 Tue 18:05-21:05>
+:PROPERTIES:
+:ID:       uPoi9WOSo6a9X8Rh9siR8VIq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cubs Bees @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vMTW-1F
+
+Shop  https //stza.co/+vMTW-21
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cubs
+END:VALARM
+DTSTART:20180508T230500Z
+DTEND:20180509T020500Z
+UID:uPoi9WOSo6a9X8Rh9siR8VIq@stanza.co
+SUMMARY:Bees @ Cubs
+DESCRIPTION:Bees @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vMTW-1F\n\nShop: https://stza.co/+vMTW-21\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cubs
+<2018-05-09 Wed 09:35-12:35>
+:PROPERTIES:
+:ID:       LXcxomsbEW_Qk0r3h5PQ3Lm5@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cubs Bees @ Cubs
+
+Follow on MiLB First Pitch  https //stza.co/+vMTX-x
+
+Shop  https //stza.co/+vMTX-3v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cubs
+END:VALARM
+DTSTART:20180509T143500Z
+DTEND:20180509T173500Z
+UID:LXcxomsbEW_Qk0r3h5PQ3Lm5@stanza.co
+SUMMARY:Bees @ Cubs
+DESCRIPTION:Bees @ Cubs\n\nFollow on MiLB First Pitch: https://stza.co/+vMTX-x\n\nShop: https://stza.co/+vMTX-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Whitecaps
+<2018-05-10 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       m5Vk6lju7agW1xHtN_XmT088@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Whitecaps Bees @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMTY-4
+
+Shop  https //stza.co/+vMTY-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Whitecaps
+END:VALARM
+DTSTART:20180510T230500Z
+DTEND:20180511T020500Z
+UID:m5Vk6lju7agW1xHtN_XmT088@stanza.co
+SUMMARY:Bees @ Whitecaps
+DESCRIPTION:Bees @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMTY-4\n\nShop: https://stza.co/+vMTY-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Whitecaps
+<2018-05-11 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       jP0FXmIXzq9atp0I0zrIhLjn@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Whitecaps Bees @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMTZ-3d
+
+Shop  https //stza.co/+vMTZ-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Whitecaps
+END:VALARM
+DTSTART:20180511T230500Z
+DTEND:20180512T020500Z
+UID:jP0FXmIXzq9atp0I0zrIhLjn@stanza.co
+SUMMARY:Bees @ Whitecaps
+DESCRIPTION:Bees @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMTZ-3d\n\nShop: https://stza.co/+vMTZ-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Whitecaps
+<2018-05-12 Sat 18:05-21:05>
+:PROPERTIES:
+:ID:       twAE2jcFsmXsur80xlWlNyXi@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Whitecaps Bees @ Whitecaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMT_-2o
+
+Shop  https //stza.co/+vMT_-1
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Whitecaps
+END:VALARM
+DTSTART:20180512T230500Z
+DTEND:20180513T020500Z
+UID:twAE2jcFsmXsur80xlWlNyXi@stanza.co
+SUMMARY:Bees @ Whitecaps
+DESCRIPTION:Bees @ Whitecaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMT_-2o\n\nShop: https://stza.co/+vMT_-1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Cougars
+<2018-05-14 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       HB2Hz8jdcNW5s-Y4EsL0OrLd@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Cougars Bees vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBlJ-3J
+
+Shop  https //stza.co/+xBlJ-V
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Cougars
+END:VALARM
+DTSTART:20180514T233000Z
+DTEND:20180515T023000Z
+UID:HB2Hz8jdcNW5s-Y4EsL0OrLd@stanza.co
+SUMMARY:Bees vs. Cougars
+DESCRIPTION:Bees vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBlJ-3J\n\nShop: https://stza.co/+xBlJ-V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Cougars
+<2018-05-15 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       GJBjIQ2BuWRWqLasU0-RBKIz@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Cougars Bees vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBlP-R
+
+Shop  https //stza.co/+xBlP-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Cougars
+END:VALARM
+DTSTART:20180515T233000Z
+DTEND:20180516T023000Z
+UID:GJBjIQ2BuWRWqLasU0-RBKIz@stanza.co
+SUMMARY:Bees vs. Cougars
+DESCRIPTION:Bees vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBlP-R\n\nShop: https://stza.co/+xBlP-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Cougars
+<2018-05-16 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       crHExQzY6vwcT2WCA46NO2Hh@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Cougars Bees vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBlW-2O
+
+Shop  https //stza.co/+xBlW-y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Cougars
+END:VALARM
+DTSTART:20180516T233000Z
+DTEND:20180517T023000Z
+UID:crHExQzY6vwcT2WCA46NO2Hh@stanza.co
+SUMMARY:Bees vs. Cougars
+DESCRIPTION:Bees vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBlW-2O\n\nShop: https://stza.co/+xBlW-y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Cougars
+<2018-05-17 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       opBbl4caBtm3gIWi7qEaJ-nl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Cougars Bees vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBm1-2s
+
+Shop  https //stza.co/+xBm1-4
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Cougars
+END:VALARM
+DTSTART:20180517T233000Z
+DTEND:20180518T023000Z
+UID:opBbl4caBtm3gIWi7qEaJ-nl@stanza.co
+SUMMARY:Bees vs. Cougars
+DESCRIPTION:Bees vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBm1-2s\n\nShop: https://stza.co/+xBm1-4\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-05-18 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       meQq9318zrN8k_4-egvNuMCO@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMT$-v
+
+Shop  https //stza.co/+vMT$-Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180518T233500Z
+DTEND:20180519T023500Z
+UID:meQq9318zrN8k_4-egvNuMCO@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMT$-v\n\nShop: https://stza.co/+vMT$-Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-05-19 Sat 13:05-16:05>
+:PROPERTIES:
+:ID:       _ULebnBnpoGf5FQGr3LrOXkR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMU0-U
+
+Shop  https //stza.co/+vMU0-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180519T180500Z
+DTEND:20180519T210500Z
+UID:_ULebnBnpoGf5FQGr3LrOXkR@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMU0-U\n\nShop: https://stza.co/+vMU0-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-05-20 Sun 13:05-16:05>
+:PROPERTIES:
+:ID:       S-w6_rIgsR9FhsGXr180raRh@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMU1-20
+
+Shop  https //stza.co/+vMU1-u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180520T180500Z
+DTEND:20180520T210500Z
+UID:S-w6_rIgsR9FhsGXr180raRh@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMU1-20\n\nShop: https://stza.co/+vMU1-u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-05-21 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       JYddGWqi92wCXxRzf_gtVb64@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTj-1g
+
+Shop  https //stza.co/+vMTj-L
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180521T233000Z
+DTEND:20180522T023000Z
+UID:JYddGWqi92wCXxRzf_gtVb64@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTj-1g\n\nShop: https://stza.co/+vMTj-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-05-22 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       x52XwkADkrNhhZUHMmyKgzrz@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTk-P
+
+Shop  https //stza.co/+vMTk-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180522T233000Z
+DTEND:20180523T023000Z
+UID:x52XwkADkrNhhZUHMmyKgzrz@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTk-P\n\nShop: https://stza.co/+vMTk-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-05-23 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       uXAFIZo5AmuLjtay3kGCQIc1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTl-21
+
+Shop  https //stza.co/+vMTl-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180523T233000Z
+DTEND:20180524T023000Z
+UID:uXAFIZo5AmuLjtay3kGCQIc1@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTl-21\n\nShop: https://stza.co/+vMTl-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-05-24 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       W7Uoob7LEF-8gupW5OawUfI0@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTm-H
+
+Shop  https //stza.co/+vMTm-2E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180524T233000Z
+DTEND:20180525T023000Z
+UID:W7Uoob7LEF-8gupW5OawUfI0@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTm-H\n\nShop: https://stza.co/+vMTm-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-05-25 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       G9y9EQVZPYXYyfWh702Nlkc4@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBm7-3h
+
+Shop  https //stza.co/+xBm7-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180525T233000Z
+DTEND:20180526T023000Z
+UID:G9y9EQVZPYXYyfWh702Nlkc4@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBm7-3h\n\nShop: https://stza.co/+xBm7-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-05-26 Sat 17:00-20:00>
+:PROPERTIES:
+:ID:       PvaT-AVnkWJJs63zjRzHliIw@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBmd-2Q
+
+Shop  https //stza.co/+xBmd-23
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180526T220000Z
+DTEND:20180527T010000Z
+UID:PvaT-AVnkWJJs63zjRzHliIw@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBmd-2Q\n\nShop: https://stza.co/+xBmd-23\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-05-27 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       7a8S3MDuixvn21HzZL5TAg0V@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBmj-2K
+
+Shop  https //stza.co/+xBmj-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180527T190000Z
+DTEND:20180527T220000Z
+UID:7a8S3MDuixvn21HzZL5TAg0V@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBmj-2K\n\nShop: https://stza.co/+xBmj-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-05-28 Mon 14:00-17:00>
+:PROPERTIES:
+:ID:       TExlwD-jDW-VQK0U1AGuEdG3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBml-l
+
+Shop  https //stza.co/+xBml-3U
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180528T190000Z
+DTEND:20180528T220000Z
+UID:TExlwD-jDW-VQK0U1AGuEdG3@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBml-l\n\nShop: https://stza.co/+xBml-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-05-29 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       dYtCyxJFr0rIxcRBfx3lLkHv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBox-3h
+
+Shop  https //stza.co/+xBox-H
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180529T233000Z
+DTEND:20180530T023000Z
+UID:dYtCyxJFr0rIxcRBfx3lLkHv@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBox-3h\n\nShop: https://stza.co/+xBox-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-05-30 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       m4C4Sh-eXJugTB0l9AeX4Z8d@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoB-1E
+
+Shop  https //stza.co/+xBoB-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180530T233000Z
+DTEND:20180531T023000Z
+UID:m4C4Sh-eXJugTB0l9AeX4Z8d@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoB-1E\n\nShop: https://stza.co/+xBoB-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-05-31 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       kwEawBkIWYDc5hz3ICMUPVhJ@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoE-31
+
+Shop  https //stza.co/+xBoE-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180531T233000Z
+DTEND:20180601T023000Z
+UID:kwEawBkIWYDc5hz3ICMUPVhJ@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoE-31\n\nShop: https://stza.co/+xBoE-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Kernels
+<2018-06-01 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       K-SNUblXLs323w_QNNYS-VB3@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Kernels Bees vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBmp-h
+
+Shop  https //stza.co/+xBmp-1e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Kernels
+END:VALARM
+DTSTART:20180601T233000Z
+DTEND:20180602T023000Z
+UID:K-SNUblXLs323w_QNNYS-VB3@stanza.co
+SUMMARY:Bees vs. Kernels
+DESCRIPTION:Bees vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBmp-h\n\nShop: https://stza.co/+xBmp-1e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Kernels
+<2018-06-02 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       P1MBWHpttfPujxxRKetu-yB4@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Kernels Bees vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBmw-
+
+Shop  https //stza.co/+xBmw-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Kernels
+END:VALARM
+DTSTART:20180602T233000Z
+DTEND:20180603T023000Z
+UID:P1MBWHpttfPujxxRKetu-yB4@stanza.co
+SUMMARY:Bees vs. Kernels
+DESCRIPTION:Bees vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBmw-\n\nShop: https://stza.co/+xBmw-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Kernels
+<2018-06-03 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       PIcSmFMrd6NV75qu1SUF-0dD@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Kernels Bees vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBmB-1W
+
+Shop  https //stza.co/+xBmB-9
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Kernels
+END:VALARM
+DTSTART:20180603T190000Z
+DTEND:20180603T220000Z
+UID:PIcSmFMrd6NV75qu1SUF-0dD@stanza.co
+SUMMARY:Bees vs. Kernels
+DESCRIPTION:Bees vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBmB-1W\n\nShop: https://stza.co/+xBmB-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-06-05 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       WB-_peGeSfxB-RtK9qDW_QO6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBmE-1M
+
+Shop  https //stza.co/+xBmE-3F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180605T233000Z
+DTEND:20180606T023000Z
+UID:WB-_peGeSfxB-RtK9qDW_QO6@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBmE-1M\n\nShop: https://stza.co/+xBmE-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-06-06 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       BQ3X2IbeAMoG3EKG_53eGxmq@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBmI-3p
+
+Shop  https //stza.co/+xBmI-1J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180606T233000Z
+DTEND:20180607T023000Z
+UID:BQ3X2IbeAMoG3EKG_53eGxmq@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBmI-3p\n\nShop: https://stza.co/+xBmI-1J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-06-07 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       XfWMF4l1qwTPR3Eaw_SBW77N@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBmL-1t
+
+Shop  https //stza.co/+xBmL-r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180607T233000Z
+DTEND:20180608T023000Z
+UID:XfWMF4l1qwTPR3Eaw_SBW77N@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBmL-1t\n\nShop: https://stza.co/+xBmL-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Snappers
+<2018-06-08 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       swr6Dmjt081tkAm0bslDYAgR@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Snappers Bees @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSKE-1B
+
+Shop  https //stza.co/+wSKE-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Snappers
+END:VALARM
+DTSTART:20180609T000000Z
+DTEND:20180609T030000Z
+UID:swr6Dmjt081tkAm0bslDYAgR@stanza.co
+SUMMARY:Bees @ Snappers
+DESCRIPTION:Bees @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSKE-1B\n\nShop: https://stza.co/+wSKE-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Snappers
+<2018-06-09 Sat 19:00-22:00>
+:PROPERTIES:
+:ID:       13uejbwdiFhBiWiPAjxmeAZv@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Snappers Bees @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSKF-1X
+
+Shop  https //stza.co/+wSKF-17
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Snappers
+END:VALARM
+DTSTART:20180610T000000Z
+DTEND:20180610T030000Z
+UID:13uejbwdiFhBiWiPAjxmeAZv@stanza.co
+SUMMARY:Bees @ Snappers
+DESCRIPTION:Bees @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSKF-1X\n\nShop: https://stza.co/+wSKF-17\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Snappers
+<2018-06-10 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       4HiYWaBODMGocyHOB_8DiW9x@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Snappers Bees @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSKG-2Z
+
+Shop  https //stza.co/+wSKG-24
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Snappers
+END:VALARM
+DTSTART:20180610T190000Z
+DTEND:20180610T220000Z
+UID:4HiYWaBODMGocyHOB_8DiW9x@stanza.co
+SUMMARY:Bees @ Snappers
+DESCRIPTION:Bees @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSKG-2Z\n\nShop: https://stza.co/+wSKG-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Snappers
+<2018-06-11 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       tpq3sCDEwA78UBLgJBxE91rA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Snappers Bees @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSKI-3c
+
+Shop  https //stza.co/+wSKI-1B
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Snappers
+END:VALARM
+DTSTART:20180612T000000Z
+DTEND:20180612T030000Z
+UID:tpq3sCDEwA78UBLgJBxE91rA@stanza.co
+SUMMARY:Bees @ Snappers
+DESCRIPTION:Bees @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSKI-3c\n\nShop: https://stza.co/+wSKI-1B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Timber Rattlers
+<2018-06-12 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       pgDIiFGVifZMH_Q5UMykVYhF@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Timber Rattlers Bees vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBmN-1N
+
+Shop  https //stza.co/+xBmN-1v
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Timber Rattlers
+END:VALARM
+DTSTART:20180612T233000Z
+DTEND:20180613T023000Z
+UID:pgDIiFGVifZMH_Q5UMykVYhF@stanza.co
+SUMMARY:Bees vs. Timber Rattlers
+DESCRIPTION:Bees vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBmN-1N\n\nShop: https://stza.co/+xBmN-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Timber Rattlers
+<2018-06-13 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       07taWe7z8PfUDyG7Ffjycd-R@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Timber Rattlers Bees vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBmO-W
+
+Shop  https //stza.co/+xBmO-g
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Timber Rattlers
+END:VALARM
+DTSTART:20180613T233000Z
+DTEND:20180614T023000Z
+UID:07taWe7z8PfUDyG7Ffjycd-R@stanza.co
+SUMMARY:Bees vs. Timber Rattlers
+DESCRIPTION:Bees vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBmO-W\n\nShop: https://stza.co/+xBmO-g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Timber Rattlers
+<2018-06-14 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       7TOndA-MqHqDXPkyzQrpp5ES@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Timber Rattlers Bees vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBmR-1J
+
+Shop  https //stza.co/+xBmR-1t
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Timber Rattlers
+END:VALARM
+DTSTART:20180614T233000Z
+DTEND:20180615T023000Z
+UID:7TOndA-MqHqDXPkyzQrpp5ES@stanza.co
+SUMMARY:Bees vs. Timber Rattlers
+DESCRIPTION:Bees vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBmR-1J\n\nShop: https://stza.co/+xBmR-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ River Bandits
+<2018-06-15 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       VQMtf_xrWzq5d0NpFPrXUn3y@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ River Bandits Bees @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxmm-I
+
+Shop  https //stza.co/+wxmm-1I
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ River Bandits
+END:VALARM
+DTSTART:20180615T233500Z
+DTEND:20180616T023500Z
+UID:VQMtf_xrWzq5d0NpFPrXUn3y@stanza.co
+SUMMARY:Bees @ River Bandits
+DESCRIPTION:Bees @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxmm-I\n\nShop: https://stza.co/+wxmm-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ River Bandits
+<2018-06-16 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       6EydoKM6onr4NhhxZuhtEkVy@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ River Bandits Bees @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxmn-3f
+
+Shop  https //stza.co/+wxmn-3y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ River Bandits
+END:VALARM
+DTSTART:20180616T233500Z
+DTEND:20180617T023500Z
+UID:6EydoKM6onr4NhhxZuhtEkVy@stanza.co
+SUMMARY:Bees @ River Bandits
+DESCRIPTION:Bees @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxmn-3f\n\nShop: https://stza.co/+wxmn-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ River Bandits
+<2018-06-17 Sun 13:15-16:15>
+:PROPERTIES:
+:ID:       buO3LSQTwnvy9I1Tm6P2TRjG@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ River Bandits Bees @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxmo-35
+
+Shop  https //stza.co/+wxmo-27
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ River Bandits
+END:VALARM
+DTSTART:20180617T181500Z
+DTEND:20180617T211500Z
+UID:buO3LSQTwnvy9I1Tm6P2TRjG@stanza.co
+SUMMARY:Bees @ River Bandits
+DESCRIPTION:Bees @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxmo-35\n\nShop: https://stza.co/+wxmo-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-06-21 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       8fz6inktbrqoH6VGa4Rnm9Ed@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoH-3L
+
+Shop  https //stza.co/+xBoH-3G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180622T000000Z
+DTEND:20180622T030000Z
+UID:8fz6inktbrqoH6VGa4Rnm9Ed@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoH-3L\n\nShop: https://stza.co/+xBoH-3G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-06-22 Fri 19:00-22:00>
+:PROPERTIES:
+:ID:       0lCNiCo1_FJFqas9UbV_iIPG@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoK-39
+
+Shop  https //stza.co/+xBoK-Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180623T000000Z
+DTEND:20180623T030000Z
+UID:0lCNiCo1_FJFqas9UbV_iIPG@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoK-39\n\nShop: https://stza.co/+xBoK-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-06-23 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       wWaEMPDDEocOhTVNaPE3MMjx@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoL-2v
+
+Shop  https //stza.co/+xBoL-1f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180623T233000Z
+DTEND:20180624T023000Z
+UID:wWaEMPDDEocOhTVNaPE3MMjx@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoL-2v\n\nShop: https://stza.co/+xBoL-1f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-06-24 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       2-5YgRdyjkJqOcINJCUjigcV@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoN-1H
+
+Shop  https //stza.co/+xBoN-1E
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180624T190000Z
+DTEND:20180624T220000Z
+UID:2-5YgRdyjkJqOcINJCUjigcV@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoN-1H\n\nShop: https://stza.co/+xBoN-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-06-25 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       KTjVsZrk9AxEdUPNSWC-wg_f@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTn-x
+
+Shop  https //stza.co/+vMTn-P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180625T233000Z
+DTEND:20180626T023000Z
+UID:KTjVsZrk9AxEdUPNSWC-wg_f@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTn-x\n\nShop: https://stza.co/+vMTn-P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-06-26 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       vDxH58spD3aopffFTE9mUu3J@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTo-1b
+
+Shop  https //stza.co/+vMTo-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180626T233000Z
+DTEND:20180627T023000Z
+UID:vDxH58spD3aopffFTE9mUu3J@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTo-1b\n\nShop: https://stza.co/+vMTo-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ LumberKings
+<2018-06-27 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       Zc4Dr9HOo_zPdC7Wbir-FJGK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ LumberKings Bees @ LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+vMTp-v
+
+Shop  https //stza.co/+vMTp-2O
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ LumberKings
+END:VALARM
+DTSTART:20180627T233000Z
+DTEND:20180628T023000Z
+UID:Zc4Dr9HOo_zPdC7Wbir-FJGK@stanza.co
+SUMMARY:Bees @ LumberKings
+DESCRIPTION:Bees @ LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+vMTp-v\n\nShop: https://stza.co/+vMTp-2O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Kernels
+<2018-06-28 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       VAdYRRxfc_Ri9FpSdIX36jhe@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Kernels Bees vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBmS-1C
+
+Shop  https //stza.co/+xBmS-S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Kernels
+END:VALARM
+DTSTART:20180628T233000Z
+DTEND:20180629T023000Z
+UID:VAdYRRxfc_Ri9FpSdIX36jhe@stanza.co
+SUMMARY:Bees vs. Kernels
+DESCRIPTION:Bees vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBmS-1C\n\nShop: https://stza.co/+xBmS-S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Kernels
+<2018-06-29 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       CzsGHuZ4PLu2_wwC_-Tojvgl@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Kernels Bees vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBmU-2C
+
+Shop  https //stza.co/+xBmU-3z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Kernels
+END:VALARM
+DTSTART:20180629T233000Z
+DTEND:20180630T023000Z
+UID:CzsGHuZ4PLu2_wwC_-Tojvgl@stanza.co
+SUMMARY:Bees vs. Kernels
+DESCRIPTION:Bees vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBmU-2C\n\nShop: https://stza.co/+xBmU-3z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Kernels
+<2018-06-30 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       gZEkizxAUmNM8Jp38vQowKCr@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Kernels Bees vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBmX-2c
+
+Shop  https //stza.co/+xBmX-n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Kernels
+END:VALARM
+DTSTART:20180630T233000Z
+DTEND:20180701T023000Z
+UID:gZEkizxAUmNM8Jp38vQowKCr@stanza.co
+SUMMARY:Bees vs. Kernels
+DESCRIPTION:Bees vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBmX-2c\n\nShop: https://stza.co/+xBmX-n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Kernels
+<2018-07-01 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       ZyxrbNt7DS2HXMfi5f2lAKg9@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Kernels Bees vs. Kernels
+
+Follow on MiLB First Pitch  https //stza.co/+xBmY-3a
+
+Shop  https //stza.co/+xBmY-3r
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Kernels
+END:VALARM
+DTSTART:20180701T190000Z
+DTEND:20180701T220000Z
+UID:ZyxrbNt7DS2HXMfi5f2lAKg9@stanza.co
+SUMMARY:Bees vs. Kernels
+DESCRIPTION:Bees vs. Kernels\n\nFollow on MiLB First Pitch: https://stza.co/+xBmY-3a\n\nShop: https://stza.co/+xBmY-3r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Chiefs
+<2018-07-02 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       SjKdXtH-KmKVEqQ7QaqgfKg9@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Chiefs Bees vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBm_-3t
+
+Shop  https //stza.co/+xBm_-F
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Chiefs
+END:VALARM
+DTSTART:20180702T233000Z
+DTEND:20180703T023000Z
+UID:SjKdXtH-KmKVEqQ7QaqgfKg9@stanza.co
+SUMMARY:Bees vs. Chiefs
+DESCRIPTION:Bees vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBm_-3t\n\nShop: https://stza.co/+xBm_-F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Chiefs
+<2018-07-03 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       6Igk5EBmpG18o6TsSulhZUmU@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Chiefs Bees vs. Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBn1-3f
+
+Shop  https //stza.co/+xBn1-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Chiefs
+END:VALARM
+DTSTART:20180703T233000Z
+DTEND:20180704T023000Z
+UID:6Igk5EBmpG18o6TsSulhZUmU@stanza.co
+SUMMARY:Bees vs. Chiefs
+DESCRIPTION:Bees vs. Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBn1-3f\n\nShop: https://stza.co/+xBn1-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-07-04 Wed 17:30-20:30>
+:PROPERTIES:
+:ID:       ilMSTFRVmG2QZ97kRXmEm48F@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoQ-s
+
+Shop  https //stza.co/+xBoQ-2G
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180704T223000Z
+DTEND:20180705T013000Z
+UID:ilMSTFRVmG2QZ97kRXmEm48F@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoQ-s\n\nShop: https://stza.co/+xBoQ-2G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Chiefs
+<2018-07-05 Thu 19:00-22:00>
+:PROPERTIES:
+:ID:       96xrUt3oOWc3kYXhNEx5Fo33@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Chiefs Bees @ Chiefs
+
+Follow on MiLB First Pitch  https //stza.co/+xBoU-3L
+
+Shop  https //stza.co/+xBoU-2h
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Chiefs
+END:VALARM
+DTSTART:20180706T000000Z
+DTEND:20180706T030000Z
+UID:96xrUt3oOWc3kYXhNEx5Fo33@stanza.co
+SUMMARY:Bees @ Chiefs
+DESCRIPTION:Bees @ Chiefs\n\nFollow on MiLB First Pitch: https://stza.co/+xBoU-3L\n\nShop: https://stza.co/+xBoU-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ River Bandits
+<2018-07-06 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       J0uPEKk7OHqpMoJ9S8aWkgfK@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ River Bandits Bees @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxmp-1Q
+
+Shop  https //stza.co/+wxmp-3Z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ River Bandits
+END:VALARM
+DTSTART:20180706T233500Z
+DTEND:20180707T023500Z
+UID:J0uPEKk7OHqpMoJ9S8aWkgfK@stanza.co
+SUMMARY:Bees @ River Bandits
+DESCRIPTION:Bees @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxmp-1Q\n\nShop: https://stza.co/+wxmp-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ River Bandits
+<2018-07-07 Sat 18:35-21:35>
+:PROPERTIES:
+:ID:       6-wxfyBUmxQFtdmMn3YZ8YA0@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ River Bandits Bees @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxmq-1g
+
+Shop  https //stza.co/+wxmq-22
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ River Bandits
+END:VALARM
+DTSTART:20180707T233500Z
+DTEND:20180708T023500Z
+UID:6-wxfyBUmxQFtdmMn3YZ8YA0@stanza.co
+SUMMARY:Bees @ River Bandits
+DESCRIPTION:Bees @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxmq-1g\n\nShop: https://stza.co/+wxmq-22\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ River Bandits
+<2018-07-08 Sun 17:15-20:15>
+:PROPERTIES:
+:ID:       9bjy7jlXQbpXc43qEvIeE03R@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ River Bandits Bees @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxmr-3W
+
+Shop  https //stza.co/+wxmr-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ River Bandits
+END:VALARM
+DTSTART:20180708T221500Z
+DTEND:20180709T011500Z
+UID:9bjy7jlXQbpXc43qEvIeE03R@stanza.co
+SUMMARY:Bees @ River Bandits
+DESCRIPTION:Bees @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxmr-3W\n\nShop: https://stza.co/+wxmr-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ River Bandits
+<2018-07-09 Mon 18:35-21:35>
+:PROPERTIES:
+:ID:       mMcUXGLNsc7l_ugHqIm_dM43@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ River Bandits Bees @ River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+wxms-1O
+
+Shop  https //stza.co/+wxms-3S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ River Bandits
+END:VALARM
+DTSTART:20180709T233500Z
+DTEND:20180710T023500Z
+UID:mMcUXGLNsc7l_ugHqIm_dM43@stanza.co
+SUMMARY:Bees @ River Bandits
+DESCRIPTION:Bees @ River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+wxms-1O\n\nShop: https://stza.co/+wxms-3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Lugnuts
+<2018-07-11 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       _YSgASP-DQOhuy2y4lGAJBM_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Lugnuts Bees vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+xBn2-2J
+
+Shop  https //stza.co/+xBn2-1A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Lugnuts
+END:VALARM
+DTSTART:20180711T233000Z
+DTEND:20180712T023000Z
+UID:_YSgASP-DQOhuy2y4lGAJBM_@stanza.co
+SUMMARY:Bees vs. Lugnuts
+DESCRIPTION:Bees vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+xBn2-2J\n\nShop: https://stza.co/+xBn2-1A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Lugnuts
+<2018-07-12 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       pnoOHqqZwc1r1xmtlPqR6Cs1@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Lugnuts Bees vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+xBn4-1v
+
+Shop  https //stza.co/+xBn4-
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Lugnuts
+END:VALARM
+DTSTART:20180712T233000Z
+DTEND:20180713T023000Z
+UID:pnoOHqqZwc1r1xmtlPqR6Cs1@stanza.co
+SUMMARY:Bees vs. Lugnuts
+DESCRIPTION:Bees vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+xBn4-1v\n\nShop: https://stza.co/+xBn4-\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Lugnuts
+<2018-07-13 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       Jx0fL9lBm8Uufe6FVWOG64an@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Lugnuts Bees vs. Lugnuts
+
+Follow on MiLB First Pitch  https //stza.co/+xBn7-3O
+
+Shop  https //stza.co/+xBn7-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Lugnuts
+END:VALARM
+DTSTART:20180713T233000Z
+DTEND:20180714T023000Z
+UID:Jx0fL9lBm8Uufe6FVWOG64an@stanza.co
+SUMMARY:Bees vs. Lugnuts
+DESCRIPTION:Bees vs. Lugnuts\n\nFollow on MiLB First Pitch: https://stza.co/+xBn7-3O\n\nShop: https://stza.co/+xBn7-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Loons
+<2018-07-14 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       IoyyJZUNGucyON2W7BPqJEfK@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Loons Bees vs. Loons
+
+Follow on MiLB First Pitch  https //stza.co/+xBn8-3p
+
+Shop  https //stza.co/+xBn8-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Loons
+END:VALARM
+DTSTART:20180714T233000Z
+DTEND:20180715T023000Z
+UID:IoyyJZUNGucyON2W7BPqJEfK@stanza.co
+SUMMARY:Bees vs. Loons
+DESCRIPTION:Bees vs. Loons\n\nFollow on MiLB First Pitch: https://stza.co/+xBn8-3p\n\nShop: https://stza.co/+xBn8-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Loons
+<2018-07-15 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       Q1PyK5yowOR2WmilUuxggU8K@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Loons Bees vs. Loons
+
+Follow on MiLB First Pitch  https //stza.co/+xBnb-33
+
+Shop  https //stza.co/+xBnb-3A
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Loons
+END:VALARM
+DTSTART:20180715T190000Z
+DTEND:20180715T220000Z
+UID:Q1PyK5yowOR2WmilUuxggU8K@stanza.co
+SUMMARY:Bees vs. Loons
+DESCRIPTION:Bees vs. Loons\n\nFollow on MiLB First Pitch: https://stza.co/+xBnb-33\n\nShop: https://stza.co/+xBnb-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Loons
+<2018-07-16 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       c4-6yKFa_G13jJf7RvEvn-px@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Loons Bees vs. Loons
+
+Follow on MiLB First Pitch  https //stza.co/+xBnd-1C
+
+Shop  https //stza.co/+xBnd-5
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Loons
+END:VALARM
+DTSTART:20180716T233000Z
+DTEND:20180717T023000Z
+UID:c4-6yKFa_G13jJf7RvEvn-px@stanza.co
+SUMMARY:Bees vs. Loons
+DESCRIPTION:Bees vs. Loons\n\nFollow on MiLB First Pitch: https://stza.co/+xBnd-1C\n\nShop: https://stza.co/+xBnd-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ TinCaps
+<2018-07-18 Wed 18:05-21:05>
+:PROPERTIES:
+:ID:       IFnAZW6HLSq7YLNIdO0bAj5x@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ TinCaps Bees @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMTq-2A
+
+Shop  https //stza.co/+vMTq-1T
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ TinCaps
+END:VALARM
+DTSTART:20180718T230500Z
+DTEND:20180719T020500Z
+UID:IFnAZW6HLSq7YLNIdO0bAj5x@stanza.co
+SUMMARY:Bees @ TinCaps
+DESCRIPTION:Bees @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMTq-2A\n\nShop: https://stza.co/+vMTq-1T\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ TinCaps
+<2018-07-19 Thu 18:05-21:05>
+:PROPERTIES:
+:ID:       Mu2FdvqBJo3xtclM0650Y7pA@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ TinCaps Bees @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMTr-3J
+
+Shop  https //stza.co/+vMTr-2n
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ TinCaps
+END:VALARM
+DTSTART:20180719T230500Z
+DTEND:20180720T020500Z
+UID:Mu2FdvqBJo3xtclM0650Y7pA@stanza.co
+SUMMARY:Bees @ TinCaps
+DESCRIPTION:Bees @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMTr-3J\n\nShop: https://stza.co/+vMTr-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ TinCaps
+<2018-07-20 Fri 18:05-21:05>
+:PROPERTIES:
+:ID:       vlpmOWL04SHl0MMEtAXKGBBp@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ TinCaps Bees @ TinCaps
+
+Follow on MiLB First Pitch  https //stza.co/+vMTs-1B
+
+Shop  https //stza.co/+vMTs-1C
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ TinCaps
+END:VALARM
+DTSTART:20180720T230500Z
+DTEND:20180721T020500Z
+UID:vlpmOWL04SHl0MMEtAXKGBBp@stanza.co
+SUMMARY:Bees @ TinCaps
+DESCRIPTION:Bees @ TinCaps\n\nFollow on MiLB First Pitch: https://stza.co/+vMTs-1B\n\nShop: https://stza.co/+vMTs-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Captains
+<2018-07-21 Sat 18:00-21:00>
+:PROPERTIES:
+:ID:       YZslQ_NIBkh5qegJBG2Wlwim@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Captains Bees @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBor-2_
+
+Shop  https //stza.co/+xBor-2x
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Captains
+END:VALARM
+DTSTART:20180721T230000Z
+DTEND:20180722T020000Z
+UID:YZslQ_NIBkh5qegJBG2Wlwim@stanza.co
+SUMMARY:Bees @ Captains
+DESCRIPTION:Bees @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBor-2_\n\nShop: https://stza.co/+xBor-2x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Captains
+<2018-07-22 Sun 15:00-18:00>
+:PROPERTIES:
+:ID:       B6axv45w5ACEFypgVFBgoCp-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Captains Bees @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBos-X
+
+Shop  https //stza.co/+xBos-26
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Captains
+END:VALARM
+DTSTART:20180722T200000Z
+DTEND:20180722T230000Z
+UID:B6axv45w5ACEFypgVFBgoCp-@stanza.co
+SUMMARY:Bees @ Captains
+DESCRIPTION:Bees @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBos-X\n\nShop: https://stza.co/+xBos-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Captains
+<2018-07-23 Mon 18:00-21:00>
+:PROPERTIES:
+:ID:       j7lawUEIyIYgslTk21qfm-rs@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Captains Bees @ Captains
+
+Follow on MiLB First Pitch  https //stza.co/+xBot-2y
+
+Shop  https //stza.co/+xBot-3j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Captains
+END:VALARM
+DTSTART:20180723T230000Z
+DTEND:20180724T020000Z
+UID:j7lawUEIyIYgslTk21qfm-rs@stanza.co
+SUMMARY:Bees @ Captains
+DESCRIPTION:Bees @ Captains\n\nFollow on MiLB First Pitch: https://stza.co/+xBot-2y\n\nShop: https://stza.co/+xBot-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-07-25 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       eN3KF9q7JpaMrr8qZ6L6ktXO@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBnf-1m
+
+Shop  https //stza.co/+xBnf-1P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180725T233000Z
+DTEND:20180726T023000Z
+UID:eN3KF9q7JpaMrr8qZ6L6ktXO@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBnf-1m\n\nShop: https://stza.co/+xBnf-1P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-07-26 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       NJBtzsMuH5lRCBpcpLYe9808@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBnh-x
+
+Shop  https //stza.co/+xBnh-f
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180726T233000Z
+DTEND:20180727T023000Z
+UID:NJBtzsMuH5lRCBpcpLYe9808@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBnh-x\n\nShop: https://stza.co/+xBnh-f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-07-27 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       p7bynR2igJiaLT9jecsW45NC@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBnn-3T
+
+Shop  https //stza.co/+xBnn-2R
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180727T233000Z
+DTEND:20180728T023000Z
+UID:p7bynR2igJiaLT9jecsW45NC@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBnn-3T\n\nShop: https://stza.co/+xBnn-2R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-07-28 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       s0gkRdjxIkMUOJ5liKh7CF6x@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBnq-3J
+
+Shop  https //stza.co/+xBnq-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180728T233000Z
+DTEND:20180729T023000Z
+UID:s0gkRdjxIkMUOJ5liKh7CF6x@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBnq-3J\n\nShop: https://stza.co/+xBnq-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-07-29 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       Nt7hiqbYcMVTYs4DokTukATv@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBnu-2d
+
+Shop  https //stza.co/+xBnu-1X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180729T190000Z
+DTEND:20180729T220000Z
+UID:Nt7hiqbYcMVTYs4DokTukATv@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBnu-2d\n\nShop: https://stza.co/+xBnu-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-07-30 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       cBBG5gleY2jpIgKKVwPwvM0w@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBny-T
+
+Shop  https //stza.co/+xBny-1w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180730T233000Z
+DTEND:20180731T023000Z
+UID:cBBG5gleY2jpIgKKVwPwvM0w@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBny-T\n\nShop: https://stza.co/+xBny-1w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Snappers
+<2018-07-31 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       11olzpVyWGBqW39gKuZdXs2c@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Snappers Bees vs. Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+xBnA-3V
+
+Shop  https //stza.co/+xBnA-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Snappers
+END:VALARM
+DTSTART:20180731T233000Z
+DTEND:20180801T023000Z
+UID:11olzpVyWGBqW39gKuZdXs2c@stanza.co
+SUMMARY:Bees vs. Snappers
+DESCRIPTION:Bees vs. Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+xBnA-3V\n\nShop: https://stza.co/+xBnA-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-08-01 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       k_-U7ESZL8Hu9pq3FixrDn8L@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMU2-B
+
+Shop  https //stza.co/+vMU2-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180802T000500Z
+DTEND:20180802T030500Z
+UID:k_-U7ESZL8Hu9pq3FixrDn8L@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMU2-B\n\nShop: https://stza.co/+vMU2-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-08-02 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       9AG9ilAyYYcasZnc5qLt0ywi@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMU3-1p
+
+Shop  https //stza.co/+vMU3-3P
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180803T000500Z
+DTEND:20180803T030500Z
+UID:9AG9ilAyYYcasZnc5qLt0ywi@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMU3-1p\n\nShop: https://stza.co/+vMU3-3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-08-03 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       7KNUX_CSo6bB5GBuBmPyjpl_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMU4-3K
+
+Shop  https //stza.co/+vMU4-1o
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180804T000500Z
+DTEND:20180804T030500Z
+UID:7KNUX_CSo6bB5GBuBmPyjpl_@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMU4-3K\n\nShop: https://stza.co/+vMU4-1o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Cougars
+<2018-08-04 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       W9uNav69gRpKJX_sbignAnCE@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Cougars Bees vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBnE-4
+
+Shop  https //stza.co/+xBnE-1b
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Cougars
+END:VALARM
+DTSTART:20180804T233000Z
+DTEND:20180805T023000Z
+UID:W9uNav69gRpKJX_sbignAnCE@stanza.co
+SUMMARY:Bees vs. Cougars
+DESCRIPTION:Bees vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBnE-4\n\nShop: https://stza.co/+xBnE-1b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Cougars
+<2018-08-05 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       ouXz4dORkZ7HZV2uiyWZs7YM@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Cougars Bees vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBnH-1o
+
+Shop  https //stza.co/+xBnH-3k
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Cougars
+END:VALARM
+DTSTART:20180805T190000Z
+DTEND:20180805T220000Z
+UID:ouXz4dORkZ7HZV2uiyWZs7YM@stanza.co
+SUMMARY:Bees vs. Cougars
+DESCRIPTION:Bees vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBnH-1o\n\nShop: https://stza.co/+xBnH-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Cougars
+<2018-08-06 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       9b3RgtfNX8oNRrIcXCojqXrC@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Cougars Bees vs. Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBnM-3J
+
+Shop  https //stza.co/+xBnM-Y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Cougars
+END:VALARM
+DTSTART:20180806T233000Z
+DTEND:20180807T023000Z
+UID:9b3RgtfNX8oNRrIcXCojqXrC@stanza.co
+SUMMARY:Bees vs. Cougars
+DESCRIPTION:Bees vs. Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBnM-3J\n\nShop: https://stza.co/+xBnM-Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-08-08 Wed 19:05-22:05>
+:PROPERTIES:
+:ID:       ibUcRohD2fbnsqwH4vBkEUCX@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMU5-2b
+
+Shop  https //stza.co/+vMU5-3w
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180809T000500Z
+DTEND:20180809T030500Z
+UID:ibUcRohD2fbnsqwH4vBkEUCX@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMU5-2b\n\nShop: https://stza.co/+vMU5-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-08-09 Thu 19:05-22:05>
+:PROPERTIES:
+:ID:       Rbo6OGfr8kAa3HL6NfIk29hZ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+vMU6-3d
+
+Shop  https //stza.co/+vMU6-1m
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180810T000500Z
+DTEND:20180810T030500Z
+UID:Rbo6OGfr8kAa3HL6NfIk29hZ@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+vMU6-3d\n\nShop: https://stza.co/+vMU6-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Timber Rattlers
+<2018-08-10 Fri 19:05-22:05>
+:PROPERTIES:
+:ID:       cDNmcRrvlJyHbfSiG7lXOphM@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Timber Rattlers Bees @ Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+voCE-U
+
+Shop  https //stza.co/+voCE-1p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Timber Rattlers
+END:VALARM
+DTSTART:20180811T000500Z
+DTEND:20180811T030500Z
+UID:cDNmcRrvlJyHbfSiG7lXOphM@stanza.co
+SUMMARY:Bees @ Timber Rattlers
+DESCRIPTION:Bees @ Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+voCE-U\n\nShop: https://stza.co/+voCE-1p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cougars
+<2018-08-11 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       sgffMMeo4pEM3wrfE5gqpU7-@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cougars Bees @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBon-1b
+
+Shop  https //stza.co/+xBon-e
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cougars
+END:VALARM
+DTSTART:20180811T233000Z
+DTEND:20180812T023000Z
+UID:sgffMMeo4pEM3wrfE5gqpU7-@stanza.co
+SUMMARY:Bees @ Cougars
+DESCRIPTION:Bees @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBon-1b\n\nShop: https://stza.co/+xBon-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cougars
+<2018-08-12 Sun 13:00-16:00>
+:PROPERTIES:
+:ID:       vsSzqFfanNlwXOXiDPM-O-3w@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cougars Bees @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBoo-e
+
+Shop  https //stza.co/+xBoo-19
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cougars
+END:VALARM
+DTSTART:20180812T180000Z
+DTEND:20180812T210000Z
+UID:vsSzqFfanNlwXOXiDPM-O-3w@stanza.co
+SUMMARY:Bees @ Cougars
+DESCRIPTION:Bees @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBoo-e\n\nShop: https://stza.co/+xBoo-19\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cougars
+<2018-08-13 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       mmJwLwcI223C633GvcEDUTF_@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cougars Bees @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBop-1G
+
+Shop  https //stza.co/+xBop-16
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cougars
+END:VALARM
+DTSTART:20180813T233000Z
+DTEND:20180814T023000Z
+UID:mmJwLwcI223C633GvcEDUTF_@stanza.co
+SUMMARY:Bees @ Cougars
+DESCRIPTION:Bees @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBop-1G\n\nShop: https://stza.co/+xBop-16\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Cougars
+<2018-08-14 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       QUTPizw6oDWvEG9vuryuuGl2@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Cougars Bees @ Cougars
+
+Follow on MiLB First Pitch  https //stza.co/+xBoq-1u
+
+Shop  https //stza.co/+xBoq-2$
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Cougars
+END:VALARM
+DTSTART:20180814T233000Z
+DTEND:20180815T023000Z
+UID:QUTPizw6oDWvEG9vuryuuGl2@stanza.co
+SUMMARY:Bees @ Cougars
+DESCRIPTION:Bees @ Cougars\n\nFollow on MiLB First Pitch: https://stza.co/+xBoq-1u\n\nShop: https://stza.co/+xBoq-2$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Timber Rattlers
+<2018-08-15 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       r1_RJ93Pv2shKMaFg56Vrl9h@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Timber Rattlers Bees vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBnR-2Q
+
+Shop  https //stza.co/+xBnR-c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Timber Rattlers
+END:VALARM
+DTSTART:20180815T233000Z
+DTEND:20180816T023000Z
+UID:r1_RJ93Pv2shKMaFg56Vrl9h@stanza.co
+SUMMARY:Bees vs. Timber Rattlers
+DESCRIPTION:Bees vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBnR-2Q\n\nShop: https://stza.co/+xBnR-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Timber Rattlers
+<2018-08-16 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       0AvFIArV-VGfZ6hx7l0n0IFV@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Timber Rattlers Bees vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBnU-c
+
+Shop  https //stza.co/+xBnU-1D
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Timber Rattlers
+END:VALARM
+DTSTART:20180816T233000Z
+DTEND:20180817T023000Z
+UID:0AvFIArV-VGfZ6hx7l0n0IFV@stanza.co
+SUMMARY:Bees vs. Timber Rattlers
+DESCRIPTION:Bees vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBnU-c\n\nShop: https://stza.co/+xBnU-1D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. Timber Rattlers
+<2018-08-17 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       U2l8oHLPjQ9rGLyo2EBRzHmL@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. Timber Rattlers Bees vs. Timber Rattlers
+
+Follow on MiLB First Pitch  https //stza.co/+xBnY-1S
+
+Shop  https //stza.co/+xBnY-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. Timber Rattlers
+END:VALARM
+DTSTART:20180817T233000Z
+DTEND:20180818T023000Z
+UID:U2l8oHLPjQ9rGLyo2EBRzHmL@stanza.co
+SUMMARY:Bees vs. Timber Rattlers
+DESCRIPTION:Bees vs. Timber Rattlers\n\nFollow on MiLB First Pitch: https://stza.co/+xBnY-1S\n\nShop: https://stza.co/+xBnY-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Snappers
+<2018-08-18 Sat 19:00-22:00>
+:PROPERTIES:
+:ID:       KRDL6SueCrUpWlxExVsW-r48@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Snappers Bees @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSKK-2f
+
+Shop  https //stza.co/+wSKK-z
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Snappers
+END:VALARM
+DTSTART:20180819T000000Z
+DTEND:20180819T030000Z
+UID:KRDL6SueCrUpWlxExVsW-r48@stanza.co
+SUMMARY:Bees @ Snappers
+DESCRIPTION:Bees @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSKK-2f\n\nShop: https://stza.co/+wSKK-z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Snappers
+<2018-08-19 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       FZfjL5r8AFH3QL5M63uWx1bb@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Snappers Bees @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSKL-11
+
+Shop  https //stza.co/+wSKL-2S
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Snappers
+END:VALARM
+DTSTART:20180819T190000Z
+DTEND:20180819T220000Z
+UID:FZfjL5r8AFH3QL5M63uWx1bb@stanza.co
+SUMMARY:Bees @ Snappers
+DESCRIPTION:Bees @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSKL-11\n\nShop: https://stza.co/+wSKL-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Snappers
+<2018-08-20 Mon 19:00-22:00>
+:PROPERTIES:
+:ID:       iE4V3mteKSI-nQNo0xAk6e6T@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Snappers Bees @ Snappers
+
+Follow on MiLB First Pitch  https //stza.co/+wSKM-X
+
+Shop  https //stza.co/+wSKM-2X
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Snappers
+END:VALARM
+DTSTART:20180821T000000Z
+DTEND:20180821T030000Z
+UID:iE4V3mteKSI-nQNo0xAk6e6T@stanza.co
+SUMMARY:Bees @ Snappers
+DESCRIPTION:Bees @ Snappers\n\nFollow on MiLB First Pitch: https://stza.co/+wSKM-X\n\nShop: https://stza.co/+wSKM-2X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-08-21 Tue 18:30-21:30>
+:PROPERTIES:
+:ID:       Gj3XBHRZMJ2XnCjIPZuXx099@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBn_-1H
+
+Shop  https //stza.co/+xBn_-1q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180821T233000Z
+DTEND:20180822T023000Z
+UID:Gj3XBHRZMJ2XnCjIPZuXx099@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBn_-1H\n\nShop: https://stza.co/+xBn_-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-08-22 Wed 18:30-21:30>
+:PROPERTIES:
+:ID:       px7tLaSMSq1XyioYXIqVBFCR@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBo0-3n
+
+Shop  https //stza.co/+xBo0-2M
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180822T233000Z
+DTEND:20180823T023000Z
+UID:px7tLaSMSq1XyioYXIqVBFCR@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBo0-3n\n\nShop: https://stza.co/+xBo0-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-08-23 Thu 18:30-21:30>
+:PROPERTIES:
+:ID:       E_ZYMatHz5W4-tCF7JEQ3nCV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBo2-L
+
+Shop  https //stza.co/+xBo2-3a
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180823T233000Z
+DTEND:20180824T023000Z
+UID:E_ZYMatHz5W4-tCF7JEQ3nCV@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBo2-L\n\nShop: https://stza.co/+xBo2-3a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-08-24 Fri 18:30-21:30>
+:PROPERTIES:
+:ID:       Y4dVAHxudWJ1QgbbC49UMUPJ@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBo5-3X
+
+Shop  https //stza.co/+xBo5-2y
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180824T233000Z
+DTEND:20180825T023000Z
+UID:Y4dVAHxudWJ1QgbbC49UMUPJ@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBo5-3X\n\nShop: https://stza.co/+xBo5-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-08-25 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       79xm2gkjJnDrEqQbXcGYFqs3@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBo7-2Z
+
+Shop  https //stza.co/+xBo7-K
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180825T233000Z
+DTEND:20180826T023000Z
+UID:79xm2gkjJnDrEqQbXcGYFqs3@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBo7-2Z\n\nShop: https://stza.co/+xBo7-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-08-26 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       Nz8o__Hg1D-UWZZFyvUU1HE6@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBo8-
+
+Shop  https //stza.co/+xBo8-1j
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180826T190000Z
+DTEND:20180826T220000Z
+UID:Nz8o__Hg1D-UWZZFyvUU1HE6@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBo8-\n\nShop: https://stza.co/+xBo8-1j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. River Bandits
+<2018-08-27 Mon 18:30-21:30>
+:PROPERTIES:
+:ID:       Ny-7tbA7enTL9r-aS7VRZYEy@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. River Bandits Bees vs. River Bandits
+
+Follow on MiLB First Pitch  https //stza.co/+xBob-2J
+
+Shop  https //stza.co/+xBob-10
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. River Bandits
+END:VALARM
+DTSTART:20180827T233000Z
+DTEND:20180828T023000Z
+UID:Ny-7tbA7enTL9r-aS7VRZYEy@stanza.co
+SUMMARY:Bees vs. River Bandits
+DESCRIPTION:Bees vs. River Bandits\n\nFollow on MiLB First Pitch: https://stza.co/+xBob-2J\n\nShop: https://stza.co/+xBob-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Kernels
+<2018-08-29 Wed 18:35-21:35>
+:PROPERTIES:
+:ID:       0ve0IJVAfY6mJsR_TYfiXNef@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Kernels Bees @ Kernels
+
+Buy tickets here  https //stza.co/~vMTd
+
+Follow on MiLB First Pitch  https //stza.co/+vMTd-3b
+
+Shop  https //stza.co/+vMTd-i
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Kernels
+END:VALARM
+DTSTART:20180829T233500Z
+DTEND:20180830T023500Z
+UID:0ve0IJVAfY6mJsR_TYfiXNef@stanza.co
+SUMMARY:Bees @ Kernels
+DESCRIPTION:Bees @ Kernels\n\nBuy tickets here: https://stza.co/~vMTd\n\nFollow on MiLB First Pitch: https://stza.co/+vMTd-3b\n\nShop: https://stza.co/+vMTd-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Kernels
+<2018-08-30 Thu 18:35-21:35>
+:PROPERTIES:
+:ID:       iJ9gKV5MoxUfKLA3mHo0tenV@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Kernels Bees @ Kernels
+
+Buy tickets here  https //stza.co/~vMTe
+
+Follow on MiLB First Pitch  https //stza.co/+vMTe-3d
+
+Shop  https //stza.co/+vMTe-2Q
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Kernels
+END:VALARM
+DTSTART:20180830T233500Z
+DTEND:20180831T023500Z
+UID:iJ9gKV5MoxUfKLA3mHo0tenV@stanza.co
+SUMMARY:Bees @ Kernels
+DESCRIPTION:Bees @ Kernels\n\nBuy tickets here: https://stza.co/~vMTe\n\nFollow on MiLB First Pitch: https://stza.co/+vMTe-3d\n\nShop: https://stza.co/+vMTe-2Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees @ Kernels
+<2018-08-31 Fri 18:35-21:35>
+:PROPERTIES:
+:ID:       cYKCV02cRhbF6RQU9jpu37yW@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees @ Kernels Bees @ Kernels
+
+Buy tickets here  https //stza.co/~vMTf
+
+Follow on MiLB First Pitch  https //stza.co/+vMTf-2w
+
+Shop  https //stza.co/+vMTf-p
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bees @ Kernels
+END:VALARM
+DTSTART:20180831T233500Z
+DTEND:20180901T023500Z
+UID:cYKCV02cRhbF6RQU9jpu37yW@stanza.co
+SUMMARY:Bees @ Kernels
+DESCRIPTION:Bees @ Kernels\n\nBuy tickets here: https://stza.co/~vMTf\n\nFollow on MiLB First Pitch: https://stza.co/+vMTf-2w\n\nShop: https://stza.co/+vMTf-p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-09-01 Sat 18:30-21:30>
+:PROPERTIES:
+:ID:       hdjBUzg1e-nWjcr9fE3beT5X@stanza.co
+:LOCATION: Stay in the loop by following the action with MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBod-2d
+
+Shop  https //stza.co/+xBod-1c
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180901T233000Z
+DTEND:20180902T023000Z
+UID:hdjBUzg1e-nWjcr9fE3beT5X@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBod-2d\n\nShop: https://stza.co/+xBod-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Stay in the loop by following the action with MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-09-02 Sun 14:00-17:00>
+:PROPERTIES:
+:ID:       ycCWUX0-QAOMWU2vtYzL8PpH@stanza.co
+:LOCATION: Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBof-3m
+
+Shop  https //stza.co/+xBof-J
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180902T190000Z
+DTEND:20180902T220000Z
+UID:ycCWUX0-QAOMWU2vtYzL8PpH@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBof-3m\n\nShop: https://stza.co/+xBof-J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Don't miss a minute of action. Follow along with the MiLB First Pitch app.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
+* Bees vs. LumberKings
+<2018-09-03 Mon 14:00-17:00>
+:PROPERTIES:
+:ID:       2dMVXW_xKNsq4ejBtsQ1zjdd@stanza.co
+:LOCATION: Ready for the game? Follow along with MiLB First Pitch.
+:STATUS:   CONFIRMED
+:END:
+
+Bees vs. LumberKings Bees vs. LumberKings
+
+Follow on MiLB First Pitch  https //stza.co/+xBoi-m
+
+Shop  https //stza.co/+xBoi-1u
+
+Synced via Stanza - create your own live updating calendar (https //stanza.co?events)
+
+For questions, check out Stanza’s FAQs page  https //stanza.co/faqs
+** COMMENT original iCal entry
+ 
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Bees vs. LumberKings
+END:VALARM
+DTSTART:20180903T190000Z
+DTEND:20180903T220000Z
+UID:2dMVXW_xKNsq4ejBtsQ1zjdd@stanza.co
+SUMMARY:Bees vs. LumberKings
+DESCRIPTION:Bees vs. LumberKings\n\nFollow on MiLB First Pitch: https://stza.co/+xBoi-m\n\nShop: https://stza.co/+xBoi-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ready for the game? Follow along with MiLB First Pitch.
+STATUS:CONFIRMED
+CREATED:20180213T144510Z
+LAST-MODIFIED:20180213T144510Z
+TRANSP:OPAQUE
+END:VEVENT
